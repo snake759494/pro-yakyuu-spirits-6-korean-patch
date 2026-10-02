@@ -1,0 +1,147 @@
+PNTEAM.OVL:32918|승패동률\n\n\n
+PNTEAM.OVL:33540|%s에 강해졌습니다.
+PNTEAM.OVL:33560|%s에 약해졌습니다.
+PNTEAM.OVL:33580|%s 극복!
+PNTEAM.OVL:335a0|%s 획득!
+PNTEAM.OVL:335c0|%s 실력이 늘었습니다.
+PNTEAM.OVL:335e0|%s 실력이 줄었습니다.
+PNTEAM.OVL:335f8|%s 습득!
+PNTEAM.OVL:33610|%s 상실.
+PNTEAM.OVL:33628|%s %d 상승!
+PNTEAM.OVL:33638|%s %d 하락
+PNTEAM.OVL:33650|%s 각성!
+PNTEAM.OVL:33670|%s 능력이 떨어졌습니다…
+PNTEAM.OVL:33698|포수 리드
+PNTEAM.OVL:337f0|타구가 잘 뻗지 않게 됐습니다.
+PNTEAM.OVL:33810|라인 드라이브 습득!
+PNTEAM.OVL:33830|아티스트 습득!
+PNTEAM.OVL:33850|파워 히터 습득!
+PNTEAM.OVL:33870|존재감이 커졌습니다.
+PNTEAM.OVL:33890|위압감이 커졌습니다.
+PNTEAM.OVL:338b0|위압감이 사라졌습니다.
+PNTEAM.OVL:338d0|존재감이 사라졌습니다.
+PNTEAM.OVL:338f0|분위기 메이커
+PNTEAM.OVL:33900|부상이 줄어듭니다.
+PNTEAM.OVL:33920|부상이 늘어납니다.
+PNTEAM.OVL:33950|내야 안타가 늘어납니다.
+PNTEAM.OVL:33970|내야 안타가 줄어듭니다.
+PNTEAM.OVL:33990|몸통 박치기
+PNTEAM.OVL:339b0|1루 헤드 슬라이딩
+PNTEAM.OVL:33a10|삼진이 줄어듭니다.
+PNTEAM.OVL:33a30|삼진이 늘어납니다.
+PNTEAM.OVL:33a90|광각 타법 습득!
+PNTEAM.OVL:33ab0|풀 히터 상실.
+PNTEAM.OVL:33ad0|풀 히터 습득!
+PNTEAM.OVL:33af0|광각 타법 상실.
+PNTEAM.OVL:33b30|득점 기회
+PNTEAM.OVL:33b50|연속 홈런이 늘어납니다.
+PNTEAM.OVL:33b70|연속 홈런이 줄어듭니다.
+PNTEAM.OVL:33ba8|끝내기 상황
+PNTEAM.OVL:33bb8|만루 상황
+PNTEAM.OVL:33bf8|번트 대시
+PNTEAM.OVL:33c08|앉아 송구
+PNTEAM.OVL:33c18|퍼올려 잡기
+PNTEAM.OVL:33c30|백핸드 토스
+PNTEAM.OVL:33c48|중계 플레이
+PNTEAM.OVL:33c58|역싱글
+PNTEAM.OVL:33c88|블로킹○
+PNTEAM.OVL:33c98|베이스 커버
+PNTEAM.OVL:33cb0|쇼트 바운드 포구
+PNTEAM.OVL:33cd8|도움닫기 포구
+PNTEAM.OVL:33ce8|불꽃 강속구
+PNTEAM.OVL:33d00|주자가 있는 상황
+PNTEAM.OVL:33d20|위기
+PNTEAM.OVL:33d30|연타에 강해졌습니다.
+PNTEAM.OVL:33d50|연타에 약해졌습니다.
+PNTEAM.OVL:33da0|견제
+PNTEAM.OVL:33dc0|피홈런이 줄어듭니다.
+PNTEAM.OVL:33de0|실투가 줄어듭니다.
+PNTEAM.OVL:33e00|실투가 늘어납니다.
+PNTEAM.OVL:33e50|릴리스가 안정됐습니다.
+PNTEAM.OVL:33e70|공이 거칠어졌습니다.
+PNTEAM.OVL:33e90|승부운이 생겼습니다.
+PNTEAM.OVL:33eb0|승부운이 사라졌습니다.
+PNTEAM.OVL:33ed0|구속이 안정됐습니다.
+PNTEAM.OVL:33ef0|구속이 불안정해졌습니다.
+PNTEAM.OVL:33f10|스핀○
+PNTEAM.OVL:33f38|슈트 회전
+PNTEAM.OVL:33f50|쉽게 동요합니다.
+PNTEAM.OVL:33f70|잘 동요하지 않습니다.
+PNTEAM.OVL:33fa0|%s 능력 하락 회피!
+PNTEAM.OVL:33fc0|%s 성장이 없었습니다.
+PNTEAM.OVL:33fe0|경험치가 조금 떨어졌습니다.
+PNTEAM.OVL:34350|페넌트레이스 모드를 종료합니다.\n계속할까요?
+PNTEAM.OVL:34390|저장하지 않았습니다.\n페넌트레이스 모드를 종료할까요?
+PNTEAM.OVL:34430|우리 팀의 모든 일정이 끝났습니다.\n시즌 종료까지 일정을 진행할까요?
+PNTEAM.OVL:34490|～드래프트 회의 안내～\n\n신인 선수를 영입할 수 있습니다.\n오리지널 선수도 지명 대상에 등록할 수 있습니다.\n\n드래프트 회의에 참가할까요?
+PNTEAM.OVL:34530|～FA 선수 영입 안내～\n\nFA 선수 영입에 나설 수 있습니다.\n오리지널 선수도 FA 선수로 등록할 수 있습니다.\n우리 구단의 FA 선수가 이적할 수도 있습니다.\n\nFA 선수 영입을 진행할까요?
+PNTEAM.OVL:34600|～트라이아웃 안내～\n\n자유계약 선수를 영입할 수 있습니다.\n직접 방출한 선수는 영입할 수 없습니다.\n참가하지 않으면 타 구단 선수도 방출되지 않습니다.\n\n트라이아웃에 참가할까요?
+PNTEAM.OVL:349d0|현재 도전 목표가 없습니다.\n\n・선수 경험치가 가득 차면 각성 도전 목표가 생깁니다.\n・특정 조건을 만족하면 팀 도전 목표가 생깁니다.
+PNTEAM.OVL:34a90|지금은 오리지널 선수를 입단시킬 수 없습니다.\n\n・7월부터는 보강할 수 없습니다.\n・입단 가능한 오리지널 선수가 없을 수 있습니다.\n・팀 선수가 70명일 수 있습니다.
+PNTEAM.OVL:34b60|지금은 외국인 선수를 보강할 수 없습니다.\n\n・7월부터는 보강할 수 없습니다.\n・팀 선수가 70명일 수 있습니다.
+PNTEAM.OVL:34bf0|지금은 선수를 방출할 수 없습니다.\n\n・최소 투수 %d명, 야수 %d명이 필요합니다.\n・일본 시리즈와 올스타 기간에는 불가합니다.\n・1군 선수는 방출할 수 없습니다.\n・트레이드 요청 중에는 불가합니다.
+PNTEAM.OVL:34cf0|현재 %s에 트레이드를 요청했습니다.\n\n요청을 취소하고 새로 요청할까요?
+PNTEAM.OVL:34d60|지금은 트레이드할 수 없습니다.\n\n・7월부터는 불가합니다.\n
+PNTEAM.OVL:34db0|팀을 바꾸면 아래 두 항목이 사라집니다.\n\n・진행 중인 이벤트\n・지정한 홈구장 특훈\n\n(팀 전환 횟수 %d회)\n\n정말 팀을 바꿀까요?
+PNTEAM.OVL:35940|사용 팀
+PNTEAM.OVL:35950|팀 도전 목표
+PNTEAM.OVL:35970|각성 도전 목표
+PNTEAM.OVL:35990|역각성 도전 목표
+PNTEAM.OVL:359b0|잠재력 각성 이벤트
+PNTEAM.OVL:35ca0|오늘 경기는 비로 취소됐습니다.
+PNTEAM.OVL:35d00|특이점 없음
+PNTEAM.OVL:35d10|몸에 맞는 공으로
+PNTEAM.OVL:35d28|경기 출전으로
+PNTEAM.OVL:35d38|투구로
+PNTEAM.OVL:35d50|슬라이딩으로
+PNTEAM.OVL:35d70|주루 중 홈 충돌로
+PNTEAM.OVL:35d90|강습 타구에 맞아
+PNTEAM.OVL:35db0|펜스와 충돌해
+PNTEAM.OVL:35dd0|다이빙 캐치로
+PNTEAM.OVL:35df0|수비 중 홈 충돌로
+PNTEAM.OVL:35e10|베이스를 헛디뎌
+PNTEAM.OVL:35e30|수비 중 주자와 충돌해
+PNTEAM.OVL:35e50|주루 중 야수와 충돌해
+PNTEAM.OVL:35e70|완치됐습니다.
+PNTEAM.OVL:35ed0|계투 강화
+PNTEAM.OVL:35ee0|마무리 강화
+PNTEAM.OVL:35f20|어깨가 불편해서
+PNTEAM.OVL:35f40|팔꿈치가 불편해서
+PNTEAM.OVL:35f60|허리가 불편해서
+PNTEAM.OVL:35f80|다리가 불편해서
+PNTEAM.OVL:35f98|어깨 부상으로
+PNTEAM.OVL:35fa8|팔꿈치 부상으로
+PNTEAM.OVL:35fb8|허리 부상으로
+PNTEAM.OVL:35fc8|다리 부상으로
+PNTEAM.OVL:35fd8|재조정 때문에
+PNTEAM.OVL:36120|퍼시픽리그 정보
+PNTEAM.OVL:361f0|특훈을 중단할까요?
+PNTEAM.OVL:36350|기초 훈련을 고릅니다.
+PNTEAM.OVL:36370|선택 가능한 기초 훈련 없음
+PNTEAM.OVL:36390|특별 훈련을 고릅니다.
+PNTEAM.OVL:363b0|선택 가능한 특별 훈련 없음
+PNTEAM.OVL:363d0|특훈할 구종을 고릅니다.
+PNTEAM.OVL:363f0|전수받을 선수를 고릅니다.
+PNTEAM.OVL:36480|제2 슬라이더 계열
+PNTEAM.OVL:36498|제2 커브 계열
+PNTEAM.OVL:364a8|제2 포크 계열
+PNTEAM.OVL:364b8|제2 싱커 계열
+PNTEAM.OVL:364c8|제2 슈트 계열
+PNTEAM.OVL:364e0|제2 직구 계열
+PNTEAM.OVL:36580|1・2군의 투수와 야수 한 명씩 특별 훈련합니다.
+PNTEAM.OVL:365c0|1군 투수(야수)를 특훈합니다.
+PNTEAM.OVL:365e0|1군 선수는 원정 중 특훈 불가
+PNTEAM.OVL:36610|2군 코치에게 특훈을 지시합니다.
+PNTEAM.OVL:36630|특훈할 1군 투수를 고릅니다.
+PNTEAM.OVL:36660|특훈할 1군 야수를 고릅니다.
+PNTEAM.OVL:36690|특훈할 2군 투수를 고릅니다.
+PNTEAM.OVL:366c0|특훈할 2군 야수를 고릅니다.
+PNTEAM.OVL:366f8|특훈 불가
+PNTEAM.OVL:36760|2군 투수 한 명을 고릅니다.
+PNTEAM.OVL:36780|2군 야수 한 명을 고릅니다.
+PNTEAM.OVL:367a0|원정 중 특훈 불가
+PNTEAM.OVL:367c0|특훈할 투수가 없습니다.
+PNTEAM.OVL:367e0|특훈할 야수가 없습니다.
+PNTEAM.OVL:36820|진행이 어렵습니다.
+PNTEAM.OVL:36838|앞으로 %d턴
+PNTEAM.OVL:36860|도전 중인 목표가 없습니다.

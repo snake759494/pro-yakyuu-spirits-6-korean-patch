@@ -1,0 +1,502 @@
+SPIRITS.OVL:70910|파워 히터 등
+SPIRITS.OVL:72714|멋진 투구!
+SPIRITS.OVL:72734|완벽했어!
+SPIRITS.OVL:72778|삼진을 잘 잡았어!
+SPIRITS.OVL:7279c|좋은 투구였어.
+SPIRITS.OVL:727bc|잘 막아 냈어.
+SPIRITS.OVL:727e0|고비를 잘 넘긴
+SPIRITS.OVL:72800|좋은 투구였어!
+SPIRITS.OVL:72824|나쁘지 않았어.
+SPIRITS.OVL:72844|제 역할을 했어!
+SPIRITS.OVL:72868|침착한 투구였어.
+SPIRITS.OVL:72888|나쁘지 않았어.
+SPIRITS.OVL:728ac|실점이 아쉬웠어.
+SPIRITS.OVL:728cc|제구에 신경 쓰자!
+SPIRITS.OVL:728f0|볼넷은 안 돼!
+SPIRITS.OVL:72910|두려워 말고 승부해!
+SPIRITS.OVL:72934|더 긴 이닝을
+SPIRITS.OVL:72954|던질 수 있도록!
+SPIRITS.OVL:72978|컨디션이 안 좋았니?
+SPIRITS.OVL:72998|투구에 집중해!
+SPIRITS.OVL:729bc|멋진 타격!
+SPIRITS.OVL:729dc|맹타상이네!
+SPIRITS.OVL:72a20|멋진 홈런!
+SPIRITS.OVL:72a64|잘 보여 줬어.
+SPIRITS.OVL:72a88|멀티 히트네!
+SPIRITS.OVL:72aa8|바로 그거야.
+SPIRITS.OVL:72acc|좋은 안타였어.
+SPIRITS.OVL:72aec|하나 더 치자!
+SPIRITS.OVL:72b10|내용은 괜찮았어.
+SPIRITS.OVL:72b30|조급해하지 말자!
+SPIRITS.OVL:72b54|삼진을 당했네.
+SPIRITS.OVL:72b74|공을 잘 보자!
+SPIRITS.OVL:72b98|안타를 쳐서
+SPIRITS.OVL:72bb8|실력을 보여 주자!
+SPIRITS.OVL:72bdc|삼진이 많아!
+SPIRITS.OVL:72bfc|힘내!
+SPIRITS.OVL:72c20|활약이 부족해!
+SPIRITS.OVL:72c40|타석에 더 서 보자!
+SPIRITS.OVL:72c64|이걸로 3전 전승!
+SPIRITS.OVL:72c84|4차전에 진출했어!
+SPIRITS.OVL:72cb4|콜드 승리다!
+SPIRITS.OVL:72cd4|힘을 다 쏟았어!
+SPIRITS.OVL:72cf8|멋진 승리였어!
+SPIRITS.OVL:72d3c|좋은 경기였어.
+SPIRITS.OVL:72d5c|아쉬웠어!
+SPIRITS.OVL:72d80|분한 패배였어.
+SPIRITS.OVL:72da0|굴하지 말고 힘내자!
+SPIRITS.OVL:72dc4|완패였어.
+SPIRITS.OVL:72de4|연습하고 다시 도전!
+SPIRITS.OVL:72e28|정말 잘 쳤어!
+SPIRITS.OVL:72e6c|바로 그거야!
+SPIRITS.OVL:72fa0|경기에 나가서
+SPIRITS.OVL:72fc0|활약하자!
+SPIRITS.OVL:73de7|투수・체력・정신\n\n파트너 레벨 1 상승\n\n투수에게 필요한 능력을\n\n전반적으로 높입니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:73eca|구종・체력・정신\n\n파트너 레벨 1 상승\n\n변화구 관련 능력을\n\n중점적으로 기릅니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:73fad|컨택・파워\n\n파트너 레벨 1 상승\n\n타격 관련 능력을\n\n중점적으로 기릅니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:74090|주력・수비력\n\n파트너 레벨 1 상승\n\n주루와 수비 능력을\n\n중점적으로 기릅니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:74173|전체・연계 보너스\n\n파트너 경험치 1 상승\n\n함께 훈련해 전체\n\n능력을 높입니다.\n\n연계 성공 시 스피리츠\n\n보너스. 전원 선택.
+SPIRITS.OVL:74256|특수 능력과 보너스\n\n\n\n기술 슬롯의 그림을\n\n맞추면 상대에게 특수\n\n능력과 보너스를 획득.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:74339|투수・체력・정신\n\n파트너 레벨 1 상승\n\n투수에게 필요한 능력을\n\n전반적으로 높입니다.\n\n일반 투구 훈련보다\n\n효과가 높습니다.\n\n상대 2명을 골라 실행.
+SPIRITS.OVL:7441c|구종・체력・정신\n\n파트너 레벨 1 상승\n\n변화구 관련 능력을\n\n중점적으로 기릅니다.\n\n일반 변화구 훈련보다\n\n효과가 높습니다.\n\n상대 2명을 골라 실행.
+SPIRITS.OVL:744ff|컨택・파워\n\n파트너 레벨 1 상승\n\n타격 관련 능력을\n\n중점적으로 기릅니다.\n\n일반 타격 훈련보다\n\n효과가 높습니다.\n\n상대 2명을 골라 실행.
+SPIRITS.OVL:745e2|주력・수비력\n\n파트너 레벨 1 상승\n\n주루와 수비 능력을\n\n중점적으로 기릅니다.\n\n일반 수비 주루 훈련보다\n\n효과가 높습니다.\n\n상대 2명을 골라 실행.
+SPIRITS.OVL:746c5|전체 상승・연계 보너스\n\n파트너 경험치 2 상승\n\n함께 훈련해 전반적인\n\n능력을 높입니다.\n\n일반 훈련보다 효과와\n\n연계 보너스가 큽니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:747a8|특수 능력과 보너스\n\n\n\n모두 회전하는 슬롯으로\n\n상대에게 특수 능력과\n\n보너스를 쉽게 획득.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:7488b|특수 능력과 보너스\n\n\n\n모두 회전하는 슬롯으로\n\n신에게 희귀 특수 능력과\n\n보너스를 쉽게 획득.\n\n개인 실행.
+SPIRITS.OVL:74a51|파워 500 상승\n\n스피리츠 1 상승\n\n바벨로 근력 훈련을 해\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:74b34|컨택 500 상승\n\n스피리츠 1 상승\n\n특별 타격 훈련으로\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:74c17|주력 500 상승\n\n스피리츠 1 상승\n\n모래밭 달리기로\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:74cfa|수비력 500 상승\n\n스피리츠 1 상승\n\n포지션 수비 훈련으로\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:74ddd|투수 500 상승\n\n스피리츠 1 상승\n\nPNF 훈련으로\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:74ec0|체력 500 상승\n\n스피리츠 1 상승\n\n15km 달리기로\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:74fa3|정신 500 상승\n\n스피리츠 1 상승\n\n정신 수양으로\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:75086|구종 500 상승\n\n스피리츠 1 상승\n\n변화구 맹훈련으로\n\n확실히 힘을 기릅니다.\n\n개인 실행.
+SPIRITS.OVL:75169|스피리츠 10 상승\n\n\n\n프로야구 혼을 불태워\n\n확실히 스피리츠를\n\n높입니다.\n\n개인 실행.
+SPIRITS.OVL:7524c|컨택・파워\n\n파트너 레벨 1 상승\n\n파트너와 실전 훈련으로\n\n일반 훈련보다 더 큰\n\n효과를 얻습니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:7532f|주력・수비력\n\n파트너 레벨 1 상승\n\n파트너와 실전 훈련으로\n\n일반 훈련보다 더 큰\n\n효과를 얻습니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:75412|투수・체력・정신\n\n파트너 레벨 1 상승\n\n파트너와 실전 훈련으로\n\n일반 훈련보다 더 큰\n\n효과를 얻습니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:754f5|구종・체력・정신\n\n파트너 레벨 1 상승\n\n파트너와 실전 훈련으로\n\n일반 훈련보다 더 큰\n\n효과를 얻습니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:755d8|컨택・파워\n\n모든 파트너 레벨 1 상승\n\n모든 파트너와 같은\n\n훈련을 해 효과와\n\n파트너 레벨을 높입니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:756bb|주력・수비력\n\n모든 파트너 레벨 1 상승\n\n모든 파트너와 같은\n\n훈련을 해 효과와\n\n파트너 레벨을 높입니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:7579e|투수・체력・정신\n\n모든 파트너 레벨 1 상승\n\n모든 파트너와 같은\n\n훈련을 해 효과와\n\n파트너 레벨을 높입니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:75881|구종・체력・정신\n\n모든 파트너 레벨 1 상승\n\n모든 파트너와 같은\n\n훈련을 해 효과와\n\n파트너 레벨을 높입니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:75964|파트너 레벨 1 상승\n\n\n\n친분을 쌓아 파트너와의\n\n훈련 효과를 높입니다.\n\n닭꼬치를 먹습니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:75a47|파트너 2명의 레벨\n\n1 상승\n\n친분을 쌓아 파트너와의\n\n훈련 효과를 높입니다.\n\n고기를 구워 먹습니다.\n\n상대 2명을 골라 실행.
+SPIRITS.OVL:75b2a|모든 파트너 레벨 1 상승\n\n\n\n친분을 쌓아 파트너와의\n\n훈련 효과를 높입니다.\n\n샤부샤부를 먹습니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:75c0d|모든 파트너 레벨 2 상승\n\n\n\n친분을 쌓아 파트너와의\n\n훈련 효과를 높입니다.\n\n고야 참푸루를 먹습니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:75cf0|모든 파트너 레벨 2 상승\n\n\n\n친분을 쌓아 파트너와의\n\n훈련 효과를 높입니다.\n\n사와치 요리를 먹습니다.\n\n전원을 골라 실행.
+SPIRITS.OVL:75dd3|주요 4능력 상승・중\n\n성과에 편차 있음\n\n코치의 직접 지도로\n\n전체적인 능력 향상을\n\n노립니다.\n\n개인 실행.
+SPIRITS.OVL:75eb6|주요 4능력 상승・대\n\n성과에 편차 있음\n\n감독의 직접 지도로\n\n전체적인 능력 향상을\n\n노립니다.\n\n개인 실행.
+SPIRITS.OVL:75f99|이후 3턴 동안 선수들이\n\n타격 훈련만 합니다.\n\n특정 훈련 강화 주간을\n\n지정해 훈련하기 좋은\n\n환경을 만듭니다.\n\n개인 실행.
+SPIRITS.OVL:7607c|이후 3턴 동안 선수들이\n\n수비 훈련만 합니다.\n\n특정 훈련 강화 주간을\n\n지정해 훈련하기 좋은\n\n환경을 만듭니다.\n\n개인 실행.
+SPIRITS.OVL:7615f|이후 3턴 동안 선수들이\n\n주루 훈련만 합니다.\n\n특정 훈련 강화 주간을\n\n지정해 훈련하기 좋은\n\n환경을 만듭니다.\n\n개인 실행.
+SPIRITS.OVL:76242|이후 3턴 동안 선수들이\n\n투구 훈련만 합니다.\n\n특정 훈련 강화 주간을\n\n지정해 훈련하기 좋은\n\n환경을 만듭니다.\n\n개인 실행.
+SPIRITS.OVL:76325|이후 3턴 동안 선수들이\n\n변화구 훈련만 합니다.\n\n특정 훈련 강화 주간을\n\n지정해 훈련하기 좋은\n\n환경을 만듭니다.\n\n개인 실행.
+SPIRITS.OVL:76408|전체 상승・연계 보너스\n\n파트너 경험치 2 상승\n\n청백전으로 전반적인\n\n능력을 높입니다.\n\n연계 성공 시 스피리츠\n\n보너스.\n\n전원을 골라 실행.
+SPIRITS.OVL:764eb|모든 능력 상승\n\n\n\n2명과 밀접하게 훈련해\n\n훈련 상대의 능력을\n\n전체적으로 반영한\n\n효과를 얻습니다.\n\n상대 2명을 골라 실행.
+SPIRITS.OVL:765ce|모든 능력 상승\n\n\n\n3명과 밀접하게 훈련해\n\n훈련 상대의 능력을\n\n전체적으로 반영한\n\n효과를 얻습니다.\n\n상대 3명을 골라 실행.
+SPIRITS.OVL:766b1|턴 1 증가\n\n\n\n사랑스러운 모습에\n\n마음이 치유되어 훈련을\n\n더 할 수 있게 됩니다.\n\n개인 실행.
+SPIRITS.OVL:76794|스피리츠 상승\n\n★ 개수에 따라 변동\n\n선택한 상대에게\n\n투혼을 주입받아\n\n스피리츠를 높입니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:76877|파트너 각성\n\n캠프 종료까지 지속\n\n각성하면 더 뛰어난\n\n훈련 상대가 됩니다.\n\n오리지널 선수는 불가.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:7695a|훈련 효과 상승\n\n컨택・파워\n\n이번 턴에 한해\n\n해당 능력의 훈련\n\n효과가 높아집니다.\n\n개인 실행.
+SPIRITS.OVL:76a3d|훈련 효과 상승\n\n주력・수비력\n\n이번 턴에 한해\n\n해당 능력의 훈련\n\n효과가 높아집니다.\n\n개인 실행.
+SPIRITS.OVL:76b20|훈련 효과 상승\n\n투수・체력・정신\n\n이번 턴에 한해\n\n해당 능력의 훈련\n\n효과가 높아집니다.\n\n개인 실행.
+SPIRITS.OVL:76c03|훈련 효과 상승\n\n구종・체력・정신\n\n이번 턴에 한해\n\n해당 능력의 훈련\n\n효과가 높아집니다.\n\n개인 실행.
+SPIRITS.OVL:76ce6|상대의 최고 구속을\n\n그대로 얻습니다.\n\n구속을 높이는 요령을\n\n배워 상대와 같은\n\n최고 구속을 얻습니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:76dc9|상대의 파워를\n\n그대로 얻습니다.\n\n스윙 요령을 배워\n\n상대와 같은 파워를\n\n얻습니다.\n\n상대 1명을 골라 실행.
+SPIRITS.OVL:76eac|경기 컨디션 향상\n\n\n\n훈련을 줄이고 경기에\n\n대비해 좋은 상태로\n\n경기에 나섭니다.\n\n개인 실행.
+SPIRITS.OVL:76f8f|위압감 획득\n\n\n\n프로야구인의 자세를\n\n배워 주위를 압도하는\n\n박력을 갖춥니다.\n\n개인 실행.
+SPIRITS.OVL:77072|인기 획득\n\n\n\n야구를 통해 인간적\n\n매력을 높여 스타의\n\n빛을 갖춥니다.\n\n개인 실행.
+SPIRITS.OVL:77155|스페셜 개수가 초과됐어.
+SPIRITS.OVL:7731b|주요 4능력\n\n스피리츠\n\n스페셜 슬롯.\n\n대결 모드에서 이기면\n\n대량 획득의 기회.\n\n개인 실행.
+SPIRITS.OVL:78580|구속이 아주 잘 오릅니다.
+SPIRITS.OVL:785a0|구속이 잘 오르고 변화구도 조금 오릅니다
+SPIRITS.OVL:785d0|구속과 변화구가 잘 오릅니다
+SPIRITS.OVL:785f0|변화구가 아주 잘 오릅니다.
+SPIRITS.OVL:78610|컨택이 잘 오릅니다.
+SPIRITS.OVL:78630|파워가 잘 오릅니다.
+SPIRITS.OVL:78650|주력이 잘 오릅니다.
+SPIRITS.OVL:78670|수비가 잘 오릅니다.
+SPIRITS.OVL:78690|던지는 팔 반대쪽으로 옆으로 휘는 계열.
+SPIRITS.OVL:786c0|투구의 기본인 가장 빠른 공.
+SPIRITS.OVL:786f0|던지는 팔 쪽으로 옆으로 휘는 계열.
+SPIRITS.OVL:78720|팔 반대쪽으로 비스듬히 떨어지는 계열.
+SPIRITS.OVL:78750|아래로 휘는 계열의 공.
+SPIRITS.OVL:78770|팔 쪽으로 비스듬히 떨어지는 계열.
+SPIRITS.OVL:78798|결정합니다.
+SPIRITS.OVL:787b0|초기화합니다.
+SPIRITS.OVL:787d0|이전 화면으로 복귀.
+SPIRITS.OVL:79020|이 표시가 나오면 오류입니다.
+SPIRITS.OVL:790f0|투심 패스트볼
+SPIRITS.OVL:79350|구종 설정을 마칠까요?
+SPIRITS.OVL:79380|구종 설정을 모두 취소할까요?
+SPIRITS.OVL:795c0|컨디션・장기 기복
+SPIRITS.OVL:795e0|컨디션・변덕
+SPIRITS.OVL:795f8|컨디션・안정
+SPIRITS.OVL:79610|계절 적응・개막 질주
+SPIRITS.OVL:79628|계절・여름형
+SPIRITS.OVL:79640|계절 적응・초가을 절정
+SPIRITS.OVL:796f8|낙차 구종▼１
+SPIRITS.OVL:797b0|첫 회 선두타자 홈런왕
+SPIRITS.OVL:79958|몸싸움
+SPIRITS.OVL:79980|도루 헤드 슬라이딩
+SPIRITS.OVL:78940|실밥에 거는 손가락을 바꿔 타자 앞에서 조금 움직이기도 하는 직구
+SPIRITS.OVL:78990|직구와 같은 팔 스윙으로 느리게 던져 타이밍을 뺏는 공
+SPIRITS.OVL:789d0|던지는 팔 반대 방향으로 조금 빠르게 옆으로 휘는 공
+SPIRITS.OVL:78a10|더 빠르게 휘는 슬라이더
+SPIRITS.OVL:78a30|타자 앞에서 슬라이더 쪽으로 살짝 빠르게 휘는 공
+SPIRITS.OVL:78a60|느리고 커브에 조금 가까운 슬라이더
+SPIRITS.OVL:78a90|던지는 팔 반대 방향으로 느리게 비스듬히 휘는 공
+SPIRITS.OVL:78ad0|커브보다 느려 타자의 타이밍을 뺏는 공
+SPIRITS.OVL:78b10|일반 커브보다 세로로 크게 휘는 공
+SPIRITS.OVL:78b40|슬라이더와 커브의 중간 구종
+SPIRITS.OVL:78b60|슬로 커브보다도 더 느린 공
+SPIRITS.OVL:78b90|손가락을 세워 불규칙한 회전을 줘 독특하게 휘는 공
+SPIRITS.OVL:78bd0|손가락 사이에 끼워 던져 날카롭게 떨어지는 공
+SPIRITS.OVL:78c10|감속하며 아래로 떨어져 타이밍을 뺏는 공
+SPIRITS.OVL:78c50|세로로 떨어지는 슬라이더
+SPIRITS.OVL:78c70|손가락을 세워 무회전으로 던져 공기저항에 흔들려 떨어지는 공
+SPIRITS.OVL:78cb0|손바닥으로 감싸 쥐고 던져 독특하게 세로로 휘는 공
+SPIRITS.OVL:78d00|포크보다 얕게 끼워 던져 낙차는 작지만 제구가 좋고 빠르게 떨어지는 공
+SPIRITS.OVL:78d50|아래로 조금 빠르게 떨어지는 공
+SPIRITS.OVL:78d80|슬라이더와 궤적이 비슷한 팜볼
+SPIRITS.OVL:78db0|구속이 더 느린 체인지업
+SPIRITS.OVL:78dd0|포크 그립으로 무회전으로 던져 공기 저항에 흔들리며 떨어지는 공
+SPIRITS.OVL:78e20|팔 방향으로 느리게 비스듬히 가라앉는 공
+SPIRITS.OVL:78e50|팔 방향으로 빠르게 가라앉는 공
+SPIRITS.OVL:78e80|팔 방향으로 아주 빨리 가라앉는 공
+SPIRITS.OVL:78eb0|느린 싱커. 타자의 타이밍을 뺏는 공
+SPIRITS.OVL:78ee0|느린 스크루. 타자의 타이밍을 뺏는 공
+SPIRITS.OVL:78f20|감속하며 팔 방향으로 비스듬히 떨어져 타이밍을 뺏는 공
+SPIRITS.OVL:78f60|구속이 더 느린 서클 체인지
+SPIRITS.OVL:78f90|팔 방향으로 빠르고 날카롭게 휘는 공
+SPIRITS.OVL:78fc0|직구와 속도가 같은 슈트
+SPIRITS.OVL:78ff0|팔 방향으로 빨리 날카롭게 휘며 가라앉는 공
+SPIRITS.OVL:79b80|베이스 커버▲１
+SPIRITS.OVL:79ba0|베이스 커버▼１
+SPIRITS.OVL:79be0|번트 대시▲１
+SPIRITS.OVL:79c00|번트 대시▼１
+SPIRITS.OVL:79c80|쇼트 바운드▲１
+SPIRITS.OVL:79ca0|쇼트 바운드▼１
+SPIRITS.OVL:79ce0|포수 구종・균형 중시
+SPIRITS.OVL:79d00|포수 구종・직구중시
+SPIRITS.OVL:79d20|포수 구종・변화구 중시
+SPIRITS.OVL:79d80|오리지널 변화구
+SPIRITS.OVL:79e70|템포
+SPIRITS.OVL:79e80|기초 체력＋１
+SPIRITS.OVL:7a3a0|대우 컨택 C부터 스피리츠 필요
+SPIRITS.OVL:7a3d0|대좌 컨택 C부터 스피리츠 필요
+SPIRITS.OVL:7a400|득점권 주자가 있을 때 3안타
+SPIRITS.OVL:7a420|득점권 주자가 있을 때 2안타
+SPIRITS.OVL:7a440|득점권 주자가 있을 때 2범타(강제 획득)
+SPIRITS.OVL:7a470|득점권 주자가 있을 때 3범타(강제 획득)
+SPIRITS.OVL:7a4a0|4안타 기록
+SPIRITS.OVL:7a4b0|밀어 쳐 2안타
+SPIRITS.OVL:7a4e0|한 타석에 10구 이상 받기
+SPIRITS.OVL:7a500|삼진당하면 40％ 확률로(강제 획득)
+SPIRITS.OVL:7a558|조건 없음
+SPIRITS.OVL:7a568|초구에 안타
+SPIRITS.OVL:7a580|주자 없는 상황에서 2안타
+SPIRITS.OVL:7a5a0|3안타 치고 승리 또는 무안타로 패배
+SPIRITS.OVL:7a5d0|파워 C부터 10 오를 때마다 스피리츠 필요
+SPIRITS.OVL:7a600|스피리츠 필요
+SPIRITS.OVL:7a618|9루타 기록
+SPIRITS.OVL:7a630|당겨 쳐 홈런 1개
+SPIRITS.OVL:7a650|밀어 쳐 홈런 1개
+SPIRITS.OVL:7a670|연발 보유하고 홈런 2개
+SPIRITS.OVL:7a6a0|만루에서 홈런 1개
+SPIRITS.OVL:7a6c0|끝내기 홈런 1개
+SPIRITS.OVL:7a6e0|7회 이후 지는 상황에서 홈런 1개나 2타점
+SPIRITS.OVL:7a710|첫 회 선두타자 홈런 기록
+SPIRITS.OVL:7a730|존재감 보유, 10루타로 승리
+SPIRITS.OVL:7a750|8루타 치고 승리
+SPIRITS.OVL:7a760|주력 C부터 스피리츠 필요
+SPIRITS.OVL:7a780|피로 회복력 C부터 스피리츠 필요
+SPIRITS.OVL:7a7b0|사구를 맞으면 25％ 확률로 조건 달성
+SPIRITS.OVL:7a7e0|(부상 내성▲１ 보유)
+SPIRITS.OVL:7a810|사구를 맞으면 25％ 확률로(강제 획득)
+SPIRITS.OVL:7a840|(부상 내성▼１ 보유)
+SPIRITS.OVL:7a880|내야 안타 2개
+SPIRITS.OVL:7a898|투수일 것
+SPIRITS.OVL:7a8b0|수비 적성 C부터 스피리츠 필요
+SPIRITS.OVL:7a8d0|투수가 아닐 것
+SPIRITS.OVL:7a8f0|첫 습득 및 수비 적성 C부터 스피리츠 필요
+SPIRITS.OVL:7a920|송구 C부터 스피리츠 필요
+SPIRITS.OVL:7a950|포구 C부터 스피리츠 필요
+SPIRITS.OVL:7a970|어깨 C부터 스피리츠 필요
+SPIRITS.OVL:7a990|포수일 것
+SPIRITS.OVL:7a9c0|외야수일 것
+SPIRITS.OVL:7a9f0|투수, 1루수 또는 3루수일 것
+SPIRITS.OVL:7aa10|송구 D 이상
+SPIRITS.OVL:7aa30|1루수일 것
+SPIRITS.OVL:7aa60|2루수일 것
+SPIRITS.OVL:7aa80|송구 C 이상
+SPIRITS.OVL:7aaa0|2루수 또는 유격수일 것
+SPIRITS.OVL:7aac0|내야수일 것
+SPIRITS.OVL:7aae0|포수이며 포수 리드 1 이상
+SPIRITS.OVL:7ab00|구속 150km/h부터 스피리츠 필요
+SPIRITS.OVL:7ab30|좌타자 상대 6타석 이상, 피안타율 0할
+SPIRITS.OVL:7ab70|좌타자 상대 4타석 이상, 피안타율 0할
+SPIRITS.OVL:7abb0|좌타자 상대 2타석 이상, 피안타율 4할 이상
+SPIRITS.OVL:7ac00|좌타자 상대 3타석 이상, 피안타율 7할 이상
+SPIRITS.OVL:7ac40|3이닝 도루 허용 0이면 30％ 확률로 달성
+SPIRITS.OVL:7ac80|도루 허용 시마다 50％ 확률로(강제 획득)
+SPIRITS.OVL:7acc0|견제하기
+SPIRITS.OVL:7acd0|베스트 피치 20개
+SPIRITS.OVL:7acf0|3실점 이상으로 승리투수
+SPIRITS.OVL:7ad10|실점이 자책점보다 많고 경기 패배(강제 획득)
+SPIRITS.OVL:7ad50|존재감 보유 상태로 3이닝 퍼펙트
+SPIRITS.OVL:7ad80|3이닝 무피안타 무실점
+SPIRITS.OVL:7adb0|체력 D부터 3 오를 때마다 스피리츠 필요
+SPIRITS.OVL:7ade0|피안타 4개 이상, 무실점
+SPIRITS.OVL:7ae00|5연속 피안타 또는 4실점 이상(강제 획득)
+SPIRITS.OVL:7ae30|이닝마다 피안타가 줄면 조건 달성
+SPIRITS.OVL:7ae60|등판 첫 이닝 실점 시 50％ 확률로(강제 획득)
+SPIRITS.OVL:7ae90|중심 타선 무안타, 피안타 4개 이상(강제 획득)
+SPIRITS.OVL:7aed0|직구를 홈런으로 맞기(강제 획득)
+SPIRITS.OVL:7af00|선발 조정력 C부터 스피리츠 필요
+SPIRITS.OVL:7af30|득점권 상대 6타석 이상, 피안타율 0할
+SPIRITS.OVL:7af70|득점권 상대 4타석 이상, 피안타율 0할
+SPIRITS.OVL:7afb0|득점권 상대 2타석 이상, 피안타율 4할 이상
+SPIRITS.OVL:7aff0|득점권 상대 3타석 이상, 피안타율 7할 이상
+SPIRITS.OVL:7b028|병살 잡기
+SPIRITS.OVL:7b040|피홈런 0, 득점권 피안타율 0할에 실점 있음
+SPIRITS.OVL:7b070|3이닝 피홈런 0이면 30％ 확률로 조건 달성
+SPIRITS.OVL:7b0b0|홈런 허용 시마다 40％ 확률로(강제 획득)
+SPIRITS.OVL:7b0f0|마지막 투구 이닝에 실점 시 50％ 확률로(강제 획득)
+SPIRITS.OVL:7b130|볼넷 허용 시마다 40％ 확률로(강제 획득)
+SPIRITS.OVL:7b160|동요 상태가 되면 25％ 확률로(강제 획득)
+SPIRITS.OVL:7b190|동요 상태가 되면 25％ 확률로 조건 달성
+SPIRITS.OVL:7b1c0|등판 첫 회부터 동점 유지 후 마지막 회 실점(강제 획득)
+SPIRITS.OVL:7b200|자책점 0에 실점 3점 이상(강제 획득)
+SPIRITS.OVL:7b230|직구 베스트 피치 10개
+SPIRITS.OVL:7b250|대전 승리
+SPIRITS.OVL:7b260|달성 조건 실패 시 획득하기도 함(강제 획득)
+SPIRITS.OVL:7b2a0|연발 보유 시 구입 가능
+SPIRITS.OVL:7b2c0|존재감 보유 시 구입 가능
+SPIRITS.OVL:7b2e0|구속 안정 보유 시 구입 가능
+SPIRITS.OVL:7b310|득점권에 주자가 있을 때 달성 조건 실패
+SPIRITS.OVL:7b340|주자가 있을 때 달성 조건 실패(강제 획득)
+SPIRITS.OVL:7b380|우투수 상대 컨택 능력.
+SPIRITS.OVL:7b3a0|좌투수 상대 컨택 능력.
+SPIRITS.OVL:7b3c0|득점 기회에 타격 능력이 크게 상승.
+SPIRITS.OVL:7b3f0|득점 기회에 타격 능력 상승.
+SPIRITS.OVL:7b410|득점 기회에 타격 능력 하락.
+SPIRITS.OVL:7b430|득점 기회에 타격 능력이 크게 하락.
+SPIRITS.OVL:7b460|안타성 타구가 잘 나온다.
+SPIRITS.OVL:7b480|밀어 친 공이 페어가 되기 쉽다.
+SPIRITS.OVL:7b4a0|당일 2안타 기록 시 타격 능력 상승.
+SPIRITS.OVL:7b4d0|마지막 순간까지 배트 조작 가능.
+SPIRITS.OVL:7b500|2스트라이크로 몰리면 컨택 하락.
+SPIRITS.OVL:7b530|번트가 아주 잘 굴러간다.
+SPIRITS.OVL:7b560|번트가 잘 굴러간다.
+SPIRITS.OVL:7b580|번트가 조금 잘 굴러간다
+SPIRITS.OVL:7b5a0|번트가 조금 덜 굴러간다
+SPIRITS.OVL:7b5c0|번트가 잘 안 굴러간다.
+SPIRITS.OVL:7b5e0|번트가 거의 안 굴러간다.
+SPIRITS.OVL:7b600|첫 스트라이크까지 타격 능력 상승.
+SPIRITS.OVL:7b630|주자가 없으면 타격 능력 상승.
+SPIRITS.OVL:7b660|대타 때 타격 능력 상승.
+SPIRITS.OVL:7b680|타격 결과가 팀 동료에게 영향을 준다.
+SPIRITS.OVL:7b6b0|페넌트에서 컨디션이 장기적으로 변한다.
+SPIRITS.OVL:7b6e0|페넌트에서 컨디션이 자주 변한다.
+SPIRITS.OVL:7b710|페넌트에서 컨디션이 안정적이다.
+SPIRITS.OVL:7b740|페넌트 개막 직후 컨디션이 좋다.
+SPIRITS.OVL:7b770|페넌트에서 여름에 컨디션이 좋다.
+SPIRITS.OVL:7b7a0|페넌트에서 가을에 컨디션이 좋다.
+SPIRITS.OVL:7b7d0|COM이 조작하면 홈런을 노린다.
+SPIRITS.OVL:7b800|COM이 조작하면 컨택 타격을 즐겨 쓴다.
+SPIRITS.OVL:7b840|COM이 조작하면 강공을 즐겨 쓴다.
+SPIRITS.OVL:7b870|COM이 조작하면 적극적으로 친다.
+SPIRITS.OVL:7b8b0|COM이 조작하면 신중하게 친다.
+SPIRITS.OVL:7b8f0|COM이 조작하면 배합을 읽고 친다.
+SPIRITS.OVL:7b930|COM이 조작하면 오는 공에 반응해 친다.
+SPIRITS.OVL:7b970|COM이 조작하면 주로 당겨 친다.
+SPIRITS.OVL:7b9b0|COM이 조작하면 주로 밀어 친다.
+SPIRITS.OVL:7b9e0|COM이 조작하면 직구에 강해진다.
+SPIRITS.OVL:7ba20|COM이 조작하면 변화구에 강해진다.
+SPIRITS.OVL:7ba60|COM이 조작하면 떨어지는 공에 약해진다.
+SPIRITS.OVL:7ba98|타구의 강도.
+SPIRITS.OVL:7bab0|정타로 맞혔을 때의 탄도.
+SPIRITS.OVL:7bad0|정타 때 높은 각도와 낮은 회전의 타구가 잘 나온다.
+SPIRITS.OVL:7bb10|정타 때 회전이 많은 타구가 잘 나온다.
+SPIRITS.OVL:7bb40|정타 때 낮은 각도, 빠른 속도, 낮은 회전의 타구가 잘 나온다.
+SPIRITS.OVL:7bb80|당겨 친 타구가 파울로 덜 휜다.
+SPIRITS.OVL:7bba0|밀어 쳐도 강한 타구가 잘 나온다.
+SPIRITS.OVL:7bbd0|홈런을 1개 친 상태면 타격 능력 상승.
+SPIRITS.OVL:7bc00|만루 때 타격 능력 상승
+SPIRITS.OVL:7bc20|끝내기 기회에 타격 능력 상승.
+SPIRITS.OVL:7bc50|후반에 지고 있으면 타격 능력 상승.
+SPIRITS.OVL:7bc80|첫회 선두타자면 타격 능력 상승
+SPIRITS.OVL:7bca0|위압감을 준다.
+SPIRITS.OVL:7bcb8|존재감이 있다.
+SPIRITS.OVL:7bcc8|달리기 속도
+SPIRITS.OVL:7bce0|피로 회복 속도.
+SPIRITS.OVL:7bd00|부상을 거의 안 당한다.
+SPIRITS.OVL:7bd20|부상을 덜 당한다.
+SPIRITS.OVL:7bd40|부상을 잘 당한다.
+SPIRITS.OVL:7bd60|부상을 아주 잘 당한다.
+SPIRITS.OVL:7bd80|도루 출발이 극히 빠르다.
+SPIRITS.OVL:7bda0|도루 출발이 매우 빠르다.
+SPIRITS.OVL:7bdc0|도루 출발이 빠르다.
+SPIRITS.OVL:7bde0|도루 출발이 느리다.
+SPIRITS.OVL:7be00|도루 출발이 매우 느리다.
+SPIRITS.OVL:7be20|도루 출발이 극히 느리다.
+SPIRITS.OVL:7be40|베이스 러닝이 극히 빠르다.
+SPIRITS.OVL:7be60|베이스 러닝이 매우 빠르다.
+SPIRITS.OVL:7be80|베이스 러닝이 빠르다.
+SPIRITS.OVL:7bea0|베이스 러닝이 느리다.
+SPIRITS.OVL:7bec0|베이스 러닝이 매우 느리다.
+SPIRITS.OVL:7bee0|베이스 러닝이 극히 느리다.
+SPIRITS.OVL:7bf00|타격 후 출발이 빠르다.
+SPIRITS.OVL:7bf20|타격 후 출발이 느리다.
+SPIRITS.OVL:7bf40|홈 접전 때 포수와 몸싸움한다.
+SPIRITS.OVL:7bf70|아슬아슬하면 1루에 헤드 슬라이딩한다.
+SPIRITS.OVL:7bfb0|도루할 때 헤드 슬라이딩한다.
+SPIRITS.OVL:7bfe0|COM이 조작하면 적극적으로 주루한다.
+SPIRITS.OVL:7c020|COM이 조작하면 적극적으로 도루한다.
+SPIRITS.OVL:7c060|COM이 조작하면 신중하게 도루한다.
+SPIRITS.OVL:7c0a0|수비 범위와 민첩함.
+SPIRITS.OVL:7c0c0|송구 능력.
+SPIRITS.OVL:7c0d0|포구 능력.
+SPIRITS.OVL:7c0e0|송구 속도.
+SPIRITS.OVL:7c0f0|투수의 능력을 잘 끌어낸다.
+SPIRITS.OVL:7c110|수비 동작이 좋다.
+SPIRITS.OVL:7c130|득점권에 주자가 있으면 실책이 늘어난다.
+SPIRITS.OVL:7c160|홈 접전 때 주자를 튕겨 낸다.
+SPIRITS.OVL:7c190|먼 송구가 낮게 날아감.
+SPIRITS.OVL:7c1b0|타구에서 눈을 떼고 뒤로 달리는 기술을 습득.
+SPIRITS.OVL:7c1f0|투수의 1루 커버가 빠르다.
+SPIRITS.OVL:7c210|투수의 1루 커버가 느리다.
+SPIRITS.OVL:7c230|투구 후 수비 전환이 빠르다.
+SPIRITS.OVL:7c250|투구 후 수비 전환이 느리다.
+SPIRITS.OVL:7c270|번트 대처 대시가 빠르다.
+SPIRITS.OVL:7c290|번트 대처 대시가 느리다.
+SPIRITS.OVL:7c2b0|도루 때 앉은 채로 송구한다.
+SPIRITS.OVL:7c2d0|퍼올려 잡기를 습득한다.
+SPIRITS.OVL:7c2f0|백핸드 토스를 습득한다.
+SPIRITS.OVL:7c310|중계 플레이에 능하다.
+SPIRITS.OVL:7c330|반전 송구를 습득한다.
+SPIRITS.OVL:7c350|바운드된 투구를 잘 잡는다.
+SPIRITS.OVL:7c380|바운드된 투구를 잘 못 잡는다.
+SPIRITS.OVL:7c3b0|COM이 조작하면 적극적으로 포구와 송구 아웃을 노린다.
+SPIRITS.OVL:7c400|COM이 조작하면 신중하게 포구와 송구 아웃을 노린다.
+SPIRITS.OVL:7c450|COM이 조작하면 균형 있게 구종을 선택한다.
+SPIRITS.OVL:7c490|COM이 조작하면 직구 위주로 구종을 선택한다.
+SPIRITS.OVL:7c4d0|COM이 조작하면 변화구 위주로 구종을 선택한다.
+SPIRITS.OVL:7c510|이 투수의 최고 구속.
+SPIRITS.OVL:7c530|타자 앞에서 살짝 휘기도 하는 직구.
+SPIRITS.OVL:7c560|보유한 변화구에 이름을 붙일 수 있다.
+SPIRITS.OVL:7c590|좌타자 상대 투수 능력이 크게 상승.
+SPIRITS.OVL:7c5c0|좌타자 상대 투수 능력 상승.
+SPIRITS.OVL:7c5e0|좌타자 상대 투수 능력 하락.
+SPIRITS.OVL:7c600|좌타자 상대 투수 능력이 크게 하락.
+SPIRITS.OVL:7c630|투구 시작이 빨라 도루를 덜 허용한다
+SPIRITS.OVL:7c660|투구 시작이 느려 도루를 잘 허용한다
+SPIRITS.OVL:7c690|직구의 처음과 끝 속도 차가 작다.
+SPIRITS.OVL:7c6b8|견제에 능하다.
+SPIRITS.OVL:7c6d0|직구와 변화구를 같은 폼으로 던진다.
+SPIRITS.OVL:7c700|등판하면 승리를 부른다.
+SPIRITS.OVL:7c720|등판하면 승리운이 없다.
+SPIRITS.OVL:7c740|COM이 조작하면 직구 중심으로 배합한다.
+SPIRITS.OVL:7c780|COM이 조작하면 변화구 중심으로 배합한다.
+SPIRITS.OVL:7c7c0|COM이 조작하면 빠른 템포로 던진다.
+SPIRITS.OVL:7c800|COM이 조작하면 완급을 살려 던진다.
+SPIRITS.OVL:7c840|높을수록 많이 던질 수 있다.
+SPIRITS.OVL:7c860|맞아도 잘 동요하지 않는다.
+SPIRITS.OVL:7c880|맞으면 쉽게 동요한다.
+SPIRITS.OVL:7c8a0|선발 때 점차 컨디션이 좋아진다.
+SPIRITS.OVL:7c8d0|선발 때 초반에 약하다.
+SPIRITS.OVL:7c8f0|강타자에게 더 힘을 발휘한다.
+SPIRITS.OVL:7c920|직구가 슈트 회전해 잘 맞는다.
+SPIRITS.OVL:7c950|선발 등판 준비 속도.
+SPIRITS.OVL:7c970|위기 때 투수 능력이 크게 상승.
+SPIRITS.OVL:7c9a0|위기 때 투수 능력 상승.
+SPIRITS.OVL:7c9c0|위기 때 투수 능력 하락.
+SPIRITS.OVL:7c9e0|위기 때 투수 능력이 크게 하락.
+SPIRITS.OVL:7ca10|주자가 있어도 제구가 흔들리지 않는다.
+SPIRITS.OVL:7ca50|주자가 있으면 제구가 흔들린다.
+SPIRITS.OVL:7ca80|실투가 한가운데로 덜 몰린다.
+SPIRITS.OVL:7caa0|실투가 한가운데로 잘 몰린다.
+SPIRITS.OVL:7cac0|승리나 세이브가 걸린 상황에 약하다.
+SPIRITS.OVL:7caf0|3볼이 되면 제구가 흔들린다.
+SPIRITS.OVL:7cb10|많이 맞으면 화를 낸다.
+SPIRITS.OVL:7cb30|어려워도 표정에 드러내지 않는다
+SPIRITS.OVL:7cb50|후반에 접전이 아니면 힘을 발휘한다.
+SPIRITS.OVL:7cb80|자신의 책임 주자에게 강하다.
+SPIRITS.OVL:7cba0|평균 구속이 높고 안정적이다.
+SPIRITS.OVL:7cbc0|평균 구속이 불안정하다.
+SPIRITS.OVL:7cbe0|빠른 직선 계열의 공
+SPIRITS.OVL:7cc00|C 구입부터 스피리츠 필요
+SPIRITS.OVL:7cc20|팔 반대쪽으로 옆으로 휘는 계열
+SPIRITS.OVL:7cc50|4 구입부터 스피리츠 필요
+SPIRITS.OVL:7cc70|팔 반대쪽으로 비스듬히 떨어지는 계열
+SPIRITS.OVL:7cca0|아래로 휘는 계열의 공
+SPIRITS.OVL:7ccc0|팔 쪽으로 비스듬히 떨어지는 계열
+SPIRITS.OVL:7ccf0|팔 쪽으로 옆으로 휘는 계열
+SPIRITS.OVL:7d540|구입한 능력을 모두 취소합니다.
+SPIRITS.OVL:7d570|방금 구입한 내용을 되돌립니다.
+SPIRITS.OVL:7d5a0|능력 향상을 마칠까요?
+SPIRITS.OVL:7dd90|특이점 없음
+SPIRITS.OVL:7ddc8|획득 포인트
+SPIRITS.OVL:7ecf0|오리지널 선수 1
+SPIRITS.OVL:7ed10|오리지널 선수 2
+SPIRITS.OVL:7f470|기용 예정  선발 야수
+SPIRITS.OVL:7f490|기용 예정  선발 3이닝
+SPIRITS.OVL:7f4b0|기용 예정  4회부터 3이닝
+SPIRITS.OVL:7f4d0|기용 예정  7회부터 3이닝
+SPIRITS.OVL:7f4f0|3이닝 플레이(6점 콜드)
+SPIRITS.OVL:7f520|6이닝 플레이(8점 콜드)
+SPIRITS.OVL:7f550|9이닝 플레이(10점 콜드)
+SPIRITS.OVL:7fc98|더블 리치!
+SPIRITS.OVL:7fcb0|포인트 획득!
+SPIRITS.OVL:7fcd0|파란 BATTLE에 멈추면 대결!
+SPIRITS.OVL:7fd20|플레이어 타격!
+SPIRITS.OVL:7fd40|파트너 타격!
+SPIRITS.OVL:7fd60|플레이어 투구!
+SPIRITS.OVL:7fd80|파트너 투구!
+SPIRITS.OVL:7fda0|상대 선수 타격!
+SPIRITS.OVL:7fdc0|상대 선수 투구!
+SPIRITS.OVL:7fde0|승리! 보너스 획득!
+SPIRITS.OVL:7fe00|패배! 포인트 감소!
+SPIRITS.OVL:7fe20|대전 모드 계속!
+SPIRITS.OVL:7ff40|설정을 마칠까요?
+SPIRITS.OVL:807b0|훈련 상대가 될 파트너를 고르세요.<BR>비용 ★ 범위 안에서 뛰어난 선수를 고르세요.<BR><RGB 0x7C5400>반드시 파트너 3명이 필요<RGB 0x737373>합니다.
+SPIRITS.OVL:7cd50|실밥에 거는 손가락을 바꿔 타자 앞에서 조금 움직이기도 하는 직구
+SPIRITS.OVL:7cde0|던지는 팔 반대 방향으로 조금 빠르게 옆으로 휘는 공
+SPIRITS.OVL:7cee0|커브보다 느려 타자의 타이밍을 뺏는 공
+SPIRITS.OVL:7cfa0|손가락을 세워 불규칙한 회전을 줘 독특하게 휘는 공
+SPIRITS.OVL:7d020|감속하며 아래로 떨어져 타이밍을 뺏는 공
+SPIRITS.OVL:7d080|손가락을 세워 무회전으로 던져 공기저항에 흔들려 떨어지는 공
+SPIRITS.OVL:7d0c0|손바닥으로 감싸 쥐고 던져 독특하게 세로로 휘는 공
+SPIRITS.OVL:7d110|포크보다 얕게 끼워 던져 낙차는 작지만 제구가 좋고 빠르게 떨어지는 공
+SPIRITS.OVL:7d1e0|포크 그립으로 무회전으로 던져 공기 저항에 흔들리며 떨어지는 공
+SPIRITS.OVL:7d330|감속하며 팔 방향으로 비스듬히 떨어져 타이밍을 뺏는 공
+SPIRITS.OVL:80850|<RGB 0x7C5400>고교／대학／사회인／학년<RGB 0x737373>이 같은 선수와 합동 훈련 등을 하면<BR>연계 보너스(스피리츠)를 받습니다.<BR>연계가 많은 조합을 찾아보세요.
+SPIRITS.OVL:80950|훈련은 카드로 합니다.<BR>위에 놓인 <RGB 0x7C5400>파트너 카드<RGB 0x737373>에 보유한 <RGB 0x7C5400>훈련 카드<RGB 0x737373>를<BR>골라 실행합니다.
+SPIRITS.OVL:80a00|<RGB 0x7C5400>파트너 능력과 훈련 내용<RGB 0x737373>에 따라 효과가 달라집니다.<BR>함께 훈련하면 파트너 레벨이 올라<BR>효과도 커집니다.
+SPIRITS.OVL:80ab0|훈련으로 <RGB 0x7C5400>투구／변화구／타격／수비주루<RGB 0x737373> 포인트를 얻고,<BR>합동 훈련에서 연계가 되면 <RGB 0x7C5400>스피리츠<RGB 0x737373>도 받습니다.<BR>＋BONUS 카드의 효과가 더 큽니다.
+SPIRITS.OVL:80b90|다양한 효과를 가진 <RGB 0x7C5400>스페셜 카드<RGB 0x737373>와<BR>슬롯으로 특수 능력을 훔치는 <RGB 0x7C5400>기술 카드<RGB 0x737373>도 있습니다.<BR>능력 향상을 위해 포인트를 모아 보세요.
+SPIRITS.OVL:80da0|드디어 시범경기가 시작됩니다.<BR>야수는 선발 타석, 투수는 등판 후 3이닝이<BR>평가 대상입니다.
+SPIRITS.OVL:80e10|승패가 아닌 개인 성적으로 평가합니다.<BR>야수는 구속 레벨에 따른 보너스도 있으니<BR>도전해 보세요.
+SPIRITS.OVL:80f20|드디어 시범경기가 시작됩니다.<BR><RGB 0x7C5400>팀 전원을 조작<RGB 0x737373>해서 승리를 노리세요.<BR>모든 투수가 구원 상태이므로 계투가 중요합니다.
+SPIRITS.OVL:80fd0|팀의 경기 내용과 승패뿐 아니라 개인 활약이<BR>평가에 큰 영향을 줍니다.<BR>특수 능력 획득 조건도 직접 달성해야 합니다.
+SPIRITS.OVL:81060|다른 선수들은 활약에 따라 경기 후 각성하기도 합니다.<BR>누구를 활약시킬지 생각하며<BR>경기에 기용하세요.
+SPIRITS.OVL:81150|수고하셨습니다!<BR>이후 능력 향상을 마치면 육성이 끝납니다.
+SPIRITS.OVL:811a0|육성한 선수는 선택한 팀이나 자유 등록칸에 들어갑니다.<BR>사용하려면 등록 화면에서 1군에 등록하세요.
+SPIRITS.OVL:81210|VP 상점에는 스피리츠 모드에 도움이 되는<BR>아이템이 있습니다.<BR>다음에는 각성 챌린지에도 도전해 보세요.
+SPIRITS.OVL:812f0|수고하셨습니다!<BR>이후 능력 향상을 마치면 육성이 끝납니다.
+SPIRITS.OVL:81340|VP 상점에는 스피리츠 모드에 도움이 되는<BR>아이템이 있습니다.<BR>그럼 다음은 각성 챌린지입니다!
+SPIRITS.OVL:81410|여기부터는 <RGB 0x7C5400>각성 능력<RGB 0x737373>, 즉 페넌트나 VP 상점에서<BR>각성시켰을 때의 능력을 기르는 모드입니다.
+SPIRITS.OVL:81490|다른 팀의 각성 선수를 파트너로 카드 훈련을 합니다.<BR>스페셜 카드에는 이곳에서만 등장하는<BR>특별한 카드도 있습니다.
+SPIRITS.OVL:81520|턴 수는 일반 능력에 따라 달라집니다. <RGB 0x7C5400>일반 능력이 낮을수록<BR>각성할 기회가 더 많습니다<RGB 0x737373>.<BR>꿈꾸던 각성 능력을 노려 보세요.
+SPIRITS.OVL:81620|<RGB 0x7C5400>알로하!<RGB 0x737373> 늘 여름인 하와이에 함께 갈래?<BR>햇볕을 마음껏 받으며 튼튼한 선수가 되자!<BR>여권은 준비됐니?
+SPIRITS.OVL:816c0|포지션을 고른 뒤 <RGB 0x7C5400>능력 성장 유형을 골라.<BR><RGB 0x737373>유형에 따라 <RGB 0x7C5400>받는 포인트가 조금 달라져.<BR><RGB 0x737373>이렇게 서비스가 좋다니, 역시 하와이!
+SPIRITS.OVL:817e0|지금부터 선수들과 7번 대결해.<BR>이기면 받는 <RGB 0x7C5400>보너스와 포인트, 대전 조건을<BR>잘 확인한 뒤<RGB 0x737373> 상대를 골라!
+SPIRITS.OVL:81880|연전 중에는 플레이 결과로 능력이 변해.<BR><RGB 0x7C5400>야수는 잘 치고 투수는 안 맞는 것<RGB 0x737373>이 중요해!<BR>작은 실수도 적을수록 좋아.
+SPIRITS.OVL:81930|대전 후 지정된 <RGB 0x7C5400>조건을 달성하면<BR><RGB 0x737373>여러 가지 <RGB 0x7C5400>보너스가 있어<RGB 0x737373>.<BR>하나씩 달성해 보자!
+SPIRITS.OVL:819e0|대결을 마치면 포인트를 받아.<BR>모은 포인트는 <RGB 0x7C5400>모든 연전을 마친 뒤<BR>능력 향상<RGB 0x737373>에 쓸 수 있어. 많이 모으자!
+SPIRITS.OVL:822b0|육성한 선수의 평가는 ★%d.%d입니다.\n\nVP 보너스 %d.%d×600＝%d 획득!
+SPIRITS.OVL:82310|고치 캠프가 해금됐습니다.
+SPIRITS.OVL:82340|홈구장 캠프가 해금됐습니다.

@@ -1,0 +1,51 @@
+MATCHHR.OVL:12760|홈런 경쟁 메뉴로 돌아갑니다.
+MATCHHR.OVL:12790|원하는 조작 유형을 고릅니다.
+MATCHHR.OVL:127c0|100VP로 게임을 시작합니다.
+MATCHHR.OVL:127f0|500VP로 게임을 시작합니다.\n많이 벌 수 있는 기회!
+MATCHHR.OVL:12830|스트라이크 피치 메뉴로 돌아갑니다.
+MTSENA.OVL:dcf0|콤보 효과: 중심타선3 보너스 %f\n
+MTSENA.OVL:dd20|콤보 효과: 중심타선2 보너스 %f\n
+MTSENA.OVL:dd50|콤보 효과: 선제필승 보너스 %f\n
+MTSENA.OVL:dd70|콤보 효과: 득점 패턴 보너스 %f\n
+PRACTICE.OVL:20780|연습 시작
+PRACTICE.OVL:20790|조작 방법과 난이도를 바꿉니다
+PRACTICE.OVL:207c0|연습을 마치고 메뉴로 돌아갑니다
+PRACTICE.OVL:207f0|타자를 바꿉니다
+PRACTICE.OVL:20810|타격투수를 바꿉니다
+PRACTICE.OVL:20830|타격투수의 구종을 정합니다
+PRACTICE.OVL:20850|공의 회전이 안 보이는 비율을 바꿉니다
+PRACTICE.OVL:20880|변화구를 던질 순서를 바꿉니다
+PRACTICE.OVL:208b0|투구 코스를 바꿉니다
+PRACTICE.OVL:208d0|타격투수의 투구 자세를 바꿉니다
+PRACTICE.OVL:20900|투수를 바꿉니다
+PRACTICE.OVL:20920|연습 중 능력 표시를 바꿉니다
+PRACTICE.OVL:20950|야외 구장의 바람 설정을 바꿉니다
+PRACTICE.OVL:20980|돔 구장은 바꿀 수 없습니다
+PRACTICE.OVL:209d0|무작위 투구
+PRACTICE.OVL:209e8|순서대로 투구
+PRACTICE.OVL:20a40|팀에 소속된 투수와 타격 연습합니다.
+PRACTICE.OVL:20a70|해당 투수가 가진 구종을 던져 줍니다.
+PRACTICE.OVL:20aa0|우완 타격투수와 연습합니다.
+PRACTICE.OVL:20ad0|원하는 구종을 직접 정할 수 있습니다.
+PRACTICE.OVL:20b00|좌완 타격투수와 연습합니다.
+PRACTICE.OVL:20b60|공의 회전이 보이지 않는 설정입니다.
+PRACTICE.OVL:20b90|비율이 높으면 어렵고 낮으면 쉽습니다.
+PRACTICE.OVL:20bf0|설정한 구종을 무작위로 던집니다.
+PRACTICE.OVL:20c20|'구종 설정'에서 구종을 정합니다.
+PRACTICE.OVL:20c50|설정한 구종을 시계 방향 순서로 던집니다.
+PRACTICE.OVL:20ca0|여러 코스로 던집니다.
+PRACTICE.OVL:20cc0|스트라이크 존을 벗어나는 공도 던집니다.
+PRACTICE.OVL:20d00|스트라이크 존 한가운데로만 던집니다.
+PRACTICE.OVL:20d50|주로 주자가 없을 때의 투구법입니다.
+PRACTICE.OVL:20d80|주로 주자가 있을 때의 투구법입니다.
+PRACTICE.OVL:20db0|투구 자세가 그대로인 선수도 있습니다.
+PRACTICE.OVL:20df0|연습 중 능력 표시를 바꿉니다.
+PRACTICE.OVL:20e30|야외 구장의 바람 설정을 바꿉니다.
+PRACTICE.OVL:20ed8|자세 설정
+PRACTICE.OVL:20f28|바람 없음
+PRACTICE.OVL:20f38|바람 있음
+PRACTICE.OVL:20fa0|최적 투구율
+PRACTICE.OVL:20fb8|투구 자세
+PRACTICE.OVL:210f0|파울
+PRACTICE.OVL:21750|투수를 고르세요.
+PRACTICE.OVL:217c0|연습할 타자를 고르세요.

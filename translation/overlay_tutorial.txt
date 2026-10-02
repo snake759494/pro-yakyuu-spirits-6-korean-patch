@@ -1,0 +1,227 @@
+TUTORIAL.OVL:231e0|고급 문제를 플레이할 수 있습니다.
+TUTORIAL.OVL:23220|투구편 완료!\n보너스 1000VP 획득!
+TUTORIAL.OVL:232a0|타격편 완료!\n보너스 1000VP 획득!
+TUTORIAL.OVL:23320|수비편 완료!\n보너스 1000VP 획득!
+TUTORIAL.OVL:233a0|주루편 완료!\n보너스 1000VP 획득!
+TUTORIAL.OVL:233e0|프로스피 입문 전체 완료!\n보너스 4000VP 획득!
+TUTORIAL.OVL:23420|메인 메뉴로 돌아가.
+TUTORIAL.OVL:23460|야구의 주인공은 투수! 투구 기술을 익히자.
+TUTORIAL.OVL:234a0|삼관왕을 노려라! 타격 기술을 익히자.
+TUTORIAL.OVL:234e0|화려한 호수비! 수비 기술을 익히자.
+TUTORIAL.OVL:23520|베이스를 누벼라! 주루 기술을 익히자.
+TUTORIAL.OVL:23560|미니게임으로 VP 획득!
+TUTORIAL.OVL:24648|진루
+TUTORIAL.OVL:24658|정지
+TUTORIAL.OVL:24698|코스 선택
+TUTORIAL.OVL:246d8|전환
+TUTORIAL.OVL:24918|메뉴로 복귀
+TUTORIAL.OVL:252a0|이전 화면으로 복귀.
+TUTORIAL.OVL:254d5|먼저 직구를 던지는 연습이야.
+TUTORIAL.OVL:25602|투수가 투구 동작을 시작해.
+TUTORIAL.OVL:2572f|수 있어. 릴리스 전까지 움직여도 돼.
+TUTORIAL.OVL:2585c|<×> 버튼으로 릴리스!
+TUTORIAL.OVL:25989|<RGB 0x7c5400>스트라이크 5개<RGB 0x7f7f7f>를 던지면 성공!
+TUTORIAL.OVL:25ab6|다양한 투수로 연습해 봐!
+TUTORIAL.OVL:25b7f|변화구를 던져 보자!
+TUTORIAL.OVL:25be3|잘 쓰면 투구의 폭이 넓어져.
+TUTORIAL.OVL:25cac|투구 전 <L-STICK> 왼쪽 스틱으로 구종 선택.
+TUTORIAL.OVL:25d10|던질 구종의 방향을 입력해.
+TUTORIAL.OVL:25dd9|<RGB 0x7c5400>제2 구종<RGB 0x7f7f7f>은 해당 방향을 입력하고
+TUTORIAL.OVL:25e3d|<R1> 버튼으로 선택해.
+TUTORIAL.OVL:25f06|나머지는 직구와 같아.
+TUTORIAL.OVL:25f6a|공이 휘니까 코스를 조심해.
+TUTORIAL.OVL:26097|<RGB 0x7c5400>지정한 구종으로 스트라이크<RGB 0x7f7f7f>를 던져!
+TUTORIAL.OVL:261c4|원하는 곳에 던지도록 연습하자!
+TUTORIAL.OVL:2628d|좋은 공을 던지려면 릴리스가 중요해!
+TUTORIAL.OVL:262f1|연습해서 타이밍을 익혀 보자.
+TUTORIAL.OVL:263ba|커서가 가장 작을 때 릴리스하면
+TUTORIAL.OVL:2641e|<RGB 0x7c5400>베스트 피치<RGB 0x7f7f7f>. 구위가 가장 강해.
+TUTORIAL.OVL:2654b|<RGB 0x7c5400>베스트 피치로 스트라이크<RGB 0x7f7f7f>를 던져!
+TUTORIAL.OVL:26614|승부처에서 힘을 담은 한 구.
+TUTORIAL.OVL:26678|그럴 때는 <RGB 0x7c5400>전력 투구<RGB 0x7f7f7f>를 쓰자!
+TUTORIAL.OVL:26741|투구 전 <R-STICK> 오른쪽 스틱을 위로.
+TUTORIAL.OVL:267a5|<RGB 0x7c5400>전력 표시<RGB 0x7f7f7f>가 나오면 던지면 돼.
+TUTORIAL.OVL:268d2|<RGB 0x7c5400>전력 투구로 스트라이크<RGB 0x7f7f7f>를 던져 보자!
+TUTORIAL.OVL:269ff|너무 많이 쓰지는 마!
+TUTORIAL.OVL:26ac8|원하는 대로 던지면 배합도 자유자재.
+TUTORIAL.OVL:26b2c|코스를 노려 던지는 연습이야!
+TUTORIAL.OVL:26bf5|빨간 과녁에 투구 코스를 맞춰.
+TUTORIAL.OVL:26c59|릴리스도 정확해야 흔들리지 않아.
+TUTORIAL.OVL:26d86|과녁이 점점 작아지니 잘 노려!
+TUTORIAL.OVL:26eb3|공이 손을 떠날 때까지 집중하자!
+TUTORIAL.OVL:26f7c|다음은 변화구로 코스를 노리는 연습.
+TUTORIAL.OVL:26fe0|어렵지만 힘내!
+TUTORIAL.OVL:2710d|<RGB 0x7c5400>6개 맞히면 성공<RGB 0x7f7f7f>이야!
+TUTORIAL.OVL:2723a|경기와 훈련으로 실력을 키우자!
+TUTORIAL.OVL:27303|마지막은 완급을 익혀 투구를 갈고닦자!
+TUTORIAL.OVL:27367|COM 타자를 잡으려면 완급이 중요해.
+TUTORIAL.OVL:27430|완급 대응 게이지를 잘 봐.
+TUTORIAL.OVL:27494|빠른 공과 느린 공을 던져 봐.
+TUTORIAL.OVL:2755d|던진 공의 구속 부분이 빨개져.
+TUTORIAL.OVL:275c1|연습에서는 스트라이크를 던져.
+TUTORIAL.OVL:276ee|<RGB 0x7c5400>5개<RGB 0x7f7f7f>를 쳐 내면 합격이야.
+TUTORIAL.OVL:277b7|다음은 <RGB 0x7c5400>강공<RGB 0x7f7f7f>으로 쳐 보자!
+TUTORIAL.OVL:2781b|임시 설명 1페이지 2행 01
+TUTORIAL.OVL:2787f|임시 설명 1페이지 3행 01
+TUTORIAL.OVL:27948|<RGB 0x7c5400>강공으로 2개<RGB 0x7f7f7f>를 쳐 내면 합격!
+TUTORIAL.OVL:279ac|임시 설명 2페이지 3행 01
+TUTORIAL.OVL:27a75|비슷한 구속을 계속 던지면 노림수가 돼.
+TUTORIAL.OVL:27ad9|완급을 생각하며 던져 보자.
+TUTORIAL.OVL:27b3e|배트 모양의 컨택 커서를 움직여서
+TUTORIAL.OVL:27ba2|투수가 던지는 공을 쳐 내!
+TUTORIAL.OVL:27c6b|<L-STICK> 왼쪽 스틱으로 컨택 커서를 움직여
+TUTORIAL.OVL:27ccf|최대한 중심점으로 공을 맞혀.
+TUTORIAL.OVL:27d98|타이밍에 맞춰 <×> 버튼으로 스윙!
+TUTORIAL.OVL:27dfc|중심에 가까울수록 강한 타구가 나와.
+TUTORIAL.OVL:28056|맞히기는 어렵지만 홈런도 노릴 수 있어.
+TUTORIAL.OVL:282b0|타격의 달인이 되자!
+TUTORIAL.OVL:28379|스윙에는 <RGB 0x7c5400>당겨 치기<RGB 0x7f7f7f>와 <RGB 0x7c5400>밀어 치기<RGB 0x7f7f7f>
+TUTORIAL.OVL:283dd|두 종류가 있어.
+TUTORIAL.OVL:284a6|<×> 버튼 스윙이 당겨 치기야.
+TUTORIAL.OVL:2850a|당기는 방향(왼쪽)으로 치기 쉬워.
+TUTORIAL.OVL:28637|<RGB 0x7c5400>왼쪽으로 4개<RGB 0x7f7f7f>를 쳐 내면 합격.
+TUTORIAL.OVL:28700|다음은 <RGB 0x7c5400>밀어 치기<RGB 0x7f7f7f>를 해 보자!
+TUTORIAL.OVL:28764|미는 방향(오른쪽)으로 치기 쉬워.
+TUTORIAL.OVL:2882d|<○> 버튼 스윙이 밀어 치기야.
+TUTORIAL.OVL:28891|아까보다 늦게 휘두르는 게 핵심이야.
+TUTORIAL.OVL:289be|<RGB 0x7c5400>오른쪽으로 4개<RGB 0x7f7f7f>를 쳐 내면 합격!
+TUTORIAL.OVL:28aeb|밀어 치기는 왼쪽으로 치기 쉬워!
+TUTORIAL.OVL:28bb4|이번에는 변화구를 치는 연습이야.
+TUTORIAL.OVL:28c18|앞에서 휘니까 어렵지만 힘내!
+TUTORIAL.OVL:28ce1|변화구를 차례로 던질 테니
+TUTORIAL.OVL:28d45|공이 어떻게 움직이는지 확인해.
+TUTORIAL.OVL:28e72|<RGB 0x7c5400>5개<RGB 0x7f7f7f>를 쳐 내면 성공!
+TUTORIAL.OVL:28f9f|익숙해지면 회전으로 구종을 알 수 있어!
+TUTORIAL.OVL:29068|번트를 확실히 대면 득점력 향상은
+TUTORIAL.OVL:290cc|틀림없어! 열심히 연습하자.
+TUTORIAL.OVL:29195|<R2> 버튼으로 번트 자세를 취해.
+TUTORIAL.OVL:291f9|시간이 조금 걸리니 미리 준비해.
+TUTORIAL.OVL:292c2|<L-STICK> 왼쪽 스틱으로 높이와 방향 조절.
+TUTORIAL.OVL:29326|좌우로 너무 기울이면 파울이 돼.
+TUTORIAL.OVL:29453|<RGB 0x7c5400>3개<RGB 0x7f7f7f> 번트에 성공해 봐!
+TUTORIAL.OVL:29580|공의 조금 위를 맞히면 잘 굴러가!
+TUTORIAL.OVL:29649|스트라이크와 볼을 가려내는 선구안을
+TUTORIAL.OVL:296ad|기르는 연습이야!
+TUTORIAL.OVL:29776|볼은 쳐도 강한 타구가 잘 안 되니까
+TUTORIAL.OVL:297da|배트를 휘두르지 않고 골라내자!
+TUTORIAL.OVL:29907|<RGB 0x7c5400>스트라이크 4개<RGB 0x7f7f7f>를 쳐 내면 합격!
+TUTORIAL.OVL:29a34|쉬운 공을 놓치지 않고 치는 게 더 중요해!
+TUTORIAL.OVL:29afd|마지막은 실전 방식이야
+TUTORIAL.OVL:29b61|상대 수비를 뚫고 안타를 치자!
+TUTORIAL.OVL:29c2a|볼과 변화구도 던질 테지만
+TUTORIAL.OVL:29c8e|칠 만한 공을 확실히 치는 게 중요해.
+TUTORIAL.OVL:29dbb|지금까지 연습한 실력을 보여 줘!
+TUTORIAL.OVL:29ee8|여러 타자로 도전해 봐!
+TUTORIAL.OVL:29fb1|먼저 송구를 익히자!
+TUTORIAL.OVL:2a015|각 베이스에 해당하는 버튼을 누르면 돼.
+TUTORIAL.OVL:2a0de|<○> 버튼은 1루, <△> 버튼은 2루,
+TUTORIAL.OVL:2a142|<□> 버튼은 3루, <×> 버튼은 홈이야.
+TUTORIAL.OVL:2a26f|<RGB 0x7c5400>지시대로 송구<RGB 0x7f7f7f>해 줘!
+TUTORIAL.OVL:2a338|이번에는 외야수의 <RGB 0x7c5400>중계<RGB 0x7f7f7f> 연습이야.
+TUTORIAL.OVL:2a39c|매끄러운 중계를 익히자!
+TUTORIAL.OVL:2a5f6|그러면 매끄럽게 송구할 수 있어!
+TUTORIAL.OVL:2a6bf|타구를 이용한 수비 연습이야.
+TUTORIAL.OVL:2a723|야수를 움직여 뜬공을 잡아.
+TUTORIAL.OVL:2a7ec|공 그림자와 노란 낙하지점을 잘 보고
+TUTORIAL.OVL:2a850|<L-STICK> 왼쪽 스틱으로 야수를 움직여.
+TUTORIAL.OVL:2a97d|<RGB 0x7c5400>뜬공을 잡아 아웃 4개<RGB 0x7f7f7f>를 잡자!
+TUTORIAL.OVL:2aa46|다음은 땅볼 연습이야.
+TUTORIAL.OVL:2aaaa|잡고 던져서 아웃으로 만들어.
+TUTORIAL.OVL:2ab73|타구가 오면 가까이 있는 커서 표시 야수를
+TUTORIAL.OVL:2abd7|<L-STICK> 왼쪽 스틱으로 움직여 공을 잡자.
+TUTORIAL.OVL:2ad04|<RGB 0x7c5400>땅볼 아웃 4개<RGB 0x7f7f7f>면 성공!
+TUTORIAL.OVL:2ae31|많이 반복해서 잘해 보자!
+TUTORIAL.OVL:2aefa|좀 더 실전적인 수비를 해 보자!
+TUTORIAL.OVL:2af5e|조금 어려운 타구지만 힘내.
+TUTORIAL.OVL:2b08b|<RGB 0x7c5400>아웃 4개<RGB 0x7f7f7f>를 잡으면 성공!
+TUTORIAL.OVL:2b154|다음은 병살 연습이야.
+TUTORIAL.OVL:2b1b8|타자와 주자를 모두 잡자!
+TUTORIAL.OVL:2b281|먼저 <△> 버튼으로 2루 송구,
+TUTORIAL.OVL:2b2e5|다음에 <○> 버튼으로 1루 송구야.
+TUTORIAL.OVL:2b412|<RGB 0x7c5400>병살 3번 성공<RGB 0x7f7f7f>하면 통과!
+TUTORIAL.OVL:2b53f|기회가 있으면 적극적으로 노리자!
+TUTORIAL.OVL:2b608|액션 버튼을 써서 어려운 타구도
+TUTORIAL.OVL:2b66c|잡아 보자!
+TUTORIAL.OVL:2b735|조작은 간단해. <○> 버튼만 누르면 돼!
+TUTORIAL.OVL:2b799|타구에 다가가 타이밍 맞춰 눌러.
+TUTORIAL.OVL:2b862|높은 공에는 점프 캐치,
+TUTORIAL.OVL:2b8c6|먼 공에는 다이빙 캐치가 나와.
+TUTORIAL.OVL:2b9f3|<RGB 0x7c5400>아웃 4개<RGB 0x7f7f7f>를 잡으면 성공!
+TUTORIAL.OVL:2bb20|버튼으로 닿는 범위를 몸으로 익히자!
+TUTORIAL.OVL:2bbe9|허용하면 정말 곤란한 도루.
+TUTORIAL.OVL:2bc4d|쉽게 못 뛰게 하려면 우선 <RGB 0x7c5400>견제<RGB 0x7f7f7f>야!
+TUTORIAL.OVL:2bd16|<□> 버튼은 1루, <△> 버튼은 2루,
+TUTORIAL.OVL:2bd7a|<○> 버튼은 3루. 투구 전에 눌러.
+TUTORIAL.OVL:2bea7|<RGB 0x7c5400>견제 3번<RGB 0x7f7f7f>이면 성공!
+TUTORIAL.OVL:2bf70|던지기 시작한 뒤 뛰어도 당황하지 마!
+TUTORIAL.OVL:2bfd4|바로 송구하면 잡을 기회가 있어.
+TUTORIAL.OVL:2c09d|송구는 수비할 때와 같아.
+TUTORIAL.OVL:2c101|2루라면 잡자마자 <△> 버튼이야.
+TUTORIAL.OVL:2c22e|<RGB 0x7c5400>아웃 3번<RGB 0x7f7f7f>이면 합격!
+TUTORIAL.OVL:2c35b|주자를 경계하는 습관을 들여!
+TUTORIAL.OVL:2c424|홈 송구의 중계에 꼭 필요한 조작,
+TUTORIAL.OVL:2c488|송구 커트를 익히자!
+TUTORIAL.OVL:2c551|먼저 <×> 버튼으로 홈에 송구해.
+TUTORIAL.OVL:2c5b5|그다음 <R2> 버튼을 누르면
+TUTORIAL.OVL:2c619|중계 선수가 송구를 커트해.
+TUTORIAL.OVL:2c67e|커트하면 곧바로 2루에 송구!
+TUTORIAL.OVL:2c6e2|타자 주자의 2루 진루를 막자.
+TUTORIAL.OVL:2c80f|<RGB 0x7c5400>아웃 3개<RGB 0x7f7f7f>를 잡으면 성공.
+TUTORIAL.OVL:2c93c|분명 도움이 될 거야!
+TUTORIAL.OVL:2ca05|주루 조작을 해 보자!
+TUTORIAL.OVL:2ca69|먼저 기본인 <RGB 0x7c5400>진루<RGB 0x7f7f7f>와 <RGB 0x7c5400>귀루<RGB 0x7f7f7f>야.
+TUTORIAL.OVL:2cb32|<△> 버튼으로 다음 베이스에 진루.
+TUTORIAL.OVL:2cb96|계속 누르면 매끄럽게 돌아.
+TUTORIAL.OVL:2cc5f|<○> 버튼으로 이전 베이스에 귀루
+TUTORIAL.OVL:2ccc3|속도가 붙으면 바로 못 돌아오니 조심해.
+TUTORIAL.OVL:2cdf0|<RGB 0x7c5400>지시대로 조작<RGB 0x7f7f7f>해 줘!
+TUTORIAL.OVL:2ceb9|진루와 귀루를 익혔니?
+TUTORIAL.OVL:2cf1d|다음은 베이스 사이에서 멈추는 법.
+TUTORIAL.OVL:2cfe6|<△> 버튼과 <○> 버튼을 동시에 누르면
+TUTORIAL.OVL:2d04a|멈춰. 꼭 동시에 눌러야 하니까 조심해!
+TUTORIAL.OVL:2d2a4|매끄럽게 주루할 수 있어!
+TUTORIAL.OVL:2d36d|여러 주자를 조작해 보자!
+TUTORIAL.OVL:2d3d1|<RGB 0x7c5400>전원 조작<RGB 0x7f7f7f>과 <RGB 0x7c5400>개별 조작<RGB 0x7f7f7f> 두 종류가 있어.
+TUTORIAL.OVL:2d49a|<RGB 0x7c5400>전원 조작<RGB 0x7f7f7f>은 주자 한 명일 때와 같아.
+TUTORIAL.OVL:2d4fe|<△> 버튼으로 모두 다음 베이스로 진루
+TUTORIAL.OVL:2d5c7|<○> 버튼으로 전원 귀루
+TUTORIAL.OVL:2d62b|같이 움직이니 간단하지.
+TUTORIAL.OVL:2d821|<RGB 0x7c5400>개별 주루<RGB 0x7f7f7f>야.
+TUTORIAL.OVL:2d885|주자를 한 명씩 조작하는 방법이야.
+TUTORIAL.OVL:2d94e|<L-STICK> 왼쪽 스틱으로 갈 베이스를 정하고
+TUTORIAL.OVL:2d9b2|<□> 버튼으로 진루.
+TUTORIAL.OVL:2da7b|<L-STICK> 왼쪽 스틱으로 돌아갈 베이스를 정해
+TUTORIAL.OVL:2dadf|<×> 버튼으로 귀루해.
+TUTORIAL.OVL:2dd39|득점력을 높여 보자!
+TUTORIAL.OVL:2de02|여기서는 실전 연습을 해 보자.
+TUTORIAL.OVL:2de66|타구를 보면서 정확히 주루해.
+TUTORIAL.OVL:2df2f|자동으로 타구가 날아가면
+TUTORIAL.OVL:2df93|내 지시를 보고 주루를 조작해.
+TUTORIAL.OVL:2e0c0|<RGB 0x7c5400>지시를 잘 보고<RGB 0x7f7f7f> 달려 보자!
+TUTORIAL.OVL:2e1ed|주루를 목표로 하자!
+TUTORIAL.OVL:2e2b6|발을 쓰는 공격이라면 도루!
+TUTORIAL.OVL:2e31a|상대의 빈틈을 노려 출발하는 연습이야.
+TUTORIAL.OVL:2e3e3|투구 전 <△> 버튼으로 도루 출발.
+TUTORIAL.OVL:2e447|투수가 움직이기 시작하면 바로 GO!
+TUTORIAL.OVL:2e574|<RGB 0x7c5400>도루 3번<RGB 0x7f7f7f> 성공하면 통과!
+TUTORIAL.OVL:2e6a1|하지만 견제는 꼭 조심해!
+TUTORIAL.OVL:34a2d|\n<RGB 0x7c5400>1루<RGB 0x7f7f7f>로 송구!
+TUTORIAL.OVL:34c87|\t<RGB 0x7c5400>3루<RGB 0x7f7f7f>로 송구!
+TUTORIAL.OVL:3500e|\t<RGB 0x7c5400>1루<RGB 0x7f7f7f> 견제!
+TUTORIAL.OVL:35268|\n<RGB 0x7c5400>3루<RGB 0x7f7f7f> 견제!
+TUTORIAL.OVL:38170|\t출발!
+TUTORIAL.OVL:3829d|\t2루로 <RGB 0x7c5400>진루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:383ca|\t3루로 <RGB 0x7c5400>진루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:384f7|\t홈으로 <RGB 0x7c5400>진루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:38624|\n1루로 <RGB 0x7c5400>귀루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:38751|\n2루로 <RGB 0x7c5400>귀루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:3887e|\n3루로 <RGB 0x7c5400>귀루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:389ab|\t1루 주자, <RGB 0x7c5400>진루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:38ad8|\t2루 주자, <RGB 0x7c5400>진루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:38c05|\t3루 주자, <RGB 0x7c5400>진루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:38d32|\n1루 주자, <RGB 0x7c5400>귀루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:38e5f|\n2루 주자, <RGB 0x7c5400>귀루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:38f8c|\n3루 주자, <RGB 0x7c5400>귀루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:391e6|\t모두 <RGB 0x7c5400>진루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:39313|\n모두 <RGB 0x7c5400>귀루!<RGB 0x7f7f7f>
+TUTORIAL.OVL:3969a|\t홈인!

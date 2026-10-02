@@ -1,0 +1,38 @@
+SPIMATCH.OVL:174b0|탄도 유형
+SPIMATCH.OVL:17834|연속 홈런
+SPIMATCH.OVL:18644|스핀
+SPIMATCH.OVL:189ec|슬로 스타터 극복
+SPIMATCH.OVL:18cbc|슈트 회전 극복
+SPIMATCH.OVL:19ad0|%d타석 중 %d회 출루
+SPIMATCH.OVL:19af0|%d타석 중 %d안타
+SPIMATCH.OVL:19b10|%d타석 중 %d루타
+SPIMATCH.OVL:19b30|%d타석 중 주자를 %d회 진루
+SPIMATCH.OVL:19b60|%d타석 중 %d타점
+SPIMATCH.OVL:19b80|%d타석 중 %d회 막기
+SPIMATCH.OVL:19ba0|%d타석 중 %d탈삼진
+SPIMATCH.OVL:19bc0|%d타석 중 %d루타 이내
+SPIMATCH.OVL:19be0|%d타석 중 주자 진루 %d회 저지
+SPIMATCH.OVL:19c10|%d타석 중 %d실점 이내
+SPIMATCH.OVL:19c30|%d타석 막기
+SPIMATCH.OVL:19c40|%d타석 중 탈삼진
+SPIMATCH.OVL:19c60|%d타석 중 루타 불허
+SPIMATCH.OVL:19c80|%d타석 중 주자 진루 저지
+SPIMATCH.OVL:19ca0|%d타석 중 무실점
+SPIMATCH.OVL:19ef8|남음　회
+SPIMATCH.OVL:19f18|안타 쳐
+SPIMATCH.OVL:19f28|루타 쳐
+SPIMATCH.OVL:19f38|남은 루타　
+SPIMATCH.OVL:19f60|주자를 보내라
+SPIMATCH.OVL:19f78|타점을 올려
+SPIMATCH.OVL:19f88|남음　점
+SPIMATCH.OVL:19f98|막아라
+SPIMATCH.OVL:19fa0|삼진 잡아
+SPIMATCH.OVL:19fb0|루타를 막아
+SPIMATCH.OVL:19fc0|남은 루타　이내
+SPIMATCH.OVL:19ff8|진루 저지
+SPIMATCH.OVL:1a008|실점 방지
+SPIMATCH.OVL:1a018|남음　점 이내
+SPIMATCH.OVL:1a758|구속 배율 ×
+SPIMATCH.OVL:1a810|수비력, 정신력 +%d
+SPIMATCH.OVL:1a830|주력, 체력 +%d
+SPIMATCH.OVL:1a850|체력, 정신력 +%d

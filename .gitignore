@@ -1,0 +1,17 @@
+/work/
+/build/
+*.iso
+*.bin
+*.CHK
+*.OVL
+SLPM_551.58
+*.xdelta
+*.zip
+*.exe
+*.dll
+*.ttf
+*.otf
+*.ps2
+*.p2s
+__pycache__/
+*.pyc

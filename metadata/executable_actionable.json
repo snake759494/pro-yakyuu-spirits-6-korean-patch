@@ -1,0 +1,7237 @@
+[
+  {
+    "file": "SLPM_551.58",
+    "offset": 3104977,
+    "ja": "档Zラドーム大阪"
+  },
+  {
+    "file": "SLPM_551.58",
+    "offset": 3120418,
+    "ja": "連囮iA"
+  },
+  {
+    "file": "SLPM_551.58",
+    "offset": 3142798,
+    "ja": "窟囮陰"
+  },
+  {
+    "file": "SLPM_551.58",
+    "offset": 3164205,
+    "ja": "iおまかせ）"
+  },
+  {
+    "file": "SLPM_551.58",
+    "offset": 3173503,
+    "ja": "見た画面になります。<BR>打席の左右によって視点が変わります。<BR>試合中<R-STICK>Ｒ３ボタンで\\C7D5300ノーマル（中央）\\c7に切り替えることもできます。"
+  },
+  {
+    "file": "SLPM_551.58",
+    "offset": 3180864,
+    "ja": "闃軏{的に待機状態になります。<BR>すばやく状況判断して進塁・帰塁の操作が必要になります。<BR>上級者向けの設定です。"
+  },
+  {
+    "file": "SLPM_551.58",
+    "offset": 3204384,
+    "ja": "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼ"
+  },
+  {
+    "file": "SLPM_551.58",
+    "offset": 3229928,
+    "ja": "李承燁シフト"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1006204,
+    "ja": "珎尿"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1129604,
+    "ja": "勞眥"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1131064,
+    "ja": "理曺樶q@"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1131832,
+    "ja": "固愠4J響"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1136828,
+    "ja": "璢蔀l慮>"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1142580,
+    "ja": "獄楪"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1149704,
+    "ja": "瞭傳"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1169712,
+    "ja": "メニューへ戻ります"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1171608,
+    "ja": "フリー"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1171616,
+    "ja": "必打"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1171624,
+    "ja": "好球必打"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1171696,
+    "ja": "待て"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1172056,
+    "ja": "走塁意識/積極"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1172072,
+    "ja": "走塁意識/通常"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1172088,
+    "ja": "走塁意識/消極"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1172104,
+    "ja": "敬遠"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1172296,
+    "ja": "全球指示"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1172424,
+    "ja": "一発警戒"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1172440,
+    "ja": "盗塁警戒"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1173232,
+    "ja": "通常走塁"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1173248,
+    "ja": "消極走塁"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1173328,
+    "ja": "長打重視"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1173352,
+    "ja": "高め"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1173376,
+    "ja": "低め"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1188904,
+    "ja": "選手名"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1194928,
+    "ja": "一塁！"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1194936,
+    "ja": "二塁！"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1194944,
+    "ja": "三塁！"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1194952,
+    "ja": "本塁！"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1203312,
+    "ja": "帰塁"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1205432,
+    "ja": "勝利監督"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1206280,
+    "ja": "無四球完封勝利"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1206296,
+    "ja": "%d安打完封勝利"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1206312,
+    "ja": "無安打完封勝利"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1206328,
+    "ja": "無四球完投勝利"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1206344,
+    "ja": "%d安打完投勝利"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1206360,
+    "ja": "無安打完投勝利"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1206656,
+    "ja": "%d回完全"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1207072,
+    "ja": "最近３試合"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1207088,
+    "ja": "得点圏"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1207096,
+    "ja": "成績比較"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1207112,
+    "ja": "対左右記録"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1207128,
+    "ja": "代打成績"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1207144,
+    "ja": "対投手記録"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1207960,
+    "ja": "球数制限%d"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1208224,
+    "ja": "一塁"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1208232,
+    "ja": "二塁"
+  },
+  {
+    "file": "COM_MAT.OVL",
+    "offset": 1208240,
+    "ja": "三塁"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1078288,
+    "ja": "主人公不在"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1084806,
+    "ja": "00普通"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1092640,
+    "ja": "疲労"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1092648,
+    "ja": "特訓"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1092656,
+    "ja": "経験値"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1092664,
+    "ja": "状態"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1092680,
+    "ja": "特訓中"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1093760,
+    "ja": "投手登録<RIGHT><□>情報切替<○>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1093856,
+    "ja": "投手登録<RIGHT><○>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1094656,
+    "ja": "野手登録<RIGHT><□>情報切替<○>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1094752,
+    "ja": "野手登録<RIGHT><○>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1096072,
+    "ja": "遊撃"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1096080,
+    "ja": "左翼"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1096088,
+    "ja": "中堅"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1096096,
+    "ja": "右翼"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1096120,
+    "ja": "高い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1096424,
+    "ja": "９回完投"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1097632,
+    "ja": "起用法：先発%d番手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1097744,
+    "ja": "起用法：%d番 %s"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1097784,
+    "ja": "登録：二軍登録"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1098128,
+    "ja": "先発%d番手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1098208,
+    "ja": "二軍登録"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130408,
+    "ja": "ホウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130504,
+    "ja": "デェ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130536,
+    "ja": "シィ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130608,
+    "ja": "アイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130672,
+    "ja": "ザオ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130856,
+    "ja": "リィ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130904,
+    "ja": "ハオ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130936,
+    "ja": "ヤィ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1130984,
+    "ja": "シャ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131056,
+    "ja": "アン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131136,
+    "ja": "シエ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131264,
+    "ja": "バイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131288,
+    "ja": "アウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131312,
+    "ja": "ユウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131376,
+    "ja": "タン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131384,
+    "ja": "ゴイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131400,
+    "ja": "ヅュ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131464,
+    "ja": "ゴォ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131576,
+    "ja": "ジェ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131592,
+    "ja": "ソン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131640,
+    "ja": "ガウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131688,
+    "ja": "ビィ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131736,
+    "ja": "マウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131896,
+    "ja": "トン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1131968,
+    "ja": "モン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1132016,
+    "ja": "ドン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1132064,
+    "ja": "レン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1132120,
+    "ja": "ヤン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1132144,
+    "ja": "マィ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1132616,
+    "ja": "ゼノ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134216,
+    "ja": "ボブ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134352,
+    "ja": "トム"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134400,
+    "ja": "中川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134432,
+    "ja": "浜尾"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134440,
+    "ja": "武治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134456,
+    "ja": "和久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134464,
+    "ja": "聡樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134480,
+    "ja": "呂功"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134488,
+    "ja": "千晴"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134504,
+    "ja": "杉原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134512,
+    "ja": "譲二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134536,
+    "ja": "清元"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134568,
+    "ja": "木山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134592,
+    "ja": "岸辺"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134616,
+    "ja": "赤下"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134624,
+    "ja": "日取"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134648,
+    "ja": "井佐"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134656,
+    "ja": "枠敏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134672,
+    "ja": "江切"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134696,
+    "ja": "縁谷"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134704,
+    "ja": "大志"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134720,
+    "ja": "片下"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134728,
+    "ja": "綱紀"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134752,
+    "ja": "木鳥"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134760,
+    "ja": "勝二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134776,
+    "ja": "黒光"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134784,
+    "ja": "勘太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134808,
+    "ja": "笹箱"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134816,
+    "ja": "託児"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134840,
+    "ja": "高谷"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134848,
+    "ja": "正志"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134872,
+    "ja": "日下部"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134880,
+    "ja": "久史"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134904,
+    "ja": "栗原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134936,
+    "ja": "黒川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134944,
+    "ja": "健一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134968,
+    "ja": "杉谷"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1134976,
+    "ja": "彰吾"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135000,
+    "ja": "條島"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135008,
+    "ja": "大介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135024,
+    "ja": "下村"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135032,
+    "ja": "則夫"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135056,
+    "ja": "篠上"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135064,
+    "ja": "英司"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135080,
+    "ja": "重竹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135112,
+    "ja": "郷原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135120,
+    "ja": "直樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135144,
+    "ja": "佐竹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135152,
+    "ja": "弘樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135168,
+    "ja": "榊原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135176,
+    "ja": "邦之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135200,
+    "ja": "後藤"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135208,
+    "ja": "隆文"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135224,
+    "ja": "子桜"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135232,
+    "ja": "信治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135256,
+    "ja": "小池"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135280,
+    "ja": "乾山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135288,
+    "ja": "敏明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135304,
+    "ja": "出井"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135312,
+    "ja": "重也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135328,
+    "ja": "土亜"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135336,
+    "ja": "竹彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135352,
+    "ja": "楠木"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135376,
+    "ja": "星園"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135384,
+    "ja": "英明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135408,
+    "ja": "香山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135432,
+    "ja": "滝沢"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135456,
+    "ja": "辰巳"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135464,
+    "ja": "博信"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135480,
+    "ja": "折原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135488,
+    "ja": "泰彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135504,
+    "ja": "笹村"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135536,
+    "ja": "雨宮"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135560,
+    "ja": "住谷"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135568,
+    "ja": "達也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135592,
+    "ja": "二階堂"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135600,
+    "ja": "聖也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135624,
+    "ja": "鮎川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135632,
+    "ja": "遼介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135648,
+    "ja": "甘崎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135656,
+    "ja": "龍一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135672,
+    "ja": "桐生"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135680,
+    "ja": "杉光"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135696,
+    "ja": "鳴海"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135704,
+    "ja": "洋一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135720,
+    "ja": "宮岡"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135728,
+    "ja": "孝明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135744,
+    "ja": "名沢"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135752,
+    "ja": "平時"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135768,
+    "ja": "仁暮"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135776,
+    "ja": "才蔵"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135800,
+    "ja": "暮斗"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135824,
+    "ja": "兵高"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135832,
+    "ja": "来敏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135856,
+    "ja": "将也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135864,
+    "ja": "水金"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135896,
+    "ja": "室尺"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135904,
+    "ja": "元治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135928,
+    "ja": "湯島"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135936,
+    "ja": "牧人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135952,
+    "ja": "加部谷"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135976,
+    "ja": "海月"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1135984,
+    "ja": "健二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136000,
+    "ja": "小日向"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136008,
+    "ja": "伸彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136032,
+    "ja": "石岡"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136040,
+    "ja": "金次郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136056,
+    "ja": "韮澤"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136064,
+    "ja": "大樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136088,
+    "ja": "列山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136096,
+    "ja": "治明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136128,
+    "ja": "大吾"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136144,
+    "ja": "水口"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136176,
+    "ja": "三木原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136200,
+    "ja": "真山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136224,
+    "ja": "的原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136232,
+    "ja": "考史"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136256,
+    "ja": "松平"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136264,
+    "ja": "洋介山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136296,
+    "ja": "健介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136312,
+    "ja": "保坂"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136320,
+    "ja": "直吉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136336,
+    "ja": "平坦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136344,
+    "ja": "栄吉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136360,
+    "ja": "藤田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136368,
+    "ja": "伸朗"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136384,
+    "ja": "福山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136392,
+    "ja": "連也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136416,
+    "ja": "美和"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136432,
+    "ja": "向山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136440,
+    "ja": "啓二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136464,
+    "ja": "陸奥"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136472,
+    "ja": "信明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136488,
+    "ja": "明快"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136512,
+    "ja": "留川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136520,
+    "ja": "太一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136544,
+    "ja": "道成"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136560,
+    "ja": "頼明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136584,
+    "ja": "吉村"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136592,
+    "ja": "仁哉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136616,
+    "ja": "横関"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136624,
+    "ja": "太郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136648,
+    "ja": "夢島"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136680,
+    "ja": "雪山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136688,
+    "ja": "武昭"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136712,
+    "ja": "山田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136720,
+    "ja": "良平"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136736,
+    "ja": "矢田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136744,
+    "ja": "和司"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136760,
+    "ja": "屋久杉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136792,
+    "ja": "森嶋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136824,
+    "ja": "森川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136832,
+    "ja": "晴元"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136856,
+    "ja": "広瀬"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136864,
+    "ja": "信夫"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136880,
+    "ja": "平松"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136888,
+    "ja": "啓太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136912,
+    "ja": "出原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136920,
+    "ja": "広喜"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136936,
+    "ja": "手塚"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136944,
+    "ja": "憲明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136960,
+    "ja": "津村"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136984,
+    "ja": "塚原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1136992,
+    "ja": "昭信"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137016,
+    "ja": "千原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137024,
+    "ja": "俊之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137040,
+    "ja": "田山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137064,
+    "ja": "田川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137072,
+    "ja": "秀樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137088,
+    "ja": "宝田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137096,
+    "ja": "幹久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137120,
+    "ja": "園原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137144,
+    "ja": "園田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137152,
+    "ja": "孝太郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137168,
+    "ja": "瀬戸原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137176,
+    "ja": "拓美"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137200,
+    "ja": "天童寺"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137208,
+    "ja": "修平"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137232,
+    "ja": "道解"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137256,
+    "ja": "渡久山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137264,
+    "ja": "清明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137288,
+    "ja": "兵頭"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137312,
+    "ja": "原田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137320,
+    "ja": "真一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137336,
+    "ja": "馬場"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137344,
+    "ja": "浩輝"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137360,
+    "ja": "花淵"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137368,
+    "ja": "拓也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137392,
+    "ja": "萩川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137424,
+    "ja": "圭太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137448,
+    "ja": "根立"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137472,
+    "ja": "抜原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137480,
+    "ja": "純也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137504,
+    "ja": "成原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137512,
+    "ja": "元也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137536,
+    "ja": "名木"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137544,
+    "ja": "忠志"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137560,
+    "ja": "永山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137568,
+    "ja": "啓介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137592,
+    "ja": "徳山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137616,
+    "ja": "輝男"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137632,
+    "ja": "席橋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137664,
+    "ja": "植草"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137672,
+    "ja": "伊織"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137688,
+    "ja": "井場"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137696,
+    "ja": "英雄"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137712,
+    "ja": "稲尾"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137736,
+    "ja": "石川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137768,
+    "ja": "飯山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137792,
+    "ja": "天羽"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137816,
+    "ja": "秋原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137824,
+    "ja": "寛治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137840,
+    "ja": "菊地原"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137848,
+    "ja": "俊介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137872,
+    "ja": "上島"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137896,
+    "ja": "江口"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137912,
+    "ja": "江島"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137920,
+    "ja": "雄二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137936,
+    "ja": "川端"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137944,
+    "ja": "宗明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137968,
+    "ja": "上川"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1137992,
+    "ja": "海江田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138000,
+    "ja": "信吾"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138016,
+    "ja": "織田"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138024,
+    "ja": "浩二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138040,
+    "ja": "尾島"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138064,
+    "ja": "栄治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138080,
+    "ja": "大山"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138088,
+    "ja": "五郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138136,
+    "ja": "シン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138192,
+    "ja": "チェ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138344,
+    "ja": "キム"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138576,
+    "ja": "ガン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138648,
+    "ja": "デス"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138664,
+    "ja": "ジュ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138688,
+    "ja": "チャ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138744,
+    "ja": "ハン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138768,
+    "ja": "ホン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138864,
+    "ja": "チオ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138880,
+    "ja": "ユン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138960,
+    "ja": "ミン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1138992,
+    "ja": "ヒテ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139096,
+    "ja": "ジホ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139120,
+    "ja": "ナム"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139208,
+    "ja": "ムン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139264,
+    "ja": "ジョ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139328,
+    "ja": "セイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139392,
+    "ja": "リン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139536,
+    "ja": "コウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139544,
+    "ja": "シカ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139560,
+    "ja": "イイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139632,
+    "ja": "エン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139744,
+    "ja": "オウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139800,
+    "ja": "ハク"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1139936,
+    "ja": "カイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140008,
+    "ja": "ヨウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140064,
+    "ja": "パン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140096,
+    "ja": "サイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140160,
+    "ja": "テイ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140224,
+    "ja": "ライ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140408,
+    "ja": "ソウ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140440,
+    "ja": "カク"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140456,
+    "ja": "チン"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1140568,
+    "ja": "リク"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1149056,
+    "ja": "ＣＯＭ外国人途中入団"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1149096,
+    "ja": "雨天中止"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1149136,
+    "ja": "自由"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1150800,
+    "ja": "野手登録<RIGHT><□>項目切替<○>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1150848,
+    "ja": "<RIGHT><○>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1152176,
+    "ja": "参加選択<RIGHT><○>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1153976,
+    "ja": "未設定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1153992,
+    "ja": "実践練習"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1154360,
+    "ja": "盗塁技術向上"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1154568,
+    "ja": "広角打法習得"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1154584,
+    "ja": "威圧感習得"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1154608,
+    "ja": "先発投手調整法向上"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1154640,
+    "ja": "救援投手調整法向上"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1154664,
+    "ja": "新球種取得"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1154680,
+    "ja": "秘伝変化球伝授"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1158936,
+    "ja": "未出場\n\n"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1159024,
+    "ja": "投球回２以上\n\n"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1159776,
+    "ja": "$(mr)打席以上\n\n"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1159792,
+    "ja": "逆覚醒回避 ＆ 経験獲得"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1160208,
+    "ja": "投球回$(mr/2)以上\n\n"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1161704,
+    "ja": "遠征出発"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1161784,
+    "ja": "長期遠征出発"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1161864,
+    "ja": "交流戦開始"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1161960,
+    "ja": "交流戦終了"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1163088,
+    "ja": "違和感者発生"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1164240,
+    "ja": "球春到来"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1164872,
+    "ja": "ＣＳ制覇\n\n"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1165664,
+    "ja": "現在%2d位\n\n"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1166072,
+    "ja": "現在%1.2f\n\n"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1170368,
+    "ja": "架空選手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1175824,
+    "ja": "月間ＭＶＰ結果"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1175856,
+    "ja": "采配評価"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1175904,
+    "ja": "試合総括"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1176576,
+    "ja": "ソロ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1176664,
+    "ja": "ゴロ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1176936,
+    "ja": "打撃妨害"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1176952,
+    "ja": "走塁妨害"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1176968,
+    "ja": "守備妨害"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1176984,
+    "ja": "審判妨害"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1177000,
+    "ja": "観客妨害"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1177032,
+    "ja": "盗塁死"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1177040,
+    "ja": "走塁死"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1177080,
+    "ja": "牽制球死"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1178488,
+    "ja": "%d安打"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1178496,
+    "ja": "%d本塁打"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1178512,
+    "ja": "%d打点"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1180104,
+    "ja": "早い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1180120,
+    "ja": "遅い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1180136,
+    "ja": "多い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1180144,
+    "ja": "軽視"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1180152,
+    "ja": "重視"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1182344,
+    "ja": "オープン戦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1182368,
+    "ja": "野手登録<RIGHT> <OK>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1182480,
+    "ja": "試合結果<RIGHT><OK>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1183112,
+    "ja": "%d回戦 "
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1183392,
+    "ja": "投手登録<RIGHT><OK>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1185200,
+    "ja": "%s選手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1190856,
+    "ja": "%s先攻"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1190904,
+    "ja": "%s後攻"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1190984,
+    "ja": "ＣＯＭ１決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1191000,
+    "ja": "ＣＯＭ２決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1191032,
+    "ja": "２Ｐ決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1191064,
+    "ja": "ＣＯＭ１先攻"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1193336,
+    "ja": "一軍投手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1193352,
+    "ja": "二軍投手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1193368,
+    "ja": "一軍野手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1193384,
+    "ja": "二軍野手"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199184,
+    "ja": "ＭＥＭＯＲＹ　ＣＡＲＤ差込口２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199824,
+    "ja": "赤田　将吾"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199840,
+    "ja": "石井　義人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199856,
+    "ja": "江藤　智"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199872,
+    "ja": "片岡　易之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199888,
+    "ja": "銀仁朗"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199896,
+    "ja": "栗山　巧"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199912,
+    "ja": "後藤　武敏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199928,
+    "ja": "清水　崇行"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199944,
+    "ja": "Ｇ．Ｇ．佐藤"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199960,
+    "ja": "中島　裕之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199976,
+    "ja": "中村　剛也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1199992,
+    "ja": "細川　亨"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200024,
+    "ja": "松坂　健太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200040,
+    "ja": "阿部　真宏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200056,
+    "ja": "大引　啓次"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200072,
+    "ja": "大村　直之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200104,
+    "ja": "北川　博敏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200120,
+    "ja": "木元　邦之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200136,
+    "ja": "後藤　光尊"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200152,
+    "ja": "坂口　智隆"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200168,
+    "ja": "塩崎　真"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200184,
+    "ja": "下山　真二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200200,
+    "ja": "濱中　治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200216,
+    "ja": "日高　剛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200248,
+    "ja": "古木　克明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200288,
+    "ja": "稲田　直人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200304,
+    "ja": "稲葉　篤紀"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200320,
+    "ja": "小田　智之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200336,
+    "ja": "金子　誠"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200352,
+    "ja": "小谷野　栄一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200368,
+    "ja": "高橋　信二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200384,
+    "ja": "田中　賢介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200400,
+    "ja": "坪井　智哉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200416,
+    "ja": "中田　翔"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200432,
+    "ja": "二岡　智宏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200448,
+    "ja": "森本　稀哲"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200464,
+    "ja": "陽　仲壽"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200480,
+    "ja": "青野　毅"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200496,
+    "ja": "井口　資仁"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200512,
+    "ja": "今江　敏晃"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200528,
+    "ja": "大塚　明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200544,
+    "ja": "大松　尚逸"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200560,
+    "ja": "里崎　智也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200592,
+    "ja": "竹原　直隆"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200608,
+    "ja": "西岡　剛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200624,
+    "ja": "根元　俊一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200640,
+    "ja": "橋本　将"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200656,
+    "ja": "早川　大輔"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200672,
+    "ja": "福浦　和也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200696,
+    "ja": "堀　幸一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200712,
+    "ja": "礒部　公一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200728,
+    "ja": "草野　大輔"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200744,
+    "ja": "憲史"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200752,
+    "ja": "小坂　誠"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200768,
+    "ja": "嶋　基宏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200800,
+    "ja": "高須　洋介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200816,
+    "ja": "鉄平"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200824,
+    "ja": "中村　紀洋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200840,
+    "ja": "藤井　彰人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200856,
+    "ja": "牧田　明久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200872,
+    "ja": "宮出　隆自"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200888,
+    "ja": "山﨑　武司"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200904,
+    "ja": "横川　史学"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200928,
+    "ja": "渡辺　直人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200960,
+    "ja": "川﨑　宗則"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200976,
+    "ja": "小久保　裕紀"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1200992,
+    "ja": "柴原　洋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201008,
+    "ja": "多村　仁志"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201024,
+    "ja": "本多　雄一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201040,
+    "ja": "松田　宣浩"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201056,
+    "ja": "松中　信彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201072,
+    "ja": "的場　直樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201088,
+    "ja": "村松　有人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201104,
+    "ja": "山崎　勝己"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201120,
+    "ja": "阿部　慎之助"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201136,
+    "ja": "李　承燁"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201152,
+    "ja": "大道　典嘉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201168,
+    "ja": "小笠原　道大"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201184,
+    "ja": "亀井　義行"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201200,
+    "ja": "木村　拓也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201216,
+    "ja": "坂本　勇人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201232,
+    "ja": "高橋　由伸"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201248,
+    "ja": "谷　佳知"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201264,
+    "ja": "古城　茂幸"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201280,
+    "ja": "矢野　謙次"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201312,
+    "ja": "脇谷　亮太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201328,
+    "ja": "赤星　憲広"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201344,
+    "ja": "新井　貴浩"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201360,
+    "ja": "今岡　誠"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201376,
+    "ja": "葛城　育郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201392,
+    "ja": "金本　知憲"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201408,
+    "ja": "桜井　広大"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201424,
+    "ja": "関本　賢太郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201440,
+    "ja": "鳥谷　敬"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201472,
+    "ja": "桧山　進次郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201488,
+    "ja": "平野　恵一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201504,
+    "ja": "藤本　敦士"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201520,
+    "ja": "矢野　輝弘"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201536,
+    "ja": "林　威助"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201552,
+    "ja": "荒木　雅博"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201568,
+    "ja": "李　炳圭"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201584,
+    "ja": "井上　一樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201600,
+    "ja": "井端　弘和"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201616,
+    "ja": "立浪　和義"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201632,
+    "ja": "谷繁　元信"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201648,
+    "ja": "堂上　剛裕"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201664,
+    "ja": "英智"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201672,
+    "ja": "平田　良介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201688,
+    "ja": "森野　将彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201704,
+    "ja": "和田　一浩"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201720,
+    "ja": "赤松　真人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201736,
+    "ja": "天谷　宗一郎"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201752,
+    "ja": "石井　琢朗"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201768,
+    "ja": "石原　慶幸"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201784,
+    "ja": "緒方　孝市"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201800,
+    "ja": "尾形　佳紀"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201816,
+    "ja": "喜田　剛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201832,
+    "ja": "倉　義和"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201848,
+    "ja": "栗原　健太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201864,
+    "ja": "小窪　哲也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201880,
+    "ja": "嶋　重宣"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201912,
+    "ja": "梵　英心"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201928,
+    "ja": "東出　輝裕"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201944,
+    "ja": "前田　智徳"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201960,
+    "ja": "相川　亮二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201976,
+    "ja": "青木　宣親"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1201992,
+    "ja": "飯原　誉士"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202024,
+    "ja": "武内　晋一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202040,
+    "ja": "田中　浩康"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202056,
+    "ja": "畠山　和洋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202072,
+    "ja": "福川　将和"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202088,
+    "ja": "福地　寿樹"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202120,
+    "ja": "宮本　慎也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202136,
+    "ja": "吉本　亮"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202152,
+    "ja": "内川　聖一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202168,
+    "ja": "大西　宏明"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202184,
+    "ja": "金城　龍彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202200,
+    "ja": "斉藤　秀光"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202216,
+    "ja": "佐伯　貴弘"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202232,
+    "ja": "仁志　敏久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202248,
+    "ja": "村田　修一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202264,
+    "ja": "森笠　繁"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1202280,
+    "ja": "吉村　裕基"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205616,
+    "ja": "石井　一久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205632,
+    "ja": "岩﨑　哲也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205648,
+    "ja": "大沼　幸二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205664,
+    "ja": "岡本　慎也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205680,
+    "ja": "小野寺　力"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205696,
+    "ja": "岸　孝之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205728,
+    "ja": "朱　大衛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205744,
+    "ja": "土肥　義弘"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205760,
+    "ja": "西口　文也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205776,
+    "ja": "帆足　和幸"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205792,
+    "ja": "涌井　秀章"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205808,
+    "ja": "大久保　勝信"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205824,
+    "ja": "加藤　大輔"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205840,
+    "ja": "金子　千尋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205856,
+    "ja": "川越　英隆"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205872,
+    "ja": "菊地原　毅"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205888,
+    "ja": "岸田　護"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205904,
+    "ja": "小松　聖"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205920,
+    "ja": "平野　佳寿"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205952,
+    "ja": "光原　逸裕"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205968,
+    "ja": "本柳　和也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1205984,
+    "ja": "吉野　誠"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206000,
+    "ja": "伊藤　剛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206032,
+    "ja": "武田　久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206048,
+    "ja": "武田　勝"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206064,
+    "ja": "多田野　数人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206080,
+    "ja": "建山　義紀"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206120,
+    "ja": "林　昌範"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206136,
+    "ja": "藤井　秀悟"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206152,
+    "ja": "八木　智哉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206168,
+    "ja": "山本　一徳"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206184,
+    "ja": "荻野　忠寛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206200,
+    "ja": "小野　晋吾"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206216,
+    "ja": "唐川　侑己"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206232,
+    "ja": "川﨑　雄介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206248,
+    "ja": "小林　宏之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206264,
+    "ja": "小宮山　悟"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206296,
+    "ja": "清水　直行"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206312,
+    "ja": "成瀬　善久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206328,
+    "ja": "松本　幸大"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206344,
+    "ja": "渡辺　俊介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206360,
+    "ja": "青山　浩二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206376,
+    "ja": "有銘　兼久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206392,
+    "ja": "岩隈　久志"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206408,
+    "ja": "川岸　強"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206424,
+    "ja": "佐竹　健太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206440,
+    "ja": "田中　将大"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206456,
+    "ja": "永井　怜"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206472,
+    "ja": "長谷部　康平"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206488,
+    "ja": "吉崎　勝"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206504,
+    "ja": "新垣　渚"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206520,
+    "ja": "大隣　憲司"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206536,
+    "ja": "大場　翔太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206552,
+    "ja": "小椋　真介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206568,
+    "ja": "甲藤　啓介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206584,
+    "ja": "神内　靖"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206600,
+    "ja": "久米　勇紀"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206616,
+    "ja": "斉藤　和巳"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206632,
+    "ja": "杉内　俊哉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206648,
+    "ja": "馬原　孝浩"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206664,
+    "ja": "三瀬　幸司"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206680,
+    "ja": "森福　允彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206696,
+    "ja": "和田　毅"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206712,
+    "ja": "内海　哲也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206728,
+    "ja": "越智　大祐"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206744,
+    "ja": "木佐貫　洋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206792,
+    "ja": "高橋　尚成"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206808,
+    "ja": "野間口　貴彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206824,
+    "ja": "福田　聡志"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206840,
+    "ja": "藤田　宗一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206856,
+    "ja": "M. 中村"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206864,
+    "ja": "山口　鉄也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206880,
+    "ja": "安藤　優也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206896,
+    "ja": "岩田　稔"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206928,
+    "ja": "江草　仁貴"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206944,
+    "ja": "金村　曉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206960,
+    "ja": "久保　康友"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206976,
+    "ja": "久保田　智之"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1206992,
+    "ja": "桟原　将司"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207008,
+    "ja": "下柳　剛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207024,
+    "ja": "杉山　直久"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207040,
+    "ja": "能見　篤史"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207056,
+    "ja": "藤川　球児"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207072,
+    "ja": "渡辺　亮"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207088,
+    "ja": "浅尾　拓也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207104,
+    "ja": "朝倉　健太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207120,
+    "ja": "岩瀬　仁紀"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207136,
+    "ja": "河原　純一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207152,
+    "ja": "鈴木　義広"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207168,
+    "ja": "高橋　聡文"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207184,
+    "ja": "中田　賢一"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207200,
+    "ja": "山井　大介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207216,
+    "ja": "山本昌"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207224,
+    "ja": "青木　高広"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207240,
+    "ja": "梅津　智弘"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207256,
+    "ja": "大竹　寛"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207288,
+    "ja": "永川　勝浩"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207304,
+    "ja": "前田　健太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207320,
+    "ja": "横山　竜士"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207344,
+    "ja": "五十嵐　亮太"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207360,
+    "ja": "石川　雅規"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207376,
+    "ja": "一場　靖弘"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207392,
+    "ja": "林　昌勇"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207408,
+    "ja": "押本　健彦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207424,
+    "ja": "川島　亮"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207440,
+    "ja": "木田　優夫"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207456,
+    "ja": "佐藤　賢"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207472,
+    "ja": "高井　雄平"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207488,
+    "ja": "増渕　竜義"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207504,
+    "ja": "松井　光介"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207520,
+    "ja": "村中　恭兵"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207536,
+    "ja": "吉川　昌宏"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207552,
+    "ja": "由規"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207560,
+    "ja": "石井　裕也"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207576,
+    "ja": "小山田　保裕"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207592,
+    "ja": "加藤　武治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207608,
+    "ja": "木塚　敦志"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207624,
+    "ja": "工藤　公康"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207640,
+    "ja": "桑原　謙太朗"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207664,
+    "ja": "佐藤　祥万"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207680,
+    "ja": "寺原　隼人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207696,
+    "ja": "那須野　巧"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207712,
+    "ja": "秦　裕二"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207728,
+    "ja": "三浦　大輔"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207744,
+    "ja": "山北　茂利"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207760,
+    "ja": "横山　道哉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1207776,
+    "ja": "吉見　祐治"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211608,
+    "ja": "壹韋殷"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211632,
+    "ja": "櫻凰"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211640,
+    "ja": "檜劼"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211672,
+    "ja": "腱筧鉉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211680,
+    "ja": "廣晧髙渾竑洸國"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211696,
+    "ja": "簑齊炸齋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211768,
+    "ja": "藪甦"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211776,
+    "ja": "澤眈臺"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211784,
+    "ja": "笘趙"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211808,
+    "ja": "濱罠珉"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211824,
+    "ja": "秉璧邊邉炳"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211848,
+    "ja": "枡饅"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1211872,
+    "ja": "燁燿鎔豫"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214464,
+    "ja": "１①Ⅰ一壱１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214480,
+    "ja": "２②Ⅱ二弐２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214496,
+    "ja": "３③Ⅲ三参３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214664,
+    "ja": "あア"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214832,
+    "ja": "内部エラーです。"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214880,
+    "ja": "変換"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214936,
+    "ja": "日本人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1214944,
+    "ja": "外国人"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215008,
+    "ja": "年目"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215208,
+    "ja": "基本"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215240,
+    "ja": "低い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215320,
+    "ja": "たれ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215360,
+    "ja": "つり"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215384,
+    "ja": "配置"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215472,
+    "ja": "横位置"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215488,
+    "ja": "縦位置"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215496,
+    "ja": "角度"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215592,
+    "ja": "細い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215616,
+    "ja": "縦幅"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215648,
+    "ja": "長い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215688,
+    "ja": "短い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215776,
+    "ja": "太い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215800,
+    "ja": "太さ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215880,
+    "ja": "ほほ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215888,
+    "ja": "位置"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215920,
+    "ja": "厚い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215928,
+    "ja": "厚さ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1215944,
+    "ja": "長さ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216008,
+    "ja": "張り"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216032,
+    "ja": "えら"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216040,
+    "ja": "あご"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216048,
+    "ja": "みみ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216072,
+    "ja": "短髪"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216392,
+    "ja": "薄い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216400,
+    "ja": "濃い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216408,
+    "ja": "ヒゲ"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216800,
+    "ja": "身長"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216816,
+    "ja": "標準型"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216824,
+    "ja": "筋肉質型"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216840,
+    "ja": "重量型"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216864,
+    "ja": "全体"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216920,
+    "ja": "狭い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216960,
+    "ja": "広い"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1216984,
+    "ja": "肩幅"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217024,
+    "ja": "上半身"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217064,
+    "ja": "下半身"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217336,
+    "ja": "革色"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217416,
+    "ja": "黄色"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217424,
+    "ja": "黄緑"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217472,
+    "ja": "短め"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217480,
+    "ja": "長め"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217576,
+    "ja": "手袋"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217672,
+    "ja": "白／水色"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217808,
+    "ja": "半袖"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1217816,
+    "ja": "長袖"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218176,
+    "ja": "苗字"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218184,
+    "ja": "名前"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218192,
+    "ja": "登録名"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218200,
+    "ja": "背名前"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218208,
+    "ja": "背番号"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218760,
+    "ja": "打法"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218768,
+    "ja": "投法"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1218776,
+    "ja": "構え"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1219760,
+    "ja": "容姿設定<RIGHT><OK>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1219936,
+    "ja": "保存先選択<RIGHT><OK>決定"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1224176,
+    "ja": "深夜"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1225272,
+    "ja": "特打　Ｌｖ．１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1225416,
+    "ja": "特打　Ｌｖ．２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1225544,
+    "ja": "特打　Ｌｖ．３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1225672,
+    "ja": "特打"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1225752,
+    "ja": "特守　Ｌｖ．１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1225904,
+    "ja": "特守　Ｌｖ．２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1226040,
+    "ja": "特守Ｌｖ．３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1226232,
+    "ja": "特守"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228192,
+    "ja": "早出特訓　Ｌｖ．１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228368,
+    "ja": "早出特訓　Ｌｖ．２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228416,
+    "ja": "早出特訓　Ｌｖ．３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228456,
+    "ja": "早出特訓"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228560,
+    "ja": "深夜特訓　Ｌｖ．１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228736,
+    "ja": "深夜特訓　Ｌｖ．２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228784,
+    "ja": "深夜特訓　Ｌｖ．３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228824,
+    "ja": "深夜特訓"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1228920,
+    "ja": "ジム"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1230208,
+    "ja": "健康器具　Ｌｖ．１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1230400,
+    "ja": "健康器具　Ｌｖ．２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1230560,
+    "ja": "健康器具　Ｌｖ．３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1230752,
+    "ja": "健康器具"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1230840,
+    "ja": "早寝　Ｌｖ．１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1230944,
+    "ja": "早寝　Ｌｖ．２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1230976,
+    "ja": "早寝　Ｌｖ．３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1231008,
+    "ja": "早寝"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1231104,
+    "ja": "二度寝　Ｌｖ．１"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1231232,
+    "ja": "二度寝　Ｌｖ．２"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1231280,
+    "ja": "二度寝　Ｌｖ．３"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1231320,
+    "ja": "二度寝"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1231576,
+    "ja": "音楽鑑賞"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1231824,
+    "ja": "音楽鑑賞（携帯）"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1232088,
+    "ja": "ＤＶＤ鑑賞"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1232288,
+    "ja": "ＤＶＤ鑑賞（携帯）"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1232488,
+    "ja": "外出"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1232712,
+    "ja": "家電量販店"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1232744,
+    "ja": "外食"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1235464,
+    "ja": "野球用具開発"
+  },
+  {
+    "file": "COM_SEL.OVL",
+    "offset": 1236120,
+    "ja": "俺弁当開発"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 792672,
+    "ja": "通算９９９９奪三振"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 822464,
+    "ja": "山口　富士夫"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 822480,
+    "ja": "黒木　知宏"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 822496,
+    "ja": "田尾　安志"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 822512,
+    "ja": "達川　光男"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 826456,
+    "ja": "得点圏打率"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 826720,
+    "ja": "対左投手打率"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 826768,
+    "ja": "現在"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 827312,
+    "ja": "本塁打達成！！"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 827880,
+    "ja": "得点圏被打率"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 828168,
+    "ja": "対左被打率"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 830208,
+    "ja": "ケガ代走\n"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833160,
+    "ja": "経験値（打席）"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833176,
+    "ja": "経験値（投球）"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833192,
+    "ja": "経験値（走塁）"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833208,
+    "ja": "経験値（守備）"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833224,
+    "ja": "経験値（試合）"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833464,
+    "ja": "進塁打"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833528,
+    "ja": "併殺打"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833544,
+    "ja": "凡打"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833576,
+    "ja": "先頭打者出塁"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833648,
+    "ja": "同点"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833712,
+    "ja": "暴走"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833720,
+    "ja": "好走塁"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833824,
+    "ja": "盗塁成功"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833840,
+    "ja": "盗塁失敗"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833856,
+    "ja": "牽制死"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833864,
+    "ja": "許盗塁"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833872,
+    "ja": "盗塁阻止"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833888,
+    "ja": "盗塁援護"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833912,
+    "ja": "盗塁成功＋得点"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833928,
+    "ja": "好走塁＋得点"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833968,
+    "ja": "進塁"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 833992,
+    "ja": "許盗塁＋三振"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834088,
+    "ja": "代打出場"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834104,
+    "ja": "代走出場"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834120,
+    "ja": "代守出場"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834136,
+    "ja": "先発登板"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834152,
+    "ja": "救援登板"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834184,
+    "ja": "出場給＋勝利給"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834216,
+    "ja": "勝利打点"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834280,
+    "ja": "無四球完封"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834304,
+    "ja": "無四球完投"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834344,
+    "ja": "猛打賞"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834368,
+    "ja": "全打席出塁"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834384,
+    "ja": "先発勝利"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834400,
+    "ja": "救援勝利"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834552,
+    "ja": "二桁奪三振"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 834872,
+    "ja": "通算%d%s"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 839248,
+    "ja": "試合終了"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 839264,
+    "ja": "開始前"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 839288,
+    "ja": "%d回表"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 839296,
+    "ja": "%d回裏"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 839504,
+    "ja": "回戦"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 840088,
+    "ja": "前安"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 840096,
+    "ja": "越安"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 840104,
+    "ja": "線安"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 840192,
+    "ja": "線本"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 840200,
+    "ja": "中本"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 840208,
+    "ja": "走本"
+  },
+  {
+    "file": "MATCH.OVL",
+    "offset": 840344,
+    "ja": "第%d打席"
+  },
+  {
+    "file": "MATCHHR.OVL",
+    "offset": 75584,
+    "ja": "ゲームを始めます。"
+  },
+  {
+    "file": "MATCHHR.OVL",
+    "offset": 75920,
+    "ja": "%2d×%d.%d / 1本塁打"
+  },
+  {
+    "file": "MTMAN.OVL",
+    "offset": 42536,
+    "ja": "テンポ良く"
+  },
+  {
+    "file": "MTMAN.OVL",
+    "offset": 44464,
+    "ja": "指示しない"
+  },
+  {
+    "file": "MTSENA.OVL",
+    "offset": 56464,
+    "ja": "コンボ効果 : アベック砲 bonus %f\n"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 343368,
+    "ja": "　防御率 %1.2f"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 343840,
+    "ja": "１０試合連続安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 343872,
+    "ja": "２０試合連続安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 343904,
+    "ja": "３０試合連続安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 343936,
+    "ja": "１００試合連続安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 343968,
+    "ja": "１５試合連続出塁"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 344000,
+    "ja": "２５試合連続出塁"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 344032,
+    "ja": "３５試合連続出塁"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 344064,
+    "ja": "１３０試合連続出塁"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 344096,
+    "ja": "３試合連続本塁打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 344128,
+    "ja": "５試合連続本塁打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 344160,
+    "ja": "８試合連続本塁打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 344192,
+    "ja": "３０試合連続本塁打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 345856,
+    "ja": "５試合連続先発勝利"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 345888,
+    "ja": "１０試合連続先発勝利"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 345920,
+    "ja": "１５試合連続先発勝利"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 345952,
+    "ja": "２０試合連続先発勝利"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 348664,
+    "ja": "明日"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 348672,
+    "ja": "明後日"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 348680,
+    "ja": "%d日後"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 350976,
+    "ja": "%s　ＶＳ　%s　第%d回戦　"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 351816,
+    "ja": "目標"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 351904,
+    "ja": "采配"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 352280,
+    "ja": "自由契約"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355136,
+    "ja": "全日程終了"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355376,
+    "ja": "投球回数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355472,
+    "ja": "奪三率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355488,
+    "ja": "四球率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355504,
+    "ja": "死球率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355512,
+    "ja": "打者"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355536,
+    "ja": "被打率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355544,
+    "ja": "右被率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355552,
+    "ja": "右被数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355560,
+    "ja": "左被率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355568,
+    "ja": "左被数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355576,
+    "ja": "被本数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355584,
+    "ja": "被本率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355592,
+    "ja": "被盗企"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355600,
+    "ja": "許盗数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355608,
+    "ja": "許盗率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355632,
+    "ja": "自責点"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355640,
+    "ja": "均投数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355816,
+    "ja": "単打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355848,
+    "ja": "本打率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355856,
+    "ja": "塁打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355880,
+    "ja": "圏打率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355888,
+    "ja": "圏打数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355896,
+    "ja": "圏安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355904,
+    "ja": "対右率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355912,
+    "ja": "対右数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355920,
+    "ja": "対右安"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355928,
+    "ja": "対左率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355936,
+    "ja": "対左数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355944,
+    "ja": "対左安"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 355968,
+    "ja": "三振率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356016,
+    "ja": "併打率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356024,
+    "ja": "盗企数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356040,
+    "ja": "盗塁率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356064,
+    "ja": "均野数"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356232,
+    "ja": "刺殺"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356240,
+    "ja": "補殺"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356256,
+    "ja": "守機会"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356264,
+    "ja": "守備率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356272,
+    "ja": "捕逸"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356280,
+    "ja": "盗塁刺"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356288,
+    "ja": "盗止率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356488,
+    "ja": "連続安"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356496,
+    "ja": "連試出"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 356504,
+    "ja": "連無安"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 357744,
+    "ja": "日 現在"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 358568,
+    "ja": "最優秀防御率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 358584,
+    "ja": "最多勝"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 358624,
+    "ja": "最多奪三振"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 358640,
+    "ja": "勝率一位"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 358656,
+    "ja": "首位打者"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 358704,
+    "ja": "最多安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 358720,
+    "ja": "最高出塁率"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359104,
+    "ja": "連続安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359120,
+    "ja": "連続出塁"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359144,
+    "ja": "連続無安打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359248,
+    "ja": "初回先頭打者本塁打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359288,
+    "ja": "最多本塁打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359304,
+    "ja": "最多打点"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359320,
+    "ja": "最多三振"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359336,
+    "ja": "最多併殺打"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359352,
+    "ja": "最多失策"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359720,
+    "ja": "三冠王"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359912,
+    "ja": "連勝"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 359920,
+    "ja": "連敗"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 360008,
+    "ja": "最多四球"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 360024,
+    "ja": "最多失点"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 360040,
+    "ja": "最多暴投"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 361288,
+    "ja": "- 他多数 -"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 363448,
+    "ja": "承諾"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 363456,
+    "ja": "拒否"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 363512,
+    "ja": "放出選手"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364632,
+    "ja": "先発投手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364680,
+    "ja": "捕手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364696,
+    "ja": "一塁手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364712,
+    "ja": "二塁手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364728,
+    "ja": "三塁手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364744,
+    "ja": "遊撃手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364760,
+    "ja": "外野手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 364776,
+    "ja": "ＤＨ部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 365096,
+    "ja": "野手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 365112,
+    "ja": "投手部門"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 365248,
+    "ja": "本%d　打点　%d"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 365536,
+    "ja": "この選手を入団させますか？"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 367184,
+    "ja": "%d順目"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 367776,
+    "ja": "指名選手選択"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 367824,
+    "ja": "指名結果"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368056,
+    "ja": "未定"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368072,
+    "ja": "安芸"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368080,
+    "ja": "秋田"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368088,
+    "ja": "青森"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368096,
+    "ja": "旭川"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368104,
+    "ja": "足利"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368112,
+    "ja": "淡路"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368120,
+    "ja": "文京区"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368128,
+    "ja": "千葉"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368136,
+    "ja": "大仙"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368144,
+    "ja": "海老名"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368152,
+    "ja": "遠軽"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368160,
+    "ja": "福井"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368168,
+    "ja": "福岡"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368176,
+    "ja": "福島"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368192,
+    "ja": "蒲郡"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368200,
+    "ja": "岐阜"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368208,
+    "ja": "郡上"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368216,
+    "ja": "函館"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368224,
+    "ja": "浜松"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368232,
+    "ja": "飯能"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368240,
+    "ja": "東近江"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368248,
+    "ja": "彦根"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368256,
+    "ja": "平塚"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368288,
+    "ja": "本荘"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368296,
+    "ja": "本庄"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368304,
+    "ja": "日向"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368312,
+    "ja": "一戸"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368320,
+    "ja": "一関"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368328,
+    "ja": "飯塚"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368344,
+    "ja": "石巻"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368360,
+    "ja": "岩国"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368368,
+    "ja": "岩手"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368376,
+    "ja": "上越"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368384,
+    "ja": "鹿児島"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368392,
+    "ja": "掛川"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368408,
+    "ja": "上尾"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368416,
+    "ja": "上富田"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368424,
+    "ja": "金沢"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368432,
+    "ja": "唐津"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368440,
+    "ja": "春日"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368448,
+    "ja": "川崎"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368456,
+    "ja": "北九州"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368464,
+    "ja": "神戸"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368472,
+    "ja": "高知"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368480,
+    "ja": "甲府"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368488,
+    "ja": "郡山"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368496,
+    "ja": "越谷"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368504,
+    "ja": "熊谷"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368512,
+    "ja": "熊本"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368520,
+    "ja": "倉敷"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368536,
+    "ja": "久留米"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368544,
+    "ja": "釧路"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368552,
+    "ja": "京丹後"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368560,
+    "ja": "京都"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368568,
+    "ja": "前橋"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368576,
+    "ja": "松本"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368584,
+    "ja": "松山"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368592,
+    "ja": "南三陸"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368600,
+    "ja": "南相馬"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368608,
+    "ja": "水戸"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368616,
+    "ja": "都城"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368624,
+    "ja": "宮崎"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368632,
+    "ja": "長野"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368640,
+    "ja": "長岡"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368648,
+    "ja": "長良川"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368656,
+    "ja": "長崎"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368664,
+    "ja": "名古屋"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368672,
+    "ja": "中井"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368680,
+    "ja": "西宮"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368688,
+    "ja": "帯広"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368696,
+    "ja": "大館"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368704,
+    "ja": "小田原"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368712,
+    "ja": "小郡"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368720,
+    "ja": "大分"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368728,
+    "ja": "岡崎"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368736,
+    "ja": "大宮"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368744,
+    "ja": "邑南"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368752,
+    "ja": "尾道"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368760,
+    "ja": "大阪"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368768,
+    "ja": "大田区"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368776,
+    "ja": "六戸"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368784,
+    "ja": "佐伯"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368792,
+    "ja": "佐賀"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368800,
+    "ja": "相模原"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368824,
+    "ja": "酒田"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368832,
+    "ja": "三条"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368840,
+    "ja": "札幌"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368848,
+    "ja": "佐世保"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368856,
+    "ja": "薩摩川内"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368872,
+    "ja": "仙台"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368880,
+    "ja": "下関"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368888,
+    "ja": "新庄"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368896,
+    "ja": "新宿区"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368904,
+    "ja": "静岡"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368920,
+    "ja": "諏訪"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368928,
+    "ja": "高崎"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368936,
+    "ja": "丹波"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368944,
+    "ja": "天童"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368952,
+    "ja": "戸田"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368960,
+    "ja": "所沢"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368968,
+    "ja": "鳥取"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368976,
+    "ja": "富山"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368984,
+    "ja": "豊橋"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 368992,
+    "ja": "豊平"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369000,
+    "ja": "豊田"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369008,
+    "ja": "鶴岡"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369016,
+    "ja": "嬉野"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369024,
+    "ja": "宇都宮"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369032,
+    "ja": "山鹿"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369040,
+    "ja": "山形"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369048,
+    "ja": "山口"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369056,
+    "ja": "大和"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369064,
+    "ja": "八代"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369072,
+    "ja": "四日市"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369088,
+    "ja": "横須賀"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369096,
+    "ja": "横手"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369104,
+    "ja": "米子"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369112,
+    "ja": "米沢"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369120,
+    "ja": "新潟"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369128,
+    "ja": "三次"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369136,
+    "ja": "沖縄"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 369144,
+    "ja": "盛岡"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370264,
+    "ja": "北海道"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370272,
+    "ja": "宮城"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370280,
+    "ja": "東京"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370288,
+    "ja": "神奈川"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370296,
+    "ja": "埼玉"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370304,
+    "ja": "茨城"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370312,
+    "ja": "栃木"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370320,
+    "ja": "群馬"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370328,
+    "ja": "山梨"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370336,
+    "ja": "愛知"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370344,
+    "ja": "三重"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370352,
+    "ja": "兵庫"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370360,
+    "ja": "滋賀"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370368,
+    "ja": "奈良"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370376,
+    "ja": "和歌山"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370384,
+    "ja": "島根"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370392,
+    "ja": "岡山"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370400,
+    "ja": "徳島"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370408,
+    "ja": "香川"
+  },
+  {
+    "file": "PENNANT.OVL",
+    "offset": 370416,
+    "ja": "愛媛"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 432544,
+    "ja": "球場"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433128,
+    "ja": "完全試合賞"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433176,
+    "ja": "無四死球賞"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433192,
+    "ja": "勝利投手賞"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433240,
+    "ja": "２桁奪三振賞"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433608,
+    "ja": "前沢牛"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433664,
+    "ja": "比内鳥"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433800,
+    "ja": "餃子"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433816,
+    "ja": "江戸前寿司"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433856,
+    "ja": "牛鍋"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433872,
+    "ja": "中華料理"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 433992,
+    "ja": "加賀料理"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 434112,
+    "ja": "飛騨牛"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 434200,
+    "ja": "神戸牛"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 434264,
+    "ja": "カキ"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 435696,
+    "ja": "調子ＵＰ！"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 435752,
+    "ja": "守備力ＵＰ！"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 435768,
+    "ja": "制球ＵＰ！"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439296,
+    "ja": "個性的"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439368,
+    "ja": "男前"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439376,
+    "ja": "無邪気"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439416,
+    "ja": "紳士"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439440,
+    "ja": "期待"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439464,
+    "ja": "賞賛"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439472,
+    "ja": "太鼓判"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439480,
+    "ja": "大黒柱"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439488,
+    "ja": "対等"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439496,
+    "ja": "注目"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439504,
+    "ja": "支柱"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439512,
+    "ja": "尊敬"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 439528,
+    "ja": "全幅"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 444904,
+    "ja": "交流戦"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 445800,
+    "ja": "個人成績"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 446288,
+    "ja": "装備品設定"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 448824,
+    "ja": "先発予定"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 456376,
+    "ja": "地方総合情報誌"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 457432,
+    "ja": "空気清浄機"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 459120,
+    "ja": "中華"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 459128,
+    "ja": "牛肉"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 459136,
+    "ja": "豚肉"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 459144,
+    "ja": "鶏肉"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 459160,
+    "ja": "洋食"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461624,
+    "ja": "捕球力＋１"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461640,
+    "ja": "守備適性"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461664,
+    "ja": "守備適性＋１　投"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461696,
+    "ja": "守備適性＋１　捕"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461728,
+    "ja": "守備適性＋１　一"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461760,
+    "ja": "守備適性＋１　二"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461792,
+    "ja": "守備適性＋１　三"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461824,
+    "ja": "守備適性＋１　遊"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461856,
+    "ja": "守備適性＋１　左"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461888,
+    "ja": "守備適性＋１　中"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461920,
+    "ja": "守備適性＋１　右"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461944,
+    "ja": "疲労回復力＋１"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 461976,
+    "ja": "球速＋１"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 462008,
+    "ja": "先発調整力＋１"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 463208,
+    "ja": "球種変更"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 468920,
+    "ja": "最優秀選手"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469096,
+    "ja": "最優秀新人"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469112,
+    "ja": "沢村賞"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469400,
+    "ja": "通算１００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469416,
+    "ja": "通算２００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469432,
+    "ja": "通算３００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469448,
+    "ja": "通算４００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469464,
+    "ja": "通算５００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469480,
+    "ja": "通算６００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469496,
+    "ja": "通算７００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469512,
+    "ja": "通算８００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469528,
+    "ja": "通算９００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469552,
+    "ja": "通算１０００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469584,
+    "ja": "通算１１００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469616,
+    "ja": "通算１２００登板"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469640,
+    "ja": "通算５０勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469656,
+    "ja": "通算１００勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469672,
+    "ja": "通算１５０勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469688,
+    "ja": "通算２００勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469704,
+    "ja": "通算２５０勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469720,
+    "ja": "通算３００勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469736,
+    "ja": "通算３５０勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469752,
+    "ja": "通算４００勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469768,
+    "ja": "通算４５０勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 469784,
+    "ja": "通算５００勝"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470128,
+    "ja": "通算５００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470192,
+    "ja": "通算１５００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470256,
+    "ja": "通算２５００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470320,
+    "ja": "通算３５００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470384,
+    "ja": "通算４５００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470416,
+    "ja": "通算５０００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470448,
+    "ja": "通算５５００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470480,
+    "ja": "通算６０００奪三振"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470512,
+    "ja": "通算５００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470544,
+    "ja": "通算１０００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470576,
+    "ja": "通算１５００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470608,
+    "ja": "通算２０００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470640,
+    "ja": "通算２５００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470672,
+    "ja": "通算３０００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470704,
+    "ja": "通算３５００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470736,
+    "ja": "通算４０００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470768,
+    "ja": "通算４５００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 470800,
+    "ja": "通算５０００投球回"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 471096,
+    "ja": "通算５００試合"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 471120,
+    "ja": "通算１０００試合"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 471152,
+    "ja": "通算１５００試合"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 471184,
+    "ja": "通算２０００試合"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 471216,
+    "ja": "通算２５００試合"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 471248,
+    "ja": "通算３０００試合"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472560,
+    "ja": "通算５００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472592,
+    "ja": "通算１０００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472624,
+    "ja": "通算１５００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472656,
+    "ja": "通算２０００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472688,
+    "ja": "通算２５００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472720,
+    "ja": "通算３０００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472752,
+    "ja": "通算３５００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472784,
+    "ja": "通算４０００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472816,
+    "ja": "通算４５００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472848,
+    "ja": "通算５０００本安打"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472872,
+    "ja": "通算５００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472896,
+    "ja": "通算１０００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472928,
+    "ja": "通算１５００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472960,
+    "ja": "通算２０００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 472992,
+    "ja": "通算２５００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473024,
+    "ja": "通算３０００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473056,
+    "ja": "通算３５００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473088,
+    "ja": "通算４０００打点"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473112,
+    "ja": "通算１００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473128,
+    "ja": "通算２００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473144,
+    "ja": "通算３００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473160,
+    "ja": "通算４００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473176,
+    "ja": "通算５００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473192,
+    "ja": "通算６００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473208,
+    "ja": "通算７００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473224,
+    "ja": "通算８００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473240,
+    "ja": "通算９００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473264,
+    "ja": "通算１０００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473296,
+    "ja": "通算１１００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473328,
+    "ja": "通算１２００盗塁"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 473664,
+    "ja": "試合\n打数\n打率\n安打\n本塁打\n打点\n得点\n盗塁\n犠打\n犠飛\n四球\n死球\n三振\n出塁率\n圏打率\n長打率"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 474104,
+    "ja": "あと"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 474584,
+    "ja": "先発投手"
+  },
+  {
+    "file": "PNSOLO.OVL",
+    "offset": 474648,
+    "ja": "２０％以下"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 207104,
+    "ja": "%d週間"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 207144,
+    "ja": "貯金%d\n\n\n"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 207160,
+    "ja": "借金%d\n\n\n"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210616,
+    "ja": "先発調整力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210728,
+    "ja": "投手守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210744,
+    "ja": "捕手守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210760,
+    "ja": "一塁守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210776,
+    "ja": "二塁守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210792,
+    "ja": "三塁守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210808,
+    "ja": "遊撃守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210824,
+    "ja": "左翼守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210840,
+    "ja": "中堅守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210856,
+    "ja": "右翼守備力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210872,
+    "ja": "疲労回復力"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210888,
+    "ja": "%s球威"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210896,
+    "ja": "%s変化量"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 210912,
+    "ja": "%s制球"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 211720,
+    "ja": "逆境○"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 211728,
+    "ja": "代打○"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 211736,
+    "ja": "初球○"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 212248,
+    "ja": "左打者"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 212376,
+    "ja": "寸前×"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 212512,
+    "ja": "接戦"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 212520,
+    "ja": "責任×"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 212528,
+    "ja": "力配分"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 220488,
+    "ja": "違和感"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 220864,
+    "ja": "先発要員"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 220912,
+    "ja": "捕手強化"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 220928,
+    "ja": "内野手強化"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 220944,
+    "ja": "外野手強化"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 221448,
+    "ja": "公示"
+  },
+  {
+    "file": "PNTEAM.OVL",
+    "offset": 223376,
+    "ja": "期間"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 131344,
+    "ja": "擾趣托撰難抵包費暦厄呻假幢夲晢懶滂橸"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 134760,
+    "ja": "打撃投手　選択"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 134776,
+    "ja": "実在投手"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 134792,
+    "ja": "架空　右投手"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 134808,
+    "ja": "架空　左投手"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 134840,
+    "ja": "配球設定"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 134920,
+    "ja": "能力表示"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 134936,
+    "ja": "風　設定"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 135008,
+    "ja": "%d 球種"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 135024,
+    "ja": "打撃練習設定"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 135048,
+    "ja": "打撃投手"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 135112,
+    "ja": "投球練習設定"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 135136,
+    "ja": "守備練習設定"
+  },
+  {
+    "file": "PRACTICE.OVL",
+    "offset": 135528,
+    "ja": "真芯"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 457504,
+    "ja": "　「王監督ラストイヤーを優勝で飾りたい」とチーム\n一丸で臨むも、まさかの最下位に涙した昨季。\n　１から出直しとなったホークスは、秋山ヘッドが新\n監督として就任、立場を変えチームを引っ張る。\n杉内、和田、大隣の左の三本柱に、新入団の巽、攝津\nを加えた投手陣、「ホークスの伝統」を創る小久保、\n松中、川﨑、本多ら野手陣で一年目から狙うは優勝！\n　新生・秋山ホークス、いざ出陣！！"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 458912,
+    "ja": "応援曲%s%s%s"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 459344,
+    "ja": "曲名入力"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 473576,
+    "ja": "ます"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 473976,
+    "ja": "16分音符"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 473992,
+    "ja": "三連符"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 481696,
+    "ja": "ＹＳ国鉄"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 481784,
+    "ja": "Ｌ西鉄"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 481808,
+    "ja": "Ｈ南海"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 481944,
+    "ja": "巨／原監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 481960,
+    "ja": "中／落合監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 482024,
+    "ja": "横／大矢監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 482040,
+    "ja": "神／真弓監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 482056,
+    "ja": "楽／野村監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 482072,
+    "ja": "日／梨田監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 482088,
+    "ja": "西／渡辺監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 483392,
+    "ja": "選手作成時、選択可能。"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484152,
+    "ja": "監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484168,
+    "ja": "壁紙"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484176,
+    "ja": "背景色"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484216,
+    "ja": "登録可"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484224,
+    "ja": "購入可"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484232,
+    "ja": "登録不可"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484248,
+    "ja": "購入不可"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 484624,
+    "ja": "スワローズ・国鉄ユニフォーム"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 486048,
+    "ja": "巨人／原辰徳監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 486080,
+    "ja": "中日／落合博満監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 486176,
+    "ja": "横浜／大矢明彦監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 486208,
+    "ja": "阪神／真弓明信監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 486240,
+    "ja": "楽天／野村克也監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 486304,
+    "ja": "西武／渡辺久信監督"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 487648,
+    "ja": "覚醒可"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 487656,
+    "ja": "覚醒不可"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 488272,
+    "ja": "MEMORY CARD差込口1"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 488304,
+    "ja": "MEMORY CARD差込口2"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 501568,
+    "ja": "獲得ＶＰ順"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 501616,
+    "ja": "本塁打数順"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 501664,
+    "ja": "飛距離順"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 513424,
+    "ja": "守護神候補"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 513472,
+    "ja": "連投ＯＫ"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 513560,
+    "ja": "速球派"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 513600,
+    "ja": "軟投派"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 513656,
+    "ja": "本格派"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 513760,
+    "ja": "精密機械"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 514288,
+    "ja": "走者警戒"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 514344,
+    "ja": "頭脳的"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 514752,
+    "ja": "怪力"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 514848,
+    "ja": "意外性"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 514968,
+    "ja": "韋駄天"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 515064,
+    "ja": "鉄人"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 515112,
+    "ja": "俊足巧打"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 515176,
+    "ja": "鉄砲肩"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 515272,
+    "ja": "正捕手候補"
+  },
+  {
+    "file": "SELECT.OVL",
+    "offset": 515416,
+    "ja": "職人肌"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 96488,
+    "ja": "連発"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 97028,
+    "ja": "内野安打▲1"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 97100,
+    "ja": "内野安打▼1"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 98288,
+    "ja": "初回先頭打者ＨＲ男"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 98468,
+    "ja": "野手威圧感"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 98648,
+    "ja": "野手存在感"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 100304,
+    "ja": "寸前克服"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 100484,
+    "ja": "四球克服"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 101924,
+    "ja": "短気克服"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 102284,
+    "ja": "接戦克服"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 102464,
+    "ja": "責任感克服"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 102500,
+    "ja": "責任感"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 102608,
+    "ja": "球速安定▲１"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 102680,
+    "ja": "球速安定▼１"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 102788,
+    "ja": "投手威圧感"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 102968,
+    "ja": "投手存在感"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 104616,
+    "ja": "育成終了"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 107424,
+    "ja": "失敗"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 107432,
+    "ja": "成功"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 108496,
+    "ja": "守備力 +%d"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 108512,
+    "ja": "走力 +%d"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 108528,
+    "ja": "守備力、走力 +%d"
+  },
+  {
+    "file": "SPIMATCH.OVL",
+    "offset": 108656,
+    "ja": "%s 解除"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 463772,
+    "ja": "初回先頭打者ＨＲ"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 471128,
+    "ja": "球種"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 475260,
+    "ja": "守備走塁練習"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 496416,
+    "ja": "能力設定<RIGHT><OK>決定"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 499008,
+    "ja": "球速＋１ｋｍ／ｈ"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 500936,
+    "ja": "連続３安打"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 501032,
+    "ja": "犠打３本"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 501048,
+    "ja": "犠打２本"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 501064,
+    "ja": "犠打１本"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 501864,
+    "ja": "走力Ｄ以上"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 502176,
+    "ja": "守備適性Ｃ以上"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 502192,
+    "ja": "守備適性Ｄ以上"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 502232,
+    "ja": "肩力Ｃ以上"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 502344,
+    "ja": "捕球Ｄ以上"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 502760,
+    "ja": "（強制取得）"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 502960,
+    "ja": "６奪三振"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 521824,
+    "ja": "打撃開眼中"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 521840,
+    "ja": "守備走塁開眼中"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 521856,
+    "ja": "投球開眼中"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 521872,
+    "ja": "変化球開眼中"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 523512,
+    "ja": "対決開始！"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 523528,
+    "ja": "対決回避！"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 523736,
+    "ja": "勝負！"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 527584,
+    "ja": "次の能力アップ画面で、与えられたポイントを自由に使い<BR>プレイヤーの初期能力を決めてください。<BR>試合はすぐに始まるのでよく考えて決定しましょう。"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 532544,
+    "ja": "選手覚醒情報<RIGHT><○>終了"
+  },
+  {
+    "file": "SPIRITS.OVL",
+    "offset": 532896,
+    "ja": "試合結果<RIGHT><○>次へ"
+  },
+  {
+    "file": "TRIAL.OVL",
+    "offset": 117136,
+    "ja": "打球判断"
+  },
+  {
+    "file": "TRIAL.OVL",
+    "offset": 130200,
+    "ja": "囮眞"
+  },
+  {
+    "file": "TRIAL.OVL",
+    "offset": 130772,
+    "ja": "fff@囮鮹"
+  },
+  {
+    "file": "TRIAL.OVL",
+    "offset": 132856,
+    "ja": "ＶＰ　獲得"
+  },
+  {
+    "file": "TUTORIAL.OVL",
+    "offset": 149128,
+    "ja": "投球開始"
+  },
+  {
+    "file": "TUTORIAL.OVL",
+    "offset": 149176,
+    "ja": "球種選択"
+  },
+  {
+    "file": "TUTORIAL.OVL",
+    "offset": 149192,
+    "ja": "狙う"
+  },
+  {
+    "file": "TUTORIAL.OVL",
+    "offset": 149264,
+    "ja": "一塁牽制"
+  },
+  {
+    "file": "TUTORIAL.OVL",
+    "offset": 149280,
+    "ja": "二塁牽制"
+  },
+  {
+    "file": "TUTORIAL.OVL",
+    "offset": 149296,
+    "ja": "三塁牽制"
+  },
+  {
+    "file": "TUTORIAL.OVL",
+    "offset": 149312,
+    "ja": "盗塁開始"
+  }
+]

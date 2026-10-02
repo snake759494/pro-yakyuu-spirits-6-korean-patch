@@ -1,0 +1,374 @@
+COM_SEL.OVL:118860|COM 트레이드 규칙
+COM_SEL.OVL:118898|은퇴・재등장
+COM_SEL.OVL:1188b8|각성 챌린지
+COM_SEL.OVL:1188e0|우리 팀과만 트레이드
+COM_SEL.OVL:118960|\C707070COM 팀의 트레이드 규칙을 설정합니다.
+COM_SEL.OVL:1189a0|\C707070COM 외국인 중도 입단\nCOM 팀의 외국인 선수 중도 입단을 허용할지 설정합니다.
+COM_SEL.OVL:118a10|\C707070켜면 나이 든 선수가 은퇴한 뒤\n젊어진 모습으로 재등장하기도 합니다.
+COM_SEL.OVL:118a70|\C707070우천 취소 여부를 설정합니다.\n켜면 비 때문에 경기 일정이 연기될 수 있습니다.
+COM_SEL.OVL:118ae0|\C707070각성 챌린지 발생 여부를 설정합니다.\n각성 챌린지는 경험치가 쌓이면 발생합니다.
+COM_SEL.OVL:118b50|\C707070COM 팀이 모든 팀과 자유롭게 트레이드합니다.
+COM_SEL.OVL:118ba0|\C707070COM 팀이 플레이어 팀과만 트레이드합니다.
+COM_SEL.OVL:118bf0|\C707070COM 팀은 트레이드하지 않습니다.
+COM_SEL.OVL:118c20|\C707070COM 팀에도 외국인 선수가 중도 입단합니다.
+COM_SEL.OVL:118c60|\C707070COM 팀은 외국인 선수가 중도 입단하지 않습니다.
+COM_SEL.OVL:118ca0|\C707070나이 든 선수는 은퇴합니다.\n은퇴한 선수는 젊어져 재등장하기도 합니다.
+COM_SEL.OVL:118d10|\C707070선수가 은퇴하지 않으며 재등장도 없습니다.
+COM_SEL.OVL:118d50|\C707070비로 취소되는 일정이 생깁니다.
+COM_SEL.OVL:118d80|\C707070우천 취소가 발생하지 않습니다.
+COM_SEL.OVL:118db0|\C707070경험치가 쌓이면 각성 챌린지가 발생합니다.\n피로가 쌓인 상태에서는 발생하지 않습니다.
+COM_SEL.OVL:118e20|\C707070선수를 성장시키는 각성 챌린지가 발생하지 않습니다.
+COM_SEL.OVL:119be0|%dEXP / 매 턴
+COM_SEL.OVL:119c00|컨디션＋1 / 2턴마다
+COM_SEL.OVL:119c30|피로－5 / 매 턴
+COM_SEL.OVL:119c50|프로의 벽 돌파
+COM_SEL.OVL:119c60|수비 전향・1루수
+COM_SEL.OVL:119c80|수비 전향・2루수
+COM_SEL.OVL:119ca0|수비 전향・3루수
+COM_SEL.OVL:119cc0|수비 전향・유격수
+COM_SEL.OVL:119ce0|수비 전향・좌익수
+COM_SEL.OVL:119d00|수비 전향・중견수
+COM_SEL.OVL:119d20|수비 전향・우익수
+COM_SEL.OVL:119d50|포수 리드 기술 향상
+COM_SEL.OVL:119d68|밀어 치기 습득
+COM_SEL.OVL:119d80|백핸드 토스 습득
+COM_SEL.OVL:119da0|파워 히터 습득
+COM_SEL.OVL:119db8|아티스트 습득
+COM_SEL.OVL:119dd0|라인 드라이브 습득
+COM_SEL.OVL:119df0|애버리지 히터 습득
+COM_SEL.OVL:11a750|프로의 자세(야수)
+COM_SEL.OVL:11a790|프로의 길을 걷기 시작한 $m.\n아마 시절의 안일함을 버리고 첫발을 내디딜 수 있을까.
+COM_SEL.OVL:11a7f0|1타석 이상\n수비 출전 1이닝 이상\n※ 하나만 만족하면 됨
+COM_SEL.OVL:11a830|남은%2d\n남은%2d\n
+COM_SEL.OVL:11a848|$m 각성
+COM_SEL.OVL:11a860|획득 경험치 소폭 감소
+COM_SEL.OVL:11a880|프로의 자세를 배워!
+COM_SEL.OVL:11a8a0|$m 각성 성공!
+COM_SEL.OVL:11a8c0|획득 경험치가 조금 줄었습니다.
+COM_SEL.OVL:11a8f0|프로의 기술(야수)
+COM_SEL.OVL:11a930|프로로 살아갈 기술을 익히기 시작한 $m.\n먼저 착실한 플레이를 몸에 익히자.
+COM_SEL.OVL:11a990|4타석 이상\n수비 출전 9이닝 이상\n※ 하나만 만족하면 됨
+COM_SEL.OVL:11a9d0|프로의 기술을 익혀라!
+COM_SEL.OVL:11a9f0|프로의 벽(야수)
+COM_SEL.OVL:11aa30|프로의 벽에 부딪힌 $m. 주위가 도와줄 수는 없다.\n스스로 넘어야 할 시련이다.
+COM_SEL.OVL:11aa90|2안타 이상\n수비 출전 12이닝 이상\n※ 하나만 만족하면 됨
+COM_SEL.OVL:11aad0|프로의 벽을 넘어라!
+COM_SEL.OVL:11aaf0|프로의 긍지(야수)
+COM_SEL.OVL:11ab30|프로의 긍지란 무엇인가. 스스로 알아내야 한다.\n스스로 넘어야 할 시련이다.
+COM_SEL.OVL:11ab90|4안타 이상\n수비 출전 15이닝 이상\n※ 하나만 만족하면 됨
+COM_SEL.OVL:11abd0|프로의 긍지를 이해하라!
+COM_SEL.OVL:11abf0|프로의 정상(야수)
+COM_SEL.OVL:11ac30|프로의 정상을 향하는 길은 쉽지 않다.\n스스로 넘어야 할 시련이다.
+COM_SEL.OVL:11ac90|6안타 이상\n9루타 이상\n※ 하나만 만족하면 됨
+COM_SEL.OVL:11acc0|프로의 정상을 노려라!
+COM_SEL.OVL:11ace0|프로의 극치(야수)
+COM_SEL.OVL:11ad20|프로의 극치란 무엇인가. 스스로 손에 넣어야 한다.\n스스로 넘어야 할 시련이다.
+COM_SEL.OVL:11ad80|11안타 이상\n18루타 이상\n※ 하나만 만족하면 됨
+COM_SEL.OVL:11adb0|프로의 극치를 노려라!
+COM_SEL.OVL:11add0|프로의 진수(야수)
+COM_SEL.OVL:11ae10|프로의 진수란 무엇인가. 스스로 손에 넣어야 한다.\n스스로 넘어야 할 시련이다.
+COM_SEL.OVL:11ae70|17안타 이상\n30루타 이상\n※ 하나만 만족하면 됨
+COM_SEL.OVL:11aea0|프로의 진수를 노려라!
+COM_SEL.OVL:11aec0|프로의 자세(투수)
+COM_SEL.OVL:11af00|1군 경기 등판\n\n
+COM_SEL.OVL:11af30|프로의 기술(투수)
+COM_SEL.OVL:11af80|남은%2d\n\n
+COM_SEL.OVL:11af90|프로의 벽(투수)
+COM_SEL.OVL:11afd0|5이닝 이상\n※ 자책점 3 이하\n
+COM_SEL.OVL:11aff0|남은%2d\n현재%2d\n
+COM_SEL.OVL:11b010|프로의 긍지(투수)
+COM_SEL.OVL:11b050|5이닝 이상\n※ 자책점 2 이하\n
+COM_SEL.OVL:11b070|프로의 정상(투수)
+COM_SEL.OVL:11b0b0|5이닝 이상\n※ 자책점 1 이하\n
+COM_SEL.OVL:11b0d0|프로의 극치(투수)
+COM_SEL.OVL:11b110|5이닝 이상\n※ 자책점 0\n※ 피안타 8 이하
+COM_SEL.OVL:11b140|남은%2d\n현재%2d\n현재%2d
+COM_SEL.OVL:11b160|프로의 진수(투수)
+COM_SEL.OVL:11b1a0|8이닝 이상\n※ 자책점 0\n※ 피안타 5 이하
+COM_SEL.OVL:11b1d0|아직 할 수 있어!(야수)
+COM_SEL.OVL:11b200|출전 기회가 줄어 불만을 호소하는 $m.\n써 주면 해낼 수 있다며 자신을 드러내고 있는데…?
+COM_SEL.OVL:11b288|$m 역각성
+COM_SEL.OVL:11b2a0|$m 활약으로 자신감을 되찾아라!
+COM_SEL.OVL:11b2c0|$m 기운 회복!
+COM_SEL.OVL:11b2e0|%t의 의욕이 떨어졌습니다.
+COM_SEL.OVL:11b310|기회를 주세요(야수)
+COM_SEL.OVL:11b350|출전 기회를 얻지 못해 힘든 나날을 보내는 $m.\n기회만 주어지면 해내겠다는데…?
+COM_SEL.OVL:11b3b0|$m 실력을 보여 줘라!
+COM_SEL.OVL:11b3d0|아직 할 수 있어!(투수)
+COM_SEL.OVL:11b430|기회를 주세요(투수)
+COM_SEL.OVL:11b470|지금이 도약할 때!
+COM_SEL.OVL:11b4b0|$m 컨디션이 최근 눈에 띄게 좋다고 한다.\n2군 코치진은 적극적인 기용을 권하는데…?
+COM_SEL.OVL:11b510|1군 활약으로 경험치 획득!\n\n
+COM_SEL.OVL:11b530|없음\n\n
+COM_SEL.OVL:11b540|출전 경기 수에 따른 경험치
+COM_SEL.OVL:11b560|특이점 없음
+COM_SEL.OVL:11b570|절정의 $m에게 출전 기회를 줘라!
+COM_SEL.OVL:11b590|$m 경험치 %d 획득!
+COM_SEL.OVL:11b5b0|도움말・페넌트 개막!
+COM_SEL.OVL:11b5f0|페넌트 시작 시 전체 흐름을 설명하는 도움말
+COM_SEL.OVL:11b630|도움말・페넌트 설정
+COM_SEL.OVL:11b670|페넌트 설정 도움말
+COM_SEL.OVL:11b690|도움말・팀 편성
+COM_SEL.OVL:11b6d0|팀 편성 도움말
+COM_SEL.OVL:11b6f0|도움말・팀 전력 확인
+COM_SEL.OVL:11b720|팀 전력 도움말
+COM_SEL.OVL:11b740|도움말・건너뛰기 메뉴
+COM_SEL.OVL:11b770|건너뛰기 메뉴 도움말
+COM_SEL.OVL:11b790|도움말・홈구장 특훈
+COM_SEL.OVL:11b7c0|홈구장 특훈 도움말
+COM_SEL.OVL:11b7e0|도움말・목표 확인
+COM_SEL.OVL:11b820|목표 확인 도움말
+COM_SEL.OVL:11b838|도움말・각성
+COM_SEL.OVL:11b860|각성 도움말
+COM_SEL.OVL:11b878|도움말・역각성
+COM_SEL.OVL:11b8b0|역각성 도움말
+COM_SEL.OVL:11b8d0|도움말・잠재력 각성
+COM_SEL.OVL:11b910|잠재력 각성 도움말
+COM_SEL.OVL:11b930|도움말・로테이션 확인
+COM_SEL.OVL:11b970|로테이션 확인 도움말
+COM_SEL.OVL:11b998|홈 복귀
+COM_SEL.OVL:11b9c0|홈 복귀를 보고하는 이벤트
+COM_SEL.OVL:11ba10|원정 출발을 보고하는 이벤트
+COM_SEL.OVL:11ba60|장기 원정 출발을 보고하는 이벤트
+COM_SEL.OVL:11bac0|교류전 시작을 보고하는 이벤트
+COM_SEL.OVL:11bb20|교류전 종료를 보고하는 이벤트
+COM_SEL.OVL:11bb50|올스타전 시작
+COM_SEL.OVL:11bb90|올스타전 시작을 보고하는 이벤트
+COM_SEL.OVL:11bbc0|올스타전 종료
+COM_SEL.OVL:11bc00|올스타전 종료를 보고하는 이벤트
+COM_SEL.OVL:11bc30|클라이맥스 시리즈 시작
+COM_SEL.OVL:11bc70|클라이맥스 시작을 보고하는 이벤트
+COM_SEL.OVL:11bcb0|클라이맥스 시리즈 종료
+COM_SEL.OVL:11bcf0|클라이맥스 종료를 보고하는 이벤트
+COM_SEL.OVL:11bd30|일본 시리즈 시작
+COM_SEL.OVL:11bd70|일본 시리즈 시작을 보고하는 이벤트
+COM_SEL.OVL:11bda0|일본 시리즈 종료
+COM_SEL.OVL:11bde0|일본 시리즈 종료를 보고하는 이벤트
+COM_SEL.OVL:11be10|아시아 시리즈 시작
+COM_SEL.OVL:11be50|아시아 시리즈 시작을 보고하는 이벤트
+COM_SEL.OVL:11be80|아시아 시리즈 종료
+COM_SEL.OVL:11bec0|아시아 시리즈 종료를 보고하는 이벤트
+COM_SEL.OVL:11bf20|월간 MVP 발표를 보고하는 이벤트
+COM_SEL.OVL:11bf80|가벼운 부상 발생을 보고하는 이벤트
+COM_SEL.OVL:11bfb0|부상 선수 발생!
+COM_SEL.OVL:11bfe0|부상 선수 발생을 보고하는 이벤트
+COM_SEL.OVL:11c010|내일 훈련 복귀
+COM_SEL.OVL:11c050|내일 훈련 복귀를 보고하는 이벤트
+COM_SEL.OVL:11c080|내일 부상 완치!
+COM_SEL.OVL:11c0b0|내일 부상 완치를 보고하는 이벤트
+COM_SEL.OVL:11c0e0|내일부터 재등록 가능
+COM_SEL.OVL:11c120|내일 재등록 가능을 보고하는 이벤트
+COM_SEL.OVL:11c150|피로가 쌓였다
+COM_SEL.OVL:11c180|피로 누적을 보고하는 이벤트
+COM_SEL.OVL:11c1b0|홈 특훈이 끝났습니다!
+COM_SEL.OVL:11c1f0|$m 홈 특훈 기간 종료.\n효과가 뛰어나 $m도 배운 점이 있다고 한다.
+COM_SEL.OVL:11c250|홈 특훈은 끝났지만…
+COM_SEL.OVL:11c290|$m 홈 특훈 기간 종료.\n효과는 미미했고 $m는 코치의 말을 잘 이해하지 못한 듯하다.
+COM_SEL.OVL:11c300|외국인 선수 못 찾음
+COM_SEL.OVL:11c340|외국인 선수를 못 찾은 이벤트
+COM_SEL.OVL:11c370|새 외국인 도착!
+COM_SEL.OVL:11c3b0|새 외국인 선수 도착 이벤트
+COM_SEL.OVL:11c400|긴장되는 개막전.\n승리로 기세를 올리며 기분 좋게 출발하고 싶다.
+COM_SEL.OVL:11c448|개막전 승리\n\n
+COM_SEL.OVL:11c460|팀 획득 경험치 일시 상승
+COM_SEL.OVL:11c480|개막전 승리!
+COM_SEL.OVL:11c4a0|팀 획득 경험치 상승!
+COM_SEL.OVL:11c4c0|목표를 달성하지 못했습니다.
+COM_SEL.OVL:11c4e0|도전자
+COM_SEL.OVL:11c500|시즌 1위는 놓쳤지만 클라이맥스 시리즈를 통과하면 일본 정상의 기회는 남아 있다! 우선 도전권을 따내자!
+COM_SEL.OVL:11c580|CS 1단계 통과\n\n
+COM_SEL.OVL:11c5a0|1단계를 통과하라!
+COM_SEL.OVL:11c5c0|클라이맥스!
+COM_SEL.OVL:11c5e0|리그 대표를 정하는 이 경기야말로 리그전의 절정!\n리그의 패자라는 칭호를 거머쥐어라!
+COM_SEL.OVL:11c660|일본 시리즈 출전권을 잡아라!
+COM_SEL.OVL:11c680|영광을 그 손에
+COM_SEL.OVL:11c6b0|드디어 정상 결전. 후회를 남기고 싶지 않다.\n지금 모든 힘을 쏟아 일본 정상을 손에 넣어라!
+COM_SEL.OVL:11c720|일본 시리즈 제패\n\n
+COM_SEL.OVL:11c740|모든 힘을 쏟아 일본 정상을 잡아라!
+COM_SEL.OVL:11c768|일본야구의 긍지
+COM_SEL.OVL:11c7b0|일본 대표로 나서는 아시아 정상 결전.\n요구되는 것은 오직 우승뿐이다!
+COM_SEL.OVL:11c810|아시아 시리즈 제패\n\n
+COM_SEL.OVL:11c830|1군 선수 경험치 상승
+COM_SEL.OVL:11c850|아시아 정상을 거머쥐어라!
+COM_SEL.OVL:11c880|1군 선수 경험치 획득!
+COM_SEL.OVL:11c8a0|또 하나의 우승
+COM_SEL.OVL:11c8d0|교류전도 막바지. 팀은 충분히 1위를 노릴 만하다.\n상금을 노리는 선수들도 욕심이 생긴 듯한데.
+COM_SEL.OVL:11c940|교류전 1위로 마감\n\n
+COM_SEL.OVL:11c970|교류전을 제패하라!
+COM_SEL.OVL:11c990|멈춰라, 패배 누적!
+COM_SEL.OVL:11c9d0|드디어 패가 승보다 많아져 침체된 분위기가 감돈다.\n이대로 계속 패배를 쌓을 수는 없다!
+COM_SEL.OVL:11ca38|승패 균형회복\n\n
+COM_SEL.OVL:11ca50|기간 내 승패 균형 회복!
+COM_SEL.OVL:11ca70|설욕할 때
+COM_SEL.OVL:11ca90|지난 대결에서 패배를 안긴 $e와 재대결.\n확실히 되갚아 주고 싶다.
+COM_SEL.OVL:11cae0|기간 중 승률 6할 이상\n\n
+COM_SEL.OVL:11cb10|지난 대결의 빚을 갚아라!
+COM_SEL.OVL:11cb30|괴력 용병 등장?
+COM_SEL.OVL:11cb70|힘을 못 내는 팀에 활력을 넣으려는 것일까. 프런트가 새 외국인 투수를 영입했다. 과연 실력은 어떨까?
+COM_SEL.OVL:11cbf0|기간 중 $m 성적▼\n$(tg/2)이닝 이상\n방어율 2.5 이하
+COM_SEL.OVL:11cc30|▼\n남은%2d\n현재%1.2f
+COM_SEL.OVL:11cc50|미지의 $m를 활약시켜라!
+COM_SEL.OVL:11cc70|강타 용병 등장?
+COM_SEL.OVL:11ccb0|힘을 못 내는 팀에 활력을 넣으려는 것일까. 프런트가 새 외국인 타자를 영입했다. 과연 실력은 어떨까?
+COM_SEL.OVL:11cd30|기간 중 $m 성적▼\n$(tg*2)안타 이상\n$(tg/3)홈런 이상
+COM_SEL.OVL:11cd70|▼\n남은%2d\n남은%2d
+COM_SEL.OVL:11dbd0|파워프로 선수
+COM_SEL.OVL:11dbf8|프로%d년 차
+COM_SEL.OVL:11f0f0|올스타 팬 투표 결과
+COM_SEL.OVL:11f120|미션 정보
+COM_SEL.OVL:11f140|올스타 팬 투표 중간 집계
+COM_SEL.OVL:11f2a8|주자 없음
+COM_SEL.OVL:11f2b8|주자 1루
+COM_SEL.OVL:11f2c8|주자 2루
+COM_SEL.OVL:11f2d8|주자 3루
+COM_SEL.OVL:11f2e8|주자 1,2루
+COM_SEL.OVL:11f2f8|주자 1,3루
+COM_SEL.OVL:11f308|주자 2,3루
+COM_SEL.OVL:11f348|적시타
+COM_SEL.OVL:11f358|안타
+COM_SEL.OVL:11f380|3루타
+COM_SEL.OVL:11f390|좌측 관중석으로 들어가는
+COM_SEL.OVL:11f3b0|중앙 스크린으로 들어가는
+COM_SEL.OVL:11f3e0|우측 관중석으로 들어가는
+COM_SEL.OVL:11f408|2점
+COM_SEL.OVL:11f418|3점
+COM_SEL.OVL:11f428|홈런
+COM_SEL.OVL:11f440|그라운드 홈런
+COM_SEL.OVL:11f460|뜬공
+COM_SEL.OVL:11f468|직선타
+COM_SEL.OVL:11f480| 방향 파울 뜬공
+COM_SEL.OVL:11f498| 병살타
+COM_SEL.OVL:11f4b0| 야수 선택
+COM_SEL.OVL:11f4c8| 실책
+COM_SEL.OVL:11f4d8| 방향 스퀴즈
+COM_SEL.OVL:11f4e8| 방향 번트
+COM_SEL.OVL:11f4f8| 희생플라이
+COM_SEL.OVL:11f508| 방향 뜬공
+COM_SEL.OVL:11f518|밀어내기
+COM_SEL.OVL:11f528|볼넷
+COM_SEL.OVL:11f538|사구
+COM_SEL.OVL:11f558|낫아웃
+COM_SEL.OVL:11f5b8|타석 도중
+COM_SEL.OVL:11f5d8|폭투
+COM_SEL.OVL:11f5e8|포일
+COM_SEL.OVL:11f710|%s 대 %s 경기는
+COM_SEL.OVL:11f730|거듭된 역전으로 치열한 시소게임 끝에
+COM_SEL.OVL:11f760|두 팀 모두 달아나지 못한 팽팽한 승부 끝에
+COM_SEL.OVL:11f790|폭발적인 공격의 %s, %d대%d로 압승했다.
+COM_SEL.OVL:11f7c0|작은 리드를 지킨 %s, %d대%d로 승리했다.
+COM_SEL.OVL:11f800|내내 앞선 %s, %d대%d로 완승했다.
+COM_SEL.OVL:11f830|호쾌한 타격전 끝에
+COM_SEL.OVL:11f850|팽팽한 투수전 끝에
+COM_SEL.OVL:11f880|(으)로 극적인 끝내기 승리.
+COM_SEL.OVL:11f8a0|(으)로 압승
+COM_SEL.OVL:11f8b0|(으)로 간신히 승리했다.
+COM_SEL.OVL:11f8d0|(으)로 승리.
+COM_SEL.OVL:11f8f0|의 분한 끝내기 패배.
+COM_SEL.OVL:11f908|의 완패.
+COM_SEL.OVL:11f920|의 아쉬운 패배.
+COM_SEL.OVL:11f938|의 패배.
+COM_SEL.OVL:11f950|정규 %d회로 승부를 못 내 %d대%d로
+COM_SEL.OVL:11f980|무승부로 끝났다.
+COM_SEL.OVL:11f9c0|무사
+COM_SEL.OVL:11f9d0|1사
+COM_SEL.OVL:11f9d8|2사
+COM_SEL.OVL:11f9e0|에서 %s의
+COM_SEL.OVL:11f9f0|(으)로 얻은 점수를 끝까지 지켰다.
+COM_SEL.OVL:11fa20|(으)로 통쾌한 승리.
+COM_SEL.OVL:11fa40|(으)로 뜨거운 승부를 끝냈다.
+COM_SEL.OVL:11fa60| 때 득점해 가까스로 승리를 따냈다.
+COM_SEL.OVL:11fa90|(으)로 승부 결정.
+COM_SEL.OVL:11fab0| 때 득점해 승리했다.
+COM_SEL.OVL:11fad0|(으)로 귀중한 결승점을 냈다.
+COM_SEL.OVL:11faf0|(으)로 얻은 점수가 주효했다.
+COM_SEL.OVL:11fb10| 득점이 주효했다.
+COM_SEL.OVL:11fb30| 결승점으로 승리.
+COM_SEL.OVL:11fb50| 득점이 끝까지 주효했다.
+COM_SEL.OVL:11fb98|의 대활약
+COM_SEL.OVL:11fba8|의 활약
+COM_SEL.OVL:11fbb0| 활약으로 승리.
+COM_SEL.OVL:11fbc0| 존재감을 보였다.
+COM_SEL.OVL:11fbe0|%s 타선은 중심을 잡아 줄 선수는 없었지만 전원 야구로 승리를 따냈다.
+COM_SEL.OVL:11fc30|%s 타선은 중심을 잡아 줄 선수가 없어 결정력이 부족했다.
+COM_SEL.OVL:11fc70|투수진은 불안했고 특히 %s는
+COM_SEL.OVL:11fca8| 투구에
+COM_SEL.OVL:11fcc0|아웃 하나 못 잡고
+COM_SEL.OVL:11fce0|%d실점으로 부진했다.
+COM_SEL.OVL:11fd00|투수진이 흔들리며 대량 %d실점했다.
+COM_SEL.OVL:11fd30|투수진이 부진하며 %d실점했다.
+COM_SEL.OVL:11fd58|투구에서는
+COM_SEL.OVL:11fd80|을 %d실점으로 막아 멋진 완투승.
+COM_SEL.OVL:11fdb0|에 %d실점했지만 끝까지 던져 완투승.
+COM_SEL.OVL:11fde0|을 던져 퍼펙트게임 달성.
+COM_SEL.OVL:11fe00|을 던져 노히트 노런 달성.
+COM_SEL.OVL:11fe30|을 던져 멋진 완봉승.
+COM_SEL.OVL:11fe50|을 %d실점으로 막아
+COM_SEL.OVL:11fe70|, 승리투수가 됐다.
+COM_SEL.OVL:11fe90|, 세이브를 올렸다.
+COM_SEL.OVL:11feb0|투수진은
+COM_SEL.OVL:11fec0|을 %d실점으로 막았지만 승리로 이어지지는 않았다.
+COM_SEL.OVL:1201e0|적음
+COM_SEL.OVL:120240|경기 초반부터 적극적으로 선수를 교체합니다.
+COM_SEL.OVL:120280|경기 중반부터 상황에 맞춰 선수를 교체합니다.
+COM_SEL.OVL:1202c0|경기 후반부터 선수를 교체합니다.
+COM_SEL.OVL:1202f0|도루를 거의 하지 않습니다.
+COM_SEL.OVL:120320|상황을 보고 적절하게 도루를 지시합니다.
+COM_SEL.OVL:120360|도루할 만한 선수가 출루하면 적극적으로 뛰게 합니다.
+COM_SEL.OVL:1203a0|히트 앤드 런을 거의 하지 않습니다.
+COM_SEL.OVL:1203d0|가끔 히트 앤드 런을 시도합니다.
+COM_SEL.OVL:120400|빈틈이 보이면 히트 앤드 런을 시도합니다.
+COM_SEL.OVL:120430|희생번트를 거의 하지 않습니다.
+COM_SEL.OVL:120460|희생번트와 강공을 비슷한 비율로 시도합니다.
+COM_SEL.OVL:1204a0|1점이 필요한 상황에 주자가 나가면 높은 확률로 희생번트를 시도합니다.
+COM_SEL.OVL:120500|스퀴즈를 거의 하지 않습니다.
+COM_SEL.OVL:120530|접전에서 1점이 필요하면 절반 정도 확률로 스퀴즈를 시도합니다.
+COM_SEL.OVL:120580|접전에서 1점이 필요하면 높은 확률로 스퀴즈를 시도합니다.
+COM_SEL.OVL:1205d0|타순 결정 시 좌우 상성을 고려하지 않습니다.
+COM_SEL.OVL:120600|타순 결정 시 좌우 상성을 적게 고려합니다.
+COM_SEL.OVL:120630|타순 결정 시 좌우 상성을 중시합니다.
+COM_SEL.OVL:120660|타순 결정 시 피로를 무시합니다.
+COM_SEL.OVL:120690|타순 결정 시 피로를 별로 고려하지 않습니다.
+COM_SEL.OVL:1206c0|타순 결정 시 피로를 중시합니다.
+COM_SEL.OVL:120ac0|변경 내용을 버릴까요?
+COM_SEL.OVL:1214d8|선발 조정 지시
+COM_SEL.OVL:1214f0|기초 체력＋선발 체력
+COM_SEL.OVL:121510|구원 등판에 컨디션 하락
+COM_SEL.OVL:121530|구원 조정 지시
+COM_SEL.OVL:121550|기초 체력만
+COM_SEL.OVL:121570| 1군 등록 시의
+COM_SEL.OVL:121590|조정 방법을 고르세요.
+COM_SEL.OVL:122a30|국철 스왈로스
+COM_SEL.OVL:122a40|홈 시렉스
+COM_SEL.OVL:122a60|원정 시렉스
+COM_SEL.OVL:122ab0|롯데 오리온스
+COM_SEL.OVL:122ae0|2군 홈
+COM_SEL.OVL:122af0|2군 원정
+COM_SEL.OVL:122b08|홈 세컨드
+COM_SEL.OVL:122b18|홈 서드
+COM_SEL.OVL:122b30|원정 세컨드
+COM_SEL.OVL:122b48|원정 서드
+COM_SEL.OVL:122b58|교류전 홈
+COM_SEL.OVL:122b68|교류전 원정
+COM_SEL.OVL:122d30|14팀의 팀 편성이 초기화됐습니다.
+COM_SEL.OVL:1233e0|미션
+COM_SEL.OVL:123630|\c0필드 플레이 방법
+COM_SEL.OVL:124730|올스타전
+COM_SEL.OVL:124740|시범경기
+COM_SEL.OVL:124750|퍼시픽리그 공식전
+COM_SEL.OVL:124770|센트럴리그 공식전
+COM_SEL.OVL:124788|센・퍼 교류전
+COM_SEL.OVL:124798|일본 시리즈
+COM_SEL.OVL:1247b0|클라이맥스 시리즈
+COM_SEL.OVL:1247c8|아시아 시리즈
+COM_SEL.OVL:124a00|메모리카드(PS2)가 없습니다.
+COM_SEL.OVL:124a28|확인 중
+COM_SEL.OVL:124a38|읽는 중
+COM_SEL.OVL:124a70|파일이 손상됐습니다.
+COM_SEL.OVL:124b30|등록 공간이 가득 차 복사할 수 없습니다.
+COM_SEL.OVL:124b60|등록 공간이 가득 차 추가할 수 없습니다.
+COM_SEL.OVL:124b90|」\n팀에 소속되어 삭제할 수 없습니다.
+COM_SEL.OVL:124bc0|」\n삭제할까요?
+COM_SEL.OVL:124be0|」\n팀에 소속되어 덮어쓸 수 없습니다.
+COM_SEL.OVL:124c70|복사할 위치를 고르세요.
+COM_SEL.OVL:124c90|복사할 선수를 고르세요.
+COM_SEL.OVL:124cb0|삭제할 선수를 고르세요.

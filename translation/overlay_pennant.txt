@@ -1,0 +1,216 @@
+PENNANT.OVL:537d0|홈 구장의 낮 경기입니다.
+PENNANT.OVL:537f0|홈 구장의 야간 경기입니다.
+PENNANT.OVL:53810|우리 팀 주최 낮 경기입니다.
+PENNANT.OVL:53830|우리 팀 주최 야간 경기입니다.
+PENNANT.OVL:53850|원정 낮 경기입니다.
+PENNANT.OVL:53870|원정 야간 경기입니다.
+PENNANT.OVL:53890|올스타전입니다.
+PENNANT.OVL:538b0|경기가 없습니다.
+PENNANT.OVL:538d0|홈 구장의 낮 경기입니다. 경기 뒤 이동합니다.
+PENNANT.OVL:53900|우리 팀 주최 낮 경기입니다. 경기 뒤 이동합니다.
+PENNANT.OVL:53940|원정 낮 경기입니다. 경기 뒤 이동합니다.
+PENNANT.OVL:53970|경기 전에 이동합니다. 홈 구장 야간 경기입니다.
+PENNANT.OVL:539a0|경기 전에 이동합니다. 우리 팀 주최 야간 경기입니다.
+PENNANT.OVL:539e0|경기 전에 이동합니다. 원정 야간 경기입니다.
+PENNANT.OVL:53a10|이동일
+PENNANT.OVL:53a20|연습일입니다.
+PENNANT.OVL:53b50|우승 팀이 결정됐습니다!
+PENNANT.OVL:53b70|일본 챔피언이 결정됐습니다!
+PENNANT.OVL:53b90|일본 시리즈 출전 팀이 결정됐습니다!
+PENNANT.OVL:53bc0|리그 교류전 1위 팀이 결정됐습니다!
+PENNANT.OVL:53bf0|2군 일본 선수권 우승 팀이 결정됐습니다!
+PENNANT.OVL:53c20|아시아 1위 팀이 결정됐습니다!
+PENNANT.OVL:53d80|우리의
+PENNANT.OVL:53da0|오늘 경기를 건너뛸까요?
+PENNANT.OVL:53dc0|%d월 %d일(%s) 종료까지\n경기를 건너뛸까요?
+PENNANT.OVL:550e0|다음은 %d월 %d일 일본 시리즈.
+PENNANT.OVL:55110|다음 경기는 %d월 %d일 클라이맥스 시리즈 2단계입니다.
+PENNANT.OVL:55150|다음 경기는 %d월 %d일 클라이맥스 시리즈 1단계입니다.
+PENNANT.OVL:55190|올해 경기가 모두 끝났습니다.
+PENNANT.OVL:55210|다음은 %s(%d월 %d일) %s전입니다.
+PENNANT.OVL:55240|%s, %s 양보 없는 최종전. 지금 승부가 갈린다!
+PENNANT.OVL:55280|%d승 %d패로 우승까지 1승! 승부를 결정짓자!
+PENNANT.OVL:552c0|%d승 %d패로 벼랑 끝! 총력전으로 반드시 승리를 잡아라!
+PENNANT.OVL:55310|스타들의 무대. 최고의 힘과 기술이 맞부딪힌다!
+PENNANT.OVL:55350|드디어 개막한 클라이맥스 시리즈 1단계. 리그 챔피언 도전권은 누구에게!
+PENNANT.OVL:553b0|리그 대표 자리를 건 클라이맥스! 여기까지 와서 질 수는 없다!
+PENNANT.OVL:55410|일본 정상을 건 대결. 시즌 마지막에 웃는 팀은 %s일까, %s일까?
+PENNANT.OVL:55460|아시아 정상을 가릴 대결. 승자는 %s일까, %s일까?
+PENNANT.OVL:554a0|시즌 첫 대결. 작년 %d승 %d패
+PENNANT.OVL:554d0|로 접전!
+PENNANT.OVL:554e0|로 크게 앞섰다.
+PENNANT.OVL:55500|로 조금 앞섰다.
+PENNANT.OVL:55518|로 대등.
+PENNANT.OVL:55530|로 조금 뒤졌다.
+PENNANT.OVL:55550|로 크게 뒤졌다.
+PENNANT.OVL:55570|오늘 예상 선발 %s 선수는 시즌 %d승을 거두며
+PENNANT.OVL:555b0|오늘 선발 %s 선수는 시즌 %d승을 거두며
+PENNANT.OVL:555e0|안정된 투구로 팀을 지탱한다.
+PENNANT.OVL:55610|평균자책점도 %1.2f대로 압도적이다.
+PENNANT.OVL:55640|알찬 시즌을 보내고 있다.
+PENNANT.OVL:55660|초반에 공략의 실마리를 찾자!
+PENNANT.OVL:55690|오늘 선발 %s 선수는
+PENNANT.OVL:556b0|오늘 예상 선발 %s는
+PENNANT.OVL:556d0|최상의 몸 상태다.
+PENNANT.OVL:556f0|컨디션이 좋다는 소식.
+PENNANT.OVL:55710|주자를 소중히 하고 적은 기회도 살리고 싶다.
+PENNANT.OVL:55760|시즌 %d승 %d패로 대등한 승부.
+PENNANT.OVL:55790|여기서 반드시 앞서 나가고 싶다!
+PENNANT.OVL:557c0|시즌 %d승 %d패로 %s의 열세.
+PENNANT.OVL:557f0|이쯤에서 빚을 갚고 싶다.
+PENNANT.OVL:55820|시즌 %d승 %d패로 %s의 우세.
+PENNANT.OVL:55850|더 격차를 벌려 상대가 어려워하게 만들자.
+PENNANT.OVL:55890|시즌 상대 평균자책점 %2.2f로 완전히 공략당한 상태.
+PENNANT.OVL:558d0|공략법을 바꿀 발상의 전환이 필요할까?
+PENNANT.OVL:55900|시즌 상대 타율 %1.3f로 완전히 막힌 상태.
+PENNANT.OVL:55940|주자를 소중히 하며 확실하게 득점을 쌓자.
+PENNANT.OVL:55980|%s・%s 3경기%d타수%d안타
+PENNANT.OVL:559a0|, 그중 %d홈런
+PENNANT.OVL:559c0|로 맹활약. 아픈 한 방을 맞지 않도록 철저히 막아라!
+PENNANT.OVL:55a10|%s・%s 선수는 좋은 컨디션으로 경계할 상대.
+PENNANT.OVL:55a50|아픈 한 방을 막으려면 앞 타자도 주의하자!
+PENNANT.OVL:55a90|%s・%s 선수는 지금 절정의 컨디션으로 압도적이다.
+PENNANT.OVL:55ad0|상대할 때는 세심한 주의를!
+PENNANT.OVL:55b70|개막까지 일정을 건너뜁니다
+PENNANT.OVL:55ba0|모든 일정 종료까지 건너뜁니다
+PENNANT.OVL:55bd0|시즌이 개막합니다
+PENNANT.OVL:55bf0|모든 일정이 끝났습니다
+PENNANT.OVL:55ca0|팀 목표 달성 보너스 지속 중
+PENNANT.OVL:55cc0|선수 의욕 저하 중
+PENNANT.OVL:55da0|오늘 경기 없음
+PENNANT.OVL:55de0|경기로(다음)
+PENNANT.OVL:55df0|게임을 진행합니다.
+PENNANT.OVL:55e20|페넌트 레이스 일정을 확인합니다.
+PENNANT.OVL:55e50|목표를 확인합니다.
+PENNANT.OVL:55e80|홈 특훈을 설정합니다.
+PENNANT.OVL:55eb0|팀 내 선수 인사를 진행합니다.
+PENNANT.OVL:55ef0|프런트에 새 외국인 영입을 요청합니다.
+PENNANT.OVL:55f20|오리지널 선수 입단
+PENNANT.OVL:55f40|스피리츠 등에서 만든 오리지널 선수를 입단시킵니다.
+PENNANT.OVL:55f90|선수의 1군 등록과 말소를 합니다.
+PENNANT.OVL:55fd0|다른 팀에 트레이드를 요청합니다. 요청은 6월 말까지만 가능합니다.
+PENNANT.OVL:56030|팀 선수를 자유계약으로 방출합니다. 방출된 선수는 팀을 떠납니다.
+PENNANT.OVL:560a0|선수 능력을 확인합니다.
+PENNANT.OVL:560d0|시즌의 자세한 성적을 확인합니다.
+PENNANT.OVL:56110|각종 설정을 합니다. 저장도 여기서 합니다.
+PENNANT.OVL:56150|데이터를 저장합니다.
+PENNANT.OVL:56190|경기를 주요 장면으로 진행하도록 설정합니다.
+PENNANT.OVL:561d0|사용 팀을 바꿉니다. 변경하면 이벤트가 사라집니다.
+PENNANT.OVL:56230|페넌트 레이스를 설정합니다.
+PENNANT.OVL:56260|경기를 설정합니다.
+PENNANT.OVL:56290|사용자 설정을 합니다.
+PENNANT.OVL:562c0|선수 등번호를 설정합니다.
+PENNANT.OVL:562f0|선수 응원곡을 설정합니다.
+PENNANT.OVL:56330|선수 등록명의 호칭을 정합니다.
+PENNANT.OVL:56358|리그 편성
+PENNANT.OVL:56370|트레이드 기간과 관계없이 리그 내 팀 편성을 바꿉니다.
+PENNANT.OVL:563c0|게임을 종료합니다.
+PENNANT.OVL:56510|여기에 도움말이 표시됩니다.
+PENNANT.OVL:56a10|드래프트 회의
+PENNANT.OVL:56a30|트라이아웃
+PENNANT.OVL:56a50|시즌 개막
+PENNANT.OVL:56a70|2군 교류전
+PENNANT.OVL:56a80|올스타전
+PENNANT.OVL:56aa0|신인 올스타전
+PENNANT.OVL:56ac0|클라이맥스 1단계
+PENNANT.OVL:56ae0|클라이맥스 2단계
+PENNANT.OVL:56b20|아시아 시리즈 결승
+PENNANT.OVL:578c0|최우수 중간계투
+PENNANT.OVL:578d0|최다 세이브
+PENNANT.OVL:57b18|사이클링 히트
+PENNANT.OVL:57d30|단일 경기 기록
+PENNANT.OVL:58500|이 조건으로 트레이드를 요청할까요?
+PENNANT.OVL:58530|우리 팀 선수 수 초과
+PENNANT.OVL:58550|상대 팀 선수 수 초과
+PENNANT.OVL:58580|우리 팀 투수 수 초과
+PENNANT.OVL:585a0|상대 팀 투수 수 초과
+PENNANT.OVL:585d0|우리 팀 투수 최소 인원 미달
+PENNANT.OVL:58600|상대 팀 투수 최소 인원 미달
+PENNANT.OVL:58630|우리 팀 야수 수 초과
+PENNANT.OVL:58650|상대 팀 야수 수 초과
+PENNANT.OVL:58680|우리 팀 야수 최소 인원 미달
+PENNANT.OVL:586b0|상대 팀 야수 최소 인원 미달
+PENNANT.OVL:586e0|트레이드 선수를 지정하세요.
+PENNANT.OVL:58710|우리 팀 트레이드 선수를 지정하지 않았습니다
+PENNANT.OVL:58740|상대 팀 트레이드 선수를 지정하지 않았습니다
+PENNANT.OVL:58770|다음으로 이동
+PENNANT.OVL:58780|이 트레이드를 요청합니다.
+PENNANT.OVL:587a0|트레이드 선수를 다시 고릅니다.
+PENNANT.OVL:587d0|이 트레이드를 수락합니다.
+PENNANT.OVL:587f0|이 트레이드를 거절합니다.
+PENNANT.OVL:58810|방출할 선수를 고르세요.
+PENNANT.OVL:58830|영입할 선수를 고르세요.
+PENNANT.OVL:58850|선수를 고르세요.
+PENNANT.OVL:58870|입단 2년 차까지는 트레이드할 수 없습니다.
+PENNANT.OVL:588a0|외국인 선수는 트레이드 불가입니다.
+PENNANT.OVL:588d0|트레이드할 수 없습니다.
+PENNANT.OVL:588f0|이미 선택했습니다.
+PENNANT.OVL:58980|%s에서
+PENNANT.OVL:58990|%d 대 %d 트레이드 제안이
+PENNANT.OVL:589b0|왔습니다.
+PENNANT.OVL:589c0|트레이드를 수락할까요?
+PENNANT.OVL:589e0|지난번 트레이드 요청에
+PENNANT.OVL:58a00|수정안을 제시하는 답변이
+PENNANT.OVL:58a20|왔어요.
+PENNANT.OVL:58a30|이 조건이라면 수락할 수
+PENNANT.OVL:58a50|있답니다.
+PENNANT.OVL:58a60|수락할까요?
+PENNANT.OVL:58a70|지난번 트레이드 요청을
+PENNANT.OVL:58a90|거절 연락이 왔습니다.
+PENNANT.OVL:58ab0|제안이 만족스럽지 않았던
+PENNANT.OVL:58ad0|모양입니다...
+PENNANT.OVL:58ae0|지난번 트레이드 요청을
+PENNANT.OVL:58b00|수락한다는 답변이 왔습니다!
+PENNANT.OVL:58b28|%s와 %d 대 %d의
+PENNANT.OVL:58b40|트레이드가 성사됐습니다!
+PENNANT.OVL:58b70|트레이드를 성사시켰습니다!
+PENNANT.OVL:58d70|투수가 가득 찼습니다.\n(팀 투수는 최대 23명)
+PENNANT.OVL:58db0|야수가 가득 찼습니다.\n(팀 야수는 최대 27명)
+PENNANT.OVL:58df0|외국인 선수를 요청할까요?\n
+PENNANT.OVL:58e18|(선발투수・
+PENNANT.OVL:58e28|(마무리투수・
+PENNANT.OVL:58e38|(중간계투・
+PENNANT.OVL:58e48|(포수・
+PENNANT.OVL:58e58|(1루수・
+PENNANT.OVL:58e68|(2루수・
+PENNANT.OVL:58e78|(3루수・
+PENNANT.OVL:58e88|(유격수・
+PENNANT.OVL:58e98|(외야수・
+PENNANT.OVL:58ea8|우투・
+PENNANT.OVL:58eb8|좌투・
+PENNANT.OVL:58ec8|우타)
+PENNANT.OVL:58ed8|좌타)
+PENNANT.OVL:58ee8|양타)
+PENNANT.OVL:58f00|현재 프런트는\n
+PENNANT.OVL:58f30|\n조건으로 외국인 선수를 찾고 있습니다.\n\n취소하고 새 요청을 할까요?
+PENNANT.OVL:59068|중간계투 부문
+PENNANT.OVL:59078|마무리 부문
+PENNANT.OVL:59330|입단시킬 선수를 고르세요.
+PENNANT.OVL:59360|자유계약으로 방출할 선수를 고르세요.
+PENNANT.OVL:59390|이후 해당 선수를 사용할 수 없으며 시즌 말에 방출됩니다.
+PENNANT.OVL:59400|이 선수를 방출할까요?
+PENNANT.OVL:59430|우선 2군에서 몸을 만들고 있습니다.\n바로 뛸 수 있을 만한 상태입니다.
+PENNANT.OVL:59490|충격을 받았습니다...\n팀으로서도 고심 끝에 내린 결정입니다.
+PENNANT.OVL:596a0|지명할 선수를 고릅니다.
+PENNANT.OVL:596c0|우리 팀을 확인합니다.
+PENNANT.OVL:596e0|지명을 마칩니다.\n이후 지명 순서는 모두 넘깁니다.
+PENNANT.OVL:59720|지명할 선수를 고르세요.
+PENNANT.OVL:597a0|소속 선수를 확인합니다.\n투수 9명 이하, 야수 15명 이하로 줄일 수 없습니다.
+PENNANT.OVL:59810|더 이상 투수를 방출할 수 없습니다
+PENNANT.OVL:59840|더 이상 야수를 방출할 수 없습니다
+PENNANT.OVL:59870|정말 방출할까요?
+PENNANT.OVL:59890|방출하면 다시 계약할 수 없습니다
+PENNANT.OVL:598c0|오리지널 선수를 드래프트에 참가시킵니다.\n참가시키지 않으려면 'OK' 체크를 해제하세요.\n(최대 30명 참가 가능)
+PENNANT.OVL:59950|올해 지명 후보들입니다.\n여기서 외모와 이름 등을 바꿀 수 있습니다.\n지명된 선수는 드래프트 종료 후에도 가능합니다.
+PENNANT.OVL:599e0|드래프트 회의\n유망주를 잡아라!\n
+PENNANT.OVL:59a10|상대 팀 지명 중...
+PENNANT.OVL:59a30|지명할 선수를 고르세요.
+PENNANT.OVL:59a70|팀 선수가 70명입니다
+PENNANT.OVL:59ac0|올해 지명 결과는 위와 같습니다.
+PENNANT.OVL:59af0|올해 지명 후보들입니다.\n여기서 외모와 이름 등을 바꿀 수 있습니다.\n지명된 선수는 드래프트 종료 후에도 가능합니다.
+PENNANT.OVL:59e90|히타치나카
+PENNANT.OVL:59ee0|이와키
+PENNANT.OVL:59f10|가마가야
+PENNANT.OVL:5a0a8|사이타마
+PENNANT.OVL:5a110|소데가우라
+PENNANT.OVL:5a910|다음 장소

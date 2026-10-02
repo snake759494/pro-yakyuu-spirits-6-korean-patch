@@ -1,0 +1,2282 @@
+[
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC00KB",
+    "ja": "変換"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC02",
+    "ja": "条件"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC02",
+    "ja": "効果"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC02",
+    "ja": "条件　30文字１行目"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC02",
+    "ja": "条件　30文字2行目"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC02",
+    "ja": "効果　30文字"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC02",
+    "ja": "走　力"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC03",
+    "ja": "克服"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC04",
+    "ja": "第１球種"
+  },
+  {
+    "file": "ABSHOP.CHK",
+    "chunk": "TXC04",
+    "ja": "第2球種"
+  },
+  {
+    "file": "ARR_CHAN.CHK",
+    "chunk": "TXC00",
+    "ja": "一軍登録"
+  },
+  {
+    "file": "ARR_CHAN.CHK",
+    "chunk": "TXC01",
+    "ja": "外国人"
+  },
+  {
+    "file": "ARR_CHR.CHK",
+    "chunk": "TXC01",
+    "ja": "ああああああ"
+  },
+  {
+    "file": "ARR_ENT.CHK",
+    "chunk": "TXC02",
+    "ja": "先　発"
+  },
+  {
+    "file": "ARR_ENT.CHK",
+    "chunk": "TXC02",
+    "ja": "抑　え"
+  },
+  {
+    "file": "ARR_ENT.CHK",
+    "chunk": "TXC03",
+    "ja": "４月１日"
+  },
+  {
+    "file": "ARR_ENT.CHK",
+    "chunk": "TXC03",
+    "ja": "再登録"
+  },
+  {
+    "file": "ARR_ENT.CHK",
+    "chunk": "TXC03",
+    "ja": "２００８年　４月　１日"
+  },
+  {
+    "file": "ARR_ENT.CHK",
+    "chunk": "TXC04",
+    "ja": "指導中"
+  },
+  {
+    "file": "ARR_ENT.CHK",
+    "chunk": "TXC04",
+    "ja": "経験値"
+  },
+  {
+    "file": "ARR_NT.CHK",
+    "chunk": "TXC00",
+    "ja": "名同姓影響"
+  },
+  {
+    "file": "ARR_NT.CHK",
+    "chunk": "TXC00",
+    "ja": "欧米系外国人"
+  },
+  {
+    "file": "ARR_TOP.CHK",
+    "chunk": "TXC00",
+    "ja": "背番号"
+  },
+  {
+    "file": "ARR_TOP.CHK",
+    "chunk": "TXC00",
+    "ja": "応援曲"
+  },
+  {
+    "file": "ARRFAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "いい感じに現在の起用法をだしてね！"
+  },
+  {
+    "file": "ARRFAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "得点源"
+  },
+  {
+    "file": "ARRFAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "信頼度"
+  },
+  {
+    "file": "ARRFAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "左右相性"
+  },
+  {
+    "file": "ARRPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "先発目安"
+  },
+  {
+    "file": "ARRPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "得点差"
+  },
+  {
+    "file": "ARRPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "試合状況"
+  },
+  {
+    "file": "ARRTEAM.CHK",
+    "chunk": "TXC00",
+    "ja": "野手交代"
+  },
+  {
+    "file": "ARRTEAM.CHK",
+    "chunk": "TXC00",
+    "ja": "相性重視度"
+  },
+  {
+    "file": "ARRTEAM.CHK",
+    "chunk": "TXC00",
+    "ja": "疲労重視度"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "1番手"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "2番手"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "3番手"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "4番手"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "5番手"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "6番手"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "7番手"
+  },
+  {
+    "file": "ARRTPAPP.CHK",
+    "chunk": "TXC00",
+    "ja": "先発要員"
+  },
+  {
+    "file": "BBMENU.CHK",
+    "chunk": "TXC16",
+    "ja": "巧打力"
+  },
+  {
+    "file": "BBMENU.CHK",
+    "chunk": "TXC16",
+    "ja": "長打力"
+  },
+  {
+    "file": "BBMENU.CHK",
+    "chunk": "TXC16",
+    "ja": "走塁力"
+  },
+  {
+    "file": "CALENDAR.CHK",
+    "chunk": "TXC00",
+    "ja": "球場名"
+  },
+  {
+    "file": "CALENDAR.CHK",
+    "chunk": "TXC00",
+    "ja": "雨天中止"
+  },
+  {
+    "file": "CALENDAR.CHK",
+    "chunk": "TXC02",
+    "ja": "練 習"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC03",
+    "ja": "16分音符"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC05",
+    "ja": "三連符"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC12",
+    "ja": "コピー"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC12",
+    "ja": "タイトル名"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC14",
+    "ja": "新規作成"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC16",
+    "ja": "すなお"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC16",
+    "ja": "クール"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC16",
+    "ja": "しぶい"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC18",
+    "ja": "ます"
+  },
+  {
+    "file": "CHEERSONG.CHK",
+    "chunk": "TXC18",
+    "ja": "テンプレート１"
+  },
+  {
+    "file": "CMPSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "2行の時の1行目"
+  },
+  {
+    "file": "CMPSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "2行の時の2行目"
+  },
+  {
+    "file": "CMPSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "1行の時"
+  },
+  {
+    "file": "COMNTD.CHK",
+    "chunk": "TXC00",
+    "ja": "実　況"
+  },
+  {
+    "file": "COMNTD.CHK",
+    "chunk": "TXC00",
+    "ja": "打者解説"
+  },
+  {
+    "file": "COMNTD.CHK",
+    "chunk": "TXC00",
+    "ja": "投手解説"
+  },
+  {
+    "file": "COMNTD.CHK",
+    "chunk": "TXC00",
+    "ja": "実況者"
+  },
+  {
+    "file": "DEBAN00.CHK",
+    "chunk": "TXC00",
+    "ja": "率"
+  },
+  {
+    "file": "DEBAN00.CHK",
+    "chunk": "TXC00",
+    "ja": "本"
+  },
+  {
+    "file": "DEBAN00.CHK",
+    "chunk": "TXC00",
+    "ja": "点"
+  },
+  {
+    "file": "DEBAN00.CHK",
+    "chunk": "TXC00",
+    "ja": "四死球"
+  },
+  {
+    "file": "DEBAN00.CHK",
+    "chunk": "TXC00",
+    "ja": "盗塁企図数"
+  },
+  {
+    "file": "DEMOCOURSE.CHK",
+    "chunk": "TXC00",
+    "ja": "第0打席"
+  },
+  {
+    "file": "EDIT.CHK",
+    "chunk": "TXC00",
+    "ja": "年齢"
+  },
+  {
+    "file": "EDIT.CHK",
+    "chunk": "TXC00",
+    "ja": "誕生日"
+  },
+  {
+    "file": "EDIT.CHK",
+    "chunk": "TXC00",
+    "ja": "登録"
+  },
+  {
+    "file": "EDIT.CHK",
+    "chunk": "TXC02",
+    "ja": "構え"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "能力詳細"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "中断"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "第１試合"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "対戦球団１"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "第2試合"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "対戦球団2"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "第3試合"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "対戦球団3"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "第4試合"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "対戦球団4"
+  },
+  {
+    "file": "EMAINM.CHK",
+    "chunk": "TXC00",
+    "ja": "起用予定"
+  },
+  {
+    "file": "EXMAIN.CHK",
+    "chunk": "TXC00",
+    "ja": "試合観戦"
+  },
+  {
+    "file": "EXSETUP.CHK",
+    "chunk": "TXC01",
+    "ja": "汎用和文16フォント\nヨコ36文字×２行"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC02",
+    "ja": "中村　紀洋"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC14",
+    "ja": "見出し"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC15",
+    "ja": "対右投手"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC19",
+    "ja": "得点圏打率"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC22",
+    "ja": "守備率"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC23",
+    "ja": "負"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC24",
+    "ja": "登板日"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC24",
+    "ja": "勝敗"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC24",
+    "ja": "月"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC24",
+    "ja": "日"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC25",
+    "ja": "打者"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC25",
+    "ja": "四死"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC26",
+    "ja": "ボール"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC27",
+    "ja": "球種１"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC27",
+    "ja": "球種２"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC27",
+    "ja": "球種３"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC27",
+    "ja": "球種４"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC28",
+    "ja": "盗塁企図"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC29",
+    "ja": "作戦指示"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC29",
+    "ja": "タイム"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC31",
+    "ja": "球数制限80"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC35",
+    "ja": "登録名"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC37",
+    "ja": "35文字×２行"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC40",
+    "ja": "作戦選択肢"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC43",
+    "ja": "球種名10文字"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC47",
+    "ja": "遅い"
+  },
+  {
+    "file": "GAME2D.CHK",
+    "chunk": "TXC47",
+    "ja": "速い"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "小見出し"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目1"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目2"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目3"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目4"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目5"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目6"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目7"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目8"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目9"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目10"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "項目11"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容1"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容2"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容3"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容4"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容5"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容6"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容7"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容8"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容9"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容10"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "内容11"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC00",
+    "ja": "決　定"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢1"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢2"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢3"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢4"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢6"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢7"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢8"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢9"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢10"
+  },
+  {
+    "file": "GAMEST.CHK",
+    "chunk": "TXC02",
+    "ja": "選択肢11"
+  },
+  {
+    "file": "GEVENT.CHK",
+    "chunk": "TXC04",
+    "ja": "ｸ艾D"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC00",
+    "ja": "打つ"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC00",
+    "ja": "強振切替"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC00",
+    "ja": "二盗"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC00",
+    "ja": "三盗"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC00",
+    "ja": "本盗"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC01",
+    "ja": "投球開始"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC01",
+    "ja": "二塁"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC01",
+    "ja": "一塁"
+  },
+  {
+    "file": "GUIDEPLAY.CHK",
+    "chunk": "TXC01",
+    "ja": "三塁"
+  },
+  {
+    "file": "HRDERBY.CHK",
+    "chunk": "TXC00",
+    "ja": "基本獲得ＶＰ"
+  },
+  {
+    "file": "HRDERBY.CHK",
+    "chunk": "TXC01",
+    "ja": "獲得VP"
+  },
+  {
+    "file": "HRDERBY.CHK",
+    "chunk": "TXC01",
+    "ja": "飛距離"
+  },
+  {
+    "file": "HRDERBY.CHK",
+    "chunk": "TXC02",
+    "ja": "獲得VP順"
+  },
+  {
+    "file": "HRDERBY.CHK",
+    "chunk": "TXC02",
+    "ja": "球団/登録名"
+  },
+  {
+    "file": "HRDERBY.CHK",
+    "chunk": "TXC03",
+    "ja": "球場名称"
+  },
+  {
+    "file": "HRDERBY.CHK",
+    "chunk": "TXC03",
+    "ja": "圏外"
+  },
+  {
+    "file": "HREYE.CHK",
+    "chunk": "TXC00",
+    "ja": "第○号"
+  },
+  {
+    "file": "LIFERECORD.CHK",
+    "chunk": "TXC02",
+    "ja": "通算１回"
+  },
+  {
+    "file": "LIFERECORD.CHK",
+    "chunk": "TXC03",
+    "ja": "達成記録名"
+  },
+  {
+    "file": "LIFERECORD.CHK",
+    "chunk": "TXC03",
+    "ja": "達成球場"
+  },
+  {
+    "file": "LIFERECORD.CHK",
+    "chunk": "TXC03",
+    "ja": "未達成"
+  },
+  {
+    "file": "LIFERECORD.CHK",
+    "chunk": "TXC05",
+    "ja": "００勝００敗０引"
+  },
+  {
+    "file": "LIFERECORD.CHK",
+    "chunk": "TXC05",
+    "ja": "試合\n打数\n打率\n安打\n本塁打\n打点\n得点\n盗塁\n犠打\n犠飛\n四球\n死球\n三振\n出塁率\n圏打率\n長打率"
+  },
+  {
+    "file": "MAINMENU.CHK",
+    "chunk": "TXC00",
+    "ja": "ここに説明文を書いてください。"
+  },
+  {
+    "file": "MAINMENU.CHK",
+    "chunk": "TXC00",
+    "ja": "VP所持"
+  },
+  {
+    "file": "MATCHSCORE.CHK",
+    "chunk": "TXC02",
+    "ja": "３回戦"
+  },
+  {
+    "file": "MATCHSCORE.CHK",
+    "chunk": "TXC03",
+    "ja": "開始前"
+  },
+  {
+    "file": "MENU2D.CHK",
+    "chunk": "TXC27",
+    "ja": "艾D"
+  },
+  {
+    "file": "MENU2D.CHK",
+    "chunk": "TXC30",
+    "ja": "成績枠"
+  },
+  {
+    "file": "MTMENU.CHK",
+    "chunk": "TXC01",
+    "ja": "中　止"
+  },
+  {
+    "file": "MVP_ABIUP.CHK",
+    "chunk": "TXC00",
+    "ja": "能力リスト（１１桁）"
+  },
+  {
+    "file": "MVP_ABIUP.CHK",
+    "chunk": "TXC01",
+    "ja": "消費経験値"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC00",
+    "ja": "選択モノ"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC00",
+    "ja": "朝 / 球場での行動を選択して下さい。(仮)"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC01",
+    "ja": "日付"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC01",
+    "ja": "朝メニュー"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC01",
+    "ja": "朝のときの昼メニュー"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC01",
+    "ja": "朝以外の昼メニュー"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC01",
+    "ja": "深夜以外の夜メニュー"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC01",
+    "ja": "深夜のときの夜メニュー"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC01",
+    "ja": "深夜メニュー"
+  },
+  {
+    "file": "MVPCOMMAND.CHK",
+    "chunk": "TXC02",
+    "ja": "メニュー説明文\n縦、横、何行か指示書で指定する。"
+  },
+  {
+    "file": "MVPDMTLP.CHK",
+    "chunk": "TXC02",
+    "ja": "守位置"
+  },
+  {
+    "file": "MVPGAUGE.CHK",
+    "chunk": "TXC00",
+    "ja": "左ミートUP!（仮）"
+  },
+  {
+    "file": "MVPGAUGE.CHK",
+    "chunk": "TXC02",
+    "ja": "子ども"
+  },
+  {
+    "file": "MVPGAUGE.CHK",
+    "chunk": "TXC02",
+    "ja": "一軍半"
+  },
+  {
+    "file": "MVPGAUGE.CHK",
+    "chunk": "TXC02",
+    "ja": "メル友"
+  },
+  {
+    "file": "MVPINITABI.CHK",
+    "chunk": "TXC02",
+    "ja": "特殊能力"
+  },
+  {
+    "file": "MVPINITABI.CHK",
+    "chunk": "TXC02",
+    "ja": "投手守備"
+  },
+  {
+    "file": "MVPINITABI.CHK",
+    "chunk": "TXC04",
+    "ja": "キャッチ説明文"
+  },
+  {
+    "file": "MVPMEMORY.CHK",
+    "chunk": "TXC00",
+    "ja": "野球製品開発"
+  },
+  {
+    "file": "MVPMEMORY.CHK",
+    "chunk": "TXC00",
+    "ja": "家電量販店CM"
+  },
+  {
+    "file": "MVPMEMORY.CHK",
+    "chunk": "TXC00",
+    "ja": "地名"
+  },
+  {
+    "file": "MVPNEWDAY.CHK",
+    "chunk": "TXC00",
+    "ja": "地域名"
+  },
+  {
+    "file": "MVPSELECT.CHK",
+    "chunk": "TXC01",
+    "ja": "出身地"
+  },
+  {
+    "file": "MVPTODAY.CHK",
+    "chunk": "TXC00",
+    "ja": "本日は晴天なり本日は晴天なり本日"
+  },
+  {
+    "file": "MVPTODAY.CHK",
+    "chunk": "TXC01",
+    "ja": "■イベントフラグ　（２コン上下で切替）"
+  },
+  {
+    "file": "MVPTODAY.CHK",
+    "chunk": "TXC01",
+    "ja": "フラグ"
+  },
+  {
+    "file": "MVPTODAY.CHK",
+    "chunk": "TXC01",
+    "ja": "■オファー関連"
+  },
+  {
+    "file": "MVPTODAY.CHK",
+    "chunk": "TXC02",
+    "ja": "先発予定日"
+  },
+  {
+    "file": "MVPTODAY.CHK",
+    "chunk": "TXC02",
+    "ja": "日付と本日"
+  },
+  {
+    "file": "OPTPLT.CHK",
+    "chunk": "TXC00",
+    "ja": "攻撃設定"
+  },
+  {
+    "file": "OPTPLT.CHK",
+    "chunk": "TXC04",
+    "ja": "打　撃"
+  },
+  {
+    "file": "OPTPLT.CHK",
+    "chunk": "TXC04",
+    "ja": "投　球"
+  },
+  {
+    "file": "OPTPLT.CHK",
+    "chunk": "TXC04",
+    "ja": "守　備"
+  },
+  {
+    "file": "OPTPLT.CHK",
+    "chunk": "TXC04",
+    "ja": "作　戦"
+  },
+  {
+    "file": "OPTPLT.CHK",
+    "chunk": "TXC04",
+    "ja": "情　報"
+  },
+  {
+    "file": "ORDERD.CHK",
+    "chunk": "TXC01",
+    "ja": "一軍野手"
+  },
+  {
+    "file": "ORDERD.CHK",
+    "chunk": "TXC01",
+    "ja": "二軍野手"
+  },
+  {
+    "file": "ORDERD.CHK",
+    "chunk": "TXC05",
+    "ja": "サブ"
+  },
+  {
+    "file": "ORDERD.CHK",
+    "chunk": "TXC16",
+    "ja": "合計"
+  },
+  {
+    "file": "ORDERD.CHK",
+    "chunk": "TXC19",
+    "ja": "二軍"
+  },
+  {
+    "file": "PARSEL.CHK",
+    "chunk": "TXC01",
+    "ja": "球団名"
+  },
+  {
+    "file": "PE_PUBLIC.CHK",
+    "chunk": "TXC01",
+    "ja": "詳細情報"
+  },
+  {
+    "file": "PE_PUBLIC.CHK",
+    "chunk": "TXC02",
+    "ja": "公示"
+  },
+  {
+    "file": "PLAYSTYLE.CHK",
+    "chunk": "TXC00",
+    "ja": "結果へ"
+  },
+  {
+    "file": "PLRCPY.CHK",
+    "chunk": "TXC00",
+    "ja": "差込口1"
+  },
+  {
+    "file": "PLRCPY.CHK",
+    "chunk": "TXC00",
+    "ja": "差込口2"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC00",
+    "ja": "プロの壁にぶつかる智包選手。だがまわりが手を貸すことは出来ない。\nこれは己で乗越えるべき試練なのだ。"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC00",
+    "ja": "成功"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC00",
+    "ja": "失敗"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC00",
+    "ja": "期間００試合"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC00",
+    "ja": "達成目標1\n達成目標2\n達成目標3"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC00",
+    "ja": "あと００\nあと００\nあと００"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC01",
+    "ja": "選手名"
+  },
+  {
+    "file": "PNCHALLENGE.CHK",
+    "chunk": "TXC01",
+    "ja": "現在"
+  },
+  {
+    "file": "PNCTPMAIN.CHK",
+    "chunk": "TXC01",
+    "ja": "ドラクエのレベルアップ風に。"
+  },
+  {
+    "file": "PNCTPMAIN.CHK",
+    "chunk": "TXC01",
+    "ja": "もりっつはちからが１あがった！"
+  },
+  {
+    "file": "PNCTPMAIN.CHK",
+    "chunk": "TXC01",
+    "ja": "もりっつはすばやさが１あがった！"
+  },
+  {
+    "file": "PNCTPMAIN.CHK",
+    "chunk": "TXC01",
+    "ja": "もりっつはギガデインをおぼえた！"
+  },
+  {
+    "file": "PNDAILY.CHK",
+    "chunk": "TXC00",
+    "ja": "X鎤"
+  },
+  {
+    "file": "PNDAYRES.CHK",
+    "chunk": "TXC00",
+    "ja": "開催地"
+  },
+  {
+    "file": "PNEXPRES.CHK",
+    "chunk": "TXC02",
+    "ja": "年月日"
+  },
+  {
+    "file": "PNEXPRES.CHK",
+    "chunk": "TXC02",
+    "ja": "対戦情報"
+  },
+  {
+    "file": "PNGEPLSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "テキスト１段目"
+  },
+  {
+    "file": "PNGEPLSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "テキスト２段目"
+  },
+  {
+    "file": "PNOFFSEAS.CHK",
+    "chunk": "TXC00",
+    "ja": "テキスト３段目"
+  },
+  {
+    "file": "PNOFFSEAS.CHK",
+    "chunk": "TXC02",
+    "ja": "選手選択"
+  },
+  {
+    "file": "PNOFFSEAS.CHK",
+    "chunk": "TXC02",
+    "ja": "指名終了"
+  },
+  {
+    "file": "PNOFFSEAS.CHK",
+    "chunk": "TXC02",
+    "ja": "内野"
+  },
+  {
+    "file": "PNOFFSEAS.CHK",
+    "chunk": "TXC02",
+    "ja": "外野"
+  },
+  {
+    "file": "PNOFFSEAS.CHK",
+    "chunk": "TXC04",
+    "ja": "自由契約"
+  },
+  {
+    "file": "PNOFFSEAS.CHK",
+    "chunk": "TXC06",
+    "ja": "新人選手一覧"
+  },
+  {
+    "file": "PNORDER.CHK",
+    "chunk": "TXC00",
+    "ja": "オ フ"
+  },
+  {
+    "file": "PNRTLST.CHK",
+    "chunk": "TXC00",
+    "ja": "先発調整中"
+  },
+  {
+    "file": "PNRTLST.CHK",
+    "chunk": "TXC00",
+    "ja": "明日"
+  },
+  {
+    "file": "PNRTLST.CHK",
+    "chunk": "TXC00",
+    "ja": "本日"
+  },
+  {
+    "file": "PNSELFLOW.CHK",
+    "chunk": "TXC00",
+    "ja": "選手編成"
+  },
+  {
+    "file": "PNSKIPMENU.CHK",
+    "chunk": "TXC00",
+    "ja": "１段目\n２段目"
+  },
+  {
+    "file": "PNSKIPMENU.CHK",
+    "chunk": "TXC00",
+    "ja": "する"
+  },
+  {
+    "file": "PNSKIPMENU.CHK",
+    "chunk": "TXC00",
+    "ja": "しない"
+  },
+  {
+    "file": "PNSKIPMENU.CHK",
+    "chunk": "TXC01",
+    "ja": "投手起用設定"
+  },
+  {
+    "file": "PNSKIPMENU.CHK",
+    "chunk": "TXC01",
+    "ja": "野手起用設定"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC00",
+    "ja": "１月１日　現在"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC01",
+    "ja": "選手名前"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC02",
+    "ja": "生涯成績"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC02",
+    "ja": "１軍"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC02",
+    "ja": "２軍"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC03",
+    "ja": "日付０１"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC03",
+    "ja": "日付０２"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC03",
+    "ja": "日付０３"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC03",
+    "ja": "日付０４"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC03",
+    "ja": "日付０５"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０１"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０２"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０３"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０４"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０５"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０６"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０７"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０８"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名０９"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名１０"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名１１"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC07",
+    "ja": "球団名１２"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC08",
+    "ja": "日付０６"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC08",
+    "ja": "日付０７"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC08",
+    "ja": "日付０８"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC08",
+    "ja": "日付０９"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC08",
+    "ja": "日付１０"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC08",
+    "ja": "対"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC20",
+    "ja": "勝数"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC20",
+    "ja": "負数"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC20",
+    "ja": "引分"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC21",
+    "ja": "チーム１"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC21",
+    "ja": "チーム２"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC21",
+    "ja": "チーム３"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC21",
+    "ja": "チーム4"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC21",
+    "ja": "チーム５"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC21",
+    "ja": "チーム６"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC22",
+    "ja": "項目１"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC22",
+    "ja": "項目２"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC22",
+    "ja": "項目３"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC22",
+    "ja": "項目５"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC22",
+    "ja": "項目６"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC22",
+    "ja": "項目７"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC22",
+    "ja": "項目８"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC24",
+    "ja": "年間表彰選手"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC25",
+    "ja": "投手部門"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC25",
+    "ja": "野手部門"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC25",
+    "ja": "９９勝"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC25",
+    "ja": "９９敗"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC25",
+    "ja": "９９９本"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC25",
+    "ja": "９９９点"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC27",
+    "ja": "苗字　名前"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC29",
+    "ja": "最優秀選手"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC29",
+    "ja": "最優秀新人"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC29",
+    "ja": "沢村賞"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC33",
+    "ja": "単位"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC35",
+    "ja": "１０月　１０日"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC38",
+    "ja": "三冠王"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC39",
+    "ja": "公式戦"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC39",
+    "ja": "個人成績"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC39",
+    "ja": "順位／勝敗"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC39",
+    "ja": "個人　投手"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC39",
+    "ja": "個人　打撃"
+  },
+  {
+    "file": "PNSTATS.CHK",
+    "chunk": "TXC39",
+    "ja": "個人　守備"
+  },
+  {
+    "file": "PNTDY08MAIN.CHK",
+    "chunk": "TXC12",
+    "ja": "神"
+  },
+  {
+    "file": "PNTDY08MAIN.CHK",
+    "chunk": "TXC15",
+    "ja": "メニューボタン"
+  },
+  {
+    "file": "PNTEAMINFO.CHK",
+    "chunk": "TXC00",
+    "ja": "昨年成績"
+  },
+  {
+    "file": "PNTEAMINFO.CHK",
+    "chunk": "TXC00",
+    "ja": "汎用２２フォント　24文字×8行"
+  },
+  {
+    "file": "PNTEPRMAIN.CHK",
+    "chunk": "TXC00",
+    "ja": "説明"
+  },
+  {
+    "file": "PNTRADE.CHK",
+    "chunk": "TXC00",
+    "ja": "放出選手"
+  },
+  {
+    "file": "PNTRADE.CHK",
+    "chunk": "TXC00",
+    "ja": "獲得選手"
+  },
+  {
+    "file": "PNTRADE.CHK",
+    "chunk": "TXC00",
+    "ja": "投"
+  },
+  {
+    "file": "PNTRADE.CHK",
+    "chunk": "TXC00",
+    "ja": "野"
+  },
+  {
+    "file": "PNTRADE.CHK",
+    "chunk": "TXC00",
+    "ja": "外"
+  },
+  {
+    "file": "PNTRAINING.CHK",
+    "chunk": "TXC00",
+    "ja": "覚醒期待度"
+  },
+  {
+    "file": "PNTRAINING.CHK",
+    "chunk": "TXC00",
+    "ja": "特訓内容"
+  },
+  {
+    "file": "PNTRAINING.CHK",
+    "chunk": "TXC00",
+    "ja": "成功率"
+  },
+  {
+    "file": "PNTRAINING.CHK",
+    "chunk": "TXC01",
+    "ja": "実践練習"
+  },
+  {
+    "file": "PRAC_BAT.CHK",
+    "chunk": "TXC02",
+    "ja": "真芯"
+  },
+  {
+    "file": "PRAC_DEF.CHK",
+    "chunk": "TXC01",
+    "ja": "方向"
+  },
+  {
+    "file": "PRAC_DEF.CHK",
+    "chunk": "TXC01",
+    "ja": "方向数"
+  },
+  {
+    "file": "PRAC_DEF.CHK",
+    "chunk": "TXC02",
+    "ja": "数字"
+  },
+  {
+    "file": "PRAC_OPT.CHK",
+    "chunk": "TXC00",
+    "ja": "やめる"
+  },
+  {
+    "file": "PRAC_OPT.CHK",
+    "chunk": "TXC00",
+    "ja": "打撃練習設定"
+  },
+  {
+    "file": "PRAC_OPT.CHK",
+    "chunk": "TXC00",
+    "ja": "ヘルプテキスト"
+  },
+  {
+    "file": "REPBULLPEN.CHK",
+    "chunk": "TXC01",
+    "ja": "中継投手"
+  },
+  {
+    "file": "REPMVPPTS.CHK",
+    "chunk": "TXC00",
+    "ja": "打席評価"
+  },
+  {
+    "file": "REPMVPPTS.CHK",
+    "chunk": "TXC00",
+    "ja": "ファン"
+  },
+  {
+    "file": "REPMVPPTS.CHK",
+    "chunk": "TXC00",
+    "ja": "話題"
+  },
+  {
+    "file": "REPMVPPTS.CHK",
+    "chunk": "TXC00",
+    "ja": "信頼"
+  },
+  {
+    "file": "REPPOSCHG.CHK",
+    "chunk": "TXC01",
+    "ja": "大引　啓次 "
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "回"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "打"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "安"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "振"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "球"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "失"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "責"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC04",
+    "ja": "暴"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC06",
+    "ja": "二"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC06",
+    "ja": "三"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC06",
+    "ja": "得"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC06",
+    "ja": "犠"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC06",
+    "ja": "盗"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC06",
+    "ja": "併"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC08",
+    "ja": "出場守備"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC08",
+    "ja": "評価"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC12",
+    "ja": "開催地　○回戦　ホームチーム　勝　負　分"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC12",
+    "ja": "登録名　勝　負　分　S"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC12",
+    "ja": "登録名HR数（号）"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC13",
+    "ja": "全投手"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC13",
+    "ja": "変化球系"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC13",
+    "ja": "失投数"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC13",
+    "ja": "空振"
+  },
+  {
+    "file": "RESULT.CHK",
+    "chunk": "TXC13",
+    "ja": "凡打"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "ヘルプ１段目\nヘルプ２段目"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "速球派"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "本格派"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "技巧派"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "軟投派"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "巧打者"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "強打者"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "俊足型"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種５"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種６"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種７"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種８"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種９"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種１０"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種１１"
+  },
+  {
+    "file": "RKTYPE.CHK",
+    "chunk": "TXC00",
+    "ja": "球種１２"
+  },
+  {
+    "file": "ROKTOP.CHK",
+    "chunk": "TXC00",
+    "ja": "あと"
+  },
+  {
+    "file": "ROKTOP.CHK",
+    "chunk": "TXC00",
+    "ja": "人作成可能"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC00",
+    "ja": "所持金"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC00",
+    "ja": "左右切替"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC00",
+    "ja": "アイテム名20文字"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC00",
+    "ja": "1行目"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC00",
+    "ja": "２行目"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC01",
+    "ja": "アイテム12文字"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC01",
+    "ja": "購入可"
+  },
+  {
+    "file": "SHOP.CHK",
+    "chunk": "TXC03",
+    "ja": "覚醒可"
+  },
+  {
+    "file": "SNDSET.CHK",
+    "chunk": "TXC00",
+    "ja": "歓声"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "タイトルはここ"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "効果の１行目"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "効果の２行目"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "説明の１行目"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "説明の2行目"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "説明の3行目"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "説明の4行目"
+  },
+  {
+    "file": "SPCARD.CHK",
+    "chunk": "TXC02",
+    "ja": "説明の5行目"
+  },
+  {
+    "file": "SPIPLRSL.CHK",
+    "chunk": "TXC06",
+    "ja": "勝利条件"
+  },
+  {
+    "file": "STORDER.CHK",
+    "chunk": "TXC00",
+    "ja": "名前"
+  },
+  {
+    "file": "STRATEGYSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "選択している作戦についての説明（36文字×1行）"
+  },
+  {
+    "file": "STRATEGYSEL.CHK",
+    "chunk": "TXC01",
+    "ja": "守備側確認"
+  },
+  {
+    "file": "STSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "日時"
+  },
+  {
+    "file": "STSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "風ありなし"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC02",
+    "ja": "三　塁"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC02",
+    "ja": "一　塁"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC02",
+    "ja": "二　塁"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC05",
+    "ja": "打　点"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC05",
+    "ja": "得　点"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC05",
+    "ja": "盗　塁"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC05",
+    "ja": "失　策"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC06",
+    "ja": "打　者"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC06",
+    "ja": "自責点"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC06",
+    "ja": "失　点"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC06",
+    "ja": "被HR"
+  },
+  {
+    "file": "TIMEMENU.CHK",
+    "chunk": "TXC06",
+    "ja": "投　手"
+  },
+  {
+    "file": "TMSEL.CHK",
+    "chunk": "TXC02",
+    "ja": "ユニフォームとか"
+  },
+  {
+    "file": "TMSEL.CHK",
+    "chunk": "TXC02",
+    "ja": "1P先攻とか"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC02",
+    "ja": "操作１"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC02",
+    "ja": "操作2"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC02",
+    "ja": "操作３"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC02",
+    "ja": "操作４"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC06",
+    "ja": "注意！＞512にしてからボタンのヨコサイズ変更"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC06",
+    "ja": "ヘルプ　最大28文字"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC07",
+    "ja": "設問１"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC07",
+    "ja": "設問2"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC07",
+    "ja": "設問3"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC07",
+    "ja": "設問4"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC07",
+    "ja": "設問5"
+  },
+  {
+    "file": "TUTO_GM.CHK",
+    "chunk": "TXC07",
+    "ja": "設問6"
+  },
+  {
+    "file": "TUTOSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "入門開始"
+  },
+  {
+    "file": "TUTOSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "投球編"
+  },
+  {
+    "file": "TUTOSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "打撃編"
+  },
+  {
+    "file": "TUTOSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "守備編"
+  },
+  {
+    "file": "TUTOSEL.CHK",
+    "chunk": "TXC00",
+    "ja": "走塁編"
+  },
+  {
+    "file": "UTYOPT.CHK",
+    "chunk": "TXC00",
+    "ja": "投手&野手"
+  },
+  {
+    "file": "UTYOPT.CHK",
+    "chunk": "TXC00",
+    "ja": "説明文1行目"
+  },
+  {
+    "file": "UTYOPT.CHK",
+    "chunk": "TXC00",
+    "ja": "説明文2行目"
+  },
+  {
+    "file": "VPPLT.CHK",
+    "chunk": "TXC00",
+    "ja": "獲得"
+  },
+  {
+    "file": "WBGAMEOVER.CHK",
+    "chunk": "TXC00",
+    "ja": "続ける"
+  },
+  {
+    "file": "WBMMMENU.CHK",
+    "chunk": "TXC00",
+    "ja": "ここに説明文をかいてください"
+  }
+]

@@ -1,0 +1,243 @@
+TRIAL.OVL:178f0|땅볼 처리
+TRIAL.OVL:17908|먼저 기본부터 시작하자!
+TRIAL.OVL:17948|2루수로 땅볼을 처리해 봐.
+TRIAL.OVL:17988|잡으면 바로 1루로 송구해.
+TRIAL.OVL:17a60|이번에는 유격수야.
+TRIAL.OVL:17aa0|1루까지 머니까 재빨리 송구해.
+TRIAL.OVL:17bb8|내야에서는 베이스 커버도 중요해.
+TRIAL.OVL:17bf8|1루에 확실히 들어가 송구를 받아.
+TRIAL.OVL:17d10|2루 주자가 있으면 3루수도 베이스 커버가
+TRIAL.OVL:17d50|중요해져.
+TRIAL.OVL:17d90|재빨리 3루에 들어가.
+TRIAL.OVL:17e50|병살 잡기
+TRIAL.OVL:17e68|병살을 잡아 보자!
+TRIAL.OVL:17ea8|유격수와 호흡을 맞춰 멋지게 해내자.
+TRIAL.OVL:17ee8|조금만 늦어도 안 돼!
+TRIAL.OVL:17fc0|다음은 유격수로 병살을 완성하자.
+TRIAL.OVL:18000|1루에 주자가 있고 2아웃이 아니면
+TRIAL.OVL:18040|언제나 병살을 노려 보자.
+TRIAL.OVL:18118|1루수로 병살에 참여해 봐.
+TRIAL.OVL:18158|타구에 흔들리지 말고 확실히 1루에
+TRIAL.OVL:18198|들어가.
+TRIAL.OVL:18258|번트 처리
+TRIAL.OVL:18270|투수에게 번트 수비는 아주 중요해!
+TRIAL.OVL:182b0|달려서 잡은 뒤 바로 1루로 송구해.
+TRIAL.OVL:183c8|상대가 희생번트를 댈 거야.
+TRIAL.OVL:18408|과감히 2루로 던져 아웃을 잡자!
+TRIAL.OVL:18520|포수에게도 번트 처리는 중요해.
+TRIAL.OVL:18560|타구가 느리니까 안전하게 1루에서
+TRIAL.OVL:185a0|아웃을 잡자.
+TRIAL.OVL:18660|뜬공 포구
+TRIAL.OVL:18678|포수 뜬공은 실력을 뽐낼 기회야.
+TRIAL.OVL:186b8|바로 방향을 판단해 낙하지점으로 달려.
+TRIAL.OVL:187d0|여기부터는 외야수야.
+TRIAL.OVL:18810|외야수의 기본 임무는 뜬공을 잡는 거야.
+TRIAL.OVL:18850|낙하지점에 확실히 들어가.
+TRIAL.OVL:18928|이번에는 우익수로 뜬공을 잡아.
+TRIAL.OVL:18968|타구를 보고 이동 방향을 빠르게 판단해.
+TRIAL.OVL:18a80|외야의 중심인 중견수는 수비 범위가 넓어야 해.
+TRIAL.OVL:18ac0|어떤 타구에도 대응하도록 집중해.
+TRIAL.OVL:18bc0|정확한 송구
+TRIAL.OVL:18bd8|외야수는 안타 뒤의 수비가 실력을 뽐낼 기회야.
+TRIAL.OVL:18c18|주자가 홈에 못 오도록 타구를 빨리 처리해서
+TRIAL.OVL:18c58|홈 송구로 아웃을 잡자!
+TRIAL.OVL:18d30|주자가 3루에 못 가도록 타구를 처리하면
+TRIAL.OVL:18d70|바로 3루로 송구해!
+TRIAL.OVL:18e88|뜬공을 잡아도 3루 주자의 태그업을
+TRIAL.OVL:18ec8|경계해. 바로 홈으로 송구해!
+TRIAL.OVL:18fc8|장타 막기
+TRIAL.OVL:18fe0|피해를 최소화하는 것도 외야수의 일이야.
+TRIAL.OVL:19020|장타가 안 되도록 잘 돌아 들어가 처리해.
+TRIAL.OVL:19138|이번에는 좌익수야.
+TRIAL.OVL:19178|타구가 펜스까지 못 가게 해!
+TRIAL.OVL:19278|호수비
+TRIAL.OVL:19290|마지막은 멋진 호수비를 해 보자.
+TRIAL.OVL:192d0|○ 버튼으로 몸을 날리고 재빨리 1루 송구.
+TRIAL.OVL:19310|용기를 내서 뛰어들자!
+TRIAL.OVL:193e8|수비의 기본은 타구에 대한 반응!
+TRIAL.OVL:19428|어떤 공에도 대응하도록 집중해.
+TRIAL.OVL:19540|타구가 늘 땅볼인 건 아니야.
+TRIAL.OVL:19580|앞뒤로도 바로 움직일 준비를 해.
+TRIAL.OVL:19698|상대가 번트를 댈 것 같아.
+TRIAL.OVL:196d8|여기서는 아웃 하나를 잡는 게 목표니까
+TRIAL.OVL:19718|무리하지 말고 1루에서 잡자.
+TRIAL.OVL:197f0|이번에는 진루를 막아 보자.
+TRIAL.OVL:19830|타구를 빨리 처리해서 2루로 송구해!
+TRIAL.OVL:19948|투수로 진루를 막아 보자.
+TRIAL.OVL:19988|바로 등 뒤의 2루로 송구해!
+TRIAL.OVL:19aa0|상대가 번트로 3루에 보내려나 봐.
+TRIAL.OVL:19ae0|적극적으로 3루에서 아웃을 잡자!
+TRIAL.OVL:19bf8|여기도 3루 진루를 막아야 하는 상황이야.
+TRIAL.OVL:19c38|상대가 번트에 실패해 타구가 세게 구르면
+TRIAL.OVL:19c78|진루를 막을 기회야!
+TRIAL.OVL:19d50|절체절명의 위기!
+TRIAL.OVL:19d90|바로 홈으로 던져 실점을 막자.
+TRIAL.OVL:19ea8|아직 위기가 이어지고 있어.
+TRIAL.OVL:19ee8|홈까지는 멀지만 어떻게든 실점을
+TRIAL.OVL:19f28|막는 수비를 하자!
+TRIAL.OVL:1a000|2아웃 전 1루에 주자가 있으면 언제나
+TRIAL.OVL:1a040|병살을 생각해 둬.
+TRIAL.OVL:1a080|멋진 연계 플레이를 완성하자!
+TRIAL.OVL:1a158|타구가 유격수에게 가면 이번에는 베이스에
+TRIAL.OVL:1a198|들어갈 차례야.
+TRIAL.OVL:1a1d8|제 역할을 확실히 해 줘.
+TRIAL.OVL:1a2b0|이번에는 유격수로 해 보자.
+TRIAL.OVL:1a2f0|짝을 이룰 2루수의 움직임도 잘 봐.
+TRIAL.OVL:1a408|어떤 타구든 언제나 병살을 노리자.
+TRIAL.OVL:1a448|끝까지 강한 수비를 익히자!
+TRIAL.OVL:1a560|파울 지역으로 날아가는 포수 뜬공.
+TRIAL.OVL:1a5a0|끝까지 쫓아가 반드시 아웃을 잡자!
+TRIAL.OVL:1a6b8|하나 더 해 보자!
+TRIAL.OVL:1a6f8|레이더로 낙하지점을 확인하며 쫓아가.
+TRIAL.OVL:1a810|안타를 막기 위해 바운드 전에 잡는 게 목표야.
+TRIAL.OVL:1a850|빨리 낙하지점에 들어가는 게 승부!
+TRIAL.OVL:1a968|앞뒤 좌우 어디든 움직일 준비를 해.
+TRIAL.OVL:1a9a8|첫걸음이 중요해.
+TRIAL.OVL:1aac0|다음은 우익수!
+TRIAL.OVL:1ab00|익숙해지면 낙하지점뿐 아니라 타구 각도도 봐.
+TRIAL.OVL:1ab40|움직이기 쉬워져.
+TRIAL.OVL:1ac18|좌우 외야수는 특히 라인 쪽을 조심해.
+TRIAL.OVL:1ac58|타구가 바깥으로 휘니까 더 깊이 쫓아가.
+TRIAL.OVL:1ad70|마지막은 조금 어려운 중견수 뜬공이야.
+TRIAL.OVL:1adb0|넓은 수비 범위는 좋은 외야수의 조건!
+TRIAL.OVL:1aec8|드디어 고급편 시작이야!
+TRIAL.OVL:1af08|안타를 막도록 낙하지점으로 곧장 달려.
+TRIAL.OVL:1b020|레이더를 보며 움직이는 습관을 들여.
+TRIAL.OVL:1b060|수비 범위를 넓히자!
+TRIAL.OVL:1b178|바로 잡을 수 없다면 돌아 들어가 장타를 막는
+TRIAL.OVL:1b1b8|수비로 바꿔야 해.
+TRIAL.OVL:1b2d0|타구를 보는 순간 바로 잡으러 갈 수 있는지
+TRIAL.OVL:1b310|판단해 보자!
+TRIAL.OVL:1b428|여기서는 2루 주자의 득점을 막아야 해.
+TRIAL.OVL:1b468|포구에서 송구까지 매끄럽게 연결하자!
+TRIAL.OVL:1b580|3루에 주자가 있다는 점에 주목해.
+TRIAL.OVL:1b5c0|어떤 플레이가 나올지 예상하고 해 보자!
+TRIAL.OVL:1b6d8|아웃 하나를 잡는 게 목표라는 걸 잊지 마.
+TRIAL.OVL:1b718|가까운 베이스에서 무리 없이 잡는 걸 생각해!
+TRIAL.OVL:1b830|어려운 상황이지만 여기서도 아웃 하나가 목표야.
+TRIAL.OVL:1b870|빠르고 정확하게 판단하자!
+TRIAL.OVL:1b988|아웃 카운트를 잘 생각해.
+TRIAL.OVL:1b9c8|주자에게 너무 신경 쓰면 안 돼!
+TRIAL.OVL:1bae0|자기 포지션의 역할을 잘 생각해.
+TRIAL.OVL:1bb20|냉정한 판단력을 시험해!
+TRIAL.OVL:1bc38|여러 플레이가 나올 수 있는 어려운 상황이야.
+TRIAL.OVL:1bc78|순간의 판단으로 최고의 결과를 내자!
+TRIAL.OVL:1bd90|목표를 확실히 확인해.
+TRIAL.OVL:1bdd0|정확한 수비로 진루를 막자!
+TRIAL.OVL:1bee8|2루 주자가 3루에 도착하지 못하게 해.
+TRIAL.OVL:1bf28|상황과 타구 판단이 모두 필요해!
+TRIAL.OVL:1c040|멋지게 병살을 잡자.
+TRIAL.OVL:1c080|내야수가 빛날 차례야!
+TRIAL.OVL:1c198|아웃 두 개를 잡으려면 빠른 포구와 송구가 필수.
+TRIAL.OVL:1c1d8|군더더기 없이 움직여.
+TRIAL.OVL:1c2f0|3루수에게서 시작하는 병살은 특히 정확해야 해.
+TRIAL.OVL:1c330|작은 차이가 성패를 가른다!
+TRIAL.OVL:1c448|다음은 투수로 병살에 참여하자.
+TRIAL.OVL:1c488|어디서 병살을 잡을지 침착하게 판단해.
+TRIAL.OVL:1c5a0|이번엔 포수 뜬공 하나!
+TRIAL.OVL:1c5e0|타구 방향을 놓치지 마.
+TRIAL.OVL:1c6f8|무사에 주자 없음.
+TRIAL.OVL:1c738|오는 공을 아웃으로 만들면 돼!
+TRIAL.OVL:1c850|드디어 마지막이야.
+TRIAL.OVL:1c890|타구에 집중!
+TRIAL.OVL:1c9a8|주루의 핵심은 타구 판단!
+TRIAL.OVL:1c9e8|타구를 잘 보고 빠지는지 확인하며 2루로
+TRIAL.OVL:1ca28|달려가자.
+TRIAL.OVL:1cb00|직선타나 뜬공에 뛰면 아웃이 될 수 있어.
+TRIAL.OVL:1cb40|바로 1루로 돌아와.
+TRIAL.OVL:1cc40|번트 대응
+TRIAL.OVL:1cc58|타자가 번트를 대 줄 거야.
+TRIAL.OVL:1cc98|번트가 헛되지 않도록 확실히 2루로
+TRIAL.OVL:1ccd8|진루해.
+TRIAL.OVL:1cdb0|이번에는 2루 주자야.
+TRIAL.OVL:1cdf0|타구를 잘 보고 빠지는 걸 확인하면 3루로
+TRIAL.OVL:1ce30|달려가.
+TRIAL.OVL:1cf08|번트를 대 줄 테니 3루로 진루하자.
+TRIAL.OVL:1cf48|출발이 좋지 않으면 위험해!
+TRIAL.OVL:1d060|다음은 3루 주자. 홈이 바로 앞이야!
+TRIAL.OVL:1d0a0|타구가 빠지는지 확인하고 침착하게 달려.
+TRIAL.OVL:1d1a0|태그업
+TRIAL.OVL:1d1b8|타자가 외야 뜬공을 칠 거야.
+TRIAL.OVL:1d1f8|바로 베이스로 돌아와 포구를 기다리고 아웃 선언과
+TRIAL.OVL:1d238|동시에 출발해!
+TRIAL.OVL:1d310|2루 주자에게도 태그업 기회가 있어.
+TRIAL.OVL:1d350|조급하게 일찍 출발하지 않도록 조심해!
+TRIAL.OVL:1d468|도루를 해 보자.
+TRIAL.OVL:1d4a8|투수가 투구 동작에 들어가면 출발해!
+TRIAL.OVL:1d4e8|몇 구든 기다려도 되니까 타이밍을 잡아.
+TRIAL.OVL:1d5c0|마지막은 3루 도루를 해 보자!
+TRIAL.OVL:1d600|타이밍이 어렵지만 출발만 좋으면 괜찮아.
+TRIAL.OVL:1d640|과감하게 가자!
+TRIAL.OVL:1d718|고급편에서는 타자가 몇 구째 칠지 몰라.
+TRIAL.OVL:1d758|공이 배트에 맞는지 잘 확인해.
+TRIAL.OVL:1d798|견제도 꼭 조심하고!
+TRIAL.OVL:1d870|1루 주자는 땅볼이 나오면 그 순간
+TRIAL.OVL:1d8b0|출발해도 괜찮아.
+TRIAL.OVL:1d8f0|땅볼인지 빠르게 판단할 수 있도록 하자!
+TRIAL.OVL:1d9c8|출발이 나쁘면 타자가 친 안타를
+TRIAL.OVL:1da08|헛되게 만들 수도 있어!
+TRIAL.OVL:1db20|이번 문제는 진루와 귀루를 정확히 조작해.
+TRIAL.OVL:1db60|침착하게 타구를 잘 봐!
+TRIAL.OVL:1dc78|잠깐, 아웃 카운트에 주목!
+TRIAL.OVL:1dcb8|2아웃이니까 어떤 타구든 출발해도 돼.
+TRIAL.OVL:1dcf8|상황을 잘 생각하며 플레이하자!
+TRIAL.OVL:1ddd0|여러 경우가 있는 어려운 상황이야.
+TRIAL.OVL:1de10|타구의 행방에 집중하자!
+TRIAL.OVL:1df28|주자 상황에 주목!
+TRIAL.OVL:1df68|다른 주자에게 피해를 주지 않도록 정확하게
+TRIAL.OVL:1dfa8|주루하자.
+TRIAL.OVL:1e080|3루로 진루하는 문제야.
+TRIAL.OVL:1e0c0|타격, 번트, 태그업도 있어!
+TRIAL.OVL:1e1d8|타자의 움직임도 잘 봐.
+TRIAL.OVL:1e218|헛스윙인데 뛰어나가면 안 돼!
+TRIAL.OVL:1e330|아웃 카운트를 잘 봐!
+TRIAL.OVL:1e370|어떻게 뛰어야 할지 이제 알겠지?
+TRIAL.OVL:1e488|다음은 3루 주자, 게다가 만루야.
+TRIAL.OVL:1e4c8|진루할지 돌아갈지 빨리 판단하자!
+TRIAL.OVL:1e5e0|판단하기 어려운 타구라면 잠시 멈춰서
+TRIAL.OVL:1e620|지켜보는 것도 방법이야.
+TRIAL.OVL:1e738|땅볼이면 출발, 뜬공이면 태그업 준비.
+TRIAL.OVL:1e778|반드시 홈을 밟자!
+TRIAL.OVL:1e890|외야 뜬공이면 베이스로 돌아와 태그업 준비.
+TRIAL.OVL:1e8d0|얕은 뜬공은 안타가 될 수도 있으니 조심해!
+TRIAL.OVL:1e9e8|태그업은 출발이 중요해.
+TRIAL.OVL:1ea28|좋은 자세에서 아웃 선언과 동시에 달려!
+TRIAL.OVL:1eb40|한 번에 3루까지 가 보자.
+TRIAL.OVL:1eb80|2아웃이니까 과감하게 출발할 수 있어!
+TRIAL.OVL:1ec98|몇 구든 기다려도 되니까 투구폼을 잘 보고
+TRIAL.OVL:1ecd8|타이밍을 확실히 잡자!
+TRIAL.OVL:1edf0|여러 상황이 나올 것 같아.
+TRIAL.OVL:1ee30|모든 경우에 대비해 타구에 집중!
+TRIAL.OVL:1ef48|3루 도루는 타이밍이 아주 까다로워.
+TRIAL.OVL:1ef88|최고의 출발을 해 보자!
+TRIAL.OVL:1f0a0|드디어 마지막 문제야!
+TRIAL.OVL:1f0e0|지금까지 배운 걸 살리면 돼. 멋지게 해내자!
+TRIAL.OVL:1f1e0|1아웃을 잡아라
+TRIAL.OVL:1f1f8|병살을 완성하라
+TRIAL.OVL:1f210|안타 막기
+TRIAL.OVL:1f228|장타 막기
+TRIAL.OVL:1f258|2루 진루를 막아라
+TRIAL.OVL:1f270|3루 진루를 막아라
+TRIAL.OVL:1f300|정확하게 주루하라
+TRIAL.OVL:1f318|2루로 진루하라
+TRIAL.OVL:1f330|3루로 진루하라
+TRIAL.OVL:1f348|홈으로 생환하라
+TRIAL.OVL:1f360|도루에 성공하라
+TRIAL.OVL:1f438|뜬공은 바로 잡아서 아웃으로,
+TRIAL.OVL:1f478|땅볼은 뒤로 빠뜨리지 마.
+TRIAL.OVL:1f4b8|몇 개나 성공할까?
+TRIAL.OVL:20600|모든 트라이얼 완료
+TRIAL.OVL:20620|100개 펑고 챌린지 해금!
+TRIAL.OVL:20640|수비 초급편 퍼펙트!
+TRIAL.OVL:20660|수비 중급편 퍼펙트!
+TRIAL.OVL:20680|수비 고급편 퍼펙트!
+TRIAL.OVL:206a0|수비 초급편 완료
+TRIAL.OVL:206c0|수비 중급편 완료
+TRIAL.OVL:206e0|수비 고급편 완료
+TRIAL.OVL:20710|100개 펑고 종료
+TRIAL.OVL:20730|100개 펑고 퍼펙트!
+TRIAL.OVL:20770|처음부터
+TRIAL.OVL:20950|주루 초급편 퍼펙트!
+TRIAL.OVL:20970|주루 고급편 퍼펙트!
+TRIAL.OVL:20990|주루 초급편 완료
+TRIAL.OVL:209b0|주루 고급편 완료

@@ -1,0 +1,30 @@
+{
+  "version": "v1.0",
+  "date": "2026-10-03",
+  "game": "Pro Yakyuu Spirits 6 (Japan)",
+  "platform": "PS2",
+  "serial": "SLPM-55158",
+  "asset": "ProYakyuuSpirits6_PS2_KO_v1.0.xdelta",
+  "xdelta_options": "xdelta3 3.1.0 -e -9 -S none -A",
+  "source": {
+    "bytes": 4424990720,
+    "md5": "3c879d2082b2406dae1bfb71eab9b6d7",
+    "sha1": "607c5e9b3cc65e6dc8336c8589c11b8768348575",
+    "sha256": "51bfd7a40f1855470ce3bcb467102cf535707ba1d5d1f1d5b23d4d2c1aab8559"
+  },
+  "output": {
+    "bytes": 4424990720,
+    "md5": "1f4becde5d49960032a67fc1945d9b57",
+    "sha1": "a14deaa8d55ebde33cd53a3046dba6ed859fdde0",
+    "sha256": "5b7a4c5788ac197276e1c1f1a0222a2d3e94e6a4bad261e652a0ac10eea4daa4"
+  },
+  "patch": {
+    "bytes": 3553272,
+    "md5": "765858e53d688a8d551fd159c94ba3dd",
+    "sha1": "06f28ec1f7c117b63ffe0696f5c1c6befbbc1ba3",
+    "sha256": "9f03db6a17077a22e0e2cd35bbd18dda3b0a543909ea38fbc669a11d92f9c6c0"
+  },
+  "roundtrip_verified": true,
+  "runtime_verified": true,
+  "runtime_scope": "Final ISO: fresh boot and pennant. Earlier build: WBC Korea/Japan rosters and live batting. See validation/runtime_verification.json; full season/branch playthrough not completed."
+}

@@ -1,0 +1,293 @@
+PNSOLO.OVL:697a8|편의점
+PNSOLO.OVL:697d0|편의점에서 물건을 삽니다.
+PNSOLO.OVL:69800|전자제품 매장에서 물건을 삽니다.
+PNSOLO.OVL:69830|외식합니다. 향토 요리를 맛보면 추억 목록에 기록됩니다.
+PNSOLO.OVL:69938|남은 %d회
+PNSOLO.OVL:699b0|호텔
+PNSOLO.OVL:699c0|%s／%s 행동을 고르세요.
+PNSOLO.OVL:69b98|탈삼진 보너스
+PNSOLO.OVL:69ba8|2루타 보너스
+PNSOLO.OVL:69bb8|3루타 보너스
+PNSOLO.OVL:69bc8|홈런 보너스
+PNSOLO.OVL:69bd8|도루 보너스
+PNSOLO.OVL:69c00|노히트 노런 상
+PNSOLO.OVL:69c38|세이브 상
+PNSOLO.OVL:69c48|홀드 상
+PNSOLO.OVL:69c68|사이클링히트 상
+PNSOLO.OVL:69d98|삿포로 라멘
+PNSOLO.OVL:69db0|징기스칸
+PNSOLO.OVL:69dd8|우설
+PNSOLO.OVL:69de8|샥스핀
+PNSOLO.OVL:69e10|기타카타 라멘
+PNSOLO.OVL:69e28|수타 우동
+PNSOLO.OVL:69e40|감자 요리
+PNSOLO.OVL:69e58|닭새우
+PNSOLO.OVL:69e70|대합
+PNSOLO.OVL:69eb0|튀김
+PNSOLO.OVL:69ee8|호토
+PNSOLO.OVL:69f00|소스 가쓰동
+PNSOLO.OVL:69f18|헤기 소바
+PNSOLO.OVL:69f30|히미 우동
+PNSOLO.OVL:69f60|에치젠 소바
+PNSOLO.OVL:69f78|시즈오카어묵
+PNSOLO.OVL:69f90|히쓰마부시
+PNSOLO.OVL:69fa8|나고야 코친
+PNSOLO.OVL:69fd0|다코야키
+PNSOLO.OVL:69fe8|복어 요리
+PNSOLO.OVL:6a000|소바메시
+PNSOLO.OVL:6a028|붓카케 우동
+PNSOLO.OVL:6a040|오코노미야키
+PNSOLO.OVL:6a068|도미밥
+PNSOLO.OVL:6a078|사와치 요리
+PNSOLO.OVL:6a090|하카타 라멘
+PNSOLO.OVL:6a0a8|곱창탕
+PNSOLO.OVL:6a0b8|오징어 슈마이
+PNSOLO.OVL:6a0d0|나가사키 짬뽕
+PNSOLO.OVL:6a0e8|말육회
+PNSOLO.OVL:6a610|파워＆주력 상승!
+PNSOLO.OVL:6b408|자연스러움
+PNSOLO.OVL:6b418|멋쟁이
+PNSOLO.OVL:6b428|두근두근
+PNSOLO.OVL:6b438|꽃미남
+PNSOLO.OVL:6b460|어른
+PNSOLO.OVL:6b468|세련됨
+PNSOLO.OVL:6b498|주전
+PNSOLO.OVL:6b4e0|유대
+PNSOLO.OVL:6b900|스타덤 모드를 종료합니다.\n계속할까요?
+PNSOLO.OVL:6b930|저장하지 않았습니다.\n스타덤 모드를 종료할까요?
+PNSOLO.OVL:6c9b8|플레이오프
+PNSOLO.OVL:6c9f0|2군 공식전
+PNSOLO.OVL:6ca20|2군 일본 챔피언전
+PNSOLO.OVL:6cd80|이번 시즌 내 성적을 봅니다.
+PNSOLO.OVL:6cdc0|이번 시즌 공식 기록을 봅니다.
+PNSOLO.OVL:6ce00|맛본 향토 요리와 특별 제안 현황을 봅니다.
+PNSOLO.OVL:6ce70|스타덤 데이터를 저장합니다.
+PNSOLO.OVL:6cec0|경기 진행 방식을 바꿉니다.
+PNSOLO.OVL:6cef0|조작법과 난이도를 바꿉니다.
+PNSOLO.OVL:6cf30|경기 환경을 바꿉니다.
+PNSOLO.OVL:6cf60|장비를 바꿉니다.
+PNSOLO.OVL:6cf90|타석 등에서 나올 응원곡을 설정합니다.
+PNSOLO.OVL:6cfc0|모드를 종료하고 메인 메뉴로 돌아갑니다.
+PNSOLO.OVL:6d948|휴일
+PNSOLO.OVL:6f680|캔커피
+PNSOLO.OVL:6f690|만화 잡지
+PNSOLO.OVL:6f6a0|패션 잡지
+PNSOLO.OVL:6f6c8|수건
+PNSOLO.OVL:6f6e0|캔커피로 잠시 휴식! 피로가 회복됩니다. 계속 마시면...?
+PNSOLO.OVL:6f730|팀 동료들도 즐겨 보는 만화 잡지. 피로가 회복됩니다.
+PNSOLO.OVL:6f780|스타의 첫걸음은 옷차림! 스타일이 오르고 피로도 조금 회복됩니다. 계속 읽으면...?
+PNSOLO.OVL:6f7f0|여기에는 어떤 향토 요리가 있을까? 이 지역의 가게 정보를 확인! 피로도 조금 회복됩니다.
+PNSOLO.OVL:6f850|팔을 휘두르기 딱 좋은 저항감! 훈련 메뉴 '섀도 피칭'의 레벨이 오릅니다.
+PNSOLO.OVL:6fa60|DVD 플레이어
+PNSOLO.OVL:6fa80|휴대용 DVD 플레이어
+PNSOLO.OVL:6fa98|전축
+PNSOLO.OVL:6faa0|휴대 음악 플레이어
+PNSOLO.OVL:6fab8|휴대 게임기
+PNSOLO.OVL:6faf0|휴대 마사지기
+PNSOLO.OVL:6fb18|숙면 베개
+PNSOLO.OVL:6fb30|슈퍼 숙면 베개
+PNSOLO.OVL:6fb48|요가 매트
+PNSOLO.OVL:6fb60|기숙사 방에서 휴식 'DVD 감상'을 할 수 있습니다.
+PNSOLO.OVL:6fbb0|언제든 휴식 'DVD 감상(휴대)'을 할 수 있습니다.
+PNSOLO.OVL:6fc00|기숙사 방에서 휴식 '음악 감상'을 할 수 있습니다.
+PNSOLO.OVL:6fc40|언제든 휴식 '음악 감상(휴대)'을 할 수 있습니다.
+PNSOLO.OVL:6fc90|휴식 '휴대 게임'을 할 수 있습니다.
+PNSOLO.OVL:6fcd0|팬 메뉴 '블로그 갱신'을 할 수 있습니다.
+PNSOLO.OVL:6fd10|기숙사 방에서 피로 회복력이 오릅니다.
+PNSOLO.OVL:6fd40|휴식 '건강 기구'를 할 수 있습니다.
+PNSOLO.OVL:6fd80|휴식 '건강 기구'가 레벨 2로 오릅니다.
+PNSOLO.OVL:6fdc0|휴식 '일찍 자기'와 '늦잠'이 레벨 2로 오릅니다.
+PNSOLO.OVL:6fe00|휴식 '일찍 자기'와 '늦잠'이 레벨 3으로 오릅니다.
+PNSOLO.OVL:6fe40|휴식 '스트레칭'이 레벨 2 '요가'로 바뀝니다.
+PNSOLO.OVL:70230|불고기
+PNSOLO.OVL:70240|팀 동료와 %s 먹으러 갑니다.
+PNSOLO.OVL:70268|샤부샤부
+PNSOLO.OVL:70280|패스트푸드
+PNSOLO.OVL:702a0|%s 먹으러 갑니다.
+PNSOLO.OVL:70560|야간 경기
+PNSOLO.OVL:70580|앞으로
+PNSOLO.OVL:70ac0|대우 컨택＋１
+PNSOLO.OVL:70ad0|대좌 컨택＋１
+PNSOLO.OVL:70c88|포수 리드＋１
+PNSOLO.OVL:70d30|제2 직구 계열
+PNSOLO.OVL:70d50|제2 슬라이더 계열
+PNSOLO.OVL:70d68|제2 커브 계열
+PNSOLO.OVL:70d78|제2 포크 계열
+PNSOLO.OVL:70d88|제2 싱커 계열
+PNSOLO.OVL:70d98|제2 슈트 계열
+PNSOLO.OVL:70e00|제2 직구
+PNSOLO.OVL:70e10|제2 슬라이더
+PNSOLO.OVL:70e30|제2 포크
+PNSOLO.OVL:70e40|제2 싱커
+PNSOLO.OVL:70e50|제2 슈트
+PNSOLO.OVL:71140|제구＋１
+PNSOLO.OVL:71180|오리지널 구종 지정
+PNSOLO.OVL:711a0|오리지널 구종 해제
+PNSOLO.OVL:711c0|우투수 상대 컨택 능력
+PNSOLO.OVL:711e0|좌투수 상대 컨택 능력
+PNSOLO.OVL:71200|타구의 강도
+PNSOLO.OVL:71210|정타로 맞혔을 때의 탄도
+PNSOLO.OVL:71230|달리기 속도
+PNSOLO.OVL:71240|송구 속도
+PNSOLO.OVL:71250|송구 능력
+PNSOLO.OVL:71260|포구 능력
+PNSOLO.OVL:71270|수비 범위와 민첩함
+PNSOLO.OVL:71290|피로 회복 속도
+PNSOLO.OVL:712d0|이 투수의 최고 구속
+PNSOLO.OVL:712f0|높을수록 투구 수 증가
+PNSOLO.OVL:71310|선발 등판 준비 속도
+PNSOLO.OVL:71330|직구 계열 구종 습득
+PNSOLO.OVL:71350|슬라이더 계열 구종 습득
+PNSOLO.OVL:71370|커브 계열 구종 습득
+PNSOLO.OVL:71390|포크 계열 구종 습득
+PNSOLO.OVL:713b0|싱커 계열 구종 습득
+PNSOLO.OVL:713d0|슈트 계열 구종 습득
+PNSOLO.OVL:713f0|제2 직구 계열 구종 습득
+PNSOLO.OVL:71410|제2 슬라이더 계열 구종 습득
+PNSOLO.OVL:71430|제2 커브 계열 구종 습득
+PNSOLO.OVL:71450|제2 포크 계열 구종 습득
+PNSOLO.OVL:71470|제2 싱커 계열 구종 습득
+PNSOLO.OVL:71490|제2 슈트 계열 구종 습득
+PNSOLO.OVL:714b0|직구 계열 강화 및 변경
+PNSOLO.OVL:714d0|슬라이더 계열 강화 및 변경
+PNSOLO.OVL:714f0|커브 계열 강화 및 변경
+PNSOLO.OVL:71510|포크 계열 강화 및 변경
+PNSOLO.OVL:71530|싱커 계열 강화 및 변경
+PNSOLO.OVL:71550|슈트 계열 강화 및 변경
+PNSOLO.OVL:71570|제2 직구 계열 강화 및 변경
+PNSOLO.OVL:715a0|제2 슬라이더 계열 강화 및 변경
+PNSOLO.OVL:715d0|제2 커브 계열 강화 및 변경
+PNSOLO.OVL:715f0|제2 포크 계열 강화 및 변경
+PNSOLO.OVL:71610|제2 싱커 계열 강화 및 변경
+PNSOLO.OVL:71630|제2 슈트 계열 강화 및 변경
+PNSOLO.OVL:71650|투구의 기본이 되는 가장 빠른 공
+PNSOLO.OVL:71670|실밥에 거는 손가락을 바꿔 타자 앞에서 조금 움직이기도 하는 직구
+PNSOLO.OVL:716c0|직구와 같은 팔 스윙으로 느리게 던져 타이밍을 뺏는 공
+PNSOLO.OVL:71700|던지는 팔 반대 방향으로 조금 빠르게 옆으로 휘는 공
+PNSOLO.OVL:71740|더 빠르게 휘는 슬라이더
+PNSOLO.OVL:71760|타자 앞에서 슬라이더 쪽으로 살짝 빠르게 휘는 공
+PNSOLO.OVL:71790|느리고 커브에 조금 가까운 슬라이더
+PNSOLO.OVL:717c0|던지는 팔 반대 방향으로 느리게 비스듬히 휘는 공
+PNSOLO.OVL:717f0|커브보다 느려 타자의 타이밍을 뺏는 공
+PNSOLO.OVL:71830|일반 커브보다 세로로 크게 휘는 공
+PNSOLO.OVL:71860|슬라이더와 커브의 중간 구종
+PNSOLO.OVL:71880|슬로 커브보다도 더 느린 공
+PNSOLO.OVL:718b0|손가락을 세워 불규칙한 회전을 줘 독특하게 휘는 공
+PNSOLO.OVL:718f0|손가락 사이에 끼워 던져 날카롭게 떨어지는 공
+PNSOLO.OVL:71920|손바닥으로 감싸 쥐고 던져 독특하게 세로로 휘는 공
+PNSOLO.OVL:71960|손가락을 세워 무회전으로 던져 공기저항에 흔들려 떨어지는 공
+PNSOLO.OVL:719a0|세로로 떨어지는 슬라이더
+PNSOLO.OVL:719c0|감속하며 아래로 떨어져 타이밍을 뺏는 공
+PNSOLO.OVL:71a00|포크보다 얕게 끼워 던져 낙차는 작지만 제구가 좋고 빠르게 떨어지는 공
+PNSOLO.OVL:71a50|아래로 조금 빠르게 떨어지는 공
+PNSOLO.OVL:71a80|슬라이더와 궤적이 비슷한 팜볼
+PNSOLO.OVL:71ab0|구속이 더 느린 체인지업
+PNSOLO.OVL:71ad0|포크 그립으로 무회전으로 던져 공기 저항에 흔들리며 떨어지는 공
+PNSOLO.OVL:71b20|팔 방향으로 느리게 비스듬히 가라앉는 공
+PNSOLO.OVL:71b50|팔 방향으로 빠르게 가라앉는 공
+PNSOLO.OVL:71b80|느린 싱커. 타자의 타이밍을 뺏는 공
+PNSOLO.OVL:71bb0|느린 스크루. 타자의 타이밍을 뺏는 공
+PNSOLO.OVL:71be0|팔 방향으로 아주 빨리 가라앉는 공
+PNSOLO.OVL:71c10|감속하며 팔 방향으로 비스듬히 떨어져 타이밍을 뺏는 공
+PNSOLO.OVL:71c50|구속이 더 느린 서클 체인지
+PNSOLO.OVL:71c70|팔 방향으로 빠르고 날카롭게 휘는 공
+PNSOLO.OVL:71ca0|직구와 속도가 같은 슈트
+PNSOLO.OVL:71cd0|팔 방향으로 빨리 날카롭게 휘며 가라앉는 공
+PNSOLO.OVL:71d00|변화량
+PNSOLO.OVL:71d10|공의 위력
+PNSOLO.OVL:71d20|제구 난이도
+PNSOLO.OVL:71d40|새 구종을 배웁니다.
+PNSOLO.OVL:71d58|구종 변경
+PNSOLO.OVL:71d70|이 구종을 오리지널 변화구로 지정합니다.
+PNSOLO.OVL:71da0|이 구종의 오리지널 변화구 지정을 해제
+PNSOLO.OVL:72460|능력 향상을 마칩니다.
+PNSOLO.OVL:72480|능력 목록을 투수 쪽으로 바꿉니다.
+PNSOLO.OVL:724b0|능력 목록을 야수 쪽으로 바꿉니다.
+PNSOLO.OVL:724e0|능력을 변경 전으로 되돌립니다.
+PNSOLO.OVL:72500|%s\n이 이름으로 할까요?
+PNSOLO.OVL:72520|오리지널 변화구 이름을 입력하세요.
+PNSOLO.OVL:72550|오리지널 구종을 해제할까요?
+PNSOLO.OVL:72580|현재 구종을 덮어쓸까요?\n※ 덮어쓰면 구종 능력이 초기화됩니다.
+PNSOLO.OVL:72630|능력 향상을 마칠까요?
+PNSOLO.OVL:72670|구입한 능력을 초기화할까요?
+PNSOLO.OVL:72908|프로 첫등판
+PNSOLO.OVL:72918|프로 첫승리
+PNSOLO.OVL:72928|프로 첫 세이브
+PNSOLO.OVL:72940|시즌 승리 기록
+PNSOLO.OVL:72960|시즌 세이브 기록
+PNSOLO.OVL:72980|시즌 탈삼진 기록
+PNSOLO.OVL:72f88|프로 첫타석
+PNSOLO.OVL:72f98|프로 첫 안타
+PNSOLO.OVL:72fa8|프로 첫 홈런
+PNSOLO.OVL:72fc0|시즌 홈런 기록
+PNSOLO.OVL:72fe0|시즌 안타 기록
+PNSOLO.OVL:73000|시즌 도루 기록
+PNSOLO.OVL:73020|시즌 타점 기록
+PNSOLO.OVL:739c0|등판\n투구 회\n방어율\n승\n패\n세이브\nHP\nH\n완봉\n완투\n탈삼진\n볼넷\n사구\n피홈런\n실점\n자책점
+PNSOLO.OVL:73aa8|시즌 개막 전
+PNSOLO.OVL:73ae0|\n일본 시리즈 우승
+PNSOLO.OVL:73b00|\n일본 시리즈 탈락
+PNSOLO.OVL:73b20|\n클라이맥스 시리즈 우승
+PNSOLO.OVL:73b40|\n클라이맥스 시리즈 탈락
+PNSOLO.OVL:73b60|\n아시아 시리즈 우승
+PNSOLO.OVL:73b80|\n아시아 시리즈 탈락
+PNSOLO.OVL:73c00|달성 완료
+PNSOLO.OVL:73de8|중간계투
+PNSOLO.OVL:73df8|마무리투수
+PNSOLO.OVL:73e30|선발로 3이닝을 막아 줬으면 한다.
+PNSOLO.OVL:73e60|중반 3이닝을 던져 줬으면 한다.
+PNSOLO.OVL:73e80|후반 3이닝을 던져 줬으면 한다.
+PNSOLO.OVL:73ea0|선발 1번 타자로 나가 주게.
+PNSOLO.OVL:73ec0|오늘 경기 잘해 줬다.
+PNSOLO.OVL:73ee0|앞으로도 오늘처럼 부탁하네.
+PNSOLO.OVL:73f00|개막까지 서둘러 몸을 만들어 주게.
+PNSOLO.OVL:72b30|통산 １００세이브
+PNSOLO.OVL:72b50|통산 ２００세이브
+PNSOLO.OVL:72b70|통산 ３００세이브
+PNSOLO.OVL:72b90|통산 ４００세이브
+PNSOLO.OVL:72bb0|통산 ５００세이브
+PNSOLO.OVL:72bd0|통산 ６００세이브
+PNSOLO.OVL:72bf0|통산 ７００세이브
+PNSOLO.OVL:72c10|통산 ８００세이브
+PNSOLO.OVL:72c30|통산 ９００세이브
+PNSOLO.OVL:72c50|통산 １０００세이브
+PNSOLO.OVL:730f0|통산 ５０홈런
+PNSOLO.OVL:73110|통산 １００홈런
+PNSOLO.OVL:73130|통산 １５０홈런
+PNSOLO.OVL:73150|통산 ２００홈런
+PNSOLO.OVL:73170|통산 ２５０홈런
+PNSOLO.OVL:73190|통산 ３００홈런
+PNSOLO.OVL:731b0|통산 ３５０홈런
+PNSOLO.OVL:731d0|통산 ４００홈런
+PNSOLO.OVL:731f0|통산 ４５０홈런
+PNSOLO.OVL:73210|통산 ５００홈런
+PNSOLO.OVL:73230|통산 ５５０홈런
+PNSOLO.OVL:73250|통산 ６００홈런
+PNSOLO.OVL:73270|통산 ６５０홈런
+PNSOLO.OVL:73290|통산 ７００홈런
+PNSOLO.OVL:732b0|통산 ７５０홈런
+PNSOLO.OVL:732d0|통산 ８００홈런
+PNSOLO.OVL:732f0|통산 ８５０홈런
+PNSOLO.OVL:73310|통산 ９００홈런
+PNSOLO.OVL:73330|통산 ９５０홈런
+PNSOLO.OVL:73350|통산 １０００홈런
+PNSOLO.OVL:73370|통산 １０５０홈런
+PNSOLO.OVL:73390|통산 １１００홈런
+PNSOLO.OVL:733b0|통산 １１５０홈런
+PNSOLO.OVL:733d0|통산 １２００홈런
+PNSOLO.OVL:733f0|통산 １２５０홈런
+PNSOLO.OVL:73410|통산 １３００홈런
+PNSOLO.OVL:73430|통산 １３５０홈런
+PNSOLO.OVL:73450|통산 １４００홈런
+PNSOLO.OVL:73470|통산 １４５０홈런
+PNSOLO.OVL:73490|통산 １５００홈런
+PNSOLO.OVL:734b0|통산 １５５０홈런
+PNSOLO.OVL:734d0|통산 １６００홈런
+PNSOLO.OVL:734f0|통산 １６５０홈런
+PNSOLO.OVL:73510|통산 １７００홈런
+PNSOLO.OVL:73530|통산 １７５０홈런
+PNSOLO.OVL:73550|통산 １８００홈런
+PNSOLO.OVL:73570|통산 １８５０홈런
+PNSOLO.OVL:73590|통산 １９００홈런
+PNSOLO.OVL:735b0|통산 １９５０홈런
+PNSOLO.OVL:735d0|통산 ２０００홈런

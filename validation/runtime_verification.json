@@ -1,0 +1,139 @@
+{
+  "tested_iso_sha256": "5b7a4c5788ac197276e1c1f1a0222a2d3e94e6a4bad261e652a0ac10eea4daa4",
+  "emulator": "PCSX2 v2.9.93",
+  "checks": {
+    "boot": true,
+    "main_menu": true,
+    "pennant_start": true,
+    "pennant_help_diagrams": true,
+    "pennant_team_title": true,
+    "pennant_user_settings": true,
+    "pennant_opening_144_linebreak": true,
+    "pennant_main_opponent_name": true,
+    "pennant_main_ticker_no_ascii_corruption": true,
+    "complete_game": false,
+    "complete_season": false,
+    "pennant_save_load": false
+  },
+  "evidence_files": [
+    "final_pennant_team_intro.png",
+    "final_pennant_opening_144.png",
+    "final_pennant_main_lotte.png"
+  ],
+  "additional_build_checks": [
+    {
+      "tested_iso_sha256": "d001115a52c3a55b5854fc2cc15d281635e5ffe124310b290b3bc8ed17c7a257",
+      "emulator": "PCSX2 v2.9.93",
+      "checks": {
+        "boot": true,
+        "input_and_mode_selection": true,
+        "wbc_menu": true,
+        "korea_pitcher_roster": true,
+        "korea_batting_roster": true,
+        "japan_pitcher_roster": true,
+        "japan_batting_roster": true,
+        "korea_japan_lineup_confirmation": true,
+        "wbc_match_load": true,
+        "save_load_on_memory_card": false,
+        "complete_game": false,
+        "wbc_live_match_korean_name": true,
+        "wbc_live_match_korean_bio": true
+      },
+      "screenshots": [
+        "20261002203135",
+        "20261002203213",
+        "20261002203308",
+        "20261002203409",
+        "20261002204230"
+      ],
+      "notes": "Character mapping and WBC names verified on this exact development ISO. Later rebuilt UI changes require separate verification. No claim of full localization.",
+      "evidence_files": [
+        "wbc_korea_pitchers.png",
+        "wbc_korea_batters.png",
+        "wbc_japan_pitchers.png",
+        "wbc_japan_batters.png",
+        "wbc_korea_japan_lineup.png",
+        "wbc_korean_player_intro.png"
+      ]
+    },
+    {
+      "iso_sha256": "2e601ed985f4b3d9e593250f495bcc91c295812b92a899d79985e2d3a886c3a2",
+      "boot": true,
+      "korean_memory_card_dialog": true,
+      "confirm_input": true,
+      "loading_tips_visual": true,
+      "wbc_menu": true,
+      "korea_pitcher_roster": true,
+      "korea_batting_roster": true,
+      "japan_pitcher_roster": true,
+      "japan_batting_roster": true,
+      "user_setup_korean_titles_choices_help": true,
+      "korea_japan_lineup_confirmation": true,
+      "loading_tip_observed": "Original cheer song creation, record 10",
+      "layout_note": "Korean text displayed correctly. One orphan syllable identified; follow-up build wraps all bodies to 23 visible cells and at most 5 lines. That final wrapping change is structurally checked, not re-run through every screen."
+    },
+    {
+      "iso_sha256": "18b4d49856d57fcd5de69a37d39b8174b10548e394dfdfa0cb4c51d3cd18e944",
+      "boot": true,
+      "system_data_save_on_test_card": true,
+      "korean_main_menu": true,
+      "korean_tutorial_category_menu": true,
+      "tutorial_first_line_gap_detected": true,
+      "loading_button_gap_detected": true,
+      "notes": "Both gaps were corrected in embedded_labels.py and GLOAD00..03 TEX01 for the following build. Test memory card is workspace Validation.ps2; user card untouched.",
+      "screenshots": [
+        "20261003023730",
+        "20261003023742",
+        "20261003023806"
+      ]
+    },
+    {
+      "iso_sha256": "0b96674bf027943087bfe8e6dd032da4bd93aba820499b1239813fe57c0e0f0d",
+      "boot": true,
+      "system_data_load_on_test_card": true,
+      "main_menu": true,
+      "spirits_menu": true,
+      "tutorial_tasks": true,
+      "tutorial_first_dialogue": true,
+      "tutorial_button_icons": true,
+      "loading_button": true,
+      "wbc_setup": true,
+      "wbc_rules": true,
+      "korea_pitchers": true,
+      "korea_catchers": true,
+      "korea_lineup": true,
+      "japan_pitchers": true,
+      "japan_catchers": true,
+      "wbc_match_load": true,
+      "notes": "Country-card images were found still Japanese during the pre-game sequence and fixed for the following build. The test card lacked WBC tournament save space; no WBC save/load completion is claimed."
+    },
+    {
+      "iso_sha256": "895b6cdf60e141ede194b3f8fca5939a44a2ff872f40bd68d05e31d713624818",
+      "boot": true,
+      "system_data_load_on_test_card": true,
+      "wbc_menu": true,
+      "wbc_attack_defense_badges": true,
+      "korea_pitchers": true,
+      "korea_lineup": true,
+      "japan_pitchers": true,
+      "japan_lineup": true,
+      "settings": true,
+      "wbc_live_batting": true,
+      "matsuzaka_intro": true,
+      "pause_menu": true,
+      "pennant_help_diagram": true,
+      "evidence_prefix": "v895b_"
+    },
+    {
+      "iso_sha256": "bdfa828c86b91df1b57d7c49e3ac965170431286ace1215398b0e0f7ddab8a93",
+      "boot": true,
+      "pennant_team_title_fixed": true,
+      "pennant_intro": true,
+      "pennant_main": true,
+      "notes": "Ticker ASCII glyph corruption, untranslated opponent badges and a split 144 number were identified and corrected in the final build.",
+      "evidence_prefix": "vbdfa_"
+    }
+  ],
+  "notes": "Fresh boot of the final ISO. Final pennant checks are listed above; WBC live-game evidence is explicitly tied to its earlier ISO hash. Font character mapping is unchanged, and all final UI/player bytes and all 4441 FBD entries passed readback verification. No claim that every season, event branch, or match was played. The isolated test card lacked free space for a pennant save; the user memory card was not changed.",
+  "evidence_availability": "Screenshots retained locally; game images are not redistributed in this source repository."
+}

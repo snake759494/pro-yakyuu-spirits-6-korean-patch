@@ -1,0 +1,8878 @@
+[
+  {
+    "original": "茜",
+    "code": "88a9",
+    "index": 621,
+    "split_index": 386,
+    "hangul": "- "
+  },
+  {
+    "original": "芦",
+    "code": "88b0",
+    "index": 628,
+    "split_index": 393,
+    "hangul": "가"
+  },
+  {
+    "original": "虻",
+    "code": "88b8",
+    "index": 636,
+    "split_index": 401,
+    "hangul": "가고"
+  },
+  {
+    "original": "飴",
+    "code": "88b9",
+    "index": 637,
+    "split_index": 402,
+    "hangul": "가나"
+  },
+  {
+    "original": "絢",
+    "code": "88ba",
+    "index": 638,
+    "split_index": 403,
+    "hangul": "가마"
+  },
+  {
+    "original": "鮎",
+    "code": "88bc",
+    "index": 640,
+    "split_index": 405,
+    "hangul": "가미"
+  },
+  {
+    "original": "或",
+    "code": "88bd",
+    "index": 641,
+    "split_index": 406,
+    "hangul": "가와"
+  },
+  {
+    "original": "粟",
+    "code": "88be",
+    "index": 642,
+    "split_index": 407,
+    "hangul": "가우"
+  },
+  {
+    "original": "袷",
+    "code": "88bf",
+    "index": 643,
+    "split_index": 408,
+    "hangul": "가이"
+  },
+  {
+    "original": "闇",
+    "code": "88c5",
+    "index": 649,
+    "split_index": 414,
+    "hangul": "가케"
+  },
+  {
+    "original": "杏",
+    "code": "88c7",
+    "index": 651,
+    "split_index": 416,
+    "hangul": "가타"
+  },
+  {
+    "original": "椅",
+    "code": "88d6",
+    "index": 666,
+    "split_index": 431,
+    "hangul": "각"
+  },
+  {
+    "original": "畏",
+    "code": "88d8",
+    "index": 668,
+    "split_index": 433,
+    "hangul": "간"
+  },
+  {
+    "original": "胃",
+    "code": "88dd",
+    "index": 673,
+    "split_index": 438,
+    "hangul": "갇"
+  },
+  {
+    "original": "胤",
+    "code": "88fb",
+    "index": 703,
+    "split_index": 468,
+    "hangul": "갈"
+  },
+  {
+    "original": "烏",
+    "code": "8947",
+    "index": 712,
+    "split_index": 477,
+    "hangul": "감"
+  },
+  {
+    "original": "迂",
+    "code": "8949",
+    "index": 714,
+    "split_index": 479,
+    "hangul": "갑"
+  },
+  {
+    "original": "卯",
+    "code": "894b",
+    "index": 716,
+    "split_index": 481,
+    "hangul": "값"
+  },
+  {
+    "original": "窺",
+    "code": "894d",
+    "index": 718,
+    "split_index": 483,
+    "hangul": "갓"
+  },
+  {
+    "original": "丑",
+    "code": "894e",
+    "index": 719,
+    "split_index": 484,
+    "hangul": "갔"
+  },
+  {
+    "original": "碓",
+    "code": "894f",
+    "index": 720,
+    "split_index": 485,
+    "hangul": "강"
+  },
+  {
+    "original": "臼",
+    "code": "8950",
+    "index": 721,
+    "split_index": 486,
+    "hangul": "갖"
+  },
+  {
+    "original": "渦",
+    "code": "8951",
+    "index": 722,
+    "split_index": 487,
+    "hangul": "같"
+  },
+  {
+    "original": "嘘",
+    "code": "8952",
+    "index": 723,
+    "split_index": 488,
+    "hangul": "갚"
+  },
+  {
+    "original": "欝",
+    "code": "8954",
+    "index": 725,
+    "split_index": 490,
+    "hangul": "개"
+  },
+  {
+    "original": "蔚",
+    "code": "8955",
+    "index": 726,
+    "split_index": 491,
+    "hangul": "객"
+  },
+  {
+    "original": "姥",
+    "code": "8957",
+    "index": 728,
+    "split_index": 493,
+    "hangul": "갱"
+  },
+  {
+    "original": "厩",
+    "code": "8958",
+    "index": 729,
+    "split_index": 494,
+    "hangul": "갸"
+  },
+  {
+    "original": "瓜",
+    "code": "895a",
+    "index": 731,
+    "split_index": 496,
+    "hangul": "걀"
+  },
+  {
+    "original": "閏",
+    "code": "895b",
+    "index": 732,
+    "split_index": 497,
+    "hangul": "거"
+  },
+  {
+    "original": "噂",
+    "code": "895c",
+    "index": 733,
+    "split_index": 498,
+    "hangul": "걱"
+  },
+  {
+    "original": "云",
+    "code": "895d",
+    "index": 734,
+    "split_index": 499,
+    "hangul": "건"
+  },
+  {
+    "original": "雲",
+    "code": "895f",
+    "index": 736,
+    "split_index": 501,
+    "hangul": "걷"
+  },
+  {
+    "original": "荏",
+    "code": "8960",
+    "index": 737,
+    "split_index": 502,
+    "hangul": "걸"
+  },
+  {
+    "original": "餌",
+    "code": "8961",
+    "index": 738,
+    "split_index": 503,
+    "hangul": "검"
+  },
+  {
+    "original": "叡",
+    "code": "8962",
+    "index": 739,
+    "split_index": 504,
+    "hangul": "겁"
+  },
+  {
+    "original": "嬰",
+    "code": "8964",
+    "index": 741,
+    "split_index": 506,
+    "hangul": "것"
+  },
+  {
+    "original": "曳",
+    "code": "8967",
+    "index": 744,
+    "split_index": 509,
+    "hangul": "겅"
+  },
+  {
+    "original": "泳",
+    "code": "896a",
+    "index": 747,
+    "split_index": 512,
+    "hangul": "겉"
+  },
+  {
+    "original": "洩",
+    "code": "896b",
+    "index": 748,
+    "split_index": 513,
+    "hangul": "게"
+  },
+  {
+    "original": "盈",
+    "code": "896d",
+    "index": 750,
+    "split_index": 515,
+    "hangul": "게이"
+  },
+  {
+    "original": "穎",
+    "code": "896e",
+    "index": 751,
+    "split_index": 516,
+    "hangul": "겐"
+  },
+  {
+    "original": "頴",
+    "code": "896f",
+    "index": 752,
+    "split_index": 517,
+    "hangul": "겔"
+  },
+  {
+    "original": "詠",
+    "code": "8972",
+    "index": 755,
+    "split_index": 520,
+    "hangul": "겠"
+  },
+  {
+    "original": "疫",
+    "code": "8975",
+    "index": 758,
+    "split_index": 523,
+    "hangul": "겨"
+  },
+  {
+    "original": "益",
+    "code": "8976",
+    "index": 759,
+    "split_index": 524,
+    "hangul": "격"
+  },
+  {
+    "original": "駅",
+    "code": "8977",
+    "index": 760,
+    "split_index": 525,
+    "hangul": "겪"
+  },
+  {
+    "original": "悦",
+    "code": "8978",
+    "index": 761,
+    "split_index": 526,
+    "hangul": "견"
+  },
+  {
+    "original": "謁",
+    "code": "8979",
+    "index": 762,
+    "split_index": 527,
+    "hangul": "결"
+  },
+  {
+    "original": "閲",
+    "code": "897b",
+    "index": 764,
+    "split_index": 529,
+    "hangul": "겸"
+  },
+  {
+    "original": "榎",
+    "code": "897c",
+    "index": 765,
+    "split_index": 530,
+    "hangul": "겼"
+  },
+  {
+    "original": "厭",
+    "code": "897d",
+    "index": 766,
+    "split_index": 531,
+    "hangul": "경"
+  },
+  {
+    "original": "堰",
+    "code": "8981",
+    "index": 769,
+    "split_index": 534,
+    "hangul": "곁"
+  },
+  {
+    "original": "奄",
+    "code": "8982",
+    "index": 770,
+    "split_index": 535,
+    "hangul": "계"
+  },
+  {
+    "original": "怨",
+    "code": "8985",
+    "index": 773,
+    "split_index": 538,
+    "hangul": "고"
+  },
+  {
+    "original": "掩",
+    "code": "8986",
+    "index": 774,
+    "split_index": 539,
+    "hangul": "고리"
+  },
+  {
+    "original": "焔",
+    "code": "898b",
+    "index": 779,
+    "split_index": 544,
+    "hangul": "고시"
+  },
+  {
+    "original": "薗",
+    "code": "8992",
+    "index": 786,
+    "split_index": 551,
+    "hangul": "고자"
+  },
+  {
+    "original": "鴛",
+    "code": "8995",
+    "index": 789,
+    "split_index": 554,
+    "hangul": "고히"
+  },
+  {
+    "original": "於",
+    "code": "8997",
+    "index": 791,
+    "split_index": 556,
+    "hangul": "곡"
+  },
+  {
+    "original": "汚",
+    "code": "8998",
+    "index": 792,
+    "split_index": 557,
+    "hangul": "곤"
+  },
+  {
+    "original": "甥",
+    "code": "8999",
+    "index": 793,
+    "split_index": 558,
+    "hangul": "곧"
+  },
+  {
+    "original": "凹",
+    "code": "899a",
+    "index": 794,
+    "split_index": 559,
+    "hangul": "골"
+  },
+  {
+    "original": "往",
+    "code": "899d",
+    "index": 797,
+    "split_index": 562,
+    "hangul": "곰"
+  },
+  {
+    "original": "欧",
+    "code": "89a2",
+    "index": 802,
+    "split_index": 567,
+    "hangul": "곱"
+  },
+  {
+    "original": "殴",
+    "code": "89a3",
+    "index": 803,
+    "split_index": 568,
+    "hangul": "곳"
+  },
+  {
+    "original": "襖",
+    "code": "89a6",
+    "index": 806,
+    "split_index": 571,
+    "hangul": "공"
+  },
+  {
+    "original": "鴬",
+    "code": "89a7",
+    "index": 807,
+    "split_index": 572,
+    "hangul": "과"
+  },
+  {
+    "original": "鴎",
+    "code": "89a8",
+    "index": 808,
+    "split_index": 573,
+    "hangul": "관"
+  },
+  {
+    "original": "沖",
+    "code": "89ab",
+    "index": 811,
+    "split_index": 576,
+    "hangul": "괄"
+  },
+  {
+    "original": "臆",
+    "code": "89b0",
+    "index": 816,
+    "split_index": 581,
+    "hangul": "광"
+  },
+  {
+    "original": "桶",
+    "code": "89b1",
+    "index": 817,
+    "split_index": 582,
+    "hangul": "괜"
+  },
+  {
+    "original": "牡",
+    "code": "89b2",
+    "index": 818,
+    "split_index": 583,
+    "hangul": "괴"
+  },
+  {
+    "original": "乙",
+    "code": "89b3",
+    "index": 819,
+    "split_index": 584,
+    "hangul": "굉"
+  },
+  {
+    "original": "卸",
+    "code": "89b5",
+    "index": 821,
+    "split_index": 586,
+    "hangul": "교"
+  },
+  {
+    "original": "穏",
+    "code": "89b8",
+    "index": 824,
+    "split_index": 589,
+    "hangul": "구"
+  },
+  {
+    "original": "伽",
+    "code": "89be",
+    "index": 830,
+    "split_index": 595,
+    "hangul": "구니"
+  },
+  {
+    "original": "嫁",
+    "code": "89c5",
+    "index": 837,
+    "split_index": 602,
+    "hangul": "구라"
+  },
+  {
+    "original": "寡",
+    "code": "89c7",
+    "index": 839,
+    "split_index": 604,
+    "hangul": "구로"
+  },
+  {
+    "original": "科",
+    "code": "89c8",
+    "index": 840,
+    "split_index": 605,
+    "hangul": "구리"
+  },
+  {
+    "original": "暇",
+    "code": "89c9",
+    "index": 841,
+    "split_index": 606,
+    "hangul": "구마"
+  },
+  {
+    "original": "珂",
+    "code": "89cf",
+    "index": 847,
+    "split_index": 612,
+    "hangul": "구사"
+  },
+  {
+    "original": "禍",
+    "code": "89d0",
+    "index": 848,
+    "split_index": 613,
+    "hangul": "구스"
+  },
+  {
+    "original": "禾",
+    "code": "89d1",
+    "index": 849,
+    "split_index": 614,
+    "hangul": "국"
+  },
+  {
+    "original": "苛",
+    "code": "89d5",
+    "index": 853,
+    "split_index": 618,
+    "hangul": "군"
+  },
+  {
+    "original": "茄",
+    "code": "89d6",
+    "index": 854,
+    "split_index": 619,
+    "hangul": "굳"
+  },
+  {
+    "original": "菓",
+    "code": "89d9",
+    "index": 857,
+    "split_index": 622,
+    "hangul": "굴"
+  },
+  {
+    "original": "蝦",
+    "code": "89da",
+    "index": 858,
+    "split_index": 623,
+    "hangul": "굵"
+  },
+  {
+    "original": "嘩",
+    "code": "89dc",
+    "index": 860,
+    "split_index": 625,
+    "hangul": "굽"
+  },
+  {
+    "original": "霞",
+    "code": "89e0",
+    "index": 864,
+    "split_index": 629,
+    "hangul": "굿"
+  },
+  {
+    "original": "蚊",
+    "code": "89e1",
+    "index": 865,
+    "split_index": 630,
+    "hangul": "궁"
+  },
+  {
+    "original": "俄",
+    "code": "89e2",
+    "index": 866,
+    "split_index": 631,
+    "hangul": "궈"
+  },
+  {
+    "original": "峨",
+    "code": "89e3",
+    "index": 867,
+    "split_index": 632,
+    "hangul": "권"
+  },
+  {
+    "original": "牙",
+    "code": "89e5",
+    "index": 869,
+    "split_index": 634,
+    "hangul": "궤"
+  },
+  {
+    "original": "臥",
+    "code": "89e7",
+    "index": 871,
+    "split_index": 636,
+    "hangul": "귀"
+  },
+  {
+    "original": "芽",
+    "code": "89e8",
+    "index": 872,
+    "split_index": 637,
+    "hangul": "규"
+  },
+  {
+    "original": "蛾",
+    "code": "89e9",
+    "index": 873,
+    "split_index": 638,
+    "hangul": "균"
+  },
+  {
+    "original": "賀",
+    "code": "89ea",
+    "index": 874,
+    "split_index": 639,
+    "hangul": "그"
+  },
+  {
+    "original": "餓",
+    "code": "89ec",
+    "index": 876,
+    "split_index": 641,
+    "hangul": "그외"
+  },
+  {
+    "original": "廻",
+    "code": "89f4",
+    "index": 884,
+    "split_index": 649,
+    "hangul": "극"
+  },
+  {
+    "original": "恢",
+    "code": "89f8",
+    "index": 888,
+    "split_index": 653,
+    "hangul": "근"
+  },
+  {
+    "original": "拐",
+    "code": "89fb",
+    "index": 891,
+    "split_index": 656,
+    "hangul": "글"
+  },
+  {
+    "original": "芥",
+    "code": "8a48",
+    "index": 901,
+    "split_index": 666,
+    "hangul": "금"
+  },
+  {
+    "original": "蟹",
+    "code": "8a49",
+    "index": 902,
+    "split_index": 667,
+    "hangul": "급"
+  },
+  {
+    "original": "貝",
+    "code": "8a4c",
+    "index": 905,
+    "split_index": 670,
+    "hangul": "긋"
+  },
+  {
+    "original": "劾",
+    "code": "8a4e",
+    "index": 907,
+    "split_index": 672,
+    "hangul": "긍"
+  },
+  {
+    "original": "咳",
+    "code": "8a50",
+    "index": 909,
+    "split_index": 674,
+    "hangul": "기"
+  },
+  {
+    "original": "崖",
+    "code": "8a52",
+    "index": 911,
+    "split_index": 676,
+    "hangul": "기요"
+  },
+  {
+    "original": "慨",
+    "code": "8a53",
+    "index": 912,
+    "split_index": 677,
+    "hangul": "기쿠"
+  },
+  {
+    "original": "碍",
+    "code": "8a56",
+    "index": 915,
+    "split_index": 680,
+    "hangul": "기타"
+  },
+  {
+    "original": "蓋",
+    "code": "8a57",
+    "index": 916,
+    "split_index": 681,
+    "hangul": "긴"
+  },
+  {
+    "original": "街",
+    "code": "8a58",
+    "index": 917,
+    "split_index": 682,
+    "hangul": "길"
+  },
+  {
+    "original": "鎧",
+    "code": "8a5a",
+    "index": 919,
+    "split_index": 684,
+    "hangul": "긺"
+  },
+  {
+    "original": "骸",
+    "code": "8a5b",
+    "index": 920,
+    "split_index": 685,
+    "hangul": "김"
+  },
+  {
+    "original": "浬",
+    "code": "8a5c",
+    "index": 921,
+    "split_index": 686,
+    "hangul": "깁"
+  },
+  {
+    "original": "馨",
+    "code": "8a5d",
+    "index": 922,
+    "split_index": 687,
+    "hangul": "깃"
+  },
+  {
+    "original": "蛙",
+    "code": "8a5e",
+    "index": 923,
+    "split_index": 688,
+    "hangul": "깅"
+  },
+  {
+    "original": "柿",
+    "code": "8a60",
+    "index": 925,
+    "split_index": 690,
+    "hangul": "깊"
+  },
+  {
+    "original": "蛎",
+    "code": "8a61",
+    "index": 926,
+    "split_index": 691,
+    "hangul": "까"
+  },
+  {
+    "original": "鈎",
+    "code": "8a62",
+    "index": 927,
+    "split_index": 692,
+    "hangul": "깐"
+  },
+  {
+    "original": "劃",
+    "code": "8a63",
+    "index": 928,
+    "split_index": 693,
+    "hangul": "깔"
+  },
+  {
+    "original": "嚇",
+    "code": "8a64",
+    "index": 929,
+    "split_index": 694,
+    "hangul": "깥"
+  },
+  {
+    "original": "廓",
+    "code": "8a66",
+    "index": 931,
+    "split_index": 696,
+    "hangul": "깨"
+  },
+  {
+    "original": "撹",
+    "code": "8a68",
+    "index": 933,
+    "split_index": 698,
+    "hangul": "꺼"
+  },
+  {
+    "original": "核",
+    "code": "8a6a",
+    "index": 935,
+    "split_index": 700,
+    "hangul": "꺾"
+  },
+  {
+    "original": "殻",
+    "code": "8a6b",
+    "index": 936,
+    "split_index": 701,
+    "hangul": "껍"
+  },
+  {
+    "original": "穫",
+    "code": "8a6e",
+    "index": 939,
+    "split_index": 704,
+    "hangul": "껏"
+  },
+  {
+    "original": "赫",
+    "code": "8a71",
+    "index": 942,
+    "split_index": 707,
+    "hangul": "껑"
+  },
+  {
+    "original": "較",
+    "code": "8a72",
+    "index": 943,
+    "split_index": 708,
+    "hangul": "께"
+  },
+  {
+    "original": "郭",
+    "code": "8a73",
+    "index": 944,
+    "split_index": 709,
+    "hangul": "껴"
+  },
+  {
+    "original": "閣",
+    "code": "8a74",
+    "index": 945,
+    "split_index": 710,
+    "hangul": "꼬"
+  },
+  {
+    "original": "顎",
+    "code": "8a7b",
+    "index": 952,
+    "split_index": 717,
+    "hangul": "꼭"
+  },
+  {
+    "original": "樫",
+    "code": "8a7e",
+    "index": 955,
+    "split_index": 720,
+    "hangul": "꼴"
+  },
+  {
+    "original": "鰍",
+    "code": "8a82",
+    "index": 958,
+    "split_index": 723,
+    "hangul": "꼼"
+  },
+  {
+    "original": "潟",
+    "code": "8a83",
+    "index": 959,
+    "split_index": 724,
+    "hangul": "꼽"
+  },
+  {
+    "original": "喝",
+    "code": "8a85",
+    "index": 961,
+    "split_index": 726,
+    "hangul": "꽃"
+  },
+  {
+    "original": "恰",
+    "code": "8a86",
+    "index": 962,
+    "split_index": 727,
+    "hangul": "꽤"
+  },
+  {
+    "original": "渇",
+    "code": "8a89",
+    "index": 965,
+    "split_index": 730,
+    "hangul": "꾸"
+  },
+  {
+    "original": "轄",
+    "code": "8a8d",
+    "index": 969,
+    "split_index": 734,
+    "hangul": "꿀"
+  },
+  {
+    "original": "且",
+    "code": "8a8e",
+    "index": 970,
+    "split_index": 735,
+    "hangul": "꿈"
+  },
+  {
+    "original": "椛",
+    "code": "8a91",
+    "index": 973,
+    "split_index": 738,
+    "hangul": "꿉"
+  },
+  {
+    "original": "樺",
+    "code": "8a92",
+    "index": 974,
+    "split_index": 739,
+    "hangul": "꿔"
+  },
+  {
+    "original": "鞄",
+    "code": "8a93",
+    "index": 975,
+    "split_index": 740,
+    "hangul": "뀌"
+  },
+  {
+    "original": "兜",
+    "code": "8a95",
+    "index": 977,
+    "split_index": 742,
+    "hangul": "뀐"
+  },
+  {
+    "original": "竃",
+    "code": "8a96",
+    "index": 978,
+    "split_index": 743,
+    "hangul": "뀝"
+  },
+  {
+    "original": "釜",
+    "code": "8a98",
+    "index": 980,
+    "split_index": 745,
+    "hangul": "끄"
+  },
+  {
+    "original": "栢",
+    "code": "8a9c",
+    "index": 984,
+    "split_index": 749,
+    "hangul": "끈"
+  },
+  {
+    "original": "茅",
+    "code": "8a9d",
+    "index": 985,
+    "split_index": 750,
+    "hangul": "끊"
+  },
+  {
+    "original": "萱",
+    "code": "8a9e",
+    "index": 986,
+    "split_index": 751,
+    "hangul": "끌"
+  },
+  {
+    "original": "粥",
+    "code": "8a9f",
+    "index": 987,
+    "split_index": 752,
+    "hangul": "끓"
+  },
+  {
+    "original": "苅",
+    "code": "8aa1",
+    "index": 989,
+    "split_index": 754,
+    "hangul": "끔"
+  },
+  {
+    "original": "瓦",
+    "code": "8aa2",
+    "index": 990,
+    "split_index": 755,
+    "hangul": "끝"
+  },
+  {
+    "original": "乾",
+    "code": "8aa3",
+    "index": 991,
+    "split_index": 756,
+    "hangul": "끼"
+  },
+  {
+    "original": "寒",
+    "code": "8aa6",
+    "index": 994,
+    "split_index": 759,
+    "hangul": "낀"
+  },
+  {
+    "original": "勘",
+    "code": "8aa8",
+    "index": 996,
+    "split_index": 761,
+    "hangul": "낌"
+  },
+  {
+    "original": "勧",
+    "code": "8aa9",
+    "index": 997,
+    "split_index": 762,
+    "hangul": "나"
+  },
+  {
+    "original": "喚",
+    "code": "8aab",
+    "index": 999,
+    "split_index": 764,
+    "hangul": "나가"
+  },
+  {
+    "original": "憾",
+    "code": "8ab6",
+    "index": 1010,
+    "split_index": 775,
+    "hangul": "나리"
+  },
+  {
+    "original": "敢",
+    "code": "8ab8",
+    "index": 1012,
+    "split_index": 777,
+    "hangul": "나오"
+  },
+  {
+    "original": "柑",
+    "code": "8ab9",
+    "index": 1013,
+    "split_index": 778,
+    "hangul": "나카"
+  },
+  {
+    "original": "桓",
+    "code": "8aba",
+    "index": 1014,
+    "split_index": 779,
+    "hangul": "낙"
+  },
+  {
+    "original": "棺",
+    "code": "8abb",
+    "index": 1015,
+    "split_index": 780,
+    "hangul": "난"
+  },
+  {
+    "original": "款",
+    "code": "8abc",
+    "index": 1016,
+    "split_index": 781,
+    "hangul": "날"
+  },
+  {
+    "original": "汗",
+    "code": "8abe",
+    "index": 1018,
+    "split_index": 783,
+    "hangul": "남"
+  },
+  {
+    "original": "澗",
+    "code": "8ac0",
+    "index": 1020,
+    "split_index": 785,
+    "hangul": "납"
+  },
+  {
+    "original": "潅",
+    "code": "8ac1",
+    "index": 1021,
+    "split_index": 786,
+    "hangul": "낫"
+  },
+  {
+    "original": "看",
+    "code": "8ac5",
+    "index": 1025,
+    "split_index": 790,
+    "hangul": "났"
+  },
+  {
+    "original": "竿",
+    "code": "8ac6",
+    "index": 1026,
+    "split_index": 791,
+    "hangul": "낮"
+  },
+  {
+    "original": "翰",
+    "code": "8acb",
+    "index": 1031,
+    "split_index": 796,
+    "hangul": "내"
+  },
+  {
+    "original": "艦",
+    "code": "8acd",
+    "index": 1033,
+    "split_index": 798,
+    "hangul": "낸"
+  },
+  {
+    "original": "莞",
+    "code": "8ace",
+    "index": 1034,
+    "split_index": 799,
+    "hangul": "낼"
+  },
+  {
+    "original": "諌",
+    "code": "8ad0",
+    "index": 1036,
+    "split_index": 801,
+    "hangul": "냄"
+  },
+  {
+    "original": "閑",
+    "code": "8ad5",
+    "index": 1041,
+    "split_index": 806,
+    "hangul": "냅"
+  },
+  {
+    "original": "陥",
+    "code": "8ad7",
+    "index": 1043,
+    "split_index": 808,
+    "hangul": "냇"
+  },
+  {
+    "original": "巌",
+    "code": "8ade",
+    "index": 1050,
+    "split_index": 815,
+    "hangul": "냈"
+  },
+  {
+    "original": "玩",
+    "code": "8adf",
+    "index": 1051,
+    "split_index": 816,
+    "hangul": "냉"
+  },
+  {
+    "original": "癌",
+    "code": "8ae0",
+    "index": 1052,
+    "split_index": 817,
+    "hangul": "냐"
+  },
+  {
+    "original": "翫",
+    "code": "8ae3",
+    "index": 1055,
+    "split_index": 820,
+    "hangul": "너"
+  },
+  {
+    "original": "雁",
+    "code": "8ae5",
+    "index": 1057,
+    "split_index": 822,
+    "hangul": "넉"
+  },
+  {
+    "original": "岐",
+    "code": "8af2",
+    "index": 1070,
+    "split_index": 835,
+    "hangul": "넋"
+  },
+  {
+    "original": "幾",
+    "code": "8af4",
+    "index": 1072,
+    "split_index": 837,
+    "hangul": "넌"
+  },
+  {
+    "original": "忌",
+    "code": "8af5",
+    "index": 1073,
+    "split_index": 838,
+    "hangul": "널"
+  },
+  {
+    "original": "机",
+    "code": "8af7",
+    "index": 1075,
+    "split_index": 840,
+    "hangul": "넓"
+  },
+  {
+    "original": "旗",
+    "code": "8af8",
+    "index": 1076,
+    "split_index": 841,
+    "hangul": "넘"
+  },
+  {
+    "original": "棋",
+    "code": "8afb",
+    "index": 1079,
+    "split_index": 844,
+    "hangul": "넣"
+  },
+  {
+    "original": "汽",
+    "code": "8b44",
+    "index": 1085,
+    "split_index": 850,
+    "hangul": "네"
+  },
+  {
+    "original": "祈",
+    "code": "8b46",
+    "index": 1087,
+    "split_index": 852,
+    "hangul": "넥"
+  },
+  {
+    "original": "徽",
+    "code": "8b4a",
+    "index": 1091,
+    "split_index": 856,
+    "hangul": "넬"
+  },
+  {
+    "original": "偽",
+    "code": "8b55",
+    "index": 1102,
+    "split_index": 867,
+    "hangul": "넷"
+  },
+  {
+    "original": "儀",
+    "code": "8b56",
+    "index": 1103,
+    "split_index": 868,
+    "hangul": "녀"
+  },
+  {
+    "original": "妓",
+    "code": "8b57",
+    "index": 1104,
+    "split_index": 869,
+    "hangul": "녁"
+  },
+  {
+    "original": "戯",
+    "code": "8b59",
+    "index": 1106,
+    "split_index": 871,
+    "hangul": "년"
+  },
+  {
+    "original": "擬",
+    "code": "8b5b",
+    "index": 1108,
+    "split_index": 873,
+    "hangul": "념"
+  },
+  {
+    "original": "欺",
+    "code": "8b5c",
+    "index": 1109,
+    "split_index": 874,
+    "hangul": "녔"
+  },
+  {
+    "original": "疑",
+    "code": "8b5e",
+    "index": 1111,
+    "split_index": 876,
+    "hangul": "녕"
+  },
+  {
+    "original": "祇",
+    "code": "8b5f",
+    "index": 1112,
+    "split_index": 877,
+    "hangul": "녜"
+  },
+  {
+    "original": "誼",
+    "code": "8b62",
+    "index": 1115,
+    "split_index": 880,
+    "hangul": "노"
+  },
+  {
+    "original": "掬",
+    "code": "8b64",
+    "index": 1117,
+    "split_index": 882,
+    "hangul": "노노"
+  },
+  {
+    "original": "鞠",
+    "code": "8b66",
+    "index": 1119,
+    "split_index": 884,
+    "hangul": "노리"
+  },
+  {
+    "original": "吃",
+    "code": "8b68",
+    "index": 1121,
+    "split_index": 886,
+    "hangul": "노마"
+  },
+  {
+    "original": "喫",
+    "code": "8b69",
+    "index": 1122,
+    "split_index": 887,
+    "hangul": "노미"
+  },
+  {
+    "original": "桔",
+    "code": "8b6a",
+    "index": 1123,
+    "split_index": 888,
+    "hangul": "노부"
+  },
+  {
+    "original": "橘",
+    "code": "8b6b",
+    "index": 1124,
+    "split_index": 889,
+    "hangul": "노세"
+  },
+  {
+    "original": "砧",
+    "code": "8b6d",
+    "index": 1126,
+    "split_index": 891,
+    "hangul": "녹"
+  },
+  {
+    "original": "杵",
+    "code": "8b6e",
+    "index": 1127,
+    "split_index": 892,
+    "hangul": "논"
+  },
+  {
+    "original": "黍",
+    "code": "8b6f",
+    "index": 1128,
+    "split_index": 893,
+    "hangul": "놀"
+  },
+  {
+    "original": "却",
+    "code": "8b70",
+    "index": 1129,
+    "split_index": 894,
+    "hangul": "높"
+  },
+  {
+    "original": "虐",
+    "code": "8b73",
+    "index": 1132,
+    "split_index": 897,
+    "hangul": "놓"
+  },
+  {
+    "original": "丘",
+    "code": "8b75",
+    "index": 1134,
+    "split_index": 899,
+    "hangul": "뇌"
+  },
+  {
+    "original": "仇",
+    "code": "8b77",
+    "index": 1136,
+    "split_index": 901,
+    "hangul": "뇨"
+  },
+  {
+    "original": "吸",
+    "code": "8b7a",
+    "index": 1139,
+    "split_index": 904,
+    "hangul": "누"
+  },
+  {
+    "original": "朽",
+    "code": "8b80",
+    "index": 1144,
+    "split_index": 909,
+    "hangul": "누키"
+  },
+  {
+    "original": "汲",
+    "code": "8b82",
+    "index": 1146,
+    "split_index": 911,
+    "hangul": "눈"
+  },
+  {
+    "original": "糾",
+    "code": "8b8a",
+    "index": 1154,
+    "split_index": 919,
+    "hangul": "눌"
+  },
+  {
+    "original": "渠",
+    "code": "8b94",
+    "index": 1164,
+    "split_index": 929,
+    "hangul": "눠"
+  },
+  {
+    "original": "虚",
+    "code": "8b95",
+    "index": 1165,
+    "split_index": 930,
+    "hangul": "눴"
+  },
+  {
+    "original": "鋸",
+    "code": "8b98",
+    "index": 1168,
+    "split_index": 933,
+    "hangul": "뉘"
+  },
+  {
+    "original": "漁",
+    "code": "8b99",
+    "index": 1169,
+    "split_index": 934,
+    "hangul": "뉩"
+  },
+  {
+    "original": "禦",
+    "code": "8b9a",
+    "index": 1170,
+    "split_index": 935,
+    "hangul": "뉴"
+  },
+  {
+    "original": "享",
+    "code": "8b9d",
+    "index": 1173,
+    "split_index": 938,
+    "hangul": "느"
+  },
+  {
+    "original": "僑",
+    "code": "8ba1",
+    "index": 1177,
+    "split_index": 942,
+    "hangul": "는"
+  },
+  {
+    "original": "兇",
+    "code": "8ba2",
+    "index": 1178,
+    "split_index": 943,
+    "hangul": "늘"
+  },
+  {
+    "original": "卿",
+    "code": "8ba8",
+    "index": 1184,
+    "split_index": 949,
+    "hangul": "능"
+  },
+  {
+    "original": "叫",
+    "code": "8ba9",
+    "index": 1185,
+    "split_index": 950,
+    "hangul": "늦"
+  },
+  {
+    "original": "喬",
+    "code": "8baa",
+    "index": 1186,
+    "split_index": 951,
+    "hangul": "늬"
+  },
+  {
+    "original": "彊",
+    "code": "8bae",
+    "index": 1190,
+    "split_index": 955,
+    "hangul": "니"
+  },
+  {
+    "original": "怯",
+    "code": "8baf",
+    "index": 1191,
+    "split_index": 956,
+    "hangul": "니라"
+  },
+  {
+    "original": "矯",
+    "code": "8bb8",
+    "index": 1200,
+    "split_index": 965,
+    "hangul": "니시"
+  },
+  {
+    "original": "鏡",
+    "code": "8bbe",
+    "index": 1206,
+    "split_index": 971,
+    "hangul": "니카"
+  },
+  {
+    "original": "饗",
+    "code": "8bc0",
+    "index": 1208,
+    "split_index": 973,
+    "hangul": "닉"
+  },
+  {
+    "original": "仰",
+    "code": "8bc2",
+    "index": 1210,
+    "split_index": 975,
+    "hangul": "닌"
+  },
+  {
+    "original": "凝",
+    "code": "8bc3",
+    "index": 1211,
+    "split_index": 976,
+    "hangul": "닐"
+  },
+  {
+    "original": "尭",
+    "code": "8bc4",
+    "index": 1212,
+    "split_index": 977,
+    "hangul": "님"
+  },
+  {
+    "original": "暁",
+    "code": "8bc5",
+    "index": 1213,
+    "split_index": 978,
+    "hangul": "닙"
+  },
+  {
+    "original": "桐",
+    "code": "8bcb",
+    "index": 1219,
+    "split_index": 984,
+    "hangul": "닛"
+  },
+  {
+    "original": "粁",
+    "code": "8bcc",
+    "index": 1220,
+    "split_index": 985,
+    "hangul": "닝"
+  },
+  {
+    "original": "勤",
+    "code": "8bce",
+    "index": 1222,
+    "split_index": 987,
+    "hangul": "다"
+  },
+  {
+    "original": "巾",
+    "code": "8bd0",
+    "index": 1224,
+    "split_index": 989,
+    "hangul": "다수"
+  },
+  {
+    "original": "錦",
+    "code": "8bd1",
+    "index": 1225,
+    "split_index": 990,
+    "hangul": "다이"
+  },
+  {
+    "original": "斤",
+    "code": "8bd2",
+    "index": 1226,
+    "split_index": 991,
+    "hangul": "다카"
+  },
+  {
+    "original": "欣",
+    "code": "8bd3",
+    "index": 1227,
+    "split_index": 992,
+    "hangul": "다케"
+  },
+  {
+    "original": "欽",
+    "code": "8bd4",
+    "index": 1228,
+    "split_index": 993,
+    "hangul": "다키"
+  },
+  {
+    "original": "琴",
+    "code": "8bd5",
+    "index": 1229,
+    "split_index": 994,
+    "hangul": "닥"
+  },
+  {
+    "original": "禽",
+    "code": "8bd7",
+    "index": 1231,
+    "split_index": 996,
+    "hangul": "닦"
+  },
+  {
+    "original": "芹",
+    "code": "8bda",
+    "index": 1234,
+    "split_index": 999,
+    "hangul": "단"
+  },
+  {
+    "original": "菌",
+    "code": "8bdb",
+    "index": 1235,
+    "split_index": 1000,
+    "hangul": "닫"
+  },
+  {
+    "original": "衿",
+    "code": "8bdc",
+    "index": 1236,
+    "split_index": 1001,
+    "hangul": "달"
+  },
+  {
+    "original": "襟",
+    "code": "8bdd",
+    "index": 1237,
+    "split_index": 1002,
+    "hangul": "닭"
+  },
+  {
+    "original": "謹",
+    "code": "8bde",
+    "index": 1238,
+    "split_index": 1003,
+    "hangul": "담"
+  },
+  {
+    "original": "吟",
+    "code": "8be1",
+    "index": 1241,
+    "split_index": 1006,
+    "hangul": "답"
+  },
+  {
+    "original": "九",
+    "code": "8be3",
+    "index": 1243,
+    "split_index": 1008,
+    "hangul": "당"
+  },
+  {
+    "original": "倶",
+    "code": "8be4",
+    "index": 1244,
+    "split_index": 1009,
+    "hangul": "닿"
+  },
+  {
+    "original": "玖",
+    "code": "8be8",
+    "index": 1248,
+    "split_index": 1013,
+    "hangul": "대"
+  },
+  {
+    "original": "矩",
+    "code": "8be9",
+    "index": 1249,
+    "split_index": 1014,
+    "hangul": "댄"
+  },
+  {
+    "original": "躯",
+    "code": "8beb",
+    "index": 1251,
+    "split_index": 1016,
+    "hangul": "댈"
+  },
+  {
+    "original": "駈",
+    "code": "8bed",
+    "index": 1253,
+    "split_index": 1018,
+    "hangul": "더"
+  },
+  {
+    "original": "愚",
+    "code": "8bf0",
+    "index": 1256,
+    "split_index": 1021,
+    "hangul": "덕"
+  },
+  {
+    "original": "虞",
+    "code": "8bf1",
+    "index": 1257,
+    "split_index": 1022,
+    "hangul": "던"
+  },
+  {
+    "original": "喰",
+    "code": "8bf2",
+    "index": 1258,
+    "split_index": 1023,
+    "hangul": "덜"
+  },
+  {
+    "original": "寓",
+    "code": "8bf5",
+    "index": 1261,
+    "split_index": 1026,
+    "hangul": "덤"
+  },
+  {
+    "original": "隅",
+    "code": "8bf7",
+    "index": 1263,
+    "split_index": 1028,
+    "hangul": "덩"
+  },
+  {
+    "original": "櫛",
+    "code": "8bf9",
+    "index": 1265,
+    "split_index": 1030,
+    "hangul": "덮"
+  },
+  {
+    "original": "釧",
+    "code": "8bfa",
+    "index": 1266,
+    "split_index": 1031,
+    "hangul": "데"
+  },
+  {
+    "original": "屑",
+    "code": "8bfb",
+    "index": 1267,
+    "split_index": 1032,
+    "hangul": "덴"
+  },
+  {
+    "original": "渓",
+    "code": "8c6b",
+    "index": 1312,
+    "split_index": 1077,
+    "hangul": "델"
+  },
+  {
+    "original": "茎",
+    "code": "8c73",
+    "index": 1320,
+    "split_index": 1085,
+    "hangul": "뎃"
+  },
+  {
+    "original": "蛍",
+    "code": "8c75",
+    "index": 1322,
+    "split_index": 1087,
+    "hangul": "뎅"
+  },
+  {
+    "original": "潔",
+    "code": "8c89",
+    "index": 1341,
+    "split_index": 1106,
+    "hangul": "뎌"
+  },
+  {
+    "original": "倦",
+    "code": "8c91",
+    "index": 1349,
+    "split_index": 1114,
+    "hangul": "뎠"
+  },
+  {
+    "original": "鍵",
+    "code": "8cae",
+    "index": 1378,
+    "split_index": 1143,
+    "hangul": "도"
+  },
+  {
+    "original": "鹸",
+    "code": "8cb2",
+    "index": 1382,
+    "split_index": 1147,
+    "hangul": "도시"
+  },
+  {
+    "original": "乎",
+    "code": "8cc1",
+    "index": 1397,
+    "split_index": 1162,
+    "hangul": "도요"
+  },
+  {
+    "original": "弧",
+    "code": "8cca",
+    "index": 1406,
+    "split_index": 1171,
+    "hangul": "도코"
+  },
+  {
+    "original": "枯",
+    "code": "8ccd",
+    "index": 1409,
+    "split_index": 1174,
+    "hangul": "도쿠"
+  },
+  {
+    "original": "狐",
+    "code": "8ccf",
+    "index": 1411,
+    "split_index": 1176,
+    "hangul": "독"
+  },
+  {
+    "original": "袴",
+    "code": "8cd1",
+    "index": 1413,
+    "split_index": 1178,
+    "hangul": "돈"
+  },
+  {
+    "original": "跨",
+    "code": "8cd7",
+    "index": 1419,
+    "split_index": 1184,
+    "hangul": "돋"
+  },
+  {
+    "original": "雇",
+    "code": "8cd9",
+    "index": 1421,
+    "split_index": 1186,
+    "hangul": "돌"
+  },
+  {
+    "original": "顧",
+    "code": "8cda",
+    "index": 1422,
+    "split_index": 1187,
+    "hangul": "돔"
+  },
+  {
+    "original": "娯",
+    "code": "8ce2",
+    "index": 1430,
+    "split_index": 1195,
+    "hangul": "돕"
+  },
+  {
+    "original": "檎",
+    "code": "8ce7",
+    "index": 1435,
+    "split_index": 1200,
+    "hangul": "돗"
+  },
+  {
+    "original": "碁",
+    "code": "8ce9",
+    "index": 1437,
+    "split_index": 1202,
+    "hangul": "동"
+  },
+  {
+    "original": "乞",
+    "code": "8cee",
+    "index": 1442,
+    "split_index": 1207,
+    "hangul": "돼"
+  },
+  {
+    "original": "侯",
+    "code": "8cf2",
+    "index": 1446,
+    "split_index": 1211,
+    "hangul": "돼지"
+  },
+  {
+    "original": "喉",
+    "code": "8d41",
+    "index": 1458,
+    "split_index": 1223,
+    "hangul": "됐"
+  },
+  {
+    "original": "垢",
+    "code": "8d43",
+    "index": 1460,
+    "split_index": 1225,
+    "hangul": "되"
+  },
+  {
+    "original": "孔",
+    "code": "8d45",
+    "index": 1462,
+    "split_index": 1227,
+    "hangul": "된"
+  },
+  {
+    "original": "巷",
+    "code": "8d4a",
+    "index": 1467,
+    "split_index": 1232,
+    "hangul": "될"
+  },
+  {
+    "original": "庚",
+    "code": "8d4d",
+    "index": 1470,
+    "split_index": 1235,
+    "hangul": "됨"
+  },
+  {
+    "original": "拘",
+    "code": "8d53",
+    "index": 1476,
+    "split_index": 1241,
+    "hangul": "됩"
+  },
+  {
+    "original": "昂",
+    "code": "8d56",
+    "index": 1479,
+    "split_index": 1244,
+    "hangul": "두"
+  },
+  {
+    "original": "杭",
+    "code": "8d59",
+    "index": 1482,
+    "split_index": 1247,
+    "hangul": "둔"
+  },
+  {
+    "original": "梗",
+    "code": "8d5b",
+    "index": 1484,
+    "split_index": 1249,
+    "hangul": "둘"
+  },
+  {
+    "original": "洪",
+    "code": "8d5e",
+    "index": 1487,
+    "split_index": 1252,
+    "hangul": "둠"
+  },
+  {
+    "original": "溝",
+    "code": "8d61",
+    "index": 1490,
+    "split_index": 1255,
+    "hangul": "둥"
+  },
+  {
+    "original": "皇",
+    "code": "8d63",
+    "index": 1492,
+    "split_index": 1257,
+    "hangul": "둬"
+  },
+  {
+    "original": "稿",
+    "code": "8d65",
+    "index": 1494,
+    "split_index": 1259,
+    "hangul": "뒀"
+  },
+  {
+    "original": "糠",
+    "code": "8d66",
+    "index": 1495,
+    "split_index": 1260,
+    "hangul": "뒤"
+  },
+  {
+    "original": "耕",
+    "code": "8d6b",
+    "index": 1500,
+    "split_index": 1265,
+    "hangul": "뒷"
+  },
+  {
+    "original": "肯",
+    "code": "8d6d",
+    "index": 1502,
+    "split_index": 1267,
+    "hangul": "듀"
+  },
+  {
+    "original": "肱",
+    "code": "8d6e",
+    "index": 1503,
+    "split_index": 1268,
+    "hangul": "드"
+  },
+  {
+    "original": "腔",
+    "code": "8d6f",
+    "index": 1504,
+    "split_index": 1269,
+    "hangul": "득"
+  },
+  {
+    "original": "膏",
+    "code": "8d70",
+    "index": 1505,
+    "split_index": 1270,
+    "hangul": "든"
+  },
+  {
+    "original": "郊",
+    "code": "8d78",
+    "index": 1513,
+    "split_index": 1278,
+    "hangul": "듣"
+  },
+  {
+    "original": "酵",
+    "code": "8d79",
+    "index": 1514,
+    "split_index": 1279,
+    "hangul": "들"
+  },
+  {
+    "original": "鉱",
+    "code": "8d7a",
+    "index": 1515,
+    "split_index": 1280,
+    "hangul": "듬"
+  },
+  {
+    "original": "砿",
+    "code": "8d7b",
+    "index": 1516,
+    "split_index": 1281,
+    "hangul": "듭"
+  },
+  {
+    "original": "閤",
+    "code": "8d7d",
+    "index": 1518,
+    "split_index": 1283,
+    "hangul": "듯"
+  },
+  {
+    "original": "鴻",
+    "code": "8d83",
+    "index": 1523,
+    "split_index": 1288,
+    "hangul": "등"
+  },
+  {
+    "original": "劫",
+    "code": "8d85",
+    "index": 1525,
+    "split_index": 1290,
+    "hangul": "디"
+  },
+  {
+    "original": "拷",
+    "code": "8d89",
+    "index": 1529,
+    "split_index": 1294,
+    "hangul": "딘"
+  },
+  {
+    "original": "濠",
+    "code": "8d8a",
+    "index": 1530,
+    "split_index": 1295,
+    "hangul": "딛"
+  },
+  {
+    "original": "穀",
+    "code": "8d92",
+    "index": 1538,
+    "split_index": 1303,
+    "hangul": "딜"
+  },
+  {
+    "original": "獄",
+    "code": "8d96",
+    "index": 1542,
+    "split_index": 1307,
+    "hangul": "딩"
+  },
+  {
+    "original": "漉",
+    "code": "8d97",
+    "index": 1543,
+    "split_index": 1308,
+    "hangul": "딪"
+  },
+  {
+    "original": "甑",
+    "code": "8d99",
+    "index": 1545,
+    "split_index": 1310,
+    "hangul": "따"
+  },
+  {
+    "original": "忽",
+    "code": "8d9a",
+    "index": 1546,
+    "split_index": 1311,
+    "hangul": "딱"
+  },
+  {
+    "original": "狛",
+    "code": "8d9d",
+    "index": 1549,
+    "split_index": 1314,
+    "hangul": "딴"
+  },
+  {
+    "original": "此",
+    "code": "8d9f",
+    "index": 1551,
+    "split_index": 1316,
+    "hangul": "땀"
+  },
+  {
+    "original": "困",
+    "code": "8da2",
+    "index": 1554,
+    "split_index": 1319,
+    "hangul": "땅"
+  },
+  {
+    "original": "墾",
+    "code": "8da4",
+    "index": 1556,
+    "split_index": 1321,
+    "hangul": "때"
+  },
+  {
+    "original": "懇",
+    "code": "8da7",
+    "index": 1559,
+    "split_index": 1324,
+    "hangul": "떠"
+  },
+  {
+    "original": "梱",
+    "code": "8dab",
+    "index": 1563,
+    "split_index": 1328,
+    "hangul": "떤"
+  },
+  {
+    "original": "艮",
+    "code": "8daf",
+    "index": 1567,
+    "split_index": 1332,
+    "hangul": "떨"
+  },
+  {
+    "original": "叉",
+    "code": "8db3",
+    "index": 1571,
+    "split_index": 1336,
+    "hangul": "떻"
+  },
+  {
+    "original": "唆",
+    "code": "8db4",
+    "index": 1572,
+    "split_index": 1337,
+    "hangul": "떼"
+  },
+  {
+    "original": "嵯",
+    "code": "8db5",
+    "index": 1573,
+    "split_index": 1338,
+    "hangul": "또"
+  },
+  {
+    "original": "沙",
+    "code": "8db9",
+    "index": 1577,
+    "split_index": 1342,
+    "hangul": "똑"
+  },
+  {
+    "original": "瑳",
+    "code": "8dba",
+    "index": 1578,
+    "split_index": 1343,
+    "hangul": "뚜"
+  },
+  {
+    "original": "鎖",
+    "code": "8dbd",
+    "index": 1581,
+    "split_index": 1346,
+    "hangul": "뚝"
+  },
+  {
+    "original": "裟",
+    "code": "8dbe",
+    "index": 1582,
+    "split_index": 1347,
+    "hangul": "뚫"
+  },
+  {
+    "original": "坐",
+    "code": "8dbf",
+    "index": 1583,
+    "split_index": 1348,
+    "hangul": "뛰"
+  },
+  {
+    "original": "挫",
+    "code": "8dc1",
+    "index": 1585,
+    "split_index": 1350,
+    "hangul": "뛴"
+  },
+  {
+    "original": "債",
+    "code": "8dc2",
+    "index": 1586,
+    "split_index": 1351,
+    "hangul": "뛸"
+  },
+  {
+    "original": "塞",
+    "code": "8dc7",
+    "index": 1591,
+    "split_index": 1356,
+    "hangul": "뜁"
+  },
+  {
+    "original": "宰",
+    "code": "8dc9",
+    "index": 1593,
+    "split_index": 1358,
+    "hangul": "뜨"
+  },
+  {
+    "original": "栽",
+    "code": "8dcd",
+    "index": 1597,
+    "split_index": 1362,
+    "hangul": "뜬"
+  },
+  {
+    "original": "犀",
+    "code": "8dd2",
+    "index": 1602,
+    "split_index": 1367,
+    "hangul": "뜸"
+  },
+  {
+    "original": "砕",
+    "code": "8dd3",
+    "index": 1603,
+    "split_index": 1368,
+    "hangul": "뜻"
+  },
+  {
+    "original": "砦",
+    "code": "8dd4",
+    "index": 1604,
+    "split_index": 1369,
+    "hangul": "띄"
+  },
+  {
+    "original": "斎",
+    "code": "8dd6",
+    "index": 1606,
+    "split_index": 1371,
+    "hangul": "띈"
+  },
+  {
+    "original": "裁",
+    "code": "8dd9",
+    "index": 1609,
+    "split_index": 1374,
+    "hangul": "띕"
+  },
+  {
+    "original": "罪",
+    "code": "8ddf",
+    "index": 1615,
+    "split_index": 1380,
+    "hangul": "띤"
+  },
+  {
+    "original": "冴",
+    "code": "8de1",
+    "index": 1617,
+    "split_index": 1382,
+    "hangul": "라"
+  },
+  {
+    "original": "肴",
+    "code": "8de6",
+    "index": 1622,
+    "split_index": 1387,
+    "hangul": "라가"
+  },
+  {
+    "original": "碕",
+    "code": "8dea",
+    "index": 1626,
+    "split_index": 1391,
+    "hangul": "라이"
+  },
+  {
+    "original": "鷺",
+    "code": "8deb",
+    "index": 1627,
+    "split_index": 1392,
+    "hangul": "락"
+  },
+  {
+    "original": "咋",
+    "code": "8dee",
+    "index": 1630,
+    "split_index": 1395,
+    "hangul": "란"
+  },
+  {
+    "original": "搾",
+    "code": "8def",
+    "index": 1631,
+    "split_index": 1396,
+    "hangul": "랄"
+  },
+  {
+    "original": "朔",
+    "code": "8df1",
+    "index": 1633,
+    "split_index": 1398,
+    "hangul": "람"
+  },
+  {
+    "original": "柵",
+    "code": "8df2",
+    "index": 1634,
+    "split_index": 1399,
+    "hangul": "랍"
+  },
+  {
+    "original": "窄",
+    "code": "8df3",
+    "index": 1635,
+    "split_index": 1400,
+    "hangul": "랐"
+  },
+  {
+    "original": "鮭",
+    "code": "8df8",
+    "index": 1640,
+    "split_index": 1405,
+    "hangul": "랑"
+  },
+  {
+    "original": "笹",
+    "code": "8df9",
+    "index": 1641,
+    "split_index": 1406,
+    "hangul": "래"
+  },
+  {
+    "original": "匙",
+    "code": "8dfa",
+    "index": 1642,
+    "split_index": 1407,
+    "hangul": "랙"
+  },
+  {
+    "original": "冊",
+    "code": "8dfb",
+    "index": 1643,
+    "split_index": 1408,
+    "hangul": "랜"
+  },
+  {
+    "original": "賜",
+    "code": "8e92",
+    "index": 1726,
+    "split_index": 1491,
+    "hangul": "램"
+  },
+  {
+    "original": "璽",
+    "code": "8ea3",
+    "index": 1743,
+    "split_index": 1508,
+    "hangul": "랩"
+  },
+  {
+    "original": "蒔",
+    "code": "8eaa",
+    "index": 1750,
+    "split_index": 1515,
+    "hangul": "랫"
+  },
+  {
+    "original": "宍",
+    "code": "8eb3",
+    "index": 1759,
+    "split_index": 1524,
+    "hangul": "랬"
+  },
+  {
+    "original": "叱",
+    "code": "8eb6",
+    "index": 1762,
+    "split_index": 1527,
+    "hangul": "랭"
+  },
+  {
+    "original": "執",
+    "code": "8eb7",
+    "index": 1763,
+    "split_index": 1528,
+    "hangul": "랴"
+  },
+  {
+    "original": "芝",
+    "code": "8ec5",
+    "index": 1777,
+    "split_index": 1542,
+    "hangul": "략"
+  },
+  {
+    "original": "舎",
+    "code": "8ec9",
+    "index": 1781,
+    "split_index": 1546,
+    "hangul": "량"
+  },
+  {
+    "original": "射",
+    "code": "8ecb",
+    "index": 1783,
+    "split_index": 1548,
+    "hangul": "러"
+  },
+  {
+    "original": "紗",
+    "code": "8ed1",
+    "index": 1789,
+    "split_index": 1554,
+    "hangul": "런"
+  },
+  {
+    "original": "遮",
+    "code": "8ed5",
+    "index": 1793,
+    "split_index": 1558,
+    "hangul": "럴"
+  },
+  {
+    "original": "勺",
+    "code": "8ed9",
+    "index": 1797,
+    "split_index": 1562,
+    "hangul": "럼"
+  },
+  {
+    "original": "尺",
+    "code": "8eda",
+    "index": 1798,
+    "split_index": 1563,
+    "hangul": "럽"
+  },
+  {
+    "original": "杓",
+    "code": "8edb",
+    "index": 1799,
+    "split_index": 1564,
+    "hangul": "럿"
+  },
+  {
+    "original": "爵",
+    "code": "8edd",
+    "index": 1801,
+    "split_index": 1566,
+    "hangul": "렀"
+  },
+  {
+    "original": "釈",
+    "code": "8edf",
+    "index": 1803,
+    "split_index": 1568,
+    "hangul": "렇"
+  },
+  {
+    "original": "寂",
+    "code": "8ee2",
+    "index": 1806,
+    "split_index": 1571,
+    "hangul": "레"
+  },
+  {
+    "original": "需",
+    "code": "8ef9",
+    "index": 1829,
+    "split_index": 1594,
+    "hangul": "레쓰"
+  },
+  {
+    "original": "繍",
+    "code": "8f4a",
+    "index": 1843,
+    "split_index": 1608,
+    "hangul": "렉"
+  },
+  {
+    "original": "舟",
+    "code": "8f4d",
+    "index": 1846,
+    "split_index": 1611,
+    "hangul": "렌"
+  },
+  {
+    "original": "讐",
+    "code": "8f51",
+    "index": 1850,
+    "split_index": 1615,
+    "hangul": "렛"
+  },
+  {
+    "original": "輯",
+    "code": "8f53",
+    "index": 1852,
+    "split_index": 1617,
+    "hangul": "려"
+  },
+  {
+    "original": "酋",
+    "code": "8f55",
+    "index": 1854,
+    "split_index": 1619,
+    "hangul": "력"
+  },
+  {
+    "original": "酬",
+    "code": "8f56",
+    "index": 1855,
+    "split_index": 1620,
+    "hangul": "련"
+  },
+  {
+    "original": "什",
+    "code": "8f59",
+    "index": 1858,
+    "split_index": 1623,
+    "hangul": "렬"
+  },
+  {
+    "original": "戎",
+    "code": "8f5e",
+    "index": 1863,
+    "split_index": 1628,
+    "hangul": "렵"
+  },
+  {
+    "original": "銃",
+    "code": "8f65",
+    "index": 1870,
+    "split_index": 1635,
+    "hangul": "렷"
+  },
+  {
+    "original": "叔",
+    "code": "8f66",
+    "index": 1871,
+    "split_index": 1636,
+    "hangul": "렸"
+  },
+  {
+    "original": "塾",
+    "code": "8f6d",
+    "index": 1878,
+    "split_index": 1643,
+    "hangul": "령"
+  },
+  {
+    "original": "述",
+    "code": "8f71",
+    "index": 1882,
+    "split_index": 1647,
+    "hangul": "례"
+  },
+  {
+    "original": "竣",
+    "code": "8f76",
+    "index": 1887,
+    "split_index": 1652,
+    "hangul": "롄"
+  },
+  {
+    "original": "舜",
+    "code": "8f77",
+    "index": 1888,
+    "split_index": 1653,
+    "hangul": "로"
+  },
+  {
+    "original": "循",
+    "code": "8f7a",
+    "index": 1891,
+    "split_index": 1656,
+    "hangul": "로자"
+  },
+  {
+    "original": "殉",
+    "code": "8f7d",
+    "index": 1894,
+    "split_index": 1659,
+    "hangul": "로쿠"
+  },
+  {
+    "original": "潤",
+    "code": "8f81",
+    "index": 1897,
+    "split_index": 1662,
+    "hangul": "록"
+  },
+  {
+    "original": "遵",
+    "code": "8f85",
+    "index": 1901,
+    "split_index": 1666,
+    "hangul": "론"
+  },
+  {
+    "original": "渚",
+    "code": "8f8d",
+    "index": 1909,
+    "split_index": 1674,
+    "hangul": "롤"
+  },
+  {
+    "original": "薯",
+    "code": "8f92",
+    "index": 1914,
+    "split_index": 1679,
+    "hangul": "롬"
+  },
+  {
+    "original": "藷",
+    "code": "8f93",
+    "index": 1915,
+    "split_index": 1680,
+    "hangul": "롭"
+  },
+  {
+    "original": "叙",
+    "code": "8f96",
+    "index": 1918,
+    "split_index": 1683,
+    "hangul": "롯"
+  },
+  {
+    "original": "恕",
+    "code": "8f9a",
+    "index": 1922,
+    "split_index": 1687,
+    "hangul": "롱"
+  },
+  {
+    "original": "鋤",
+    "code": "8f9b",
+    "index": 1923,
+    "split_index": 1688,
+    "hangul": "뢰"
+  },
+  {
+    "original": "償",
+    "code": "8f9e",
+    "index": 1926,
+    "split_index": 1691,
+    "hangul": "료"
+  },
+  {
+    "original": "召",
+    "code": "8fa2",
+    "index": 1930,
+    "split_index": 1695,
+    "hangul": "룡"
+  },
+  {
+    "original": "唱",
+    "code": "8fa5",
+    "index": 1933,
+    "split_index": 1698,
+    "hangul": "루"
+  },
+  {
+    "original": "嘗",
+    "code": "8fa6",
+    "index": 1934,
+    "split_index": 1699,
+    "hangul": "룩"
+  },
+  {
+    "original": "娼",
+    "code": "8fa9",
+    "index": 1937,
+    "split_index": 1702,
+    "hangul": "룬"
+  },
+  {
+    "original": "宵",
+    "code": "8faa",
+    "index": 1938,
+    "split_index": 1703,
+    "hangul": "룰"
+  },
+  {
+    "original": "廠",
+    "code": "8fb1",
+    "index": 1945,
+    "split_index": 1710,
+    "hangul": "룸"
+  },
+  {
+    "original": "掌",
+    "code": "8fb6",
+    "index": 1950,
+    "split_index": 1715,
+    "hangul": "룹"
+  },
+  {
+    "original": "捷",
+    "code": "8fb7",
+    "index": 1951,
+    "split_index": 1716,
+    "hangul": "룽"
+  },
+  {
+    "original": "晶",
+    "code": "8fbb",
+    "index": 1955,
+    "split_index": 1720,
+    "hangul": "뤄"
+  },
+  {
+    "original": "梢",
+    "code": "8fbd",
+    "index": 1957,
+    "split_index": 1722,
+    "hangul": "뤘"
+  },
+  {
+    "original": "樟",
+    "code": "8fbe",
+    "index": 1958,
+    "split_index": 1723,
+    "hangul": "뤼"
+  },
+  {
+    "original": "硝",
+    "code": "8fc9",
+    "index": 1969,
+    "split_index": 1734,
+    "hangul": "류"
+  },
+  {
+    "original": "礁",
+    "code": "8fca",
+    "index": 1970,
+    "split_index": 1735,
+    "hangul": "률"
+  },
+  {
+    "original": "肖",
+    "code": "8fd1",
+    "index": 1977,
+    "split_index": 1742,
+    "hangul": "륨"
+  },
+  {
+    "original": "菖",
+    "code": "8fd2",
+    "index": 1978,
+    "split_index": 1743,
+    "hangul": "륭"
+  },
+  {
+    "original": "蒋",
+    "code": "8fd3",
+    "index": 1979,
+    "split_index": 1744,
+    "hangul": "르"
+  },
+  {
+    "original": "衝",
+    "code": "8fd5",
+    "index": 1981,
+    "split_index": 1746,
+    "hangul": "른"
+  },
+  {
+    "original": "裳",
+    "code": "8fd6",
+    "index": 1982,
+    "split_index": 1747,
+    "hangul": "를"
+  },
+  {
+    "original": "訟",
+    "code": "8fd7",
+    "index": 1983,
+    "split_index": 1748,
+    "hangul": "름"
+  },
+  {
+    "original": "詔",
+    "code": "8fd9",
+    "index": 1985,
+    "split_index": 1750,
+    "hangul": "릅"
+  },
+  {
+    "original": "醤",
+    "code": "8fdd",
+    "index": 1989,
+    "split_index": 1754,
+    "hangul": "릇"
+  },
+  {
+    "original": "鉦",
+    "code": "8fde",
+    "index": 1990,
+    "split_index": 1755,
+    "hangul": "리"
+  },
+  {
+    "original": "鍾",
+    "code": "8fdf",
+    "index": 1991,
+    "split_index": 1756,
+    "hangul": "리쿠"
+  },
+  {
+    "original": "冗",
+    "code": "8fe7",
+    "index": 1999,
+    "split_index": 1764,
+    "hangul": "릭"
+  },
+  {
+    "original": "壌",
+    "code": "8feb",
+    "index": 2003,
+    "split_index": 1768,
+    "hangul": "린"
+  },
+  {
+    "original": "擾",
+    "code": "8fef",
+    "index": 2007,
+    "split_index": 1772,
+    "hangul": "릴"
+  },
+  {
+    "original": "杖",
+    "code": "8ff1",
+    "index": 2009,
+    "split_index": 1774,
+    "hangul": "림"
+  },
+  {
+    "original": "浄",
+    "code": "8ff2",
+    "index": 2010,
+    "split_index": 1775,
+    "hangul": "립"
+  },
+  {
+    "original": "錠",
+    "code": "8ff9",
+    "index": 2017,
+    "split_index": 1782,
+    "hangul": "릿"
+  },
+  {
+    "original": "嘱",
+    "code": "8ffa",
+    "index": 2018,
+    "split_index": 1783,
+    "hangul": "링"
+  },
+  {
+    "original": "埴",
+    "code": "8ffb",
+    "index": 2019,
+    "split_index": 1784,
+    "hangul": "마"
+  },
+  {
+    "original": "榛",
+    "code": "9059",
+    "index": 2046,
+    "split_index": 1811,
+    "hangul": "마사"
+  },
+  {
+    "original": "塵",
+    "code": "906f",
+    "index": 2068,
+    "split_index": 1833,
+    "hangul": "마쓰"
+  },
+  {
+    "original": "隻",
+    "code": "90c7",
+    "index": 2155,
+    "split_index": 1920,
+    "hangul": "마에"
+  },
+  {
+    "original": "斥",
+    "code": "90cb",
+    "index": 2159,
+    "split_index": 1924,
+    "hangul": "마토"
+  },
+  {
+    "original": "析",
+    "code": "90cd",
+    "index": 2161,
+    "split_index": 1926,
+    "hangul": "막"
+  },
+  {
+    "original": "碩",
+    "code": "90d7",
+    "index": 2171,
+    "split_index": 1936,
+    "hangul": "만"
+  },
+  {
+    "original": "窃",
+    "code": "90de",
+    "index": 2178,
+    "split_index": 1943,
+    "hangul": "많"
+  },
+  {
+    "original": "箭",
+    "code": "90fb",
+    "index": 2207,
+    "split_index": 1972,
+    "hangul": "말"
+  },
+  {
+    "original": "腺",
+    "code": "9142",
+    "index": 2211,
+    "split_index": 1976,
+    "hangul": "맑"
+  },
+  {
+    "original": "詮",
+    "code": "9146",
+    "index": 2215,
+    "split_index": 1980,
+    "hangul": "맙"
+  },
+  {
+    "original": "賎",
+    "code": "9147",
+    "index": 2216,
+    "split_index": 1981,
+    "hangul": "맛"
+  },
+  {
+    "original": "遷",
+    "code": "914a",
+    "index": 2219,
+    "split_index": 1984,
+    "hangul": "망"
+  },
+  {
+    "original": "銭",
+    "code": "914b",
+    "index": 2220,
+    "split_index": 1985,
+    "hangul": "맞"
+  },
+  {
+    "original": "銑",
+    "code": "914c",
+    "index": 2221,
+    "split_index": 1986,
+    "hangul": "맡"
+  },
+  {
+    "original": "繕",
+    "code": "9155",
+    "index": 2230,
+    "split_index": 1995,
+    "hangul": "매"
+  },
+  {
+    "original": "糎",
+    "code": "9157",
+    "index": 2232,
+    "split_index": 1997,
+    "hangul": "맥"
+  },
+  {
+    "original": "塑",
+    "code": "9159",
+    "index": 2234,
+    "split_index": 1999,
+    "hangul": "맨"
+  },
+  {
+    "original": "岨",
+    "code": "915a",
+    "index": 2235,
+    "split_index": 2000,
+    "hangul": "맷"
+  },
+  {
+    "original": "措",
+    "code": "915b",
+    "index": 2236,
+    "split_index": 2001,
+    "hangul": "맹"
+  },
+  {
+    "original": "曾",
+    "code": "915c",
+    "index": 2237,
+    "split_index": 2002,
+    "hangul": "맺"
+  },
+  {
+    "original": "楚",
+    "code": "915e",
+    "index": 2239,
+    "split_index": 2004,
+    "hangul": "머"
+  },
+  {
+    "original": "疏",
+    "code": "9160",
+    "index": 2241,
+    "split_index": 2006,
+    "hangul": "먹"
+  },
+  {
+    "original": "疎",
+    "code": "9161",
+    "index": 2242,
+    "split_index": 2007,
+    "hangul": "먼"
+  },
+  {
+    "original": "祖",
+    "code": "9163",
+    "index": 2244,
+    "split_index": 2009,
+    "hangul": "멀"
+  },
+  {
+    "original": "租",
+    "code": "9164",
+    "index": 2245,
+    "split_index": 2010,
+    "hangul": "멈"
+  },
+  {
+    "original": "粗",
+    "code": "9165",
+    "index": 2246,
+    "split_index": 2011,
+    "hangul": "멋"
+  },
+  {
+    "original": "蘇",
+    "code": "9168",
+    "index": 2249,
+    "split_index": 2014,
+    "hangul": "멍"
+  },
+  {
+    "original": "遡",
+    "code": "916b",
+    "index": 2252,
+    "split_index": 2017,
+    "hangul": "메"
+  },
+  {
+    "original": "鼠",
+    "code": "916c",
+    "index": 2253,
+    "split_index": 2018,
+    "hangul": "메이"
+  },
+  {
+    "original": "僧",
+    "code": "916d",
+    "index": 2254,
+    "split_index": 2019,
+    "hangul": "멕"
+  },
+  {
+    "original": "叢",
+    "code": "9170",
+    "index": 2257,
+    "split_index": 2022,
+    "hangul": "멘"
+  },
+  {
+    "original": "喪",
+    "code": "9172",
+    "index": 2259,
+    "split_index": 2024,
+    "hangul": "멜"
+  },
+  {
+    "original": "爽",
+    "code": "9175",
+    "index": 2262,
+    "split_index": 2027,
+    "hangul": "며"
+  },
+  {
+    "original": "宋",
+    "code": "9176",
+    "index": 2263,
+    "split_index": 2028,
+    "hangul": "면"
+  },
+  {
+    "original": "匝",
+    "code": "9178",
+    "index": 2265,
+    "split_index": 2030,
+    "hangul": "명"
+  },
+  {
+    "original": "惣",
+    "code": "9179",
+    "index": 2266,
+    "split_index": 2031,
+    "hangul": "몇"
+  },
+  {
+    "original": "捜",
+    "code": "917b",
+    "index": 2268,
+    "split_index": 2033,
+    "hangul": "모"
+  },
+  {
+    "original": "漕",
+    "code": "9186",
+    "index": 2278,
+    "split_index": 2043,
+    "hangul": "모리"
+  },
+  {
+    "original": "燥",
+    "code": "9187",
+    "index": 2279,
+    "split_index": 2044,
+    "hangul": "모토"
+  },
+  {
+    "original": "痩",
+    "code": "9189",
+    "index": 2281,
+    "split_index": 2046,
+    "hangul": "목"
+  },
+  {
+    "original": "窓",
+    "code": "918b",
+    "index": 2283,
+    "split_index": 2048,
+    "hangul": "몬"
+  },
+  {
+    "original": "荘",
+    "code": "9191",
+    "index": 2289,
+    "split_index": 2054,
+    "hangul": "몰"
+  },
+  {
+    "original": "葬",
+    "code": "9192",
+    "index": 2290,
+    "split_index": 2055,
+    "hangul": "몸"
+  },
+  {
+    "original": "蒼",
+    "code": "9193",
+    "index": 2291,
+    "split_index": 2056,
+    "hangul": "못"
+  },
+  {
+    "original": "藻",
+    "code": "9194",
+    "index": 2292,
+    "split_index": 2057,
+    "hangul": "몽"
+  },
+  {
+    "original": "遭",
+    "code": "9198",
+    "index": 2296,
+    "split_index": 2061,
+    "hangul": "묘"
+  },
+  {
+    "original": "鎗",
+    "code": "9199",
+    "index": 2297,
+    "split_index": 2062,
+    "hangul": "무"
+  },
+  {
+    "original": "憎",
+    "code": "919e",
+    "index": 2302,
+    "split_index": 2067,
+    "hangul": "무네"
+  },
+  {
+    "original": "臓",
+    "code": "919f",
+    "index": 2303,
+    "split_index": 2068,
+    "hangul": "무라"
+  },
+  {
+    "original": "捉",
+    "code": "91a8",
+    "index": 2312,
+    "split_index": 2077,
+    "hangul": "무로"
+  },
+  {
+    "original": "束",
+    "code": "91a9",
+    "index": 2313,
+    "split_index": 2078,
+    "hangul": "무카"
+  },
+  {
+    "original": "俗",
+    "code": "91ad",
+    "index": 2317,
+    "split_index": 2082,
+    "hangul": "묵"
+  },
+  {
+    "original": "孫",
+    "code": "91b7",
+    "index": 2327,
+    "split_index": 2092,
+    "hangul": "문"
+  },
+  {
+    "original": "遜",
+    "code": "91bb",
+    "index": 2331,
+    "split_index": 2096,
+    "hangul": "묻"
+  },
+  {
+    "original": "汰",
+    "code": "91bf",
+    "index": 2335,
+    "split_index": 2100,
+    "hangul": "물"
+  },
+  {
+    "original": "詑",
+    "code": "91c0",
+    "index": 2336,
+    "split_index": 2101,
+    "hangul": "뭇"
+  },
+  {
+    "original": "唾",
+    "code": "91c1",
+    "index": 2337,
+    "split_index": 2102,
+    "hangul": "뭉"
+  },
+  {
+    "original": "惰",
+    "code": "91c4",
+    "index": 2340,
+    "split_index": 2105,
+    "hangul": "뭐"
+  },
+  {
+    "original": "柁",
+    "code": "91c6",
+    "index": 2342,
+    "split_index": 2107,
+    "hangul": "뭔"
+  },
+  {
+    "original": "舵",
+    "code": "91c7",
+    "index": 2343,
+    "split_index": 2108,
+    "hangul": "뮈"
+  },
+  {
+    "original": "楕",
+    "code": "91c8",
+    "index": 2344,
+    "split_index": 2109,
+    "hangul": "뮬"
+  },
+  {
+    "original": "陀",
+    "code": "91c9",
+    "index": 2345,
+    "split_index": 2110,
+    "hangul": "므"
+  },
+  {
+    "original": "騨",
+    "code": "91cb",
+    "index": 2347,
+    "split_index": 2112,
+    "hangul": "미"
+  },
+  {
+    "original": "堆",
+    "code": "91cd",
+    "index": 2349,
+    "split_index": 2114,
+    "hangul": "미나"
+  },
+  {
+    "original": "岱",
+    "code": "91d0",
+    "index": 2352,
+    "split_index": 2117,
+    "hangul": "미산"
+  },
+  {
+    "original": "戴",
+    "code": "91d5",
+    "index": 2357,
+    "split_index": 2122,
+    "hangul": "미소"
+  },
+  {
+    "original": "胎",
+    "code": "91d9",
+    "index": 2361,
+    "split_index": 2126,
+    "hangul": "미야"
+  },
+  {
+    "original": "腿",
+    "code": "91da",
+    "index": 2362,
+    "split_index": 2127,
+    "hangul": "미즈"
+  },
+  {
+    "original": "袋",
+    "code": "91dc",
+    "index": 2364,
+    "split_index": 2129,
+    "hangul": "미치"
+  },
+  {
+    "original": "逮",
+    "code": "91df",
+    "index": 2367,
+    "split_index": 2132,
+    "hangul": "미키"
+  },
+  {
+    "original": "黛",
+    "code": "91e1",
+    "index": 2369,
+    "split_index": 2134,
+    "hangul": "미하"
+  },
+  {
+    "original": "醍",
+    "code": "91e7",
+    "index": 2375,
+    "split_index": 2140,
+    "hangul": "믹"
+  },
+  {
+    "original": "瀧",
+    "code": "91eb",
+    "index": 2379,
+    "split_index": 2144,
+    "hangul": "민"
+  },
+  {
+    "original": "啄",
+    "code": "91ed",
+    "index": 2381,
+    "split_index": 2146,
+    "hangul": "믿"
+  },
+  {
+    "original": "宅",
+    "code": "91ee",
+    "index": 2382,
+    "split_index": 2147,
+    "hangul": "밀"
+  },
+  {
+    "original": "托",
+    "code": "91ef",
+    "index": 2383,
+    "split_index": 2148,
+    "hangul": "밋"
+  },
+  {
+    "original": "濯",
+    "code": "91f3",
+    "index": 2387,
+    "split_index": 2152,
+    "hangul": "밍"
+  },
+  {
+    "original": "託",
+    "code": "91f5",
+    "index": 2389,
+    "split_index": 2154,
+    "hangul": "및"
+  },
+  {
+    "original": "鐸",
+    "code": "91f6",
+    "index": 2390,
+    "split_index": 2155,
+    "hangul": "밑"
+  },
+  {
+    "original": "茸",
+    "code": "91f9",
+    "index": 2393,
+    "split_index": 2158,
+    "hangul": "바"
+  },
+  {
+    "original": "凧",
+    "code": "91fa",
+    "index": 2394,
+    "split_index": 2159,
+    "hangul": "박"
+  },
+  {
+    "original": "蛸",
+    "code": "91fb",
+    "index": 2395,
+    "split_index": 2160,
+    "hangul": "밖"
+  },
+  {
+    "original": "樽",
+    "code": "924d",
+    "index": 2410,
+    "split_index": 2175,
+    "hangul": "반"
+  },
+  {
+    "original": "耽",
+    "code": "925e",
+    "index": 2427,
+    "split_index": 2192,
+    "hangul": "받"
+  },
+  {
+    "original": "弛",
+    "code": "926f",
+    "index": 2444,
+    "split_index": 2209,
+    "hangul": "발"
+  },
+  {
+    "original": "蜘",
+    "code": "9277",
+    "index": 2452,
+    "split_index": 2217,
+    "hangul": "밝"
+  },
+  {
+    "original": "筑",
+    "code": "927d",
+    "index": 2458,
+    "split_index": 2223,
+    "hangul": "밟"
+  },
+  {
+    "original": "抽",
+    "code": "928a",
+    "index": 2470,
+    "split_index": 2235,
+    "hangul": "밤"
+  },
+  {
+    "original": "鋳",
+    "code": "9292",
+    "index": 2478,
+    "split_index": 2243,
+    "hangul": "밥"
+  },
+  {
+    "original": "駐",
+    "code": "9293",
+    "index": 2479,
+    "split_index": 2244,
+    "hangul": "방"
+  },
+  {
+    "original": "樗",
+    "code": "9294",
+    "index": 2480,
+    "split_index": 2245,
+    "hangul": "밭"
+  },
+  {
+    "original": "苧",
+    "code": "9297",
+    "index": 2483,
+    "split_index": 2248,
+    "hangul": "배"
+  },
+  {
+    "original": "兆",
+    "code": "929b",
+    "index": 2487,
+    "split_index": 2252,
+    "hangul": "백"
+  },
+  {
+    "original": "庁",
+    "code": "92a1",
+    "index": 2493,
+    "split_index": 2258,
+    "hangul": "밴"
+  },
+  {
+    "original": "懲",
+    "code": "92a6",
+    "index": 2498,
+    "split_index": 2263,
+    "hangul": "밸"
+  },
+  {
+    "original": "眺",
+    "code": "92ad",
+    "index": 2505,
+    "split_index": 2270,
+    "hangul": "뱀"
+  },
+  {
+    "original": "諜",
+    "code": "92b3",
+    "index": 2511,
+    "split_index": 2276,
+    "hangul": "뱅"
+  },
+  {
+    "original": "銚",
+    "code": "92b6",
+    "index": 2514,
+    "split_index": 2279,
+    "hangul": "뱌"
+  },
+  {
+    "original": "勅",
+    "code": "92ba",
+    "index": 2518,
+    "split_index": 2283,
+    "hangul": "버"
+  },
+  {
+    "original": "鎮",
+    "code": "92c1",
+    "index": 2525,
+    "split_index": 2290,
+    "hangul": "번"
+  },
+  {
+    "original": "椎",
+    "code": "92c5",
+    "index": 2529,
+    "split_index": 2294,
+    "hangul": "벌"
+  },
+  {
+    "original": "槻",
+    "code": "92ce",
+    "index": 2538,
+    "split_index": 2303,
+    "hangul": "범"
+  },
+  {
+    "original": "佃",
+    "code": "92cf",
+    "index": 2539,
+    "split_index": 2304,
+    "hangul": "법"
+  },
+  {
+    "original": "柘",
+    "code": "92d1",
+    "index": 2541,
+    "split_index": 2306,
+    "hangul": "벗"
+  },
+  {
+    "original": "蔦",
+    "code": "92d3",
+    "index": 2543,
+    "split_index": 2308,
+    "hangul": "베"
+  },
+  {
+    "original": "偵",
+    "code": "92e3",
+    "index": 2559,
+    "split_index": 2324,
+    "hangul": "벡"
+  },
+  {
+    "original": "剃",
+    "code": "92e4",
+    "index": 2560,
+    "split_index": 2325,
+    "hangul": "벤"
+  },
+  {
+    "original": "呈",
+    "code": "92e6",
+    "index": 2562,
+    "split_index": 2327,
+    "hangul": "벨"
+  },
+  {
+    "original": "堤",
+    "code": "92e7",
+    "index": 2563,
+    "split_index": 2328,
+    "hangul": "벼"
+  },
+  {
+    "original": "帝",
+    "code": "92e9",
+    "index": 2565,
+    "split_index": 2330,
+    "hangul": "벽"
+  },
+  {
+    "original": "庭",
+    "code": "92eb",
+    "index": 2567,
+    "split_index": 2332,
+    "hangul": "변"
+  },
+  {
+    "original": "廷",
+    "code": "92ec",
+    "index": 2568,
+    "split_index": 2333,
+    "hangul": "별"
+  },
+  {
+    "original": "悌",
+    "code": "92ee",
+    "index": 2570,
+    "split_index": 2335,
+    "hangul": "볍"
+  },
+  {
+    "original": "梯",
+    "code": "92f2",
+    "index": 2574,
+    "split_index": 2339,
+    "hangul": "병"
+  },
+  {
+    "original": "汀",
+    "code": "92f3",
+    "index": 2575,
+    "split_index": 2340,
+    "hangul": "볕"
+  },
+  {
+    "original": "禎",
+    "code": "92f5",
+    "index": 2577,
+    "split_index": 2342,
+    "hangul": "보"
+  },
+  {
+    "original": "擢",
+    "code": "9346",
+    "index": 2591,
+    "split_index": 2356,
+    "hangul": "복"
+  },
+  {
+    "original": "溺",
+    "code": "934d",
+    "index": 2598,
+    "split_index": 2363,
+    "hangul": "볶"
+  },
+  {
+    "original": "添",
+    "code": "9359",
+    "index": 2610,
+    "split_index": 2375,
+    "hangul": "본"
+  },
+  {
+    "original": "纏",
+    "code": "935a",
+    "index": 2611,
+    "split_index": 2376,
+    "hangul": "볼"
+  },
+  {
+    "original": "甜",
+    "code": "935b",
+    "index": 2612,
+    "split_index": 2377,
+    "hangul": "봄"
+  },
+  {
+    "original": "顛",
+    "code": "935e",
+    "index": 2615,
+    "split_index": 2380,
+    "hangul": "봅"
+  },
+  {
+    "original": "殿",
+    "code": "9361",
+    "index": 2618,
+    "split_index": 2383,
+    "hangul": "봉"
+  },
+  {
+    "original": "兎",
+    "code": "9365",
+    "index": 2622,
+    "split_index": 2387,
+    "hangul": "봐"
+  },
+  {
+    "original": "吐",
+    "code": "9366",
+    "index": 2623,
+    "split_index": 2388,
+    "hangul": "봤"
+  },
+  {
+    "original": "堵",
+    "code": "9367",
+    "index": 2624,
+    "split_index": 2389,
+    "hangul": "뵐"
+  },
+  {
+    "original": "徒",
+    "code": "936b",
+    "index": 2628,
+    "split_index": 2393,
+    "hangul": "뵙"
+  },
+  {
+    "original": "鍍",
+    "code": "9374",
+    "index": 2637,
+    "split_index": 2402,
+    "hangul": "부"
+  },
+  {
+    "original": "砥",
+    "code": "9375",
+    "index": 2638,
+    "split_index": 2403,
+    "hangul": "북"
+  },
+  {
+    "original": "党",
+    "code": "937d",
+    "index": 2646,
+    "split_index": 2411,
+    "hangul": "분"
+  },
+  {
+    "original": "套",
+    "code": "9385",
+    "index": 2653,
+    "split_index": 2418,
+    "hangul": "불"
+  },
+  {
+    "original": "棟",
+    "code": "938f",
+    "index": 2663,
+    "split_index": 2428,
+    "hangul": "붉"
+  },
+  {
+    "original": "淘",
+    "code": "9391",
+    "index": 2665,
+    "split_index": 2430,
+    "hangul": "붓"
+  },
+  {
+    "original": "湯",
+    "code": "9392",
+    "index": 2666,
+    "split_index": 2431,
+    "hangul": "붕"
+  },
+  {
+    "original": "涛",
+    "code": "9393",
+    "index": 2667,
+    "split_index": 2432,
+    "hangul": "붙"
+  },
+  {
+    "original": "灯",
+    "code": "9394",
+    "index": 2668,
+    "split_index": 2433,
+    "hangul": "뷔"
+  },
+  {
+    "original": "燈",
+    "code": "9395",
+    "index": 2669,
+    "split_index": 2434,
+    "hangul": "뷰"
+  },
+  {
+    "original": "痘",
+    "code": "9397",
+    "index": 2671,
+    "split_index": 2436,
+    "hangul": "브"
+  },
+  {
+    "original": "祷",
+    "code": "9398",
+    "index": 2672,
+    "split_index": 2437,
+    "hangul": "븐"
+  },
+  {
+    "original": "董",
+    "code": "939f",
+    "index": 2679,
+    "split_index": 2444,
+    "hangul": "블"
+  },
+  {
+    "original": "謄",
+    "code": "93a3",
+    "index": 2683,
+    "split_index": 2448,
+    "hangul": "비"
+  },
+  {
+    "original": "豆",
+    "code": "93a4",
+    "index": 2684,
+    "split_index": 2449,
+    "hangul": "빅"
+  },
+  {
+    "original": "陶",
+    "code": "93a9",
+    "index": 2689,
+    "split_index": 2454,
+    "hangul": "빈"
+  },
+  {
+    "original": "騰",
+    "code": "93ab",
+    "index": 2691,
+    "split_index": 2456,
+    "hangul": "빌"
+  },
+  {
+    "original": "働",
+    "code": "93ad",
+    "index": 2693,
+    "split_index": 2458,
+    "hangul": "빔"
+  },
+  {
+    "original": "撞",
+    "code": "93b3",
+    "index": 2699,
+    "split_index": 2464,
+    "hangul": "빗"
+  },
+  {
+    "original": "峠",
+    "code": "93bb",
+    "index": 2707,
+    "split_index": 2472,
+    "hangul": "빙"
+  },
+  {
+    "original": "禿",
+    "code": "93c3",
+    "index": 2715,
+    "split_index": 2480,
+    "hangul": "빚"
+  },
+  {
+    "original": "毒",
+    "code": "93c5",
+    "index": 2717,
+    "split_index": 2482,
+    "hangul": "빛"
+  },
+  {
+    "original": "橡",
+    "code": "93c9",
+    "index": 2721,
+    "split_index": 2486,
+    "hangul": "빠"
+  },
+  {
+    "original": "凸",
+    "code": "93ca",
+    "index": 2722,
+    "split_index": 2487,
+    "hangul": "빤"
+  },
+  {
+    "original": "椴",
+    "code": "93cc",
+    "index": 2724,
+    "split_index": 2489,
+    "hangul": "빨"
+  },
+  {
+    "original": "鳶",
+    "code": "93ce",
+    "index": 2726,
+    "split_index": 2491,
+    "hangul": "빼"
+  },
+  {
+    "original": "噸",
+    "code": "93d3",
+    "index": 2731,
+    "split_index": 2496,
+    "hangul": "빽"
+  },
+  {
+    "original": "屯",
+    "code": "93d4",
+    "index": 2732,
+    "split_index": 2497,
+    "hangul": "뺀"
+  },
+  {
+    "original": "惇",
+    "code": "93d5",
+    "index": 2733,
+    "split_index": 2498,
+    "hangul": "뺍"
+  },
+  {
+    "original": "沌",
+    "code": "93d7",
+    "index": 2735,
+    "split_index": 2500,
+    "hangul": "뺏"
+  },
+  {
+    "original": "遁",
+    "code": "93d9",
+    "index": 2737,
+    "split_index": 2502,
+    "hangul": "뺐"
+  },
+  {
+    "original": "頓",
+    "code": "93da",
+    "index": 2738,
+    "split_index": 2503,
+    "hangul": "뻐"
+  },
+  {
+    "original": "呑",
+    "code": "93db",
+    "index": 2739,
+    "split_index": 2504,
+    "hangul": "뻗"
+  },
+  {
+    "original": "奈",
+    "code": "93de",
+    "index": 2742,
+    "split_index": 2507,
+    "hangul": "뼈"
+  },
+  {
+    "original": "乍",
+    "code": "93e1",
+    "index": 2745,
+    "split_index": 2510,
+    "hangul": "뼉"
+  },
+  {
+    "original": "凪",
+    "code": "93e2",
+    "index": 2746,
+    "split_index": 2511,
+    "hangul": "뽐"
+  },
+  {
+    "original": "薙",
+    "code": "93e3",
+    "index": 2747,
+    "split_index": 2512,
+    "hangul": "뽑"
+  },
+  {
+    "original": "謎",
+    "code": "93e4",
+    "index": 2748,
+    "split_index": 2513,
+    "hangul": "뽕"
+  },
+  {
+    "original": "捺",
+    "code": "93e6",
+    "index": 2750,
+    "split_index": 2515,
+    "hangul": "뿌"
+  },
+  {
+    "original": "縄",
+    "code": "93ea",
+    "index": 2754,
+    "split_index": 2519,
+    "hangul": "뿍"
+  },
+  {
+    "original": "畷",
+    "code": "93eb",
+    "index": 2755,
+    "split_index": 2520,
+    "hangul": "뿐"
+  },
+  {
+    "original": "汝",
+    "code": "93f0",
+    "index": 2760,
+    "split_index": 2525,
+    "hangul": "뿔"
+  },
+  {
+    "original": "賑",
+    "code": "93f6",
+    "index": 2766,
+    "split_index": 2531,
+    "hangul": "쁘"
+  },
+  {
+    "original": "廿",
+    "code": "93f9",
+    "index": 2769,
+    "split_index": 2534,
+    "hangul": "쁜"
+  },
+  {
+    "original": "濡",
+    "code": "9447",
+    "index": 2780,
+    "split_index": 2545,
+    "hangul": "쁨"
+  },
+  {
+    "original": "祢",
+    "code": "9449",
+    "index": 2782,
+    "split_index": 2547,
+    "hangul": "쁩"
+  },
+  {
+    "original": "撚",
+    "code": "9451",
+    "index": 2790,
+    "split_index": 2555,
+    "hangul": "삑"
+  },
+  {
+    "original": "乃",
+    "code": "9454",
+    "index": 2793,
+    "split_index": 2558,
+    "hangul": "사"
+  },
+  {
+    "original": "廼",
+    "code": "9455",
+    "index": 2794,
+    "split_index": 2559,
+    "hangul": "사가"
+  },
+  {
+    "original": "埜",
+    "code": "9457",
+    "index": 2796,
+    "split_index": 2561,
+    "hangul": "사사"
+  },
+  {
+    "original": "嚢",
+    "code": "9458",
+    "index": 2797,
+    "split_index": 2562,
+    "hangul": "사쓰"
+  },
+  {
+    "original": "悩",
+    "code": "9459",
+    "index": 2798,
+    "split_index": 2563,
+    "hangul": "사와"
+  },
+  {
+    "original": "膿",
+    "code": "945e",
+    "index": 2803,
+    "split_index": 2568,
+    "hangul": "사이"
+  },
+  {
+    "original": "覗",
+    "code": "9460",
+    "index": 2805,
+    "split_index": 2570,
+    "hangul": "사카"
+  },
+  {
+    "original": "杷",
+    "code": "9466",
+    "index": 2811,
+    "split_index": 2576,
+    "hangul": "사토"
+  },
+  {
+    "original": "琶",
+    "code": "9469",
+    "index": 2814,
+    "split_index": 2579,
+    "hangul": "삭"
+  },
+  {
+    "original": "罵",
+    "code": "946c",
+    "index": 2817,
+    "split_index": 2582,
+    "hangul": "산"
+  },
+  {
+    "original": "俳",
+    "code": "946f",
+    "index": 2820,
+    "split_index": 2585,
+    "hangul": "살"
+  },
+  {
+    "original": "排",
+    "code": "9472",
+    "index": 2823,
+    "split_index": 2588,
+    "hangul": "삶"
+  },
+  {
+    "original": "牌",
+    "code": "9476",
+    "index": 2827,
+    "split_index": 2592,
+    "hangul": "삼"
+  },
+  {
+    "original": "輩",
+    "code": "9479",
+    "index": 2830,
+    "split_index": 2595,
+    "hangul": "삽"
+  },
+  {
+    "original": "倍",
+    "code": "947b",
+    "index": 2832,
+    "split_index": 2597,
+    "hangul": "삿"
+  },
+  {
+    "original": "培",
+    "code": "947c",
+    "index": 2833,
+    "split_index": 2598,
+    "hangul": "샀"
+  },
+  {
+    "original": "煤",
+    "code": "9481",
+    "index": 2837,
+    "split_index": 2602,
+    "hangul": "상"
+  },
+  {
+    "original": "賠",
+    "code": "9485",
+    "index": 2841,
+    "split_index": 2606,
+    "hangul": "새"
+  },
+  {
+    "original": "陪",
+    "code": "9486",
+    "index": 2842,
+    "split_index": 2607,
+    "hangul": "색"
+  },
+  {
+    "original": "秤",
+    "code": "9489",
+    "index": 2845,
+    "split_index": 2610,
+    "hangul": "샌"
+  },
+  {
+    "original": "矧",
+    "code": "948a",
+    "index": 2846,
+    "split_index": 2611,
+    "hangul": "샘"
+  },
+  {
+    "original": "箔",
+    "code": "9493",
+    "index": 2855,
+    "split_index": 2620,
+    "hangul": "샛"
+  },
+  {
+    "original": "粕",
+    "code": "9494",
+    "index": 2856,
+    "split_index": 2621,
+    "hangul": "생"
+  },
+  {
+    "original": "舶",
+    "code": "9495",
+    "index": 2857,
+    "split_index": 2622,
+    "hangul": "샤"
+  },
+  {
+    "original": "曝",
+    "code": "9498",
+    "index": 2860,
+    "split_index": 2625,
+    "hangul": "샥"
+  },
+  {
+    "original": "莫",
+    "code": "949c",
+    "index": 2864,
+    "split_index": 2629,
+    "hangul": "샹"
+  },
+  {
+    "original": "箱",
+    "code": "94a0",
+    "index": 2868,
+    "split_index": 2633,
+    "hangul": "섀"
+  },
+  {
+    "original": "硲",
+    "code": "94a1",
+    "index": 2869,
+    "split_index": 2634,
+    "hangul": "서"
+  },
+  {
+    "original": "筈",
+    "code": "94a4",
+    "index": 2872,
+    "split_index": 2637,
+    "hangul": "석"
+  },
+  {
+    "original": "幡",
+    "code": "94a6",
+    "index": 2874,
+    "split_index": 2639,
+    "hangul": "섞"
+  },
+  {
+    "original": "畑",
+    "code": "94a8",
+    "index": 2876,
+    "split_index": 2641,
+    "hangul": "선"
+  },
+  {
+    "original": "鉢",
+    "code": "94ab",
+    "index": 2879,
+    "split_index": 2644,
+    "hangul": "설"
+  },
+  {
+    "original": "醗",
+    "code": "94ae",
+    "index": 2882,
+    "split_index": 2647,
+    "hangul": "섬"
+  },
+  {
+    "original": "筏",
+    "code": "94b3",
+    "index": 2887,
+    "split_index": 2652,
+    "hangul": "섭"
+  },
+  {
+    "original": "鳩",
+    "code": "94b5",
+    "index": 2889,
+    "split_index": 2654,
+    "hangul": "섯"
+  },
+  {
+    "original": "噺",
+    "code": "94b6",
+    "index": 2890,
+    "split_index": 2655,
+    "hangul": "섰"
+  },
+  {
+    "original": "塙",
+    "code": "94b7",
+    "index": 2891,
+    "split_index": 2656,
+    "hangul": "성"
+  },
+  {
+    "original": "叛",
+    "code": "94be",
+    "index": 2898,
+    "split_index": 2663,
+    "hangul": "세"
+  },
+  {
+    "original": "搬",
+    "code": "94c0",
+    "index": 2900,
+    "split_index": 2665,
+    "hangul": "세키"
+  },
+  {
+    "original": "氾",
+    "code": "94c3",
+    "index": 2903,
+    "split_index": 2668,
+    "hangul": "세토"
+  },
+  {
+    "original": "犯",
+    "code": "94c6",
+    "index": 2906,
+    "split_index": 2671,
+    "hangul": "센"
+  },
+  {
+    "original": "班",
+    "code": "94c7",
+    "index": 2907,
+    "split_index": 2672,
+    "hangul": "셀"
+  },
+  {
+    "original": "畔",
+    "code": "94c8",
+    "index": 2908,
+    "split_index": 2673,
+    "hangul": "셉"
+  },
+  {
+    "original": "藩",
+    "code": "94cb",
+    "index": 2911,
+    "split_index": 2676,
+    "hangul": "셋"
+  },
+  {
+    "original": "釆",
+    "code": "94ce",
+    "index": 2914,
+    "split_index": 2679,
+    "hangul": "셔"
+  },
+  {
+    "original": "煩",
+    "code": "94cf",
+    "index": 2915,
+    "split_index": 2680,
+    "hangul": "션"
+  },
+  {
+    "original": "頒",
+    "code": "94d0",
+    "index": 2916,
+    "split_index": 2681,
+    "hangul": "셜"
+  },
+  {
+    "original": "晩",
+    "code": "94d3",
+    "index": 2919,
+    "split_index": 2684,
+    "hangul": "셨"
+  },
+  {
+    "original": "磐",
+    "code": "94d6",
+    "index": 2922,
+    "split_index": 2687,
+    "hangul": "셰"
+  },
+  {
+    "original": "蕃",
+    "code": "94d7",
+    "index": 2923,
+    "split_index": 2688,
+    "hangul": "셴"
+  },
+  {
+    "original": "蛮",
+    "code": "94d8",
+    "index": 2924,
+    "split_index": 2689,
+    "hangul": "소"
+  },
+  {
+    "original": "匪",
+    "code": "94d9",
+    "index": 2925,
+    "split_index": 2690,
+    "hangul": "소노"
+  },
+  {
+    "original": "卑",
+    "code": "94da",
+    "index": 2926,
+    "split_index": 2691,
+    "hangul": "소데"
+  },
+  {
+    "original": "妃",
+    "code": "94dc",
+    "index": 2928,
+    "split_index": 2693,
+    "hangul": "속"
+  },
+  {
+    "original": "庇",
+    "code": "94dd",
+    "index": 2929,
+    "split_index": 2694,
+    "hangul": "손"
+  },
+  {
+    "original": "批",
+    "code": "94e1",
+    "index": 2933,
+    "split_index": 2698,
+    "hangul": "솔"
+  },
+  {
+    "original": "泌",
+    "code": "94e5",
+    "index": 2937,
+    "split_index": 2702,
+    "hangul": "솜"
+  },
+  {
+    "original": "碑",
+    "code": "94e8",
+    "index": 2940,
+    "split_index": 2705,
+    "hangul": "솝"
+  },
+  {
+    "original": "緋",
+    "code": "94ea",
+    "index": 2942,
+    "split_index": 2707,
+    "hangul": "솟"
+  },
+  {
+    "original": "罷",
+    "code": "94eb",
+    "index": 2943,
+    "split_index": 2708,
+    "hangul": "송"
+  },
+  {
+    "original": "簸",
+    "code": "94f4",
+    "index": 2952,
+    "split_index": 2717,
+    "hangul": "쇠"
+  },
+  {
+    "original": "毘",
+    "code": "94f9",
+    "index": 2957,
+    "split_index": 2722,
+    "hangul": "쇼"
+  },
+  {
+    "original": "琵",
+    "code": "94fa",
+    "index": 2958,
+    "split_index": 2723,
+    "hangul": "숀"
+  },
+  {
+    "original": "眉",
+    "code": "94fb",
+    "index": 2959,
+    "split_index": 2724,
+    "hangul": "수"
+  },
+  {
+    "original": "疋",
+    "code": "9544",
+    "index": 2965,
+    "split_index": 2730,
+    "hangul": "숙"
+  },
+  {
+    "original": "髭",
+    "code": "9545",
+    "index": 2966,
+    "split_index": 2731,
+    "hangul": "순"
+  },
+  {
+    "original": "膝",
+    "code": "9547",
+    "index": 2968,
+    "split_index": 2733,
+    "hangul": "술"
+  },
+  {
+    "original": "弼",
+    "code": "954a",
+    "index": 2971,
+    "split_index": 2736,
+    "hangul": "숨"
+  },
+  {
+    "original": "畢",
+    "code": "954c",
+    "index": 2973,
+    "split_index": 2738,
+    "hangul": "숫"
+  },
+  {
+    "original": "筆",
+    "code": "954d",
+    "index": 2974,
+    "split_index": 2739,
+    "hangul": "숯"
+  },
+  {
+    "original": "逼",
+    "code": "954e",
+    "index": 2975,
+    "split_index": 2740,
+    "hangul": "숲"
+  },
+  {
+    "original": "姫",
+    "code": "9550",
+    "index": 2977,
+    "split_index": 2742,
+    "hangul": "쉐"
+  },
+  {
+    "original": "媛",
+    "code": "9551",
+    "index": 2978,
+    "split_index": 2743,
+    "hangul": "쉬"
+  },
+  {
+    "original": "紐",
+    "code": "9552",
+    "index": 2979,
+    "split_index": 2744,
+    "hangul": "쉰"
+  },
+  {
+    "original": "百",
+    "code": "9553",
+    "index": 2980,
+    "split_index": 2745,
+    "hangul": "쉴"
+  },
+  {
+    "original": "謬",
+    "code": "9554",
+    "index": 2981,
+    "split_index": 2746,
+    "hangul": "쉽"
+  },
+  {
+    "original": "俵",
+    "code": "9555",
+    "index": 2982,
+    "split_index": 2747,
+    "hangul": "슈"
+  },
+  {
+    "original": "彪",
+    "code": "9556",
+    "index": 2983,
+    "split_index": 2748,
+    "hangul": "슌"
+  },
+  {
+    "original": "瓢",
+    "code": "955a",
+    "index": 2987,
+    "split_index": 2752,
+    "hangul": "슐"
+  },
+  {
+    "original": "豹",
+    "code": "955e",
+    "index": 2991,
+    "split_index": 2756,
+    "hangul": "슝"
+  },
+  {
+    "original": "廟",
+    "code": "955f",
+    "index": 2992,
+    "split_index": 2757,
+    "hangul": "스"
+  },
+  {
+    "original": "秒",
+    "code": "9562",
+    "index": 2995,
+    "split_index": 2760,
+    "hangul": "스기"
+  },
+  {
+    "original": "錨",
+    "code": "9564",
+    "index": 2997,
+    "split_index": 2762,
+    "hangul": "스미"
+  },
+  {
+    "original": "鋲",
+    "code": "9565",
+    "index": 2998,
+    "split_index": 2763,
+    "hangul": "슨"
+  },
+  {
+    "original": "蒜",
+    "code": "9566",
+    "index": 2999,
+    "split_index": 2764,
+    "hangul": "슬"
+  },
+  {
+    "original": "蛭",
+    "code": "9567",
+    "index": 3000,
+    "split_index": 2765,
+    "hangul": "슴"
+  },
+  {
+    "original": "鰭",
+    "code": "9568",
+    "index": 3001,
+    "split_index": 2766,
+    "hangul": "습"
+  },
+  {
+    "original": "彬",
+    "code": "956a",
+    "index": 3003,
+    "split_index": 2768,
+    "hangul": "슷"
+  },
+  {
+    "original": "斌",
+    "code": "956b",
+    "index": 3004,
+    "split_index": 2769,
+    "hangul": "승"
+  },
+  {
+    "original": "瀕",
+    "code": "956d",
+    "index": 3006,
+    "split_index": 2771,
+    "hangul": "시"
+  },
+  {
+    "original": "賓",
+    "code": "956f",
+    "index": 3008,
+    "split_index": 2773,
+    "hangul": "시게"
+  },
+  {
+    "original": "瓶",
+    "code": "9572",
+    "index": 3011,
+    "split_index": 2776,
+    "hangul": "시노"
+  },
+  {
+    "original": "埠",
+    "code": "9575",
+    "index": 3014,
+    "split_index": 2779,
+    "hangul": "시모"
+  },
+  {
+    "original": "婦",
+    "code": "9577",
+    "index": 3016,
+    "split_index": 2781,
+    "hangul": "시오"
+  },
+  {
+    "original": "冨",
+    "code": "9579",
+    "index": 3018,
+    "split_index": 2783,
+    "hangul": "시즈"
+  },
+  {
+    "original": "府",
+    "code": "957b",
+    "index": 3020,
+    "split_index": 2785,
+    "hangul": "식"
+  },
+  {
+    "original": "怖",
+    "code": "957c",
+    "index": 3021,
+    "split_index": 2786,
+    "hangul": "신"
+  },
+  {
+    "original": "扶",
+    "code": "957d",
+    "index": 3022,
+    "split_index": 2787,
+    "hangul": "신주"
+  },
+  {
+    "original": "膚",
+    "code": "9586",
+    "index": 3030,
+    "split_index": 2795,
+    "hangul": "싣"
+  },
+  {
+    "original": "芙",
+    "code": "9587",
+    "index": 3031,
+    "split_index": 2796,
+    "hangul": "실"
+  },
+  {
+    "original": "譜",
+    "code": "9588",
+    "index": 3032,
+    "split_index": 2797,
+    "hangul": "싫"
+  },
+  {
+    "original": "賦",
+    "code": "958a",
+    "index": 3034,
+    "split_index": 2799,
+    "hangul": "심"
+  },
+  {
+    "original": "赴",
+    "code": "958b",
+    "index": 3035,
+    "split_index": 2800,
+    "hangul": "십"
+  },
+  {
+    "original": "附",
+    "code": "958d",
+    "index": 3037,
+    "split_index": 2802,
+    "hangul": "싱"
+  },
+  {
+    "original": "侮",
+    "code": "958e",
+    "index": 3038,
+    "split_index": 2803,
+    "hangul": "싶"
+  },
+  {
+    "original": "蕪",
+    "code": "9593",
+    "index": 3043,
+    "split_index": 2808,
+    "hangul": "싸"
+  },
+  {
+    "original": "楓",
+    "code": "9596",
+    "index": 3046,
+    "split_index": 2811,
+    "hangul": "싹"
+  },
+  {
+    "original": "葺",
+    "code": "9598",
+    "index": 3048,
+    "split_index": 2813,
+    "hangul": "싼"
+  },
+  {
+    "original": "蕗",
+    "code": "9599",
+    "index": 3049,
+    "split_index": 2814,
+    "hangul": "쌓"
+  },
+  {
+    "original": "副",
+    "code": "959b",
+    "index": 3051,
+    "split_index": 2816,
+    "hangul": "써"
+  },
+  {
+    "original": "淵",
+    "code": "95a3",
+    "index": 3059,
+    "split_index": 2824,
+    "hangul": "썰"
+  },
+  {
+    "original": "弗",
+    "code": "95a4",
+    "index": 3060,
+    "split_index": 2825,
+    "hangul": "썹"
+  },
+  {
+    "original": "仏",
+    "code": "95a7",
+    "index": 3063,
+    "split_index": 2828,
+    "hangul": "썼"
+  },
+  {
+    "original": "鮒",
+    "code": "95a9",
+    "index": 3065,
+    "split_index": 2830,
+    "hangul": "썽"
+  },
+  {
+    "original": "吻",
+    "code": "95ab",
+    "index": 3067,
+    "split_index": 2832,
+    "hangul": "쎄"
+  },
+  {
+    "original": "墳",
+    "code": "95ad",
+    "index": 3069,
+    "split_index": 2834,
+    "hangul": "쏘"
+  },
+  {
+    "original": "扮",
+    "code": "95af",
+    "index": 3071,
+    "split_index": 2836,
+    "hangul": "쏟"
+  },
+  {
+    "original": "焚",
+    "code": "95b0",
+    "index": 3072,
+    "split_index": 2837,
+    "hangul": "쑤"
+  },
+  {
+    "original": "糞",
+    "code": "95b3",
+    "index": 3075,
+    "split_index": 2840,
+    "hangul": "쑨"
+  },
+  {
+    "original": "紛",
+    "code": "95b4",
+    "index": 3076,
+    "split_index": 2841,
+    "hangul": "쑹"
+  },
+  {
+    "original": "丙",
+    "code": "95b8",
+    "index": 3080,
+    "split_index": 2845,
+    "hangul": "쓰"
+  },
+  {
+    "original": "幣",
+    "code": "95bc",
+    "index": 3084,
+    "split_index": 2849,
+    "hangul": "쓰나"
+  },
+  {
+    "original": "弊",
+    "code": "95be",
+    "index": 3086,
+    "split_index": 2851,
+    "hangul": "쓰루"
+  },
+  {
+    "original": "蔽",
+    "code": "95c1",
+    "index": 3089,
+    "split_index": 2854,
+    "hangul": "쓰카"
+  },
+  {
+    "original": "陛",
+    "code": "95c3",
+    "index": 3091,
+    "split_index": 2856,
+    "hangul": "쓴"
+  },
+  {
+    "original": "頁",
+    "code": "95c5",
+    "index": 3093,
+    "split_index": 2858,
+    "hangul": "쓸"
+  },
+  {
+    "original": "僻",
+    "code": "95c6",
+    "index": 3094,
+    "split_index": 2859,
+    "hangul": "씀"
+  },
+  {
+    "original": "癖",
+    "code": "95c8",
+    "index": 3096,
+    "split_index": 2861,
+    "hangul": "씨"
+  },
+  {
+    "original": "碧",
+    "code": "95c9",
+    "index": 3097,
+    "split_index": 2862,
+    "hangul": "씩"
+  },
+  {
+    "original": "瞥",
+    "code": "95cb",
+    "index": 3099,
+    "split_index": 2864,
+    "hangul": "씬"
+  },
+  {
+    "original": "蔑",
+    "code": "95cc",
+    "index": 3100,
+    "split_index": 2865,
+    "hangul": "씹"
+  },
+  {
+    "original": "箆",
+    "code": "95cd",
+    "index": 3101,
+    "split_index": 2866,
+    "hangul": "씻"
+  },
+  {
+    "original": "偏",
+    "code": "95ce",
+    "index": 3102,
+    "split_index": 2867,
+    "hangul": "아"
+  },
+  {
+    "original": "篇",
+    "code": "95d1",
+    "index": 3105,
+    "split_index": 2870,
+    "hangul": "아라"
+  },
+  {
+    "original": "遍",
+    "code": "95d5",
+    "index": 3109,
+    "split_index": 2874,
+    "hangul": "아메"
+  },
+  {
+    "original": "勉",
+    "code": "95d7",
+    "index": 3111,
+    "split_index": 2876,
+    "hangul": "아사"
+  },
+  {
+    "original": "娩",
+    "code": "95d8",
+    "index": 3112,
+    "split_index": 2877,
+    "hangul": "아시"
+  },
+  {
+    "original": "鞭",
+    "code": "95da",
+    "index": 3114,
+    "split_index": 2879,
+    "hangul": "아오"
+  },
+  {
+    "original": "舗",
+    "code": "95dc",
+    "index": 3116,
+    "split_index": 2881,
+    "hangul": "아유"
+  },
+  {
+    "original": "鋪",
+    "code": "95dd",
+    "index": 3117,
+    "split_index": 2882,
+    "hangul": "아카"
+  },
+  {
+    "original": "圃",
+    "code": "95de",
+    "index": 3118,
+    "split_index": 2883,
+    "hangul": "아키"
+  },
+  {
+    "original": "甫",
+    "code": "95e1",
+    "index": 3121,
+    "split_index": 2886,
+    "hangul": "악"
+  },
+  {
+    "original": "墓",
+    "code": "95e6",
+    "index": 3126,
+    "split_index": 2891,
+    "hangul": "안"
+  },
+  {
+    "original": "慕",
+    "code": "95e7",
+    "index": 3127,
+    "split_index": 2892,
+    "hangul": "앉"
+  },
+  {
+    "original": "戊",
+    "code": "95e8",
+    "index": 3128,
+    "split_index": 2893,
+    "hangul": "않"
+  },
+  {
+    "original": "母",
+    "code": "95ea",
+    "index": 3130,
+    "split_index": 2895,
+    "hangul": "알"
+  },
+  {
+    "original": "簿",
+    "code": "95eb",
+    "index": 3131,
+    "split_index": 2896,
+    "hangul": "암"
+  },
+  {
+    "original": "菩",
+    "code": "95ec",
+    "index": 3132,
+    "split_index": 2897,
+    "hangul": "압"
+  },
+  {
+    "original": "倣",
+    "code": "95ed",
+    "index": 3133,
+    "split_index": 2898,
+    "hangul": "앗"
+  },
+  {
+    "original": "呆",
+    "code": "95f0",
+    "index": 3136,
+    "split_index": 2901,
+    "hangul": "았"
+  },
+  {
+    "original": "奉",
+    "code": "95f2",
+    "index": 3138,
+    "split_index": 2903,
+    "hangul": "앙"
+  },
+  {
+    "original": "峯",
+    "code": "95f5",
+    "index": 3141,
+    "split_index": 2906,
+    "hangul": "앞"
+  },
+  {
+    "original": "庖",
+    "code": "95f7",
+    "index": 3143,
+    "split_index": 2908,
+    "hangul": "애"
+  },
+  {
+    "original": "捧",
+    "code": "95f9",
+    "index": 3145,
+    "split_index": 2910,
+    "hangul": "액"
+  },
+  {
+    "original": "萌",
+    "code": "9647",
+    "index": 3156,
+    "split_index": 2921,
+    "hangul": "앤"
+  },
+  {
+    "original": "蜂",
+    "code": "9649",
+    "index": 3158,
+    "split_index": 2923,
+    "hangul": "앨"
+  },
+  {
+    "original": "飽",
+    "code": "964f",
+    "index": 3164,
+    "split_index": 2929,
+    "hangul": "야"
+  },
+  {
+    "original": "鵬",
+    "code": "9651",
+    "index": 3166,
+    "split_index": 2931,
+    "hangul": "야마"
+  },
+  {
+    "original": "亡",
+    "code": "9653",
+    "index": 3168,
+    "split_index": 2933,
+    "hangul": "야스"
+  },
+  {
+    "original": "剖",
+    "code": "9655",
+    "index": 3170,
+    "split_index": 2935,
+    "hangul": "야쓰"
+  },
+  {
+    "original": "妨",
+    "code": "9657",
+    "index": 3172,
+    "split_index": 2937,
+    "hangul": "야쿠"
+  },
+  {
+    "original": "帽",
+    "code": "9658",
+    "index": 3173,
+    "split_index": 2938,
+    "hangul": "약"
+  },
+  {
+    "original": "某",
+    "code": "965e",
+    "index": 3179,
+    "split_index": 2944,
+    "hangul": "얀"
+  },
+  {
+    "original": "棒",
+    "code": "965f",
+    "index": 3180,
+    "split_index": 2945,
+    "hangul": "얄"
+  },
+  {
+    "original": "冒",
+    "code": "9660",
+    "index": 3181,
+    "split_index": 2946,
+    "hangul": "얇"
+  },
+  {
+    "original": "肪",
+    "code": "9662",
+    "index": 3183,
+    "split_index": 2948,
+    "hangul": "양"
+  },
+  {
+    "original": "謀",
+    "code": "9664",
+    "index": 3185,
+    "split_index": 2950,
+    "hangul": "얕"
+  },
+  {
+    "original": "貌",
+    "code": "9665",
+    "index": 3186,
+    "split_index": 2951,
+    "hangul": "어"
+  },
+  {
+    "original": "貿",
+    "code": "9666",
+    "index": 3187,
+    "split_index": 2952,
+    "hangul": "억"
+  },
+  {
+    "original": "鉾",
+    "code": "9667",
+    "index": 3188,
+    "split_index": 2953,
+    "hangul": "언"
+  },
+  {
+    "original": "吠",
+    "code": "9669",
+    "index": 3190,
+    "split_index": 2955,
+    "hangul": "얹"
+  },
+  {
+    "original": "頬",
+    "code": "966a",
+    "index": 3191,
+    "split_index": 2956,
+    "hangul": "얻"
+  },
+  {
+    "original": "卜",
+    "code": "966d",
+    "index": 3194,
+    "split_index": 2959,
+    "hangul": "얼"
+  },
+  {
+    "original": "撲",
+    "code": "966f",
+    "index": 3196,
+    "split_index": 2961,
+    "hangul": "엄"
+  },
+  {
+    "original": "朴",
+    "code": "9670",
+    "index": 3197,
+    "split_index": 2962,
+    "hangul": "업"
+  },
+  {
+    "original": "睦",
+    "code": "9672",
+    "index": 3199,
+    "split_index": 2964,
+    "hangul": "없"
+  },
+  {
+    "original": "釦",
+    "code": "9674",
+    "index": 3201,
+    "split_index": 2966,
+    "hangul": "엇"
+  },
+  {
+    "original": "勃",
+    "code": "9675",
+    "index": 3202,
+    "split_index": 2967,
+    "hangul": "었"
+  },
+  {
+    "original": "没",
+    "code": "9676",
+    "index": 3203,
+    "split_index": 2968,
+    "hangul": "엉"
+  },
+  {
+    "original": "殆",
+    "code": "9677",
+    "index": 3204,
+    "split_index": 2969,
+    "hangul": "엎"
+  },
+  {
+    "original": "奔",
+    "code": "967a",
+    "index": 3207,
+    "split_index": 2972,
+    "hangul": "에"
+  },
+  {
+    "original": "翻",
+    "code": "967c",
+    "index": 3209,
+    "split_index": 2974,
+    "hangul": "에도"
+  },
+  {
+    "original": "盆",
+    "code": "967e",
+    "index": 3211,
+    "split_index": 2976,
+    "hangul": "에이"
+  },
+  {
+    "original": "麻",
+    "code": "9683",
+    "index": 3215,
+    "split_index": 2980,
+    "hangul": "엑"
+  },
+  {
+    "original": "昧",
+    "code": "9686",
+    "index": 3218,
+    "split_index": 2983,
+    "hangul": "엔"
+  },
+  {
+    "original": "枚",
+    "code": "9687",
+    "index": 3219,
+    "split_index": 2984,
+    "hangul": "엘"
+  },
+  {
+    "original": "哩",
+    "code": "9689",
+    "index": 3221,
+    "split_index": 2986,
+    "hangul": "엠"
+  },
+  {
+    "original": "桝",
+    "code": "9691",
+    "index": 3229,
+    "split_index": 2994,
+    "hangul": "엥"
+  },
+  {
+    "original": "亦",
+    "code": "9692",
+    "index": 3230,
+    "split_index": 2995,
+    "hangul": "여"
+  },
+  {
+    "original": "俣",
+    "code": "9693",
+    "index": 3231,
+    "split_index": 2996,
+    "hangul": "역"
+  },
+  {
+    "original": "又",
+    "code": "9694",
+    "index": 3232,
+    "split_index": 2997,
+    "hangul": "연"
+  },
+  {
+    "original": "沫",
+    "code": "9697",
+    "index": 3235,
+    "split_index": 3000,
+    "hangul": "열"
+  },
+  {
+    "original": "迄",
+    "code": "9698",
+    "index": 3236,
+    "split_index": 3001,
+    "hangul": "염"
+  },
+  {
+    "original": "侭",
+    "code": "9699",
+    "index": 3237,
+    "split_index": 3002,
+    "hangul": "엽"
+  },
+  {
+    "original": "繭",
+    "code": "969a",
+    "index": 3238,
+    "split_index": 3003,
+    "hangul": "였"
+  },
+  {
+    "original": "麿",
+    "code": "969b",
+    "index": 3239,
+    "split_index": 3004,
+    "hangul": "영"
+  },
+  {
+    "original": "漫",
+    "code": "969f",
+    "index": 3243,
+    "split_index": 3008,
+    "hangul": "옆"
+  },
+  {
+    "original": "岬",
+    "code": "96a6",
+    "index": 3250,
+    "split_index": 3015,
+    "hangul": "예"
+  },
+  {
+    "original": "蜜",
+    "code": "96a8",
+    "index": 3252,
+    "split_index": 3017,
+    "hangul": "옌"
+  },
+  {
+    "original": "湊",
+    "code": "96a9",
+    "index": 3253,
+    "split_index": 3018,
+    "hangul": "오"
+  },
+  {
+    "original": "蓑",
+    "code": "96aa",
+    "index": 3254,
+    "split_index": 3019,
+    "hangul": "오노"
+  },
+  {
+    "original": "牟",
+    "code": "96b4",
+    "index": 3264,
+    "split_index": 3029,
+    "hangul": "오다"
+  },
+  {
+    "original": "矛",
+    "code": "96b5",
+    "index": 3265,
+    "split_index": 3030,
+    "hangul": "오리"
+  },
+  {
+    "original": "霧",
+    "code": "96b6",
+    "index": 3266,
+    "split_index": 3031,
+    "hangul": "오비"
+  },
+  {
+    "original": "鵡",
+    "code": "96b7",
+    "index": 3267,
+    "split_index": 3032,
+    "hangul": "오카"
+  },
+  {
+    "original": "婿",
+    "code": "96b9",
+    "index": 3269,
+    "split_index": 3034,
+    "hangul": "오코"
+  },
+  {
+    "original": "娘",
+    "code": "96ba",
+    "index": 3270,
+    "split_index": 3035,
+    "hangul": "오키"
+  },
+  {
+    "original": "冥",
+    "code": "96bb",
+    "index": 3271,
+    "split_index": 3036,
+    "hangul": "옥"
+  },
+  {
+    "original": "盟",
+    "code": "96bf",
+    "index": 3275,
+    "split_index": 3040,
+    "hangul": "온"
+  },
+  {
+    "original": "姪",
+    "code": "96c3",
+    "index": 3279,
+    "split_index": 3044,
+    "hangul": "올"
+  },
+  {
+    "original": "滅",
+    "code": "96c5",
+    "index": 3281,
+    "split_index": 3046,
+    "hangul": "옮"
+  },
+  {
+    "original": "棉",
+    "code": "96c7",
+    "index": 3283,
+    "split_index": 3048,
+    "hangul": "옴"
+  },
+  {
+    "original": "緬",
+    "code": "96c9",
+    "index": 3285,
+    "split_index": 3050,
+    "hangul": "옵"
+  },
+  {
+    "original": "摸",
+    "code": "96cc",
+    "index": 3288,
+    "split_index": 3053,
+    "hangul": "옷"
+  },
+  {
+    "original": "妄",
+    "code": "96cf",
+    "index": 3291,
+    "split_index": 3056,
+    "hangul": "와"
+  },
+  {
+    "original": "孟",
+    "code": "96d0",
+    "index": 3292,
+    "split_index": 3057,
+    "hangul": "와카"
+  },
+  {
+    "original": "盲",
+    "code": "96d3",
+    "index": 3295,
+    "split_index": 3060,
+    "hangul": "와쿠"
+  },
+  {
+    "original": "耗",
+    "code": "96d5",
+    "index": 3297,
+    "split_index": 3062,
+    "hangul": "완"
+  },
+  {
+    "original": "蒙",
+    "code": "96d6",
+    "index": 3298,
+    "split_index": 3063,
+    "hangul": "왈"
+  },
+  {
+    "original": "儲",
+    "code": "96d7",
+    "index": 3299,
+    "split_index": 3064,
+    "hangul": "왔"
+  },
+  {
+    "original": "黙",
+    "code": "96d9",
+    "index": 3301,
+    "split_index": 3066,
+    "hangul": "왕"
+  },
+  {
+    "original": "杢",
+    "code": "96db",
+    "index": 3303,
+    "split_index": 3068,
+    "hangul": "왜"
+  },
+  {
+    "original": "勿",
+    "code": "96dc",
+    "index": 3304,
+    "split_index": 3069,
+    "hangul": "외"
+  },
+  {
+    "original": "餅",
+    "code": "96dd",
+    "index": 3305,
+    "split_index": 3070,
+    "hangul": "왼"
+  },
+  {
+    "original": "尤",
+    "code": "96de",
+    "index": 3306,
+    "split_index": 3071,
+    "hangul": "요"
+  },
+  {
+    "original": "籾",
+    "code": "96e0",
+    "index": 3308,
+    "split_index": 3073,
+    "hangul": "요네"
+  },
+  {
+    "original": "悶",
+    "code": "96e3",
+    "index": 3311,
+    "split_index": 3076,
+    "hangul": "요스"
+  },
+  {
+    "original": "冶",
+    "code": "96e8",
+    "index": 3316,
+    "split_index": 3081,
+    "hangul": "요시"
+  },
+  {
+    "original": "爺",
+    "code": "96ea",
+    "index": 3318,
+    "split_index": 3083,
+    "hangul": "요코"
+  },
+  {
+    "original": "耶",
+    "code": "96eb",
+    "index": 3319,
+    "split_index": 3084,
+    "hangul": "욕"
+  },
+  {
+    "original": "厄",
+    "code": "96ef",
+    "index": 3323,
+    "split_index": 3088,
+    "hangul": "욧"
+  },
+  {
+    "original": "薮",
+    "code": "96f7",
+    "index": 3331,
+    "split_index": 3096,
+    "hangul": "욧카"
+  },
+  {
+    "original": "鑓",
+    "code": "96f8",
+    "index": 3332,
+    "split_index": 3097,
+    "hangul": "용"
+  },
+  {
+    "original": "愉",
+    "code": "96f9",
+    "index": 3333,
+    "split_index": 3098,
+    "hangul": "우"
+  },
+  {
+    "original": "愈",
+    "code": "96fa",
+    "index": 3334,
+    "split_index": 3099,
+    "hangul": "우레"
+  },
+  {
+    "original": "油",
+    "code": "96fb",
+    "index": 3335,
+    "split_index": 3100,
+    "hangul": "우미"
+  },
+  {
+    "original": "佑",
+    "code": "9743",
+    "index": 3340,
+    "split_index": 3105,
+    "hangul": "우쓰"
+  },
+  {
+    "original": "宥",
+    "code": "9747",
+    "index": 3344,
+    "split_index": 3109,
+    "hangul": "우에"
+  },
+  {
+    "original": "揖",
+    "code": "974b",
+    "index": 3348,
+    "split_index": 3113,
+    "hangul": "욱"
+  },
+  {
+    "original": "柚",
+    "code": "974d",
+    "index": 3350,
+    "split_index": 3115,
+    "hangul": "운"
+  },
+  {
+    "original": "湧",
+    "code": "974e",
+    "index": 3351,
+    "split_index": 3116,
+    "hangul": "울"
+  },
+  {
+    "original": "猷",
+    "code": "9751",
+    "index": 3354,
+    "split_index": 3119,
+    "hangul": "움"
+  },
+  {
+    "original": "誘",
+    "code": "9755",
+    "index": 3358,
+    "split_index": 3123,
+    "hangul": "웁"
+  },
+  {
+    "original": "邑",
+    "code": "9757",
+    "index": 3360,
+    "split_index": 3125,
+    "hangul": "웃"
+  },
+  {
+    "original": "郵",
+    "code": "9758",
+    "index": 3361,
+    "split_index": 3126,
+    "hangul": "웅"
+  },
+  {
+    "original": "融",
+    "code": "975a",
+    "index": 3363,
+    "split_index": 3128,
+    "hangul": "워"
+  },
+  {
+    "original": "夕",
+    "code": "975b",
+    "index": 3364,
+    "split_index": 3129,
+    "hangul": "원"
+  },
+  {
+    "original": "預",
+    "code": "9761",
+    "index": 3370,
+    "split_index": 3135,
+    "hangul": "월"
+  },
+  {
+    "original": "傭",
+    "code": "9762",
+    "index": 3371,
+    "split_index": 3136,
+    "hangul": "웠"
+  },
+  {
+    "original": "妖",
+    "code": "9764",
+    "index": 3373,
+    "split_index": 3138,
+    "hangul": "웨"
+  },
+  {
+    "original": "庸",
+    "code": "9766",
+    "index": 3375,
+    "split_index": 3140,
+    "hangul": "웰"
+  },
+  {
+    "original": "曜",
+    "code": "976a",
+    "index": 3379,
+    "split_index": 3144,
+    "hangul": "위"
+  },
+  {
+    "original": "楊",
+    "code": "976b",
+    "index": 3380,
+    "split_index": 3145,
+    "hangul": "윈"
+  },
+  {
+    "original": "熔",
+    "code": "976f",
+    "index": 3384,
+    "split_index": 3149,
+    "hangul": "윌"
+  },
+  {
+    "original": "窯",
+    "code": "9771",
+    "index": 3386,
+    "split_index": 3151,
+    "hangul": "윙"
+  },
+  {
+    "original": "羊",
+    "code": "9772",
+    "index": 3387,
+    "split_index": 3152,
+    "hangul": "유"
+  },
+  {
+    "original": "蓉",
+    "code": "9775",
+    "index": 3390,
+    "split_index": 3155,
+    "hangul": "유메"
+  },
+  {
+    "original": "謡",
+    "code": "9777",
+    "index": 3392,
+    "split_index": 3157,
+    "hangul": "유키"
+  },
+  {
+    "original": "踊",
+    "code": "9778",
+    "index": 3393,
+    "split_index": 3158,
+    "hangul": "육"
+  },
+  {
+    "original": "遥",
+    "code": "9779",
+    "index": 3394,
+    "split_index": 3159,
+    "hangul": "윤"
+  },
+  {
+    "original": "慾",
+    "code": "977c",
+    "index": 3397,
+    "split_index": 3162,
+    "hangul": "율"
+  },
+  {
+    "original": "沃",
+    "code": "9780",
+    "index": 3400,
+    "split_index": 3165,
+    "hangul": "융"
+  },
+  {
+    "original": "淀",
+    "code": "9784",
+    "index": 3404,
+    "split_index": 3169,
+    "hangul": "으"
+  },
+  {
+    "original": "螺",
+    "code": "9786",
+    "index": 3406,
+    "split_index": 3171,
+    "hangul": "은"
+  },
+  {
+    "original": "裸",
+    "code": "9787",
+    "index": 3407,
+    "split_index": 3172,
+    "hangul": "을"
+  },
+  {
+    "original": "莱",
+    "code": "9789",
+    "index": 3409,
+    "split_index": 3174,
+    "hangul": "음"
+  },
+  {
+    "original": "洛",
+    "code": "978c",
+    "index": 3412,
+    "split_index": 3177,
+    "hangul": "응"
+  },
+  {
+    "original": "酪",
+    "code": "978f",
+    "index": 3415,
+    "split_index": 3180,
+    "hangul": "의"
+  },
+  {
+    "original": "卵",
+    "code": "9791",
+    "index": 3417,
+    "split_index": 3182,
+    "hangul": "이"
+  },
+  {
+    "original": "濫",
+    "code": "9794",
+    "index": 3420,
+    "split_index": 3185,
+    "hangul": "이바"
+  },
+  {
+    "original": "蘭",
+    "code": "9796",
+    "index": 3422,
+    "split_index": 3187,
+    "hangul": "이시"
+  },
+  {
+    "original": "吏",
+    "code": "9799",
+    "index": 3425,
+    "split_index": 3190,
+    "hangul": "이야"
+  },
+  {
+    "original": "璃",
+    "code": "979e",
+    "index": 3430,
+    "split_index": 3195,
+    "hangul": "이와"
+  },
+  {
+    "original": "痢",
+    "code": "979f",
+    "index": 3431,
+    "split_index": 3196,
+    "hangul": "이이"
+  },
+  {
+    "original": "裡",
+    "code": "97a1",
+    "index": 3433,
+    "split_index": 3198,
+    "hangul": "이치"
+  },
+  {
+    "original": "陸",
+    "code": "97a4",
+    "index": 3436,
+    "split_index": 3201,
+    "hangul": "익"
+  },
+  {
+    "original": "律",
+    "code": "97a5",
+    "index": 3437,
+    "split_index": 3202,
+    "hangul": "인"
+  },
+  {
+    "original": "葎",
+    "code": "97a8",
+    "index": 3440,
+    "split_index": 3205,
+    "hangul": "일"
+  },
+  {
+    "original": "掠",
+    "code": "97a9",
+    "index": 3441,
+    "split_index": 3206,
+    "hangul": "읽"
+  },
+  {
+    "original": "劉",
+    "code": "97ab",
+    "index": 3443,
+    "split_index": 3208,
+    "hangul": "잃"
+  },
+  {
+    "original": "琉",
+    "code": "97ae",
+    "index": 3446,
+    "split_index": 3211,
+    "hangul": "임"
+  },
+  {
+    "original": "硫",
+    "code": "97b0",
+    "index": 3448,
+    "split_index": 3213,
+    "hangul": "입"
+  },
+  {
+    "original": "侶",
+    "code": "97b5",
+    "index": 3453,
+    "split_index": 3218,
+    "hangul": "잇"
+  },
+  {
+    "original": "虜",
+    "code": "97b8",
+    "index": 3456,
+    "split_index": 3221,
+    "hangul": "있"
+  },
+  {
+    "original": "僚",
+    "code": "97bb",
+    "index": 3459,
+    "split_index": 3224,
+    "hangul": "잉"
+  },
+  {
+    "original": "梁",
+    "code": "97c0",
+    "index": 3464,
+    "split_index": 3229,
+    "hangul": "잊"
+  },
+  {
+    "original": "涼",
+    "code": "97c1",
+    "index": 3465,
+    "split_index": 3230,
+    "hangul": "자"
+  },
+  {
+    "original": "猟",
+    "code": "97c2",
+    "index": 3466,
+    "split_index": 3231,
+    "hangul": "작"
+  },
+  {
+    "original": "稜",
+    "code": "97c5",
+    "index": 3469,
+    "split_index": 3234,
+    "hangul": "잔"
+  },
+  {
+    "original": "陵",
+    "code": "97cb",
+    "index": 3475,
+    "split_index": 3240,
+    "hangul": "잖"
+  },
+  {
+    "original": "厘",
+    "code": "97d0",
+    "index": 3480,
+    "split_index": 3245,
+    "hangul": "잘"
+  },
+  {
+    "original": "淋",
+    "code": "97d2",
+    "index": 3482,
+    "split_index": 3247,
+    "hangul": "잠"
+  },
+  {
+    "original": "燐",
+    "code": "97d3",
+    "index": 3483,
+    "split_index": 3248,
+    "hangul": "잡"
+  },
+  {
+    "original": "琳",
+    "code": "97d4",
+    "index": 3484,
+    "split_index": 3249,
+    "hangul": "장"
+  },
+  {
+    "original": "鱗",
+    "code": "97d8",
+    "index": 3488,
+    "split_index": 3253,
+    "hangul": "잦"
+  },
+  {
+    "original": "麟",
+    "code": "97d9",
+    "index": 3489,
+    "split_index": 3254,
+    "hangul": "재"
+  },
+  {
+    "original": "瑠",
+    "code": "97da",
+    "index": 3490,
+    "split_index": 3255,
+    "hangul": "잭"
+  },
+  {
+    "original": "涙",
+    "code": "97dc",
+    "index": 3492,
+    "split_index": 3257,
+    "hangul": "쟁"
+  },
+  {
+    "original": "伶",
+    "code": "97e0",
+    "index": 3496,
+    "split_index": 3261,
+    "hangul": "저"
+  },
+  {
+    "original": "玲",
+    "code": "97e6",
+    "index": 3502,
+    "split_index": 3267,
+    "hangul": "적"
+  },
+  {
+    "original": "苓",
+    "code": "97e8",
+    "index": 3504,
+    "split_index": 3269,
+    "hangul": "전"
+  },
+  {
+    "original": "隷",
+    "code": "97ea",
+    "index": 3506,
+    "split_index": 3271,
+    "hangul": "절"
+  },
+  {
+    "original": "零",
+    "code": "97eb",
+    "index": 3507,
+    "split_index": 3272,
+    "hangul": "젊"
+  },
+  {
+    "original": "霊",
+    "code": "97ec",
+    "index": 3508,
+    "split_index": 3273,
+    "hangul": "점"
+  },
+  {
+    "original": "暦",
+    "code": "97ef",
+    "index": 3511,
+    "split_index": 3276,
+    "hangul": "접"
+  },
+  {
+    "original": "列",
+    "code": "97f1",
+    "index": 3513,
+    "split_index": 3278,
+    "hangul": "정"
+  },
+  {
+    "original": "劣",
+    "code": "97f2",
+    "index": 3514,
+    "split_index": 3279,
+    "hangul": "제"
+  },
+  {
+    "original": "憐",
+    "code": "97f7",
+    "index": 3519,
+    "split_index": 3284,
+    "hangul": "젠"
+  },
+  {
+    "original": "漣",
+    "code": "97f8",
+    "index": 3520,
+    "split_index": 3285,
+    "hangul": "젤"
+  },
+  {
+    "original": "煉",
+    "code": "97f9",
+    "index": 3521,
+    "split_index": 3286,
+    "hangul": "져"
+  },
+  {
+    "original": "簾",
+    "code": "97fa",
+    "index": 3522,
+    "split_index": 3287,
+    "hangul": "졌"
+  },
+  {
+    "original": "聯",
+    "code": "97fc",
+    "index": 3524,
+    "split_index": 3289,
+    "hangul": "조"
+  },
+  {
+    "original": "櫓",
+    "code": "9845",
+    "index": 3530,
+    "split_index": 3295,
+    "hangul": "족"
+  },
+  {
+    "original": "弄",
+    "code": "984d",
+    "index": 3538,
+    "split_index": 3303,
+    "hangul": "존"
+  },
+  {
+    "original": "漏",
+    "code": "9852",
+    "index": 3543,
+    "split_index": 3308,
+    "hangul": "졸"
+  },
+  {
+    "original": "牢",
+    "code": "9853",
+    "index": 3544,
+    "split_index": 3309,
+    "hangul": "좀"
+  },
+  {
+    "original": "篭",
+    "code": "9855",
+    "index": 3546,
+    "split_index": 3311,
+    "hangul": "좁"
+  },
+  {
+    "original": "蝋",
+    "code": "9858",
+    "index": 3549,
+    "split_index": 3314,
+    "hangul": "종"
+  },
+  {
+    "original": "六",
+    "code": "985a",
+    "index": 3551,
+    "split_index": 3316,
+    "hangul": "좋"
+  },
+  {
+    "original": "麓",
+    "code": "985b",
+    "index": 3552,
+    "split_index": 3317,
+    "hangul": "좌"
+  },
+  {
+    "original": "禄",
+    "code": "985c",
+    "index": 3553,
+    "split_index": 3318,
+    "hangul": "좡"
+  },
+  {
+    "original": "肋",
+    "code": "985d",
+    "index": 3554,
+    "split_index": 3319,
+    "hangul": "죄"
+  },
+  {
+    "original": "鰐",
+    "code": "986b",
+    "index": 3568,
+    "split_index": 3333,
+    "hangul": "죠"
+  },
+  {
+    "original": "蕨",
+    "code": "986e",
+    "index": 3571,
+    "split_index": 3336,
+    "hangul": "주"
+  },
+  {
+    "original": "湾",
+    "code": "9870",
+    "index": 3573,
+    "split_index": 3338,
+    "hangul": "죽"
+  },
+  {
+    "original": "葦",
+    "code": "88af",
+    "index": 627,
+    "split_index": 392,
+    "hangul": "준"
+  },
+  {
+    "original": "鯵",
+    "code": "88b1",
+    "index": 629,
+    "split_index": 394,
+    "hangul": "줄"
+  },
+  {
+    "original": "梓",
+    "code": "88b2",
+    "index": 630,
+    "split_index": 395,
+    "hangul": "줌"
+  },
+  {
+    "original": "綾",
+    "code": "88bb",
+    "index": 639,
+    "split_index": 404,
+    "hangul": "줍"
+  },
+  {
+    "original": "庵",
+    "code": "88c1",
+    "index": 645,
+    "split_index": 410,
+    "hangul": "중"
+  },
+  {
+    "original": "夷",
+    "code": "88ce",
+    "index": 658,
+    "split_index": 423,
+    "hangul": "줘"
+  },
+  {
+    "original": "謂",
+    "code": "88e0",
+    "index": 676,
+    "split_index": 441,
+    "hangul": "줬"
+  },
+  {
+    "original": "亥",
+    "code": "88e5",
+    "index": 681,
+    "split_index": 446,
+    "hangul": "쥐"
+  },
+  {
+    "original": "淫",
+    "code": "88fa",
+    "index": 702,
+    "split_index": 467,
+    "hangul": "쥔"
+  },
+  {
+    "original": "蔭",
+    "code": "88fc",
+    "index": 704,
+    "split_index": 469,
+    "hangul": "즈"
+  },
+  {
+    "original": "吋",
+    "code": "8944",
+    "index": 709,
+    "split_index": 474,
+    "hangul": "즉"
+  },
+  {
+    "original": "煙",
+    "code": "898c",
+    "index": 780,
+    "split_index": 545,
+    "hangul": "즌"
+  },
+  {
+    "original": "猿",
+    "code": "898e",
+    "index": 782,
+    "split_index": 547,
+    "hangul": "즐"
+  },
+  {
+    "original": "苑",
+    "code": "8991",
+    "index": 785,
+    "split_index": 550,
+    "hangul": "즙"
+  },
+  {
+    "original": "鉛",
+    "code": "8994",
+    "index": 788,
+    "split_index": 553,
+    "hangul": "증"
+  },
+  {
+    "original": "旺",
+    "code": "89a0",
+    "index": 800,
+    "split_index": 565,
+    "hangul": "지"
+  },
+  {
+    "original": "翁",
+    "code": "89a5",
+    "index": 805,
+    "split_index": 570,
+    "hangul": "직"
+  },
+  {
+    "original": "億",
+    "code": "89ad",
+    "index": 813,
+    "split_index": 578,
+    "hangul": "진"
+  },
+  {
+    "original": "迦",
+    "code": "89de",
+    "index": 862,
+    "split_index": 627,
+    "hangul": "질"
+  },
+  {
+    "original": "灰",
+    "code": "8a44",
+    "index": 897,
+    "split_index": 662,
+    "hangul": "짊"
+  },
+  {
+    "original": "橿",
+    "code": "8a80",
+    "index": 956,
+    "split_index": 721,
+    "hangul": "짐"
+  },
+  {
+    "original": "叶",
+    "code": "8a90",
+    "index": 972,
+    "split_index": 737,
+    "hangul": "집"
+  },
+  {
+    "original": "侃",
+    "code": "8aa4",
+    "index": 992,
+    "split_index": 757,
+    "hangul": "짓"
+  },
+  {
+    "original": "堪",
+    "code": "8aac",
+    "index": 1000,
+    "split_index": 765,
+    "hangul": "징"
+  },
+  {
+    "original": "姦",
+    "code": "8aad",
+    "index": 1001,
+    "split_index": 766,
+    "hangul": "짜"
+  },
+  {
+    "original": "贋",
+    "code": "8ae4",
+    "index": 1056,
+    "split_index": 821,
+    "hangul": "짝"
+  },
+  {
+    "original": "灸",
+    "code": "8b84",
+    "index": 1148,
+    "split_index": 913,
+    "hangul": "짤"
+  },
+  {
+    "original": "侠",
+    "code": "8ba0",
+    "index": 1176,
+    "split_index": 941,
+    "hangul": "짧"
+  },
+  {
+    "original": "凶",
+    "code": "8ba5",
+    "index": 1181,
+    "split_index": 946,
+    "hangul": "짬"
+  },
+  {
+    "original": "峡",
+    "code": "8bac",
+    "index": 1188,
+    "split_index": 953,
+    "hangul": "짰"
+  },
+  {
+    "original": "沓",
+    "code": "8c42",
+    "index": 1271,
+    "split_index": 1036,
+    "hangul": "짱"
+  },
+  {
+    "original": "靴",
+    "code": "8c43",
+    "index": 1272,
+    "split_index": 1037,
+    "hangul": "째"
+  },
+  {
+    "original": "轡",
+    "code": "8c44",
+    "index": 1273,
+    "split_index": 1038,
+    "hangul": "쩌"
+  },
+  {
+    "original": "粂",
+    "code": "8c48",
+    "index": 1277,
+    "split_index": 1042,
+    "hangul": "쩔"
+  },
+  {
+    "original": "薫",
+    "code": "8c4f",
+    "index": 1284,
+    "split_index": 1049,
+    "hangul": "쩡"
+  },
+  {
+    "original": "郡",
+    "code": "8c53",
+    "index": 1288,
+    "split_index": 1053,
+    "hangul": "쪄"
+  },
+  {
+    "original": "卦",
+    "code": "8c54",
+    "index": 1289,
+    "split_index": 1054,
+    "hangul": "쪘"
+  },
+  {
+    "original": "袈",
+    "code": "8c55",
+    "index": 1290,
+    "split_index": 1055,
+    "hangul": "쪽"
+  },
+  {
+    "original": "祁",
+    "code": "8c56",
+    "index": 1291,
+    "split_index": 1056,
+    "hangul": "쫀"
+  },
+  {
+    "original": "刑",
+    "code": "8c59",
+    "index": 1294,
+    "split_index": 1059,
+    "hangul": "쫄"
+  },
+  {
+    "original": "珪",
+    "code": "8c5d",
+    "index": 1298,
+    "split_index": 1063,
+    "hangul": "쫓"
+  },
+  {
+    "original": "憩",
+    "code": "8c65",
+    "index": 1306,
+    "split_index": 1071,
+    "hangul": "쭉"
+  },
+  {
+    "original": "稽",
+    "code": "8c6d",
+    "index": 1314,
+    "split_index": 1079,
+    "hangul": "쯤"
+  },
+  {
+    "original": "罫",
+    "code": "8c72",
+    "index": 1319,
+    "split_index": 1084,
+    "hangul": "찌"
+  },
+  {
+    "original": "荊",
+    "code": "8c74",
+    "index": 1321,
+    "split_index": 1086,
+    "hangul": "찍"
+  },
+  {
+    "original": "詣",
+    "code": "8c77",
+    "index": 1324,
+    "split_index": 1089,
+    "hangul": "찜"
+  },
+  {
+    "original": "頚",
+    "code": "8c7a",
+    "index": 1327,
+    "split_index": 1092,
+    "hangul": "차"
+  },
+  {
+    "original": "鯨",
+    "code": "8c7e",
+    "index": 1331,
+    "split_index": 1096,
+    "hangul": "착"
+  },
+  {
+    "original": "戟",
+    "code": "8c81",
+    "index": 1333,
+    "split_index": 1098,
+    "hangul": "찬"
+  },
+  {
+    "original": "訣",
+    "code": "8c8d",
+    "index": 1345,
+    "split_index": 1110,
+    "hangul": "찮"
+  },
+  {
+    "original": "券",
+    "code": "8c94",
+    "index": 1352,
+    "split_index": 1117,
+    "hangul": "찰"
+  },
+  {
+    "original": "硯",
+    "code": "8ca5",
+    "index": 1369,
+    "split_index": 1134,
+    "hangul": "참"
+  },
+  {
+    "original": "弦",
+    "code": "8cb7",
+    "index": 1387,
+    "split_index": 1152,
+    "hangul": "찼"
+  },
+  {
+    "original": "絃",
+    "code": "8cbc",
+    "index": 1392,
+    "split_index": 1157,
+    "hangul": "창"
+  },
+  {
+    "original": "舷",
+    "code": "8cbd",
+    "index": 1393,
+    "split_index": 1158,
+    "hangul": "찾"
+  },
+  {
+    "original": "胡",
+    "code": "8cd3",
+    "index": 1415,
+    "split_index": 1180,
+    "hangul": "채"
+  },
+  {
+    "original": "菰",
+    "code": "8cd4",
+    "index": 1416,
+    "split_index": 1181,
+    "hangul": "책"
+  },
+  {
+    "original": "鈷",
+    "code": "8cd8",
+    "index": 1420,
+    "split_index": 1185,
+    "hangul": "챌"
+  },
+  {
+    "original": "伍",
+    "code": "8cde",
+    "index": 1426,
+    "split_index": 1191,
+    "hangul": "챔"
+  },
+  {
+    "original": "醐",
+    "code": "8ced",
+    "index": 1441,
+    "split_index": 1206,
+    "hangul": "챙"
+  },
+  {
+    "original": "佼",
+    "code": "8cf1",
+    "index": 1445,
+    "split_index": 1210,
+    "hangul": "처"
+  },
+  {
+    "original": "倖",
+    "code": "8cf4",
+    "index": 1448,
+    "split_index": 1213,
+    "hangul": "척"
+  },
+  {
+    "original": "勾",
+    "code": "8cf9",
+    "index": 1453,
+    "split_index": 1218,
+    "hangul": "천"
+  },
+  {
+    "original": "坑",
+    "code": "8d42",
+    "index": 1459,
+    "split_index": 1224,
+    "hangul": "철"
+  },
+  {
+    "original": "硬",
+    "code": "8d64",
+    "index": 1493,
+    "split_index": 1258,
+    "hangul": "첩"
+  },
+  {
+    "original": "鋼",
+    "code": "8d7c",
+    "index": 1517,
+    "split_index": 1282,
+    "hangul": "첫"
+  },
+  {
+    "original": "壕",
+    "code": "8d88",
+    "index": 1528,
+    "split_index": 1293,
+    "hangul": "청"
+  },
+  {
+    "original": "麹",
+    "code": "8d8d",
+    "index": 1533,
+    "split_index": 1298,
+    "hangul": "체"
+  },
+  {
+    "original": "鵠",
+    "code": "8d94",
+    "index": 1540,
+    "split_index": 1305,
+    "hangul": "첸"
+  },
+  {
+    "original": "昏",
+    "code": "8da8",
+    "index": 1560,
+    "split_index": 1325,
+    "hangul": "첼"
+  },
+  {
+    "original": "痕",
+    "code": "8dad",
+    "index": 1565,
+    "split_index": 1330,
+    "hangul": "쳐"
+  },
+  {
+    "original": "詐",
+    "code": "8dbc",
+    "index": 1580,
+    "split_index": 1345,
+    "hangul": "쳤"
+  },
+  {
+    "original": "災",
+    "code": "8dd0",
+    "index": 1600,
+    "split_index": 1365,
+    "hangul": "초"
+  },
+  {
+    "original": "刷",
+    "code": "8dfc",
+    "index": 1644,
+    "split_index": 1409,
+    "hangul": "총"
+  },
+  {
+    "original": "擦",
+    "code": "8e43",
+    "index": 1648,
+    "split_index": 1413,
+    "hangul": "촬"
+  },
+  {
+    "original": "薩",
+    "code": "8e46",
+    "index": 1651,
+    "split_index": 1416,
+    "hangul": "최"
+  },
+  {
+    "original": "皐",
+    "code": "8e48",
+    "index": 1653,
+    "split_index": 1418,
+    "hangul": "추"
+  },
+  {
+    "original": "捌",
+    "code": "8e4a",
+    "index": 1655,
+    "split_index": 1420,
+    "hangul": "축"
+  },
+  {
+    "original": "錆",
+    "code": "8e4b",
+    "index": 1656,
+    "split_index": 1421,
+    "hangul": "춘"
+  },
+  {
+    "original": "鮫",
+    "code": "8e4c",
+    "index": 1657,
+    "split_index": 1422,
+    "hangul": "출"
+  },
+  {
+    "original": "晒",
+    "code": "8e4e",
+    "index": 1659,
+    "split_index": 1424,
+    "hangul": "춥"
+  },
+  {
+    "original": "惨",
+    "code": "8e53",
+    "index": 1664,
+    "split_index": 1429,
+    "hangul": "충"
+  },
+  {
+    "original": "撒",
+    "code": "8e54",
+    "index": 1665,
+    "split_index": 1430,
+    "hangul": "춰"
+  },
+  {
+    "original": "燦",
+    "code": "8e57",
+    "index": 1668,
+    "split_index": 1433,
+    "hangul": "췄"
+  },
+  {
+    "original": "珊",
+    "code": "8e58",
+    "index": 1669,
+    "split_index": 1434,
+    "hangul": "취"
+  },
+  {
+    "original": "纂",
+    "code": "8e5b",
+    "index": 1672,
+    "split_index": 1437,
+    "hangul": "츠"
+  },
+  {
+    "original": "蚕",
+    "code": "8e5c",
+    "index": 1673,
+    "split_index": 1438,
+    "hangul": "측"
+  },
+  {
+    "original": "讃",
+    "code": "8e5d",
+    "index": 1674,
+    "split_index": 1439,
+    "hangul": "층"
+  },
+  {
+    "original": "賛",
+    "code": "8e5e",
+    "index": 1675,
+    "split_index": 1440,
+    "hangul": "치"
+  },
+  {
+    "original": "暫",
+    "code": "8e62",
+    "index": 1679,
+    "split_index": 1444,
+    "hangul": "치하"
+  },
+  {
+    "original": "仔",
+    "code": "8e65",
+    "index": 1682,
+    "split_index": 1447,
+    "hangul": "칙"
+  },
+  {
+    "original": "屍",
+    "code": "8e72",
+    "index": 1695,
+    "split_index": 1460,
+    "hangul": "친"
+  },
+  {
+    "original": "孜",
+    "code": "8e79",
+    "index": 1702,
+    "split_index": 1467,
+    "hangul": "칠"
+  },
+  {
+    "original": "斯",
+    "code": "8e7a",
+    "index": 1703,
+    "split_index": 1468,
+    "hangul": "침"
+  },
+  {
+    "original": "施",
+    "code": "8e7b",
+    "index": 1704,
+    "split_index": 1469,
+    "hangul": "칩"
+  },
+  {
+    "original": "枝",
+    "code": "8e7d",
+    "index": 1706,
+    "split_index": 1471,
+    "hangul": "칭"
+  },
+  {
+    "original": "氏",
+    "code": "8e81",
+    "index": 1709,
+    "split_index": 1474,
+    "hangul": "카"
+  },
+  {
+    "original": "祉",
+    "code": "8e83",
+    "index": 1711,
+    "split_index": 1476,
+    "hangul": "카키"
+  },
+  {
+    "original": "肢",
+    "code": "8e88",
+    "index": 1716,
+    "split_index": 1481,
+    "hangul": "칸"
+  },
+  {
+    "original": "脂",
+    "code": "8e89",
+    "index": 1717,
+    "split_index": 1482,
+    "hangul": "칼"
+  },
+  {
+    "original": "詩",
+    "code": "8e8d",
+    "index": 1721,
+    "split_index": 1486,
+    "hangul": "캄"
+  },
+  {
+    "original": "諮",
+    "code": "8e90",
+    "index": 1724,
+    "split_index": 1489,
+    "hangul": "캉"
+  },
+  {
+    "original": "飼",
+    "code": "8e94",
+    "index": 1728,
+    "split_index": 1493,
+    "hangul": "캐"
+  },
+  {
+    "original": "滋",
+    "code": "8ea0",
+    "index": 1740,
+    "split_index": 1505,
+    "hangul": "캔"
+  },
+  {
+    "original": "爾",
+    "code": "8ea2",
+    "index": 1742,
+    "split_index": 1507,
+    "hangul": "캠"
+  },
+  {
+    "original": "痔",
+    "code": "8ea4",
+    "index": 1744,
+    "split_index": 1509,
+    "hangul": "캡"
+  },
+  {
+    "original": "磁",
+    "code": "8ea5",
+    "index": 1745,
+    "split_index": 1510,
+    "hangul": "커"
+  },
+  {
+    "original": "而",
+    "code": "8ea7",
+    "index": 1747,
+    "split_index": 1512,
+    "hangul": "컨"
+  },
+  {
+    "original": "辞",
+    "code": "8eab",
+    "index": 1751,
+    "split_index": 1516,
+    "hangul": "컬"
+  },
+  {
+    "original": "汐",
+    "code": "8eac",
+    "index": 1752,
+    "split_index": 1517,
+    "hangul": "컴"
+  },
+  {
+    "original": "鹿",
+    "code": "8ead",
+    "index": 1753,
+    "split_index": 1518,
+    "hangul": "컵"
+  },
+  {
+    "original": "竺",
+    "code": "8eb1",
+    "index": 1757,
+    "split_index": 1522,
+    "hangul": "컷"
+  },
+  {
+    "original": "雫",
+    "code": "8eb4",
+    "index": 1760,
+    "split_index": 1525,
+    "hangul": "컸"
+  },
+  {
+    "original": "七",
+    "code": "8eb5",
+    "index": 1761,
+    "split_index": 1526,
+    "hangul": "케"
+  },
+  {
+    "original": "嫉",
+    "code": "8eb9",
+    "index": 1765,
+    "split_index": 1530,
+    "hangul": "켄"
+  },
+  {
+    "original": "悉",
+    "code": "8ebb",
+    "index": 1767,
+    "split_index": 1532,
+    "hangul": "켓"
+  },
+  {
+    "original": "漆",
+    "code": "8ebd",
+    "index": 1769,
+    "split_index": 1534,
+    "hangul": "켜"
+  },
+  {
+    "original": "蔀",
+    "code": "8ec1",
+    "index": 1773,
+    "split_index": 1538,
+    "hangul": "켤"
+  },
+  {
+    "original": "偲",
+    "code": "8ec3",
+    "index": 1775,
+    "split_index": 1540,
+    "hangul": "켰"
+  },
+  {
+    "original": "屡",
+    "code": "8ec6",
+    "index": 1778,
+    "split_index": 1543,
+    "hangul": "코"
+  },
+  {
+    "original": "蕊",
+    "code": "8ec7",
+    "index": 1779,
+    "split_index": 1544,
+    "hangul": "코노"
+  },
+  {
+    "original": "縞",
+    "code": "8ec8",
+    "index": 1780,
+    "split_index": 1545,
+    "hangul": "콘"
+  },
+  {
+    "original": "赦",
+    "code": "8ecd",
+    "index": 1785,
+    "split_index": 1550,
+    "hangul": "콜"
+  },
+  {
+    "original": "車",
+    "code": "8ed4",
+    "index": 1792,
+    "split_index": 1557,
+    "hangul": "콤"
+  },
+  {
+    "original": "邪",
+    "code": "8ed7",
+    "index": 1795,
+    "split_index": 1560,
+    "hangul": "콧"
+  },
+  {
+    "original": "灼",
+    "code": "8edc",
+    "index": 1800,
+    "split_index": 1565,
+    "hangul": "콴"
+  },
+  {
+    "original": "酌",
+    "code": "8ede",
+    "index": 1802,
+    "split_index": 1567,
+    "hangul": "쾌"
+  },
+  {
+    "original": "錫",
+    "code": "8ee0",
+    "index": 1804,
+    "split_index": 1569,
+    "hangul": "쿄"
+  },
+  {
+    "original": "惹",
+    "code": "8ee4",
+    "index": 1808,
+    "split_index": 1573,
+    "hangul": "쿠"
+  },
+  {
+    "original": "珠",
+    "code": "8eec",
+    "index": 1816,
+    "split_index": 1581,
+    "hangul": "쿤"
+  },
+  {
+    "original": "腫",
+    "code": "8eee",
+    "index": 1818,
+    "split_index": 1583,
+    "hangul": "쿵"
+  },
+  {
+    "original": "趣",
+    "code": "8eef",
+    "index": 1819,
+    "split_index": 1584,
+    "hangul": "쿼"
+  },
+  {
+    "original": "儒",
+    "code": "8ef2",
+    "index": 1822,
+    "split_index": 1587,
+    "hangul": "퀄"
+  },
+  {
+    "original": "呪",
+    "code": "8ef4",
+    "index": 1824,
+    "split_index": 1589,
+    "hangul": "퀘"
+  },
+  {
+    "original": "囚",
+    "code": "8efa",
+    "index": 1830,
+    "split_index": 1595,
+    "hangul": "퀴"
+  },
+  {
+    "original": "就",
+    "code": "8f41",
+    "index": 1834,
+    "split_index": 1599,
+    "hangul": "퀵"
+  },
+  {
+    "original": "拾",
+    "code": "8f45",
+    "index": 1838,
+    "split_index": 1603,
+    "hangul": "큐"
+  },
+  {
+    "original": "洲",
+    "code": "8f46",
+    "index": 1839,
+    "split_index": 1604,
+    "hangul": "큘"
+  },
+  {
+    "original": "蒐",
+    "code": "8f4e",
+    "index": 1847,
+    "split_index": 1612,
+    "hangul": "크"
+  },
+  {
+    "original": "醜",
+    "code": "8f58",
+    "index": 1857,
+    "split_index": 1622,
+    "hangul": "큰"
+  },
+  {
+    "original": "住",
+    "code": "8f5a",
+    "index": 1859,
+    "split_index": 1624,
+    "hangul": "클"
+  },
+  {
+    "original": "宿",
+    "code": "8f68",
+    "index": 1873,
+    "split_index": 1638,
+    "hangul": "큼"
+  },
+  {
+    "original": "淑",
+    "code": "8f69",
+    "index": 1874,
+    "split_index": 1639,
+    "hangul": "큽"
+  },
+  {
+    "original": "准",
+    "code": "8f79",
+    "index": 1890,
+    "split_index": 1655,
+    "hangul": "키"
+  },
+  {
+    "original": "楯",
+    "code": "8f7c",
+    "index": 1893,
+    "split_index": 1658,
+    "hangul": "키바"
+  },
+  {
+    "original": "盾",
+    "code": "8f82",
+    "index": 1898,
+    "split_index": 1663,
+    "hangul": "킨"
+  },
+  {
+    "original": "曙",
+    "code": "8f8c",
+    "index": 1908,
+    "split_index": 1673,
+    "hangul": "킬"
+  },
+  {
+    "original": "署",
+    "code": "8f90",
+    "index": 1912,
+    "split_index": 1677,
+    "hangul": "킴"
+  },
+  {
+    "original": "匠",
+    "code": "8fa0",
+    "index": 1928,
+    "split_index": 1693,
+    "hangul": "킵"
+  },
+  {
+    "original": "升",
+    "code": "8fa1",
+    "index": 1929,
+    "split_index": 1694,
+    "hangul": "킹"
+  },
+  {
+    "original": "哨",
+    "code": "8fa3",
+    "index": 1931,
+    "split_index": 1696,
+    "hangul": "타"
+  },
+  {
+    "original": "妾",
+    "code": "8fa8",
+    "index": 1936,
+    "split_index": 1701,
+    "hangul": "탁"
+  },
+  {
+    "original": "抄",
+    "code": "8fb4",
+    "index": 1948,
+    "split_index": 1713,
+    "hangul": "탄"
+  },
+  {
+    "original": "粧",
+    "code": "8fcf",
+    "index": 1975,
+    "split_index": 1740,
+    "hangul": "탈"
+  },
+  {
+    "original": "蕉",
+    "code": "8fd4",
+    "index": 1980,
+    "split_index": 1745,
+    "hangul": "탐"
+  },
+  {
+    "original": "証",
+    "code": "8fd8",
+    "index": 1984,
+    "split_index": 1749,
+    "hangul": "탑"
+  },
+  {
+    "original": "鐘",
+    "code": "8fe0",
+    "index": 1992,
+    "split_index": 1757,
+    "hangul": "탕"
+  },
+  {
+    "original": "剰",
+    "code": "8fe8",
+    "index": 2000,
+    "split_index": 1765,
+    "hangul": "태"
+  },
+  {
+    "original": "嬢",
+    "code": "8fec",
+    "index": 2004,
+    "split_index": 1769,
+    "hangul": "택"
+  },
+  {
+    "original": "畳",
+    "code": "8ff4",
+    "index": 2012,
+    "split_index": 1777,
+    "hangul": "탠"
+  },
+  {
+    "original": "醸",
+    "code": "8ff8",
+    "index": 2016,
+    "split_index": 1781,
+    "hangul": "탤"
+  },
+  {
+    "original": "審",
+    "code": "9052",
+    "index": 2039,
+    "split_index": 1804,
+    "hangul": "탬"
+  },
+  {
+    "original": "紳",
+    "code": "9061",
+    "index": 2054,
+    "split_index": 1819,
+    "hangul": "탱"
+  },
+  {
+    "original": "薪",
+    "code": "9064",
+    "index": 2057,
+    "split_index": 1822,
+    "hangul": "터"
+  },
+  {
+    "original": "壬",
+    "code": "9070",
+    "index": 2069,
+    "split_index": 1834,
+    "hangul": "턱"
+  },
+  {
+    "original": "甚",
+    "code": "9072",
+    "index": 2071,
+    "split_index": 1836,
+    "hangul": "턴"
+  },
+  {
+    "original": "翠",
+    "code": "9089",
+    "index": 2093,
+    "split_index": 1858,
+    "hangul": "털"
+  },
+  {
+    "original": "錘",
+    "code": "908e",
+    "index": 2098,
+    "split_index": 1863,
+    "hangul": "텀"
+  },
+  {
+    "original": "嵩",
+    "code": "9093",
+    "index": 2103,
+    "split_index": 1868,
+    "hangul": "텅"
+  },
+  {
+    "original": "趨",
+    "code": "9096",
+    "index": 2106,
+    "split_index": 1871,
+    "hangul": "테"
+  },
+  {
+    "original": "蹟",
+    "code": "90d6",
+    "index": 2170,
+    "split_index": 1935,
+    "hangul": "텍"
+  },
+  {
+    "original": "拙",
+    "code": "90d9",
+    "index": 2173,
+    "split_index": 1938,
+    "hangul": "텐"
+  },
+  {
+    "original": "摂",
+    "code": "90db",
+    "index": 2175,
+    "split_index": 1940,
+    "hangul": "텔"
+  },
+  {
+    "original": "穿",
+    "code": "90fa",
+    "index": 2206,
+    "split_index": 1971,
+    "hangul": "템"
+  },
+  {
+    "original": "舛",
+    "code": "9143",
+    "index": 2212,
+    "split_index": 1977,
+    "hangul": "토"
+  },
+  {
+    "original": "船",
+    "code": "9144",
+    "index": 2213,
+    "split_index": 1978,
+    "hangul": "톤"
+  },
+  {
+    "original": "漸",
+    "code": "9151",
+    "index": 2226,
+    "split_index": 1991,
+    "hangul": "톰"
+  },
+  {
+    "original": "禅",
+    "code": "9154",
+    "index": 2229,
+    "split_index": 1994,
+    "hangul": "톱"
+  },
+  {
+    "original": "曹",
+    "code": "9182",
+    "index": 2274,
+    "split_index": 2039,
+    "hangul": "통"
+  },
+  {
+    "original": "槍",
+    "code": "9184",
+    "index": 2276,
+    "split_index": 2041,
+    "hangul": "퇴"
+  },
+  {
+    "original": "糟",
+    "code": "918c",
+    "index": 2284,
+    "split_index": 2049,
+    "hangul": "투"
+  },
+  {
+    "original": "綜",
+    "code": "918e",
+    "index": 2286,
+    "split_index": 2051,
+    "hangul": "툰"
+  },
+  {
+    "original": "像",
+    "code": "919c",
+    "index": 2300,
+    "split_index": 2065,
+    "hangul": "툴"
+  },
+  {
+    "original": "賊",
+    "code": "91af",
+    "index": 2319,
+    "split_index": 2084,
+    "hangul": "툼"
+  },
+  {
+    "original": "只",
+    "code": "91fc",
+    "index": 2396,
+    "split_index": 2161,
+    "hangul": "툽"
+  },
+  {
+    "original": "但",
+    "code": "9241",
+    "index": 2398,
+    "split_index": 2163,
+    "hangul": "퉁"
+  },
+  {
+    "original": "竪",
+    "code": "9247",
+    "index": 2404,
+    "split_index": 2169,
+    "hangul": "튀"
+  },
+  {
+    "original": "辿",
+    "code": "9248",
+    "index": 2405,
+    "split_index": 2170,
+    "hangul": "튕"
+  },
+  {
+    "original": "棚",
+    "code": "9249",
+    "index": 2406,
+    "split_index": 2171,
+    "hangul": "튜"
+  },
+  {
+    "original": "狸",
+    "code": "924b",
+    "index": 2408,
+    "split_index": 2173,
+    "hangul": "트"
+  },
+  {
+    "original": "鱈",
+    "code": "924c",
+    "index": 2409,
+    "split_index": 2174,
+    "hangul": "특"
+  },
+  {
+    "original": "嘆",
+    "code": "9251",
+    "index": 2414,
+    "split_index": 2179,
+    "hangul": "튼"
+  },
+  {
+    "original": "坦",
+    "code": "9252",
+    "index": 2415,
+    "split_index": 2180,
+    "hangul": "틀"
+  },
+  {
+    "original": "旦",
+    "code": "9255",
+    "index": 2418,
+    "split_index": 2183,
+    "hangul": "틈"
+  },
+  {
+    "original": "歎",
+    "code": "9256",
+    "index": 2419,
+    "split_index": 2184,
+    "hangul": "티"
+  },
+  {
+    "original": "湛",
+    "code": "9258",
+    "index": 2421,
+    "split_index": 2186,
+    "hangul": "틱"
+  },
+  {
+    "original": "箪",
+    "code": "925c",
+    "index": 2425,
+    "split_index": 2190,
+    "hangul": "틴"
+  },
+  {
+    "original": "綻",
+    "code": "925d",
+    "index": 2426,
+    "split_index": 2191,
+    "hangul": "틸"
+  },
+  {
+    "original": "蛋",
+    "code": "9260",
+    "index": 2429,
+    "split_index": 2194,
+    "hangul": "팀"
+  },
+  {
+    "original": "誕",
+    "code": "9261",
+    "index": 2430,
+    "split_index": 2195,
+    "hangul": "파"
+  },
+  {
+    "original": "壇",
+    "code": "9264",
+    "index": 2433,
+    "split_index": 2198,
+    "hangul": "팎"
+  },
+  {
+    "original": "檀",
+    "code": "9268",
+    "index": 2437,
+    "split_index": 2202,
+    "hangul": "판"
+  },
+  {
+    "original": "痴",
+    "code": "9273",
+    "index": 2448,
+    "split_index": 2213,
+    "hangul": "팔"
+  },
+  {
+    "original": "稚",
+    "code": "9274",
+    "index": 2449,
+    "split_index": 2214,
+    "hangul": "팜"
+  },
+  {
+    "original": "馳",
+    "code": "9279",
+    "index": 2454,
+    "split_index": 2219,
+    "hangul": "팠"
+  },
+  {
+    "original": "畜",
+    "code": "927b",
+    "index": 2456,
+    "split_index": 2221,
+    "hangul": "팡"
+  },
+  {
+    "original": "逐",
+    "code": "9280",
+    "index": 2460,
+    "split_index": 2225,
+    "hangul": "패"
+  },
+  {
+    "original": "秩",
+    "code": "9281",
+    "index": 2461,
+    "split_index": 2226,
+    "hangul": "팬"
+  },
+  {
+    "original": "窒",
+    "code": "9282",
+    "index": 2462,
+    "split_index": 2227,
+    "hangul": "팻"
+  },
+  {
+    "original": "嫡",
+    "code": "9284",
+    "index": 2464,
+    "split_index": 2229,
+    "hangul": "팽"
+  },
+  {
+    "original": "宙",
+    "code": "9288",
+    "index": 2468,
+    "split_index": 2233,
+    "hangul": "퍼"
+  },
+  {
+    "original": "虫",
+    "code": "928e",
+    "index": 2474,
+    "split_index": 2239,
+    "hangul": "펀"
+  },
+  {
+    "original": "註",
+    "code": "9290",
+    "index": 2476,
+    "split_index": 2241,
+    "hangul": "펄"
+  },
+  {
+    "original": "酎",
+    "code": "9291",
+    "index": 2477,
+    "split_index": 2242,
+    "hangul": "펑"
+  },
+  {
+    "original": "瀦",
+    "code": "9295",
+    "index": 2481,
+    "split_index": 2246,
+    "hangul": "페"
+  },
+  {
+    "original": "丁",
+    "code": "929a",
+    "index": 2486,
+    "split_index": 2251,
+    "hangul": "펙"
+  },
+  {
+    "original": "凋",
+    "code": "929c",
+    "index": 2488,
+    "split_index": 2253,
+    "hangul": "펜"
+  },
+  {
+    "original": "喋",
+    "code": "929d",
+    "index": 2489,
+    "split_index": 2254,
+    "hangul": "펠"
+  },
+  {
+    "original": "寵",
+    "code": "929e",
+    "index": 2490,
+    "split_index": 2255,
+    "hangul": "펴"
+  },
+  {
+    "original": "帖",
+    "code": "929f",
+    "index": 2491,
+    "split_index": 2256,
+    "hangul": "편"
+  },
+  {
+    "original": "帳",
+    "code": "92a0",
+    "index": 2492,
+    "split_index": 2257,
+    "hangul": "펼"
+  },
+  {
+    "original": "弔",
+    "code": "92a2",
+    "index": 2494,
+    "split_index": 2259,
+    "hangul": "평"
+  },
+  {
+    "original": "彫",
+    "code": "92a4",
+    "index": 2496,
+    "split_index": 2261,
+    "hangul": "폐"
+  },
+  {
+    "original": "暢",
+    "code": "92a8",
+    "index": 2500,
+    "split_index": 2265,
+    "hangul": "포"
+  },
+  {
+    "original": "牒",
+    "code": "92ab",
+    "index": 2503,
+    "split_index": 2268,
+    "hangul": "폭"
+  },
+  {
+    "original": "町",
+    "code": "92ac",
+    "index": 2504,
+    "split_index": 2269,
+    "hangul": "폰"
+  },
+  {
+    "original": "聴",
+    "code": "92ae",
+    "index": 2506,
+    "split_index": 2271,
+    "hangul": "폴"
+  },
+  {
+    "original": "脹",
+    "code": "92af",
+    "index": 2507,
+    "split_index": 2272,
+    "hangul": "폼"
+  },
+  {
+    "original": "腸",
+    "code": "92b0",
+    "index": 2508,
+    "split_index": 2273,
+    "hangul": "표"
+  },
+  {
+    "original": "捗",
+    "code": "92bb",
+    "index": 2519,
+    "split_index": 2284,
+    "hangul": "푸"
+  },
+  {
+    "original": "朕",
+    "code": "92bd",
+    "index": 2521,
+    "split_index": 2286,
+    "hangul": "푹"
+  },
+  {
+    "original": "賃",
+    "code": "92c0",
+    "index": 2524,
+    "split_index": 2289,
+    "hangul": "푼"
+  },
+  {
+    "original": "墜",
+    "code": "92c4",
+    "index": 2528,
+    "split_index": 2293,
+    "hangul": "풀"
+  },
+  {
+    "original": "槌",
+    "code": "92c6",
+    "index": 2530,
+    "split_index": 2295,
+    "hangul": "품"
+  },
+  {
+    "original": "鎚",
+    "code": "92c8",
+    "index": 2532,
+    "split_index": 2297,
+    "hangul": "풉"
+  },
+  {
+    "original": "綴",
+    "code": "92d4",
+    "index": 2544,
+    "split_index": 2309,
+    "hangul": "풍"
+  },
+  {
+    "original": "鍔",
+    "code": "92d5",
+    "index": 2545,
+    "split_index": 2310,
+    "hangul": "퓨"
+  },
+  {
+    "original": "椿",
+    "code": "92d6",
+    "index": 2546,
+    "split_index": 2311,
+    "hangul": "프"
+  },
+  {
+    "original": "潰",
+    "code": "92d7",
+    "index": 2547,
+    "split_index": 2312,
+    "hangul": "픈"
+  },
+  {
+    "original": "壷",
+    "code": "92d9",
+    "index": 2549,
+    "split_index": 2314,
+    "hangul": "플"
+  },
+  {
+    "original": "嬬",
+    "code": "92da",
+    "index": 2550,
+    "split_index": 2315,
+    "hangul": "피"
+  },
+  {
+    "original": "紬",
+    "code": "92db",
+    "index": 2551,
+    "split_index": 2316,
+    "hangul": "픽"
+  },
+  {
+    "original": "吊",
+    "code": "92dd",
+    "index": 2553,
+    "split_index": 2318,
+    "hangul": "핀"
+  },
+  {
+    "original": "亭",
+    "code": "92e0",
+    "index": 2556,
+    "split_index": 2321,
+    "hangul": "필"
+  },
+  {
+    "original": "貞",
+    "code": "92e5",
+    "index": 2561,
+    "split_index": 2326,
+    "hangul": "핌"
+  },
+  {
+    "original": "碇",
+    "code": "92f4",
+    "index": 2576,
+    "split_index": 2341,
+    "hangul": "핑"
+  },
+  {
+    "original": "訂",
+    "code": "92f9",
+    "index": 2581,
+    "split_index": 2346,
+    "hangul": "하"
+  },
+  {
+    "original": "諦",
+    "code": "92fa",
+    "index": 2582,
+    "split_index": 2347,
+    "hangul": "하기"
+  },
+  {
+    "original": "蹄",
+    "code": "92fb",
+    "index": 2583,
+    "split_index": 2348,
+    "hangul": "하나"
+  },
+  {
+    "original": "逓",
+    "code": "92fc",
+    "index": 2584,
+    "split_index": 2349,
+    "hangul": "하루"
+  },
+  {
+    "original": "鼎",
+    "code": "9343",
+    "index": 2588,
+    "split_index": 2353,
+    "hangul": "하마"
+  },
+  {
+    "original": "滴",
+    "code": "9348",
+    "index": 2593,
+    "split_index": 2358,
+    "hangul": "하야"
+  },
+  {
+    "original": "笛",
+    "code": "934a",
+    "index": 2595,
+    "split_index": 2360,
+    "hangul": "하코"
+  },
+  {
+    "original": "轍",
+    "code": "9351",
+    "index": 2602,
+    "split_index": 2367,
+    "hangul": "학"
+  },
+  {
+    "original": "迭",
+    "code": "9352",
+    "index": 2603,
+    "split_index": 2368,
+    "hangul": "한"
+  },
+  {
+    "original": "填",
+    "code": "9355",
+    "index": 2606,
+    "split_index": 2371,
+    "hangul": "할"
+  },
+  {
+    "original": "澱",
+    "code": "9362",
+    "index": 2619,
+    "split_index": 2384,
+    "hangul": "함"
+  },
+  {
+    "original": "塗",
+    "code": "9368",
+    "index": 2625,
+    "split_index": 2390,
+    "hangul": "합"
+  },
+  {
+    "original": "妬",
+    "code": "9369",
+    "index": 2626,
+    "split_index": 2391,
+    "hangul": "핫"
+  },
+  {
+    "original": "菟",
+    "code": "9370",
+    "index": 2633,
+    "split_index": 2398,
+    "hangul": "항"
+  },
+  {
+    "original": "奴",
+    "code": "937a",
+    "index": 2643,
+    "split_index": 2408,
+    "hangul": "해"
+  },
+  {
+    "original": "怒",
+    "code": "937b",
+    "index": 2644,
+    "split_index": 2409,
+    "hangul": "핵"
+  },
+  {
+    "original": "冬",
+    "code": "937e",
+    "index": 2647,
+    "split_index": 2412,
+    "hangul": "핸"
+  },
+  {
+    "original": "凍",
+    "code": "9380",
+    "index": 2648,
+    "split_index": 2413,
+    "hangul": "햄"
+  },
+  {
+    "original": "宕",
+    "code": "9386",
+    "index": 2654,
+    "split_index": 2419,
+    "hangul": "햇"
+  },
+  {
+    "original": "悼",
+    "code": "9389",
+    "index": 2657,
+    "split_index": 2422,
+    "hangul": "했"
+  },
+  {
+    "original": "梼",
+    "code": "938e",
+    "index": 2662,
+    "split_index": 2427,
+    "hangul": "행"
+  },
+  {
+    "original": "糖",
+    "code": "939c",
+    "index": 2676,
+    "split_index": 2441,
+    "hangul": "향"
+  },
+  {
+    "original": "蕩",
+    "code": "93a0",
+    "index": 2680,
+    "split_index": 2445,
+    "hangul": "허"
+  },
+  {
+    "original": "討",
+    "code": "93a2",
+    "index": 2682,
+    "split_index": 2447,
+    "hangul": "헌"
+  },
+  {
+    "original": "鐙",
+    "code": "93a8",
+    "index": 2688,
+    "split_index": 2453,
+    "hangul": "헐"
+  },
+  {
+    "original": "洞",
+    "code": "93b4",
+    "index": 2700,
+    "split_index": 2465,
+    "hangul": "험"
+  },
+  {
+    "original": "萄",
+    "code": "93b8",
+    "index": 2704,
+    "split_index": 2469,
+    "hangul": "헛"
+  },
+  {
+    "original": "銅",
+    "code": "93ba",
+    "index": 2706,
+    "split_index": 2471,
+    "hangul": "헤"
+  },
+  {
+    "original": "鴇",
+    "code": "93bc",
+    "index": 2708,
+    "split_index": 2473,
+    "hangul": "헤이"
+  },
+  {
+    "original": "匿",
+    "code": "93bd",
+    "index": 2709,
+    "split_index": 2474,
+    "hangul": "헨"
+  },
+  {
+    "original": "涜",
+    "code": "93c0",
+    "index": 2712,
+    "split_index": 2477,
+    "hangul": "헬"
+  },
+  {
+    "original": "栃",
+    "code": "93c8",
+    "index": 2720,
+    "split_index": 2485,
+    "hangul": "혀"
+  },
+  {
+    "original": "寅",
+    "code": "93d0",
+    "index": 2728,
+    "split_index": 2493,
+    "hangul": "혁"
+  },
+  {
+    "original": "酉",
+    "code": "93d1",
+    "index": 2729,
+    "split_index": 2494,
+    "hangul": "현"
+  },
+  {
+    "original": "曇",
+    "code": "93dc",
+    "index": 2740,
+    "split_index": 2505,
+    "hangul": "혈"
+  },
+  {
+    "original": "楢",
+    "code": "93e8",
+    "index": 2752,
+    "split_index": 2517,
+    "hangul": "협"
+  },
+  {
+    "original": "尼",
+    "code": "93f2",
+    "index": 2762,
+    "split_index": 2527,
+    "hangul": "혔"
+  },
+  {
+    "original": "弐",
+    "code": "93f3",
+    "index": 2763,
+    "split_index": 2528,
+    "hangul": "형"
+  },
+  {
+    "original": "匂",
+    "code": "93f5",
+    "index": 2765,
+    "split_index": 2530,
+    "hangul": "혜"
+  },
+  {
+    "original": "虹",
+    "code": "93f8",
+    "index": 2768,
+    "split_index": 2533,
+    "hangul": "호"
+  },
+  {
+    "original": "乳",
+    "code": "93fb",
+    "index": 2771,
+    "split_index": 2536,
+    "hangul": "호시"
+  },
+  {
+    "original": "妊",
+    "code": "9444",
+    "index": 2777,
+    "split_index": 2542,
+    "hangul": "혹"
+  },
+  {
+    "original": "禰",
+    "code": "9448",
+    "index": 2781,
+    "split_index": 2546,
+    "hangul": "혼"
+  },
+  {
+    "original": "寧",
+    "code": "944a",
+    "index": 2783,
+    "split_index": 2548,
+    "hangul": "홀"
+  },
+  {
+    "original": "蚤",
+    "code": "9461",
+    "index": 2806,
+    "split_index": 2571,
+    "hangul": "홈"
+  },
+  {
+    "original": "播",
+    "code": "9464",
+    "index": 2809,
+    "split_index": 2574,
+    "hangul": "홉"
+  },
+  {
+    "original": "拝",
+    "code": "9471",
+    "index": 2822,
+    "split_index": 2587,
+    "hangul": "홋"
+  },
+  {
+    "original": "楳",
+    "code": "9480",
+    "index": 2836,
+    "split_index": 2601,
+    "hangul": "홋카"
+  },
+  {
+    "original": "狽",
+    "code": "9482",
+    "index": 2838,
+    "split_index": 2603,
+    "hangul": "홍"
+  },
+  {
+    "original": "蝿",
+    "code": "9488",
+    "index": 2844,
+    "split_index": 2609,
+    "hangul": "화"
+  },
+  {
+    "original": "肇",
+    "code": "94a3",
+    "index": 2871,
+    "split_index": 2636,
+    "hangul": "확"
+  },
+  {
+    "original": "櫨",
+    "code": "94a5",
+    "index": 2873,
+    "split_index": 2638,
+    "hangul": "환"
+  },
+  {
+    "original": "伐",
+    "code": "94b0",
+    "index": 2884,
+    "split_index": 2649,
+    "hangul": "활"
+  },
+  {
+    "original": "罰",
+    "code": "94b1",
+    "index": 2885,
+    "split_index": 2650,
+    "hangul": "황"
+  },
+  {
+    "original": "閥",
+    "code": "94b4",
+    "index": 2888,
+    "split_index": 2653,
+    "hangul": "회"
+  },
+  {
+    "original": "斑",
+    "code": "94c1",
+    "index": 2901,
+    "split_index": 2666,
+    "hangul": "획"
+  },
+  {
+    "original": "扉",
+    "code": "94e0",
+    "index": 2932,
+    "split_index": 2697,
+    "hangul": "횟"
+  },
+  {
+    "original": "枇",
+    "code": "94f8",
+    "index": 2956,
+    "split_index": 2721,
+    "hangul": "횡"
+  },
+  {
+    "original": "稗",
+    "code": "9542",
+    "index": 2963,
+    "split_index": 2728,
+    "hangul": "효"
+  },
+  {
+    "original": "菱",
+    "code": "9548",
+    "index": 2969,
+    "split_index": 2734,
+    "hangul": "후"
+  },
+  {
+    "original": "苗",
+    "code": "9563",
+    "index": 2996,
+    "split_index": 2761,
+    "hangul": "후쿠"
+  },
+  {
+    "original": "斧",
+    "code": "9580",
+    "index": 3024,
+    "split_index": 2789,
+    "hangul": "훈"
+  },
+  {
+    "original": "阜",
+    "code": "958c",
+    "index": 3036,
+    "split_index": 2801,
+    "hangul": "훌"
+  },
+  {
+    "original": "葡",
+    "code": "9592",
+    "index": 3042,
+    "split_index": 2807,
+    "hangul": "훔"
+  },
+  {
+    "original": "噴",
+    "code": "95ac",
+    "index": 3068,
+    "split_index": 2833,
+    "hangul": "훙"
+  },
+  {
+    "original": "憤",
+    "code": "95ae",
+    "index": 3070,
+    "split_index": 2835,
+    "hangul": "훨"
+  },
+  {
+    "original": "蓬",
+    "code": "9648",
+    "index": 3157,
+    "split_index": 2922,
+    "hangul": "훼"
+  },
+  {
+    "original": "鋒",
+    "code": "964e",
+    "index": 3163,
+    "split_index": 2928,
+    "hangul": "휘"
+  },
+  {
+    "original": "鳳",
+    "code": "9650",
+    "index": 3165,
+    "split_index": 2930,
+    "hangul": "휜"
+  },
+  {
+    "original": "乏",
+    "code": "9652",
+    "index": 3167,
+    "split_index": 2932,
+    "hangul": "휨"
+  },
+  {
+    "original": "傍",
+    "code": "9654",
+    "index": 3169,
+    "split_index": 2934,
+    "hangul": "휩"
+  },
+  {
+    "original": "穆",
+    "code": "9673",
+    "index": 3200,
+    "split_index": 2965,
+    "hangul": "휴"
+  },
+  {
+    "original": "妹",
+    "code": "9685",
+    "index": 3217,
+    "split_index": 2982,
+    "hangul": "흐"
+  },
+  {
+    "original": "槙",
+    "code": "968a",
+    "index": 3222,
+    "split_index": 2987,
+    "hangul": "흑"
+  },
+  {
+    "original": "膜",
+    "code": "968c",
+    "index": 3224,
+    "split_index": 2989,
+    "hangul": "흔"
+  },
+  {
+    "original": "鮪",
+    "code": "968e",
+    "index": 3226,
+    "split_index": 2991,
+    "hangul": "흘"
+  },
+  {
+    "original": "鱒",
+    "code": "9690",
+    "index": 3228,
+    "split_index": 2993,
+    "hangul": "흙"
+  },
+  {
+    "original": "蔓",
+    "code": "96a0",
+    "index": 3244,
+    "split_index": 3009,
+    "hangul": "흠"
+  },
+  {
+    "original": "箕",
+    "code": "96a5",
+    "index": 3249,
+    "split_index": 3014,
+    "hangul": "흡"
+  },
+  {
+    "original": "脈",
+    "code": "96ac",
+    "index": 3256,
+    "split_index": 3021,
+    "hangul": "흥"
+  },
+  {
+    "original": "粍",
+    "code": "96ae",
+    "index": 3258,
+    "split_index": 3023,
+    "hangul": "희"
+  },
+  {
+    "original": "綿",
+    "code": "96c8",
+    "index": 3284,
+    "split_index": 3049,
+    "hangul": "흰"
+  },
+  {
+    "original": "諭",
+    "code": "9740",
+    "index": 3337,
+    "split_index": 3102,
+    "hangul": "히"
+  },
+  {
+    "original": "憂",
+    "code": "974a",
+    "index": 3347,
+    "split_index": 3112,
+    "hangul": "히가"
+  },
+  {
+    "original": "猶",
+    "code": "9750",
+    "index": 3353,
+    "split_index": 3118,
+    "hangul": "히나"
+  },
+  {
+    "original": "輿",
+    "code": "9760",
+    "index": 3369,
+    "split_index": 3134,
+    "hangul": "히데"
+  },
+  {
+    "original": "幼",
+    "code": "9763",
+    "index": 3372,
+    "split_index": 3137,
+    "hangul": "히라"
+  },
+  {
+    "original": "翌",
+    "code": "9782",
+    "index": 3402,
+    "split_index": 3167,
+    "hangul": "히로"
+  },
+  {
+    "original": "羅",
+    "code": "9785",
+    "index": 3405,
+    "split_index": 3170,
+    "hangul": "히카"
+  },
+  {
+    "original": "婁",
+    "code": "984b",
+    "index": 3536,
+    "split_index": 3301,
+    "hangul": "힌"
+  },
+  {
+    "original": "榔",
+    "code": "9850",
+    "index": 3541,
+    "split_index": 3306,
+    "hangul": "힐"
+  },
+  {
+    "original": "歪",
+    "code": "9863",
+    "index": 3560,
+    "split_index": 3325,
+    "hangul": "힘"
+  },
+  {
+    "original": "亘",
+    "code": "986a",
+    "index": 3567,
+    "split_index": 3332,
+    "hangul": "힙"
+  }
+]

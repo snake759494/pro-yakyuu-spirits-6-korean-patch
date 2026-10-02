@@ -1,0 +1,300 @@
+COM_MAT.OVL:11d950|후보 야수에서 대타를 고릅니다
+COM_MAT.OVL:11d980|주자를 대주자로 교체합니다
+COM_MAT.OVL:11d9a0|구원투수를 골라 교체합니다
+COM_MAT.OVL:11d9d0|수비진을 변경합니다
+COM_MAT.OVL:11da00|점수와 타순을 확인합니다
+COM_MAT.OVL:11da20|투수별 능력과 성적을 확인합니다
+COM_MAT.OVL:11da50|변경을 취소합니다
+COM_MAT.OVL:11dad0|선수를 교체하세요
+COM_MAT.OVL:11db10|등판 가능한 투수가 없습니다
+COM_MAT.OVL:11db50|투수를 타순에 넣으세요
+COM_MAT.OVL:11db70|투수와 야수는 교체 불가
+COM_MAT.OVL:11db90|이 조합으로 선수를 교체할 수 없습니다.
+COM_MAT.OVL:11e0c0|기습번트
+COM_MAT.OVL:11e148|자유 출발
+COM_MAT.OVL:11e158|무조건 출발
+COM_MAT.OVL:11e168|땅볼 출발
+COM_MAT.OVL:11e178|판단 출발
+COM_MAT.OVL:11e1b0|히트 앤드 런
+COM_MAT.OVL:11e1c8|자동 출발
+COM_MAT.OVL:11e1f0|기습번트
+COM_MAT.OVL:11e208|모험 주루
+COM_MAT.OVL:11e218|자유 도루
+COM_MAT.OVL:11e230|홈스틸
+COM_MAT.OVL:11e240|런 앤드 히트
+COM_MAT.OVL:11e290|피치아웃
+COM_MAT.OVL:11e2b0|2루수 베이스 커버
+COM_MAT.OVL:11e2d0|유격수 베이스 커버
+COM_MAT.OVL:11e2f0|내야 전진 돌진
+COM_MAT.OVL:11e310|투구 자세 변경
+COM_MAT.OVL:11e328|여기가 승부처!
+COM_MAT.OVL:11e338|코치 파견
+COM_MAT.OVL:11e358|맞히는 데 집중
+COM_MAT.OVL:11e368|장타를 노려
+COM_MAT.OVL:11e378|적극적으로
+COM_MAT.OVL:11e388|지켜봐
+COM_MAT.OVL:11e398|당겨치기
+COM_MAT.OVL:11e3a8|중견수 쪽
+COM_MAT.OVL:11e3e8|스퀴즈 경계
+COM_MAT.OVL:11e3f8|가운데로 던져
+COM_MAT.OVL:11e408|높게 던져
+COM_MAT.OVL:11e420|높은 유인구
+COM_MAT.OVL:11e438|낮게 던져
+COM_MAT.OVL:11e450|몸쪽으로 막아
+COM_MAT.OVL:11e468|바깥쪽 공략
+COM_MAT.OVL:11e480|몸쪽 높게
+COM_MAT.OVL:11e4a0|몸쪽 낮게
+COM_MAT.OVL:11e4c0|바깥쪽 높게
+COM_MAT.OVL:11e4e0|바깥쪽 낮게
+COM_MAT.OVL:11e4f8|스트라이크 우선
+COM_MAT.OVL:11e508|볼 우선
+COM_MAT.OVL:11e518|삼진 노리기
+COM_MAT.OVL:11e528|맞혀 잡기
+COM_MAT.OVL:11e590|맡기기
+COM_MAT.OVL:11e6d0|런 & 히트
+COM_MAT.OVL:11e710|2루 커버
+COM_MAT.OVL:11e720|유격 커버
+COM_MAT.OVL:11e730|내야 돌진
+COM_MAT.OVL:11e740|컨택 중시
+COM_MAT.OVL:11e760|가운데
+COM_MAT.OVL:11e770|높은 유인구
+COM_MAT.OVL:11e788|몸쪽 높게
+COM_MAT.OVL:11e798|몸쪽 낮게
+COM_MAT.OVL:11e7a8|바깥쪽 높게
+COM_MAT.OVL:11e7b8|바깥쪽 낮게
+COM_MAT.OVL:11e7d0|몸쪽 위협구
+COM_MAT.OVL:122348|주자 1
+COM_MAT.OVL:122358|주자 2
+COM_MAT.OVL:122368|주자 3
+COM_MAT.OVL:123bd0|내가 잡아
+COM_MAT.OVL:1264a0|부상 치료 중
+COM_MAT.OVL:1264c8|끝내기!
+COM_MAT.OVL:1264e0|끝내기 홈런!
+COM_MAT.OVL:126500|끝내기 투런 홈런!
+COM_MAT.OVL:126520|끝내기 스리런 홈런!
+COM_MAT.OVL:126540|끝내기 만루 홈런!
+COM_MAT.OVL:126560|끝내기를 잇는 안타!
+COM_MAT.OVL:126580|끝내기 적시타!
+COM_MAT.OVL:1265a0|기사회생의 끝내기 2타점 적시타!
+COM_MAT.OVL:1265d0|주자 싹쓸이 끝내기 3타점 적시타!
+COM_MAT.OVL:126600|끝내기 희생플라이!
+COM_MAT.OVL:126620|절묘한 끝내기 스퀴즈!
+COM_MAT.OVL:126640|끝내기 밀어내기!
+COM_MAT.OVL:126678|귀중한 결승점
+COM_MAT.OVL:126688|결승 홈런
+COM_MAT.OVL:1266a0|결승 투런 홈런
+COM_MAT.OVL:1266c0|결승 스리런 홈런
+COM_MAT.OVL:1266e0|결승 만루 홈런
+COM_MAT.OVL:126700|결승 그라운드 홈런
+COM_MAT.OVL:126720|결승점을 올린 적시타
+COM_MAT.OVL:126740|결승 희생플라이
+COM_MAT.OVL:126760|결승점을 올린 스퀴즈
+COM_MAT.OVL:126780|결승점을 올린 밀어내기
+COM_MAT.OVL:1267a0|오늘 %d홈런으로 대활약
+COM_MAT.OVL:1267c0|오늘 %d타점 활약
+COM_MAT.OVL:1267f0|노히트 노런
+COM_MAT.OVL:126870|완벽한 호투
+COM_MAT.OVL:126880| 무안타로 막은 호투
+COM_MAT.OVL:1268a0| 무실점으로 막은 호투
+COM_MAT.OVL:1268c0| 무사사구 %d피안타 호투
+COM_MAT.OVL:1268e0| %d실점 호투
+COM_MAT.OVL:1268f8|세이브 투수
+COM_MAT.OVL:126910|완벽한 구원투구
+COM_MAT.OVL:126930|무안타로 막은 구원투구
+COM_MAT.OVL:126950|무실점으로 막은 구원투구
+COM_MAT.OVL:126990|%d이닝 무안타
+COM_MAT.OVL:1269a8|%d이닝 무실점
+COM_MAT.OVL:1269c0|%d회 무사구 %d피안타
+COM_MAT.OVL:1269d8|%d회 %d실점
+COM_MAT.OVL:1269f0|으로 막고 승리투수
+COM_MAT.OVL:126b88|1루 주자
+COM_MAT.OVL:126b98|2루 주자
+COM_MAT.OVL:126ba8|3루 주자
+COM_MAT.OVL:126fd0|구종 변경
+MATCH.OVL:c1830|축하합니다!
+MATCH.OVL:c6e40|항복하시겠습니까?
+MATCH.OVL:c6e70|・메인 메뉴로 돌아갑니다.\n・저장되지 않습니다.
+MATCH.OVL:c6eb0|・메인 메뉴로 돌아갑니다.\n・저장되지 않습니다.\n・경기 도중부터 재개할 수 없습니다.
+MATCH.OVL:c6f40|상대가 타임을 요청했습니다.\n잠시 기다려 주세요.
+MATCH.OVL:c7500|내려갈까요?
+MATCH.OVL:c7510|대타 출전을 요청할까요?
+MATCH.OVL:c7530|교체할까요?
+MATCH.OVL:c7540|계속 투구
+MATCH.OVL:c7550|강판
+MATCH.OVL:c7560|출전 요청
+MATCH.OVL:c7570|요청 안 함
+MATCH.OVL:c7580|계속 플레이
+MATCH.OVL:c7590|교체
+MATCH.OVL:c7840|투수 정보
+MATCH.OVL:c7ad0|%s 선수가 대타로 나왔습니다
+MATCH.OVL:c7af0|%s 대주자 출전
+MATCH.OVL:c7b10|%s 선수가 수비에 나섰습니다
+MATCH.OVL:c7b30|%s 투수가 마운드에 올랐습니다
+MATCH.OVL:c7b50|%s 선수 도루 성공
+MATCH.OVL:c7b70|%s 선수 도루 실패
+MATCH.OVL:c7b88|스퀴즈 실패
+MATCH.OVL:c7bd0|포일로 주자가 진루했습니다
+MATCH.OVL:c7c00|%s 선수 벤치로 퇴장
+MATCH.OVL:c7c20|상대 타자를 확실히 막아 주길 바란다.
+MATCH.OVL:c7c50|선발로서 경기를 이끌어 줘. 기대한다.
+MATCH.OVL:c7c80|혼자 갈 수 있는 데까지 가 줘.
+MATCH.OVL:c7cb0|확실히 던져라. 부탁한다.
+MATCH.OVL:c7cd0|이번 이닝만은 막아 줘.
+MATCH.OVL:c7cf0|경기를 망치지 않게 확실히 던져라.
+MATCH.OVL:c7d20|일단 맡긴다.
+MATCH.OVL:c7d40|마무리를 맡긴다. 경기를 확실하게 끝내 줘.
+MATCH.OVL:c7d80|이르지만 끝까지 부탁한다.
+MATCH.OVL:c7da0|과감한 스윙을 보여 주길 바란다.
+MATCH.OVL:c7dd0|히트 앤드 런 사인을 내겠다!
+MATCH.OVL:c7e00|히트 앤드 런 사인이 있다!
+MATCH.OVL:c7e30|히트 앤드 런 사인도 있다!
+MATCH.OVL:c7e60|이번 타석은 희생번트다!
+MATCH.OVL:c7e80|이번 타석은 희생번트 사인이 있다!
+MATCH.OVL:c7eb0|이번 타석은 희생번트 사인도 있다!
+MATCH.OVL:c7ee0|여기는 스퀴즈로 간다!
+MATCH.OVL:c7f00|여기는 스퀴즈가 있다!
+MATCH.OVL:c7f20|여기는 스퀴즈도 있다!
+MATCH.OVL:c7f40|초반부터 주도권을 잡을 선취점 기회다. 부탁한다!
+MATCH.OVL:c7f80|기다리던 선취점 기회다. 부탁한다!
+MATCH.OVL:c7fb0|팽팽한 후반에 찾아온 기회다. 부탁한다!
+MATCH.OVL:c7fe0|이번 이닝에 끝내고 싶다. 부탁한다!
+MATCH.OVL:c8010|초반 주도권을 잡을 기회다. 부탁한다!
+MATCH.OVL:c8040|흐름을 가져올 중요한 순간이다. 부탁한다!
+MATCH.OVL:c8070|승부를 가를 중요한 순간이다. 맡긴다!
+MATCH.OVL:c80a0|경기 후반이다. 이번 득점이 승패를 좌우한다. 부탁한다!
+MATCH.OVL:c80e0|초반에 따라잡을 기회다. 부탁한다!
+MATCH.OVL:c8110|경기 중반이다. 빨리 따라잡고 싶다. 부탁한다!
+MATCH.OVL:c8150|후반에 온 중요한 순간이다. 어떻게든 기회를 살려 줘!
+MATCH.OVL:c81a0|아직 경기를 끝낼 수는 없다. 이 기회를 잡아라!
+MATCH.OVL:c81f0|경기를 끝낼 준비는 됐다. 결정짓고 와라!
+MATCH.OVL:c8230|지금까지 쌓은 실력을 우리에게 보여 주길 바란다.
+MATCH.OVL:c9c70|의 해결사
+MATCH.OVL:c9c90|만루에서 불타오른다! 만루 타율
+MATCH.OVL:c9cb8|의 만루 사나이!
+MATCH.OVL:c9cd0|끝내기 승리의 큰 기회! 끝내기 타율
+MATCH.OVL:c9d00|끝내기 사나이의 진가가 나올까!?
+MATCH.OVL:c9d20|압도적 좌투 타율
+MATCH.OVL:c9d40|최강의 좌완 킬러 등장!
+MATCH.OVL:c9d70|좌투수 상대의 전문가!
+MATCH.OVL:c9da0|타수 연속 안타! 기록은 어디까지 이어질까!
+MATCH.OVL:c9de0|경기 연속 안타 기록 중!
+MATCH.OVL:c9e00|오늘 현재
+MATCH.OVL:c9e10|경기 연속 홈런! 오늘도 한 방을 기대!
+MATCH.OVL:c9e40|경기 연속 출루 중! 이번 경기에도 출루할까!?
+MATCH.OVL:c9e78|지금까지
+MATCH.OVL:c9e90|개의 선두타자 홈런. 누구나 인정하는 돌격대장!
+MATCH.OVL:c9ed0|시즌
+MATCH.OVL:c9ee0|번째 맹타상까지 안타 하나!
+MATCH.OVL:c9f00|지난 시즌은
+MATCH.OVL:c9f10|번의 맹타상을 기록. 이번 타석에도 맹타상일까!
+MATCH.OVL:c9f40|이번 시즌 쌓아 온 안타는
+MATCH.OVL:c9f70|개! 얼마나 더 늘릴까!
+MATCH.OVL:c9f90|방금 홈런으로 지난해에 이어
+MATCH.OVL:c9fc0|지금까지 쌓은 통산 안타는
+MATCH.OVL:c9fe0|개. 대기록의 한 방이 나올까!
+MATCH.OVL:ca000|안타까지 하나! 이번 타석에 달성할까!?
+MATCH.OVL:ca030|2008시즌 종료 시 통산
+MATCH.OVL:ca050|안타를 기록.
+MATCH.OVL:ca060|지금까지 날린 홈런은
+MATCH.OVL:ca080|개. 대기록의 한 방이 나올까!
+MATCH.OVL:ca0a0|하나 더면 통산
+MATCH.OVL:ca0b0|홈런 달성! 이번 타석에서 기념 축포를 쏘아 올릴까!?
+MATCH.OVL:ca0f0|홈런을 기록.
+MATCH.OVL:ca100|현재
+MATCH.OVL:ca110|도루. 오늘 대기록의 도루를 성공할까?
+MATCH.OVL:ca150|달리고 달려 여기까지 통산
+MATCH.OVL:ca170|도루까지 하나! 오늘도 달릴 수 있을까!?
+MATCH.OVL:ca1a0|도루를 기록.
+MATCH.OVL:ca1b0|2008시즌 종료 시 통산 타율
+MATCH.OVL:ca1d8| 기록
+MATCH.OVL:ca200|. 이번 위기도 넘겨 감독의 기대에 보답할까!
+MATCH.OVL:ca230|. 이번 위기를 벗어날 수 있을까!
+MATCH.OVL:ca260|득점권에 주자가 있을 때 피안타율
+MATCH.OVL:ca290|로 위기에 약한 모습. 이번 등판은 어떨까!?
+MATCH.OVL:ca2c8|좌타자 피안타율
+MATCH.OVL:ca2e0|의 압도적인 좌타 킬러!
+MATCH.OVL:ca320|. 이번 대결은 어떨까!?
+MATCH.OVL:ca340|연속 선발승! 연승 기록을 더 늘릴까!?
+MATCH.OVL:ca370|선발로 나서
+MATCH.OVL:ca380|경기 연속 패전투수. 오늘은 연패를 끊을까!
+MATCH.OVL:ca3b0|등판 연속 세이브 중.
+MATCH.OVL:ca3d0|이닝 연속 무실점 중! 오늘도 전광판에 0을 새길까!?
+MATCH.OVL:ca418|지금까지 통산
+MATCH.OVL:ca430|승. 오늘 등판은 어떨까?
+MATCH.OVL:ca450|승을 기록.
+MATCH.OVL:ca460|패를 기록.
+MATCH.OVL:ca470|세이브. 오늘 등판은 어떨까?
+MATCH.OVL:ca498|세이브 기록.
+MATCH.OVL:ca4a8|탈삼진 기록.
+MATCH.OVL:cab10|부상 대타\n
+MATCH.OVL:cb6e0|단타
+MATCH.OVL:cb710|솔로 홈런
+MATCH.OVL:cb720|투런 홈런
+MATCH.OVL:cb740|스리런 홈런
+MATCH.OVL:cb758|만루 홈런
+MATCH.OVL:cb7c0|실책 출루
+MATCH.OVL:cb7d0|야수 선택
+MATCH.OVL:cb810|선두타자 홈런
+MATCH.OVL:cb848|역전 끝내기
+MATCH.OVL:cb890|기회 범타
+MATCH.OVL:cb8a0|위기 탈출
+MATCH.OVL:cb8c0|작전 성공
+MATCH.OVL:cb8d0|작전 실패
+MATCH.OVL:cb8e0|작전 실행
+MATCH.OVL:cb8f0|작전 무시
+MATCH.OVL:cb900|투구 수 보너스
+MATCH.OVL:cb910|투구 코스
+MATCH.OVL:cb9a0|판단 실수
+MATCH.OVL:cb9b8|삼진 병살
+MATCH.OVL:cb9d8|호수비
+MATCH.OVL:cb9f0|실점 실책
+MATCH.OVL:cba08|미출전
+MATCH.OVL:cba18|선발 출전
+MATCH.OVL:cbb18|멀티 안타
+MATCH.OVL:cbb30|사이클링 히트
+MATCH.OVL:cbb70|홀드
+MATCH.OVL:cbbb0|주루・수비 조작
+MATCH.OVL:cbbc8|포수・호리드
+MATCH.OVL:cbc10|QS+두 자릿수 탈삼진
+MATCH.OVL:cd100|오늘 구종/총 %d구
+MTMAN.OVL:a5b8|풀 스윙
+MTMAN.OVL:a5c8|짧게 쳐라
+MTMAN.OVL:a5d8|적극적으로.
+MTMAN.OVL:a5e8|실투를 노려
+MTMAN.OVL:a638|피해 가라
+MTMAN.OVL:a648|삼진 노려
+MTMAN.OVL:a658|맞혀 잡아
+MTMAN.OVL:a6e0|스트라이크로 빨리 몰아붙입니다. '지켜봐'에 유리합니다.
+MTMAN.OVL:a730|볼을 많이 써서 신중히 던집니다. '적극적으로'에 유리합니다.
+MTMAN.OVL:a780|삼진을 노리며 힘으로 승부합니다. '맞히는 데 집중'에 유리합니다.
+MTMAN.OVL:a7d0|타자가 치게 해 잡습니다. '장타를 노려'에 유리합니다.
+MTMAN.OVL:a820|적극적으로 칩니다. '스트라이크 우선'에 유리합니다.
+MTMAN.OVL:a860|공을 신중히 봅니다. '볼 우선'에 유리합니다.
+MTMAN.OVL:a8b0|강공으로 장타를 노립니다. '삼진 노리기'에 유리합니다.
+MTMAN.OVL:a8f0|짧게 컨택 위주로 칩니다. '맞혀 잡기'에 유리합니다.
+MTMAN.OVL:a940|히트 앤드 런을 시도합니다.
+MTMAN.OVL:a960|런 앤드 히트를 시도합니다.
+MTMAN.OVL:a980|투구와 동시에 주자가 출발합니다.
+MTMAN.OVL:a9b0|도루를 시도합니다.
+MTMAN.OVL:a9d0|1루 주자가 도루하고 2루로 송구하는 동안 3루 주자가 홈스틸합니다.
+MTMAN.OVL:aa30|피치아웃으로 공을 뺍니다.
+MTMAN.OVL:aa50|희생번트로 주자를 보냅니다.
+MTMAN.OVL:aa80|기습번트를 시도합니다.
+MTMAN.OVL:aaa0|스퀴즈를 시도합니다.
+MTMAN.OVL:aac0|페이크 번트 앤 슬래시.
+MTMAN.OVL:aae0|땅볼이 구르면 주자가 출발합니다.
+MTMAN.OVL:ab10|고의사구로 타자를 내보냅니다.
+MTMAN.OVL:ab30|희생번트에 1・3루수가 과감하게 돌진합니다.
+MTMAN.OVL:ab70|1루 주자의 2루 도루를 경계합니다. 홈스틸을 막으려면 선택하지 마세요.
+MTMAN.OVL:abd0|도루를 경계합니다.
+MTMAN.OVL:abf0|스퀴즈를 경계합니다.
+MTMAN.OVL:ac10|감독이 투수를 격려합니다.
+MTMAN.OVL:ac30|감독이 타자를 격려합니다.
+MTMAN.OVL:ac50|코치가 마운드로 가서 투수를 진정시킵니다.
+MTMAN.OVL:ac90|모든 공 보기로 바꿉니다.
+MTMAN.OVL:acb0|정위치 수비입니다.
+MTMAN.OVL:acd0|병살 시프트를 취합니다.
+MTMAN.OVL:acf0|중간 수비를 취합니다.
+MTMAN.OVL:ad10|전진 수비를 취합니다.
+MTMAN.OVL:ad30|외야 전진 수비입니다.
+MTMAN.OVL:ad50|팀 방침을 따릅니다.
