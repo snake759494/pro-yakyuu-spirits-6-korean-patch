@@ -97,3 +97,8 @@ python tools/apply_release.py --xdelta .\xdelta3.exe --source '.\Pro Yakyuu Spir
 | `release_manifest.json` | 배포 파일과 원본·결과 해시 |
 
 오역·잘림 신고에는 모드, 화면 위치, 스크린샷, 패치 버전과 새 부팅 여부를 함께 남겨 주세요.
+
+
+## PCSX2 16:9 와이드 패치
+
+각 릴리즈에 와이드 `.pnach` 파일을 함께 제공합니다. [설치·활성화·해제 방법](docs/WIDESCREEN.md)을 참고하세요.
