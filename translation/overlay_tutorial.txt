@@ -105,7 +105,7 @@ TUTORIAL.OVL:296ad|기르는 연습이야!
 TUTORIAL.OVL:29776|볼은 쳐도 강한 타구가 잘 안 되니까
 TUTORIAL.OVL:297da|배트를 휘두르지 않고 골라내자!
 TUTORIAL.OVL:29907|<RGB 0x7c5400>스트라이크 4개<RGB 0x7f7f7f>를 쳐 내면 합격!
-TUTORIAL.OVL:29a34|쉬운 공을 놓치지 않고 치는 게 더 중요해!
+TUTORIAL.OVL:29a34|쉬운 공을 놓치지 않는 게 더 중요해!
 TUTORIAL.OVL:29afd|마지막은 실전 방식이야
 TUTORIAL.OVL:29b61|상대 수비를 뚫고 안타를 치자!
 TUTORIAL.OVL:29c2a|볼과 변화구도 던질 테지만
@@ -127,7 +127,7 @@ TUTORIAL.OVL:2a850|<L-STICK> 왼쪽 스틱으로 야수를 움직여.
 TUTORIAL.OVL:2a97d|<RGB 0x7c5400>뜬공을 잡아 아웃 4개<RGB 0x7f7f7f>를 잡자!
 TUTORIAL.OVL:2aa46|다음은 땅볼 연습이야.
 TUTORIAL.OVL:2aaaa|잡고 던져서 아웃으로 만들어.
-TUTORIAL.OVL:2ab73|타구가 오면 가까이 있는 커서 표시 야수를
+TUTORIAL.OVL:2ab73|타구가 오면 커서 표시된 근처 야수를
 TUTORIAL.OVL:2abd7|<L-STICK> 왼쪽 스틱으로 움직여 공을 잡자.
 TUTORIAL.OVL:2ad04|<RGB 0x7c5400>땅볼 아웃 4개<RGB 0x7f7f7f>면 성공!
 TUTORIAL.OVL:2ae31|많이 반복해서 잘해 보자!

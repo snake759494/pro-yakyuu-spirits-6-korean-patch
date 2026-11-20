@@ -1,5 +1,5 @@
 {
-  "status": "BUILT_AND_SMOKE_TESTED",
+  "status": "BUILT_PENDING_RUNTIME_VERIFICATION",
   "font": "NanumSquareNeo-cBd.ttf",
   "hangul_glyphs": 1268,
   "players_total": 1276,
@@ -52965,7 +52965,7 @@
       "file": "TUTORIAL.OVL",
       "offset": 170548,
       "ja": "簡単な球を逃さず打つのはもっと大切だよ！",
-      "ko": "쉬운 공을 놓치지 않고 치는 게 더 중요해!",
+      "ko": "쉬운 공을 놓치지 않는 게 더 중요해!",
       "bytes": 41
     },
     {
@@ -53915,7 +53915,7 @@
       "file": "TUTORIAL.OVL",
       "offset": 159913,
       "ja": "ボクが指定する変化球で赤い的に当ててね。",
-      "ko": "내가 정한 변화구로 빨간 표적을 맞혀 줘."
+      "ko": "내가 정한 변화구로 빨간 과녁을 맞혀."
     },
     {
       "file": "TUTORIAL.OVL",
@@ -54215,7 +54215,7 @@
       "file": "TUTORIAL.OVL",
       "offset": 174963,
       "ja": "打球がきたら、近くのカーソルが付いた野手を",
-      "ko": "타구가 오면 가까이 있는 커서 표시 야수를"
+      "ko": "타구가 오면 커서 표시된 근처 야수를"
     },
     {
       "file": "TUTORIAL.OVL",
@@ -92012,11 +92012,10 @@
     "SLPM_551.58"
   ],
   "source_sha256": "51bfd7a40f1855470ce3bcb467102cf535707ba1d5d1f1d5b23d4d2c1aab8559",
-  "output_sha256": "5b7a4c5788ac197276e1c1f1a0222a2d3e94e6a4bad261e652a0ac10eea4daa4",
+  "output_sha256": "baad13d06c15acbd74da662abd07ba5887fdcb613042cd943a8dc1fe2ff09dea",
   "source_size": 4424990720,
   "output_size": 4424990720,
   "iso_growth": 0,
-  "runtime_verified": true,
-  "untranslated_players": 0,
-  "runtime_scope": "See runtime_verification.json for exact-build checks and earlier-build evidence; not every season or branch."
+  "runtime_verified": false,
+  "untranslated_players": 0
 }

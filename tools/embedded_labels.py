@@ -51,6 +51,10 @@ def apply(data,cm,label):
         dst=encode(k,cm)+b'\0';assert len(dst)<=len(raw),(f,hex(p),j,k,len(dst),len(raw))
         tags=lambda s:re.findall(r'<[^>]+>|%[-+ #0-9.*]*[a-zA-Z]',s)
         assert tags(j)==tags(k),(j,k)
+        # Tutorial coach dialogue lines (301-byte records) hang the game when a
+        # displayed line exceeds 22 characters (verified in PCSX2: 23 freezes).
+        if f=='TUTORIAL.OVL' and p>=152689:
+            assert len(re.sub(r'<[^>]+>','#',re.sub(r'<RGB[^>]*>','',k)))<=22,('tutorial line >22 chars',hex(p),k)
         out[p:p+len(raw)]=dst.ljust(len(raw),b'\0')
         audit.append(dict(file=f,offset=p,ja=j,ko=k))
     return bytes(out),audit

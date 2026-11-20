@@ -1,10 +1,10 @@
 {
-  "version": "v1.0",
-  "date": "2026-10-03",
+  "version": "v1.1",
+  "date": "2026-11-20",
   "game": "Pro Yakyuu Spirits 6 (Japan)",
   "platform": "PS2",
   "serial": "SLPM-55158",
-  "asset": "ProYakyuuSpirits6_PS2_KO_v1.0.xdelta",
+  "asset": "ProYakyuuSpirits6_PS2_KO_v1.1.xdelta",
   "xdelta_options": "xdelta3 3.1.0 -e -9 -S none -A",
   "source": {
     "bytes": 4424990720,
@@ -14,17 +14,22 @@
   },
   "output": {
     "bytes": 4424990720,
-    "md5": "1f4becde5d49960032a67fc1945d9b57",
-    "sha1": "a14deaa8d55ebde33cd53a3046dba6ed859fdde0",
-    "sha256": "5b7a4c5788ac197276e1c1f1a0222a2d3e94e6a4bad261e652a0ac10eea4daa4"
+    "md5": "b9c57a687299986493c295543241e2e0",
+    "sha1": "cb642db7251d6c472d3d6fb1df8a023cc9799f6d",
+    "sha256": "baad13d06c15acbd74da662abd07ba5887fdcb613042cd943a8dc1fe2ff09dea"
   },
   "patch": {
-    "bytes": 3553272,
-    "md5": "765858e53d688a8d551fd159c94ba3dd",
-    "sha1": "06f28ec1f7c117b63ffe0696f5c1c6befbbc1ba3",
-    "sha256": "9f03db6a17077a22e0e2cd35bbd18dda3b0a543909ea38fbc669a11d92f9c6c0"
+    "bytes": 2865536,
+    "md5": "88d72358e6f52e0365bf8725cf60e24d",
+    "sha1": "5112336ea61844aa47600a8d89a591e06de0aa7e",
+    "sha256": "681906acaea7fc73a5d2e7f5b51951bd7826ab8d47f9db4dabe959c912573b5b"
   },
   "roundtrip_verified": true,
   "runtime_verified": true,
-  "runtime_scope": "Final ISO: fresh boot and pennant. Earlier build: WBC Korea/Japan rosters and live batting. See validation/runtime_verification.json; full season/branch playthrough not completed."
+  "runtime_scope": "v1.1: advanced pitching lesson 5 (former freeze) verified in PCSX2; tutorial lines checked by a 22-char build assert. Earlier: fresh boot, pennant, WBC. Full season/branch playthrough not completed.",
+  "widescreen_pnach": {
+    "name": "SLPM-55158_177876CE.pnach",
+    "elf_crc": "177876CE",
+    "sha256": "d8ae402ab934bcbf0d62d8fb14369513ee9eaf0630542bf165ad3416e8ff9383"
+  }
 }
