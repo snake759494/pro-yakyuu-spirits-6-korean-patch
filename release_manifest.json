@@ -1,10 +1,10 @@
 {
-  "version": "v1.2",
+  "version": "v1.3",
   "date": "2026-11-22",
   "game": "Pro Yakyuu Spirits 6 (Japan)",
   "platform": "PS2",
   "serial": "SLPM-55158",
-  "asset": "ProYakyuuSpirits6_PS2_KO_v1.2.xdelta",
+  "asset": "ProYakyuuSpirits6_PS2_KO_v1.3.xdelta",
   "xdelta_options": "xdelta3 3.1.0 -e -9 -S none -A",
   "source": {
     "bytes": 4424990720,
@@ -14,22 +14,22 @@
   },
   "output": {
     "bytes": 4424990720,
-    "md5": "5648b7a962b0278320e5c889c069bb6a",
-    "sha1": "8666b1de350693e6178d145cab0d5acf3447835f",
-    "sha256": "ba17b60f35f66058b3885ad1789f7685b4512f51fd0b0e6d93264471ea836817"
+    "md5": "9234d5273dd04f316d3f76cb828cff70",
+    "sha1": "7ea6f7c9f9844c5b796a0537c3151edf9d92255c",
+    "sha256": "d1c0d79fb1d83915c84bc0bf7a7bdd20a50849604e109d933549e9ef8db6a45e"
   },
   "patch": {
-    "bytes": 2862072,
-    "md5": "eaecf1fc7f2af375d765bc198a555dd7",
-    "sha1": "db0c0d7f3ae0424d8d012ffb7d7b6ef2cce07af1",
-    "sha256": "28bd6655e4cca2bf03c8533fbc02be070b4b0693a492c52770984b4d4c587bed"
+    "bytes": 2885094,
+    "md5": "ee5dae9cb21b74c70ce9c9c7d571bd3c",
+    "sha1": "d735bbdaea7be510b48d95461c341c4169f047f5",
+    "sha256": "1f16941a050e0119152968e9858c32450e53ef24d721c3d5e11394ad038da9b6"
   },
   "roundtrip_verified": true,
   "runtime_verified": true,
-  "runtime_scope": "v1.2: manager-play match in PCSX2 (score bug letters, nicknames, line score, rest label). Record abbreviations and signature pitch names checked statically. Full season not played.",
+  "runtime_scope": "v1.3: new SCORE.CHK and DEBAN TRN textures checked by decoding them from the built ISO; not yet seen on a running game screen. ELF identical to v1.2.",
   "widescreen_pnach": {
     "name": "SLPM-55158_EE6AB56C.pnach",
     "elf_crc": "EE6AB56C",
-    "sha256": "364d2efcda2db73936011465e432d9aed133ee9cf16dec3bd98d80b20bd74c5b"
+    "sha256": "034542f5197042b7474977c4df2bd718819b0e1b4878ba00de3072c3a7af59ed"
   }
 }

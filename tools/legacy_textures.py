@@ -2,6 +2,8 @@
 import json
 from inventory import WORK
 
+TRN_TITLES=['제%d타석'%i for i in range(1,10)]+['다음 타석','대타','1루 주자','2루 주자','3루 주자','투수','포수','1루수','2루수','3루수','유격수','좌익수','중견수','우익수','선발 등판','구원 등판','남은 3이닝','남은 2이닝','남은 1이닝']
+
 def labels():
     out=[]
     def add(f,t,r,s,z=18,w=True,b=None):
@@ -118,10 +120,17 @@ def labels():
             if f=='DEBAN.CHK':continue
             for i,s in enumerate(['초 · 공격','초 · 수비','말 · 공격','말 · 수비']):add(f[:-4],'TEX02',(0,i*24,110,(i+1)*24),s,20)
             add(f[:-4],'TEX04',(71,99,88,119),'월',16);add(f[:-4],'TEX04',(88,99,105,119),'일',16)
+            # Large appearance title (TRN, 256x64): 第N打席, 代打, fielders, あとNイニング.
+            n=int(f[5:7])
+            if n<len(TRN_TITLES):add(f[:-4],'TRN',(0,0,256,64),TRN_TITLES[n],44)
         if f.startswith('PREKAI') and f!='PREKAIPA.CHK' and f.endswith('.CHK'):
             stem=f[:-4];n=stem[6:]
             s='개막전' if n=='00' else ('최종전' if n=='SF' else str(int(n[1:] if n.startswith('S') else n))+'차전')
             add(stem,'TEX00',(0,0,256,64),s,48)
+    # Big inning/score screen (SCORE.CHK TEN02T): 回表 / 回ウラ / 試合終了 sprites.
+    add('SCORE','TEN02T',(129,34,174,60),'회초',22)
+    add('SCORE','TEN02T',(180,34,234,60),'회말',22)
+    add('SCORE','TEN02T',(150,2,244,30),'경기 종료',22)
     add('GEVENT','TEX04',(103,149,160,177),'전화 수신',17,True,(105,150))
     for t in ['TEX04','TEX05']:add('GEVENT',t,(81,177,174,199),'이토 매니저',16,True,(85,178))
     return [(f,t,l) for f,t,l in out if f in names]

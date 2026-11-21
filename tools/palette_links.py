@@ -33,6 +33,8 @@ def resolve(d,texture):
     if len(matches)==1:return matches[0]
     if key.startswith(b'GAME_GMsitutelop_'):
         return external_palette('GTLPTA00.CHK','PAL00')
+    if b'_GMmvp_deban_turn_' in key and 'PAL02' in pals:
+        return pals['PAL02']
     if key.startswith(b'PRETEM_GMplayball_kaisen_'):
         return external_palette('PREKAIPA.CHK','PAL00')
     if key.startswith(b'AURORA_') and list(pals)==['0000P']:
