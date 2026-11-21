@@ -104,9 +104,13 @@ def labels():
       ['외국인 대포','차세대 에이스','미스터 마린스','팀의 얼굴','주장','토종 대포'],
       ['공수의 핵심','주장','차세대 대포','매 군단의 대포','매 군단의 에이스','매 군단의 선봉'],
       ['기대의 신인','젊은 유망주','믿음직한 베테랑','선발의 기둥','중계 에이스','수호신']]
-    for i,words in enumerate(nicknames):
-        rows('GMLAP%02d'%i,'TEX',words,0,0,256,40,29)
-    rows('GAME2D','TEX19',nicknames[12],0,0,256,40,29)
+    # Nickname strips: six rows over 256 px (42.67 px pitch, as in the
+    # original atlas). A 40 px pitch drifted and showed the next row.
+    def nick(f,t,words):
+        for i,s in enumerate(words):
+            if s:add(f,t,(0,round(i*256/6),256,round((i+1)*256/6)),s if s else ' ',26)
+    for i,words in enumerate(nicknames):nick('GMLAP%02d'%i,'TEX',words)
+    nick('GAME2D','TEX19',nicknames[12])
     names={e['name'] for e in json.loads((WORK/'inventory.json').read_text(encoding='utf-8'))['fbd']}
     for f in sorted(names):
         if f.startswith('DEBAN') and f.endswith('.CHK'):

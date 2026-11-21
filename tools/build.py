@@ -118,6 +118,8 @@ def main():
     chars=sorted(set(chars)|extra_glyphs(ui.values())|extra_glyphs(txc_ui.values())|extra_glyphs(r[2] for r in scoped_translations()))
     chars=sorted(set(chars)|{c for f,p,j,k in short_translations() for c in k if '\uac00'<=c<='\ud7a3'})
     chars=sorted(set(chars)|{c for f,p,j,k in embedded_translations() for c in k if '\uac00'<=c<='\ud7a3'}|extra_glyphs(r[3] for r in embedded_translations()))
+    from pitch_names import translations as pitch_translations
+    chars=sorted(set(chars)|{c for k in pitch_translations().values() for c in k if '가'<=c<='힣'})
     elf,cm,before,after=configure((WORK/'SLPM_551.58').read_bytes(),chars)
     audit_prefix='preflight_' if '--check' in sys.argv else ''
     (OUT/(audit_prefix+'charmap.json')).write_text(json.dumps({c:b.hex() for c,b in cm.items()},ensure_ascii=False,indent=2),encoding='utf-8')
@@ -136,6 +138,8 @@ def main():
         changes+=delta;skipped+=miss
     for label,(name,off) in chunk_sources.items():
         translations={**ui,**txc_ui} if originals[label].startswith(b'TXCPACK ') else ui
+        # Starter/rest settings: オフ is a pitcher's rest day here, not 'off'.
+        if label.startswith('ORDERD.CHK::'):translations={**translations,'オフ':'휴식'}
         patched,delta,miss=patch_strings(originals[label],translations,cm,label)
         if delta:
             asset=bytearray(replacement.get(name,asset_originals[name]))
@@ -159,6 +163,13 @@ def main():
         assert pd[o:o+98]==original_pd[o:o+98]
         assert pd[o+140:o+180]==original_pd[o+140:o+180]
     assert pd[231456:]==original_pd[231456:]
+    # Signature pitch names: rewrite only the name field and its zero padding.
+    from pitch_names import apply as patch_pitch_names,spans as pitch_spans
+    before_pitch=bytes(pd);pd=bytearray(patch_pitch_names(bytes(pd),cm)[0])
+    keep=bytearray(before_pitch)
+    for s,e,j,k in pitch_spans(original_pd):keep[s:e]=pd[s:e]
+    assert bytes(keep)==bytes(pd)
+    changes+=patch_pitch_names(before_pitch,cm)[1]
     replacement['PLAYERDATA.CHK']=bytes(pd)
     replacement['COM_SEL.OVL'],scoped_audit=patch_scoped_names(replacement.get('COM_SEL.OVL',originals['COM_SEL.OVL']),cm)
     changes+=scoped_audit
@@ -167,6 +178,8 @@ def main():
     patch_menu_textures(replacement)
     from mode_textures import apply as patch_mode_textures
     mode_atlases=patch_mode_textures(replacement)
+    from team_marks import apply as patch_team_marks
+    patch_team_marks(replacement)
     for name in ['BBFONT.CHK','MENU2D.CHK','BBFONTG.CHK','KFONT.CHK']:
         patched,count=patch_font(replacement.get(name,(WORK/'assets'/name).read_bytes()),chars,before,after)
         assert count==1

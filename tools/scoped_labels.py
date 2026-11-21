@@ -51,10 +51,17 @@ def translations():
                 except UnicodeDecodeError:continue
                 k=MAP.get(j)
                 if f=='SLPM_551.58' and 0x2f4fc0<=start<0x2f5390:
-                    k={'燕':'야','巨':'거','中':'주','広':'히','横':'요','神':'한','楽':'라','日':'닛','西':'세','湘':'쇼','韓':'한','台':'대'}.get(j)
+                    k={'燕':'야','巨':'거','中':'주','広':'히','横':'요','神':'한','楽':'라','日':'닛','西':'세','湘':'쇼','韓':'한','台':'대','ヤ':'야','オ':'오','ロ':'롯','ソ':'소','セ':'센','パ':'퍼','サ':'서','イ':'이','ウ':'웨'}.get(j)
                 if f=='SLPM_551.58' and 0x2e7fc0<=start<0x2e8140:
                     k={'闘':'투','魂':'혼','こ':'을','め':'담','て':'아','一':'일','球':'구','入':'입'}.get(j)
-                if f=='SLPM_551.58' and start==0x2fbd58:k='볼' # Four balls, not numeral four.
+                # Play-by-play record cells (position + result), Naver-style:
+                # 1땅 (ground out), 우비 (fly out), 투희번 (sac bunt), 좌희비 (sac fly), 4구 (walk).
+                if f=='SLPM_551.58':
+                    k={0x2fbd00:'땅',0x2fbd08:'비',0x2fbd40:'희번',0x2fbd48:'희비',0x2fbd58:'4'}.get(start,k)
+                # Line-score team names (8-byte slots, max three syllables).
+                if f=='SLPM_551.58' and 0x2f5128<=start<0x2f5198:
+                    k={'巨　人':'거　인','中　日':'주니치','広　島':'히　로','横　浜':'요　코','阪　神':'한　신','楽　天':'라쿠텐','西　武':'세이부',
+                       '全　セ':'전　센','全　パ':'전　퍼','湘　南':'쇼　난','全　イ':'전　이','全　ウ':'전　웨','中　国':'중　국','韓　国':'한　국'}.get(j)
                 if k is not None:rows.append((f,start,j,k))
     return rows
 

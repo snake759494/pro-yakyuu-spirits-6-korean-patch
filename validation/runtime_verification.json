@@ -1,16 +1,35 @@
 {
-  "tested_iso_sha256": "baad13d06c15acbd74da662abd07ba5887fdcb613042cd943a8dc1fe2ff09dea",
+  "tested_iso_sha256": "ba17b60f35f66058b3885ad1789f7685b4512f51fd0b0e6d93264471ea836817",
   "emulator": "PCSX2 v2.9.93",
   "checks": {
-    "advanced_pitching_lesson5_no_freeze": true,
-    "tutorial_line_limit_22_build_assert": true,
-    "complete_game": false,
-    "complete_season": false
+    "boot": true,
+    "manager_play_match": true,
+    "scorebug_team_letters_korean": true,
+    "nickname_strip_no_overlap": true,
+    "line_score_team_names_korean": true,
+    "starter_rest_label": true,
+    "record_cell_abbreviations": false,
+    "signature_pitch_name_ingame": false,
+    "complete_game": false
   },
   "evidence_files": [
-    "v11_advanced_pitch_lesson5_ok.png"
+    "v12_scorebug_nickname.png",
+    "v12_rest_label.png"
   ],
   "additional_build_checks": [
+    {
+      "tested_iso_sha256": "baad13d06c15acbd74da662abd07ba5887fdcb613042cd943a8dc1fe2ff09dea",
+      "emulator": "PCSX2 v2.9.93",
+      "checks": {
+        "advanced_pitching_lesson5_no_freeze": true,
+        "tutorial_line_limit_22_build_assert": true,
+        "complete_game": false,
+        "complete_season": false
+      },
+      "evidence_files": [
+        "v11_advanced_pitch_lesson5_ok.png"
+      ]
+    },
     {
       "tested_iso_sha256": "5b7a4c5788ac197276e1c1f1a0222a2d3e94e6a4bad261e652a0ac10eea4daa4",
       "emulator": "PCSX2 v2.9.93",
@@ -147,5 +166,5 @@
       "evidence_prefix": "vbdfa_"
     }
   ],
-  "notes": "v1.1: tutorial advanced-lesson freeze fixed. Root cause: a coach dialogue line over 22 displayed characters hangs the message box (PCSX2 bisection: 23 chars freeze, 22 ok, independent of glyphs/punctuation). 3 lines shortened (TUTORIAL.OVL 0x270a9 pitching, 0x29a34 batting, 0x2ab73 fielding); build now asserts the limit. Lesson-5 text from the final ISO was injected into the advanced pitching lesson 5 state and passed; batting/fielding lessons covered by the same limit, not played through. Fresh boot of the final ISO. Final pennant checks are listed above; WBC live-game evidence is explicitly tied to its earlier ISO hash. Font character mapping is unchanged, and all final UI/player bytes and all 4441 FBD entries passed readback verification. No claim that every season, event branch, or match was played. The isolated test card lacked free space for a pennant save; the user memory card was not changed."
+  "notes": "v1.2 (user report): score-bug team letters (TEAM_*::UP04T) redrawn, nickname strips re-laid on the original 42.67px pitch, line-score team names, rest-day label, record abbreviations (ゴ땅/飛비/ギ희번/犠희비/四4), signature pitch names. Record cells and pitch names verified statically only. v1.1: tutorial advanced-lesson freeze fixed. Root cause: a coach dialogue line over 22 displayed characters hangs the message box (PCSX2 bisection: 23 chars freeze, 22 ok, independent of glyphs/punctuation). 3 lines shortened (TUTORIAL.OVL 0x270a9 pitching, 0x29a34 batting, 0x2ab73 fielding); build now asserts the limit. Lesson-5 text from the final ISO was injected into the advanced pitching lesson 5 state and passed; batting/fielding lessons covered by the same limit, not played through. Fresh boot of the final ISO. Final pennant checks are listed above; WBC live-game evidence is explicitly tied to its earlier ISO hash. Font character mapping is unchanged, and all final UI/player bytes and all 4441 FBD entries passed readback verification. No claim that every season, event branch, or match was played. The isolated test card lacked free space for a pennant save; the user memory card was not changed."
 }

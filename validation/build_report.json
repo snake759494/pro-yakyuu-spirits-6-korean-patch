@@ -1283,7 +1283,7 @@
     1275
   ],
   "wbc_display_names_translated": 448,
-  "strings_applied": 13140,
+  "strings_applied": 13183,
   "loading_tips_translated": 90,
   "additional_mode_atlases": 584,
   "txc_additional_unique_labels": 453,
@@ -9431,6 +9431,90 @@
     },
     {
       "file": "SLPM_551.58",
+      "offset": 3100968,
+      "ja": "巨　人",
+      "ko": "거　인"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3100976,
+      "ja": "中　日",
+      "ko": "주니치"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3100984,
+      "ja": "広　島",
+      "ko": "히　로"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3100992,
+      "ja": "横　浜",
+      "ko": "요　코"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101000,
+      "ja": "阪　神",
+      "ko": "한　신"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101008,
+      "ja": "楽　天",
+      "ko": "라쿠텐"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101016,
+      "ja": "西　武",
+      "ko": "세이부"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101024,
+      "ja": "全　セ",
+      "ko": "전　센"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101032,
+      "ja": "全　パ",
+      "ko": "전　퍼"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101040,
+      "ja": "湘　南",
+      "ko": "쇼　난"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101048,
+      "ja": "全　イ",
+      "ko": "전　이"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101056,
+      "ja": "全　ウ",
+      "ko": "전　웨"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101064,
+      "ja": "中　国",
+      "ko": "중　국"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101072,
+      "ja": "韓　国",
+      "ko": "한　국"
+    },
+    {
+      "file": "SLPM_551.58",
       "offset": 3101416,
       "ja": "巨",
       "ko": "거"
@@ -9446,6 +9530,12 @@
       "offset": 3101432,
       "ja": "広",
       "ko": "히"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101440,
+      "ja": "ヤ",
+      "ko": "야"
     },
     {
       "file": "SLPM_551.58",
@@ -9479,9 +9569,57 @@
     },
     {
       "file": "SLPM_551.58",
+      "offset": 3101488,
+      "ja": "オ",
+      "ko": "오"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101496,
+      "ja": "ロ",
+      "ko": "롯"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101504,
+      "ja": "ソ",
+      "ko": "소"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101512,
+      "ja": "セ",
+      "ko": "센"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101520,
+      "ja": "パ",
+      "ko": "퍼"
+    },
+    {
+      "file": "SLPM_551.58",
       "offset": 3101528,
       "ja": "湘",
       "ko": "쇼"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101536,
+      "ja": "サ",
+      "ko": "서"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101544,
+      "ja": "イ",
+      "ko": "이"
+    },
+    {
+      "file": "SLPM_551.58",
+      "offset": 3101552,
+      "ja": "ウ",
+      "ko": "웨"
     },
     {
       "file": "SLPM_551.58",
@@ -9659,9 +9797,15 @@
     },
     {
       "file": "SLPM_551.58",
+      "offset": 3128576,
+      "ja": "ゴ",
+      "ko": "땅"
+    },
+    {
+      "file": "SLPM_551.58",
       "offset": 3128584,
       "ja": "飛",
-      "ko": "뜬"
+      "ko": "비"
     },
     {
       "file": "SLPM_551.58",
@@ -9701,15 +9845,21 @@
     },
     {
       "file": "SLPM_551.58",
+      "offset": 3128640,
+      "ja": "ギ",
+      "ko": "희번"
+    },
+    {
+      "file": "SLPM_551.58",
       "offset": 3128648,
       "ja": "犠",
-      "ko": "희"
+      "ko": "희비"
     },
     {
       "file": "SLPM_551.58",
       "offset": 3128664,
       "ja": "四",
-      "ko": "볼"
+      "ko": "4"
     },
     {
       "file": "SLPM_551.58",
@@ -80711,7 +80861,7 @@
       "file": "ORDERD.CHK::TXC00",
       "offset": 252,
       "ja": "オフ",
-      "ko": "끔",
+      "ko": "휴식",
       "bytes": 5
     },
     {
@@ -80907,7 +81057,7 @@
       "file": "ORDERD.CHK::TXC13",
       "offset": 612,
       "ja": "オフ",
-      "ko": "끔",
+      "ko": "휴식",
       "bytes": 5
     },
     {
@@ -87813,6 +87963,114 @@
       "bytes": 9
     },
     {
+      "file": "PLAYERDATA.CHK",
+      "offset": 3684,
+      "ja": "フェイク",
+      "ko": "페이크"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 237108,
+      "ja": "フェイク",
+      "ko": "페이크"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 30324,
+      "ja": "高速スライダー",
+      "ko": "고속 슬라이더"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 247764,
+      "ja": "高速スライダー",
+      "ko": "고속 슬라이더"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 39324,
+      "ja": "カツオカーブ",
+      "ko": "가쓰오 커브"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 251364,
+      "ja": "カツオカーブ",
+      "ko": "가쓰오 커브"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 94224,
+      "ja": "スライダー",
+      "ko": "슬라이더"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 273324,
+      "ja": "スライダー",
+      "ko": "슬라이더"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 103404,
+      "ja": "ストレート",
+      "ko": "직구"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 276996,
+      "ja": "ストレート",
+      "ko": "직구"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 114564,
+      "ja": "ゼロボール",
+      "ko": "제로볼"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 281460,
+      "ja": "ゼロボール",
+      "ko": "제로볼"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 133104,
+      "ja": "チェリーカーブ",
+      "ko": "체리 커브"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 288876,
+      "ja": "チェリーカーブ",
+      "ko": "체리 커브"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 135084,
+      "ja": "ツーシームファスト",
+      "ko": "투심 패스트"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 289668,
+      "ja": "ツーシームファスト",
+      "ko": "투심 패스트"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 135444,
+      "ja": "イーファスピッチ",
+      "ko": "이퓨스 피치"
+    },
+    {
+      "file": "PLAYERDATA.CHK",
+      "offset": 289812,
+      "ja": "イーファスピッチ",
+      "ko": "이퓨스 피치"
+    },
+    {
       "file": "COM_SEL.OVL",
       "offset": 1130352,
       "ja": "リンフェン",
@@ -92012,7 +92270,7 @@
     "SLPM_551.58"
   ],
   "source_sha256": "51bfd7a40f1855470ce3bcb467102cf535707ba1d5d1f1d5b23d4d2c1aab8559",
-  "output_sha256": "baad13d06c15acbd74da662abd07ba5887fdcb613042cd943a8dc1fe2ff09dea",
+  "output_sha256": "ba17b60f35f66058b3885ad1789f7685b4512f51fd0b0e6d93264471ea836817",
   "source_size": 4424990720,
   "output_size": 4424990720,
   "iso_growth": 0,

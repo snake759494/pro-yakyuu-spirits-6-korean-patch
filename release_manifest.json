@@ -1,10 +1,10 @@
 {
-  "version": "v1.1",
-  "date": "2026-11-20",
+  "version": "v1.2",
+  "date": "2026-11-22",
   "game": "Pro Yakyuu Spirits 6 (Japan)",
   "platform": "PS2",
   "serial": "SLPM-55158",
-  "asset": "ProYakyuuSpirits6_PS2_KO_v1.1.xdelta",
+  "asset": "ProYakyuuSpirits6_PS2_KO_v1.2.xdelta",
   "xdelta_options": "xdelta3 3.1.0 -e -9 -S none -A",
   "source": {
     "bytes": 4424990720,
@@ -14,22 +14,22 @@
   },
   "output": {
     "bytes": 4424990720,
-    "md5": "b9c57a687299986493c295543241e2e0",
-    "sha1": "cb642db7251d6c472d3d6fb1df8a023cc9799f6d",
-    "sha256": "baad13d06c15acbd74da662abd07ba5887fdcb613042cd943a8dc1fe2ff09dea"
+    "md5": "5648b7a962b0278320e5c889c069bb6a",
+    "sha1": "8666b1de350693e6178d145cab0d5acf3447835f",
+    "sha256": "ba17b60f35f66058b3885ad1789f7685b4512f51fd0b0e6d93264471ea836817"
   },
   "patch": {
-    "bytes": 2865536,
-    "md5": "88d72358e6f52e0365bf8725cf60e24d",
-    "sha1": "5112336ea61844aa47600a8d89a591e06de0aa7e",
-    "sha256": "681906acaea7fc73a5d2e7f5b51951bd7826ab8d47f9db4dabe959c912573b5b"
+    "bytes": 2862072,
+    "md5": "eaecf1fc7f2af375d765bc198a555dd7",
+    "sha1": "db0c0d7f3ae0424d8d012ffb7d7b6ef2cce07af1",
+    "sha256": "28bd6655e4cca2bf03c8533fbc02be070b4b0693a492c52770984b4d4c587bed"
   },
   "roundtrip_verified": true,
   "runtime_verified": true,
-  "runtime_scope": "v1.1: advanced pitching lesson 5 (former freeze) verified in PCSX2; tutorial lines checked by a 22-char build assert. Earlier: fresh boot, pennant, WBC. Full season/branch playthrough not completed.",
+  "runtime_scope": "v1.2: manager-play match in PCSX2 (score bug letters, nicknames, line score, rest label). Record abbreviations and signature pitch names checked statically. Full season not played.",
   "widescreen_pnach": {
-    "name": "SLPM-55158_177876CE.pnach",
-    "elf_crc": "177876CE",
-    "sha256": "d8ae402ab934bcbf0d62d8fb14369513ee9eaf0630542bf165ad3416e8ff9383"
+    "name": "SLPM-55158_EE6AB56C.pnach",
+    "elf_crc": "EE6AB56C",
+    "sha256": "364d2efcda2db73936011465e432d9aed133ee9cf16dec3bd98d80b20bd74c5b"
   }
 }
