@@ -94,6 +94,21 @@ def paint(tex,pal,labels):
             background=original.getpixel(item[4]) if len(item)>4 else (0,0,0,0)
             canvas=Image.new('RGBA',(w,h),background)
         draw=ImageDraw.Draw(canvas)
+        if white=='thin':
+            # Small in-game badges: crisp 1-bit white glyphs like the original
+            # atlas (no outline, no antialiasing, which blur at this size).
+            draw.fontmode='1'
+            font=None
+            for path,sz in [('C:/Windows/Fonts/gulim.ttc',size)]+[('C:/Windows/Fonts/malgun.ttf',z) for z in range(size,8,-1)]:
+                f=ImageFont.truetype(path,sz);bb=draw.textbbox((0,0),text,font=f)
+                if bb[2]-bb[0]<=w-1 and bb[3]-bb[1]<=h:font=f;break
+            assert font,(text,rect)
+            x=(w-(bb[2]-bb[0]))//2-bb[0];y=(h-(bb[3]-bb[1]))//2-bb[1]
+            draw.text((x,y),text,font=font,fill='white')
+            rgba=np.asarray(canvas).reshape(-1,4).astype(np.float32);rgba[:,:3]*=rgba[:,3:4]/255
+            dist=((rgba[:,None,:]-pv[None,:,:])**2).sum(axis=2)
+            a[y0:y1,x0:x1]=dist.argmin(axis=1).reshape(h,w).astype(np.uint8)
+            continue
         stroke=1 if white else 0
         while True:
             font=ImageFont.truetype(str(ROOT/'NanumSquareNeo-cBd.ttf'),size)
@@ -163,11 +178,11 @@ def apply(replacement):
         ['큰판','요동','제구'],
     ]):
         for col,s in enumerate(names):
-            if s:skills.append(((col*32,row*20,min(col*32+32,256),row*20+20),s,14,True))
+            if s:skills.append(((col*32,row*20,min(col*32+32,256),row*20+20),s,14,'thin'))
     extras.extend([
         ('EXSETUP.CHK','IMGT06','IMGP06',[((53,124,84,140),'느림',14,True,(55,141)),((211,124,242,140),'빠름',14,True,(214,141))]),
         ('GAME2D.CHK','TEX00','PAL00',skills),
-        ('GAME2D.CHK','TEX06','PAL06',[((70,0,98,16),'장타',13,True),((98,0,128,16),'대우',13,True),((70,17,98,34),'주력',13,True),((98,17,128,34),'번트',13,True),((70,35,98,52),'대좌',13,True)]),
+        ('GAME2D.CHK','TEX06','PAL06',[((70,0,98,16),'장타',13,'thin'),((98,0,128,16),'대우',13,'thin'),((70,17,98,34),'주력',13,'thin'),((98,17,128,34),'번트',13,'thin'),((70,35,98,52),'대좌',13,'thin')]),
         ('GAME2D.CHK','TEX03','PAL03',[
             ((0,i*20,36,i*20+19),s,15,False,(2,2+i*20)) for i,s in enumerate(['선발','2번','3번','4번','5번','6번','7번','8번','9번','투수','타자'])
         ]+[((40,i*20,74,i*20+19),s,15,False,(2,2)) for i,s in enumerate(['1주','2주','3주'])]
