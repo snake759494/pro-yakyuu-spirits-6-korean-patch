@@ -97,14 +97,20 @@ def paint(tex,pal,labels):
         if white=='thin':
             # Small in-game badges: crisp 1-bit white glyphs like the original
             # atlas (no outline, no antialiasing, which blur at this size).
-            draw.fontmode='1'
-            font=None
-            for path,sz in [('C:/Windows/Fonts/gulim.ttc',size)]+[('C:/Windows/Fonts/malgun.ttf',z) for z in range(size,8,-1)]:
-                f=ImageFont.truetype(path,sz);bb=draw.textbbox((0,0),text,font=f)
-                if bb[2]-bb[0]<=w-1 and bb[3]-bb[1]<=h:font=f;break
-            assert font,(text,rect)
-            x=(w-(bb[2]-bb[0]))//2-bb[0];y=(h-(bb[3]-bb[1]))//2-bb[1]
-            draw.text((x,y),text,font=font,fill='white')
+            # On light badges the game paints the glyph black and thickens it
+            # by about one screen pixel, so strokes need wide gaps. Gulim's
+            # 1px strokes, one syllable per slot, keep the counters open.
+            n=len(text);slot=(w-2)//n
+            for i,ch in enumerate(text):
+                sz=16 if n<3 else 13
+                while True:
+                    f=ImageFont.truetype('C:/Windows/Fonts/gulim.ttc',sz)
+                    g=Image.new('L',(sz+6,sz+6),0);gd=ImageDraw.Draw(g);gd.fontmode='1';gd.text((3,3),ch,font=f,fill=255)
+                    g=g.crop(g.getbbox())
+                    if g.height<=h-1 and (n>=3 or g.width<=slot):break
+                    sz-=1;assert sz>=9,(text,rect)
+                if g.width>slot:g=g.resize((slot,g.height),Image.NEAREST)
+                canvas.paste((255,255,255,255),(1+i*slot+(slot-g.width)//2,(h-g.height)//2),g)
             rgba=np.asarray(canvas).reshape(-1,4).astype(np.float32);rgba[:,:3]*=rgba[:,3:4]/255
             dist=((rgba[:,None,:]-pv[None,:,:])**2).sum(axis=2)
             a[y0:y1,x0:x1]=dist.argmin(axis=1).reshape(h,w).astype(np.uint8)

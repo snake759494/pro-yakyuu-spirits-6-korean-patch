@@ -1,10 +1,10 @@
 {
-  "version": "v1.4",
+  "version": "v1.5",
   "date": "2026-11-22",
   "game": "Pro Yakyuu Spirits 6 (Japan)",
   "platform": "PS2",
   "serial": "SLPM-55158",
-  "asset": "ProYakyuuSpirits6_PS2_KO_v1.4.xdelta",
+  "asset": "ProYakyuuSpirits6_PS2_KO_v1.5.xdelta",
   "xdelta_options": "xdelta3 3.1.0 -e -9 -S none -A",
   "source": {
     "bytes": 4424990720,
@@ -14,22 +14,22 @@
   },
   "output": {
     "bytes": 4424990720,
-    "md5": "9809b8d5e5f1ff9caccf67529ec4d428",
-    "sha1": "d04e5fd4c5243fb271345921b14d2b03ec739e56",
-    "sha256": "a824b021ac28acf037f38b4e4e2c209671d70c8abb53e8853a7a96db6f5c0a18"
+    "md5": "7fe2fab028a9de4410bd5c99192246ff",
+    "sha1": "25beb9d4256a6356b355b8b48b8428ade59edef2",
+    "sha256": "15dcd49564e172d9b237f885db5ead61bb42873af3c0ea089e948098da2ed6b2"
   },
   "patch": {
-    "bytes": 2878901,
-    "md5": "9fac6722da601afcd182a7a129ca959f",
-    "sha1": "0f53063cd66af9f107eaa5fc91fad4e2a2a0765d",
-    "sha256": "ea31caf8964e8b697cb3949a89eae804c5fa2700e90334e06feb9dfc201fbd87"
+    "bytes": 2879423,
+    "md5": "9a15f32cdfb0e596e73aaf6d3e140ed8",
+    "sha1": "8532bf3004dcc59b72cf57d42f65c9462226a85b",
+    "sha256": "fc7be77887fed8e56779e33a39e6012afd1fede385145e3ec784362a63b82b49"
   },
   "roundtrip_verified": true,
   "runtime_verified": true,
-  "runtime_scope": "v1.4: ability badges and radar labels checked on a PCSX2 game screen. v1.3 banner textures checked from the built ISO only. ELF identical to v1.2.",
+  "runtime_scope": "v1.5: fresh boot into a field-play game in PCSX2; light ability badges and the appearance title (제1타석) checked on screen. Big score banner checked from the built ISO only. ELF identical to v1.2.",
   "widescreen_pnach": {
     "name": "SLPM-55158_EE6AB56C.pnach",
     "elf_crc": "EE6AB56C",
-    "sha256": "9ea1df298663764262ec07f0b9d0fb68c763f99c10601ca5e0f80079e8b84c98"
+    "sha256": "8b23df6429bb5d9db33bddb4198f810f362d5ab5178ebc0a0947e44daf2969f3"
   }
 }

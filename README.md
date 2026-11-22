@@ -1,10 +1,10 @@
 # 프로야구 스피리츠 6 PS2 한글패치
 
-PS2 일본판 **プロ野球スピリッツ6 (Pro Yakyuu Spirits 6, SLPM-55158)** 용 비공식 한국어 패치입니다. 메뉴·도움말·이벤트 대사·선수 이름·이미지 글자를 한글화했습니다. 현재 배포판은 **v1.4 (2026-11-22)** 입니다.
+PS2 일본판 **プロ野球スピリッツ6 (Pro Yakyuu Spirits 6, SLPM-55158)** 용 비공식 한국어 패치입니다. 메뉴·도움말·이벤트 대사·선수 이름·이미지 글자를 한글화했습니다. 현재 배포판은 **v1.5 (2026-11-22)** 입니다.
 
 [패치 다운로드](https://github.com/snake759494/pro-yakyuu-spirits-6-korean-patch/releases/latest) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
 
-릴리즈 첨부 파일은 **ProYakyuuSpirits6_PS2_KO_v1.4.xdelta 하나**입니다. 저장소에는 제작 도구·번역 대역표·검증 자료를 공개합니다. 원본 및 완성 ISO, 추출된 게임 바이너리·이미지·음성·영상, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다.
+릴리즈 첨부 파일은 **ProYakyuuSpirits6_PS2_KO_v1.5.xdelta 하나**입니다. 저장소에는 제작 도구·번역 대역표·검증 자료를 공개합니다. 원본 및 완성 ISO, 추출된 게임 바이너리·이미지·음성·영상, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다.
 
 > `translation/`에는 대사와 선수 소개 등 번역 대역표가 있으므로 **스포일러**가 포함됩니다.
 > 최종 ISO의 부팅·페넌트 화면과 앞선 빌드의 WBC 한일전 실행을 확인했습니다. 전체 경기·시즌·이벤트 분기를 완주한 검수판은 아닙니다. 빌드별 확인 범위는 [실행 검증 기록](validation/runtime_verification.json)에 구분했습니다.
@@ -20,11 +20,11 @@ PS2 일본판 **プロ野球スピリッツ6 (Pro Yakyuu Spirits 6, SLPM-55158)*
 | **원본 ISO MD5** | `3c879d2082b2406dae1bfb71eab9b6d7` |
 | 원본 ISO SHA-1 | `607c5e9b3cc65e6dc8336c8589c11b8768348575` |
 | 원본 ISO SHA-256 | `51bfd7a40f1855470ce3bcb467102cf535707ba1d5d1f1d5b23d4d2c1aab8559` |
-| xdelta 크기 | 2,878,901 바이트 |
-| xdelta SHA-256 | `ea31caf8964e8b697cb3949a89eae804c5fa2700e90334e06feb9dfc201fbd87` |
+| xdelta 크기 | 2,879,423 바이트 |
+| xdelta SHA-256 | `fc7be77887fed8e56779e33a39e6012afd1fede385145e3ec784362a63b82b49` |
 | 결과 ISO 크기 | 4,424,990,720 바이트 |
-| 결과 ISO SHA-1 | `d04e5fd4c5243fb271345921b14d2b03ec739e56` |
-| 결과 ISO SHA-256 | `a824b021ac28acf037f38b4e4e2c209671d70c8abb53e8853a7a96db6f5c0a18` |
+| 결과 ISO SHA-1 | `25beb9d4256a6356b355b8b48b8428ade59edef2` |
+| 결과 ISO SHA-256 | `15dcd49564e172d9b237f885db5ead61bb42873af3c0ea089e948098da2ed6b2` |
 
 ## 패치 적용 방법
 
@@ -38,7 +38,7 @@ Get-FileHash -Algorithm MD5 -LiteralPath '.\Pro Yakyuu Spirits 6 (Japan).iso'
 
 ### xdelta UI 사용
 
-1. 릴리즈에서 `ProYakyuuSpirits6_PS2_KO_v1.4.xdelta`를 받습니다.
+1. 릴리즈에서 `ProYakyuuSpirits6_PS2_KO_v1.5.xdelta`를 받습니다.
 2. xdelta3 패치를 지원하는 도구의 **Apply Patch**를 엽니다.
 3. **Patch**에 xdelta, **Source File**에 해시가 일치하는 원본 ISO를 선택합니다.
 4. **Output File**에 원본과 같은 폴더의 `Pro Yakyuu Spirits 6 (Japan) (Korean DEV).iso`를 지정합니다. 원본을 덮어쓰지 마세요.
@@ -48,13 +48,13 @@ Get-FileHash -Algorithm MD5 -LiteralPath '.\Pro Yakyuu Spirits 6 (Japan).iso'
 ### 명령줄 사용
 
 ```powershell
-.\xdelta3.exe -d -s '.\Pro Yakyuu Spirits 6 (Japan).iso' '.\ProYakyuuSpirits6_PS2_KO_v1.4.xdelta' '.\Pro Yakyuu Spirits 6 (Japan) (Korean DEV).iso'
+.\xdelta3.exe -d -s '.\Pro Yakyuu Spirits 6 (Japan).iso' '.\ProYakyuuSpirits6_PS2_KO_v1.5.xdelta' '.\Pro Yakyuu Spirits 6 (Japan) (Korean DEV).iso'
 ```
 
 해시 자동 검사 적용기(Python 3 + xdelta3, 기존 출력 파일 덮어쓰기 금지):
 
 ```powershell
-python tools/apply_release.py --xdelta .\xdelta3.exe --source '.\Pro Yakyuu Spirits 6 (Japan).iso' --patch .\ProYakyuuSpirits6_PS2_KO_v1.4.xdelta --output '.\Pro Yakyuu Spirits 6 (Japan) (Korean DEV).iso'
+python tools/apply_release.py --xdelta .\xdelta3.exe --source '.\Pro Yakyuu Spirits 6 (Japan).iso' --patch .\ProYakyuuSpirits6_PS2_KO_v1.5.xdelta --output '.\Pro Yakyuu Spirits 6 (Japan) (Korean DEV).iso'
 ```
 
 ### PCSX2에서 실행
