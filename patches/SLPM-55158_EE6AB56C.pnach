@@ -1,11 +1,11 @@
-gametitle=Pro Yakyuu Spirits 6 (Japan) Korean v1.2-v1.5 (SLPM-55158)
+gametitle=Pro Yakyuu Spirits 6 (Japan) Korean v1.2-v1.6 (SLPM-55158)
 // Original widescreen code by 99skull; Korean ELF CRC adaptation
 // Source: https://github.com/PCSX2/pcsx2_patches/blob/main/patches/SLPM-55158_1429EB9F.pnach
-// Verified for Korean v1.2-v1.5 (same ELF): ELF CRC EE6AB56C, 4 target instructions identical to the original
+// Verified for Korean v1.2-v1.6 (same ELF): ELF CRC EE6AB56C, 4 target instructions identical to the original
 
 [Widescreen 16:9]
 author=99skull
-description=16:9 camera patch for the Korean v1.2-v1.5 ISO (CRC EE6AB56C)
+description=16:9 camera patch for the Korean v1.2-v1.6 ISO (CRC EE6AB56C)
 gsaspectratio=16:9
 patch=1,EE,0014CB88,word,3C013F2A
 patch=1,EE,0014CBC0,word,44819800

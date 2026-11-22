@@ -30,7 +30,7 @@ def apply(replacement):
                 e=entries[name];src.seek(e['offset']);data=src.read(e['size'])
             d={n:(o,b) for n,o,b in chunks(data)}
             off,tex=d['UP04T'];pal=d['UP04P'][1]
-            new=paint(tex,pal,[((0,0,32,32),mark,26,True)])
+            new=paint(tex,pal,[((0,0,32,32),' ',10,True),((0,0,23,22),mark,17,True)])
             out=bytearray(data);out[off:off+len(tex)]=new
             replacement[name]=bytes(out);done+=1
     return done
