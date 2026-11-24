@@ -10,7 +10,7 @@ from kfont import encode
 RANGES={
  'SLPM_551.58':[(0x2e7fc0,0x2e8140),(0x2f4fc0,0x2f5390),(0x2fa300,0x2fa358),(0x2fb580,0x2fb5a0),(0x2fbc70,0x2fbd98),(0x3016d0,0x3017d0)],
  'COM_MAT.OVL':[(0x11d800,0x127000)],
- 'COM_SEL.OVL':[(0x10ac00,0x10c300),(0x118800,0x124a00),(0x128970,0x129e00),(0x12ad60,0x12dd00)],
+ 'COM_SEL.OVL':[(0x10ac00,0x10c300),(0x118800,0x124a00),(0x128970,0x129e00),(0x12a2a0,0x12a2c0),(0x12ad60,0x12dd00)],
  'MATCH.OVL':[(0xc9c00,0xcd400)],
  'PENNANT.OVL':[(0x53cd0,0x59400),(0x59f90,0x59f98)],
  'PNSOLO.OVL':[(0x699a0,0x73f40)],
@@ -37,6 +37,9 @@ MAP={
  '%d日':'%d일','%d割':'%d할','%d度':'%d도','走 力':'주 력','投 手':'투 수','球 種':'구 종','終　了':'종　료',
  '投 球 練 習':'투 구 연 습','打 撃 練 習':'타 격 연 습','盗  技':'기술 습득','投 球 練 習＋':'투 구 연 습+','盗  技＋':'기술 습득+','超 神 盗 技':'초신기술습득','夢 盗 技':'꿈의기술','闘 魂 注 入':'투 혼 주 입','剛 球 伝 授':'강 속 전 수','豪 打 伝 授':'강 타 전 수',
  '左１０１ｍ、右１００ｍ':'좌101m,우100m',
+ # Trade screen header: glued to a pointer table (no leading NUL), so the
+ # header extractor never saw it (GitHub issue #1).
+ '選手トレード<RIGHT><OK>決定':'선수 트레이드<RIGHT><OK>결정',
 }
 
 def translations():

@@ -1,10 +1,10 @@
 {
-  "version": "v1.6",
-  "date": "2026-11-22",
+  "version": "v1.7",
+  "date": "2026-11-24",
   "game": "Pro Yakyuu Spirits 6 (Japan)",
   "platform": "PS2",
   "serial": "SLPM-55158",
-  "asset": "ProYakyuuSpirits6_PS2_KO_v1.6.xdelta",
+  "asset": "ProYakyuuSpirits6_PS2_KO_v1.7.xdelta",
   "xdelta_options": "xdelta3 3.1.0 -e -9 -S none -A",
   "source": {
     "bytes": 4424990720,
@@ -14,22 +14,22 @@
   },
   "output": {
     "bytes": 4424990720,
-    "md5": "088459861f49489a5a7abd636d5d02fa",
-    "sha1": "fa9c64ff826b0462aa669798ea2aa55fdeca99d9",
-    "sha256": "4b1eeb57fd7bd51bb9e3b3e3666abed9f66df6610c32d3bba284018c9646284c"
+    "md5": "ddc0f99ea872ad8999390806486cb0b1",
+    "sha1": "e18044c71cc53c5b022e087e5a62bf5f8320564e",
+    "sha256": "366a4d1cb526bd8a1435a5fe32d48b275e3b2f8a40660a52f18b906651b4cb14"
   },
   "patch": {
-    "bytes": 2878650,
-    "md5": "c1bfcb31c0b9cf6caf7b3cc1628cae86",
-    "sha1": "46826685b37b496fee2552169800c68969cc7ba9",
-    "sha256": "e3d770164a4e8662ba8c663cf35726f3508566d5db4688b412f656be6670f4ae"
+    "bytes": 3569408,
+    "md5": "32cf9290711426d82603f533591678f9",
+    "sha1": "82575a7140cb1d0860f8c54ecc196f1c1da11845",
+    "sha256": "cf5d67802a24cd4c6b14628690fdd4a43d9f518bb28557203c4876df1a928dfb"
   },
   "roundtrip_verified": true,
   "runtime_verified": true,
-  "runtime_scope": "v1.6: fresh boot into a field-play game in PCSX2; score bug team letter, 초 label and time menu VS letters checked on screen. All 16 team letter textures checked from the patch output. ELF identical to v1.2.",
+  "runtime_scope": "v1.7: fresh boot in PCSX2, Utility > Team arrange menu and Trade screen checked on screen (trade header/결정, fielder count labels). ELF identical to v1.2.",
   "widescreen_pnach": {
     "name": "SLPM-55158_EE6AB56C.pnach",
     "elf_crc": "EE6AB56C",
-    "sha256": "4d5b44081e3a3f2e5b2eea2bfa57d44b032ff2a9f3e37980d88574f27cda3434"
+    "sha256": "532995522bf58976b998139dcc246fda29683b26e5df48fb7945cd0e5235d8a7"
   }
 }
